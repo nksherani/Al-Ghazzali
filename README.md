@@ -181,6 +181,20 @@ uv run python compare_surah_names.py
 
 ---
 
+### 6. Quran Reference & Arabic Text Verification (`fix_quran_references_and_text.py`)
+
+Cross-references every Quranic verse citation in the Markdown file with `Al-Quran/Al-Quran.json`:
+- Verifies all 546 references and repairs any non-uniform Surah names.
+- Replaces OCR-damaged/corrupted Arabic text with authentic, fully-vocalized Uthmani Arabic script directly from `Al-Quran.json`.
+- Accurately aligns excerpt quotes when the author cites only a sub-clause of a long Ayah.
+
+```bash
+# Verify references and replace Arabic verses with authentic Quran JSON text:
+uv run python fix_quran_references_and_text.py
+```
+
+---
+
 ## Helpful Commands
 
 - **Check CLI options for Azure DI script:**

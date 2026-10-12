@@ -441,9 +441,7 @@ Its proofs from the Holy Qur'an go as follows:
 endued with knowledge, standing firm on justice. There is no god but He the
 Exalted in Power, the Wise." (Aal-e-Imran 18)
 
-شَهِدَ آللَّهُ أَنَّهُ، لَآ إِلَهَ إِلَّ هُوَ وَالْمَلْتِكَةُ وَأُوْلُواْ الْعِلْمِ قَائِمًا بِالْقِسْطِ لَآ إِلَهَ إِلَّا
-
-هُوَ الْعَزِيزُ اَلْحَكِيمُ
+شَهِدَ ٱللَّهُ أَنَّهُۥ لَاۤ إِلَـٰهَ إِلَّا هُوَ وَٱلۡمَلَـٰۤىِٕكَةُ وَأُو۟لُوا۟ ٱلۡعِلۡمِ قَاۤىِٕمَۢا بِٱلۡقِسۡطِۚ لَاۤ إِلَـٰهَ إِلَّا هُوَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ
 
 Consider how he Almighty begins with Himself, and makes the angels rank
 second to Him (as far as such witness is concerned), and the men of knowledge
@@ -454,7 +452,7 @@ Allah Almighty says also: "Allah will raise up, to (suitable) ranks (and
 degrees), those of you who believe and who have been granted Knowledge."
 (Al-Mujadilah 11)
 
- يَرْفَعِ اللّهُ الَّذِينَ ءَامَنُواْ مِنكُمْ وَلَّذِينَ أُوتُواْ الْعِلْمَ دَرَجَاتٍ وَالَهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+یَرۡفَعِ ٱللَّهُ ٱلَّذِینَ ءَامَنُوا۟ مِنكُمۡ وَٱلَّذِینَ أُوتُوا۟ ٱلۡعِلۡمَ دَرَجَـٰتࣲۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِیرࣱ
 
 In this respect, it is narrated on the authority of Ibn Abbas that he said: "The
 men of knowledge have as much as seven hundred degrees higher than the
@@ -464,17 +462,17 @@ covered in) five-hundred-year journey."
 Allah Almighty further says: "Say: 'Should those be equal, those who have
 knowledge and those who have not?"" (Az-Zumar 9)
 
-قُلْ هَلْ يَسْتَوِى الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ
+قُلۡ هَلۡ یَسۡتَوِی ٱلَّذِینَ یَعۡلَمُونَ وَٱلَّذِینَ لَا یَعۡلَمُونَۗ
 
 He says: "It is those who endued with knowledge from amongst Allah's
 servants that fear Allah most." (Fatir 28)
 
-إِنَّمَا تَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَنُواْ
+إِنَّمَا یَخۡشَى ٱللَّهَ مِنۡ عِبَادِهِ ٱلۡعُلَمَـٰۤؤُا۟ۗ
 
 He says: "Allah suffices for witness between me and you, the One Who is
 well-acquainted with the knowledge of the Book." (Ar-Ra'd 43)
 
-كَفَى بِاللَّهِ شَهِيدًا بَيْنِى وَبَيْنَكُمْ وَمَنْ عِندَهُ عِلْمُ الْكِتَبِ
+كَفَىٰ بِٱللَّهِ شَهِیدَۢا بَیۡنِی وَبَیۡنَكُمۡ وَمَنۡ عِندَهُۥ عِلۡمُ ٱلۡكِتَـٰبِ
 
 He Almighty says also: "Said he, who was well-acquainted with the knowledge
 of the Book: 'I'm ready to bring it (the throne of Sheba) to you""; (An-Naml 40)
@@ -485,7 +483,7 @@ of the Book: 'I'm ready to bring it (the throne of Sheba) to you""; (An-Naml 40)
 <!-- PageNumber="10" -->
 
 
-قَالَ الَّذِى عِندَهُ عِلْمٌ مِّنَ الْكِتَبِ أَنَاْءَاتِيكَ بِهِ، قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ .
+قَالَ ٱلَّذِی عِندَهُۥ عِلۡمࣱ مِّنَ ٱلۡكِتَـٰبِ أَنَا۠ ءَاتِیكَ بِهِۦ قَبۡلَ أَن یَرۡتَدَّ إِلَیۡكَ طَرۡفُكَۚ
 
 And this draws the attention to the fact that he was able (to bring the throne
 immediately) by virtue of the power of knowledge.
@@ -494,7 +492,7 @@ Allah Almighty says: "Those who were endued with knowledge said: 'Woe to
 you! The reward of Allah (in the hereafter) is much better for him who has faith,
 and amends his work"" (Al-Qasas 80)
 
-وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَيْلَكُمْ ثَوَابُ اللَّهِ خَيْرٌ لِمَنْ ءَامَنَ وَعَمِلٌ صَلِحًاً
+وَقَالَ ٱلَّذِینَ أُوتُوا۟ ٱلۡعِلۡمَ وَیۡلَكُمۡ ثَوَابُ ٱللَّهِ خَیۡرࣱ لِّمَنۡ ءَامَنَ وَعَمِلَ صَـٰلِحࣰاۚ وَلَا یُلَقَّىٰهَاۤ إِلَّا ٱلصَّـٰبِرُونَ
 
 Showing that the superiority of the hereafter to this world in rank and
 position could not be known but through knowledge.
@@ -502,13 +500,13 @@ position could not be known but through knowledge.
 He Almighty says: "Those parables We set forth for the people (to learn
 therefrom), and none understand them but those endued with knowledge." (Al-Ankabut 43)
 
-وَتِلَّكَ آلْأَمْثَلُ فَضْرِبُهَا لِلنَّاسِ وَمَا يَعْقِلُهَا إِلَّ الْعَلِمُونَ
+وَتِلۡكَ ٱلۡأَمۡثَـٰلُ نَضۡرِبُهَا لِلنَّاسِۖ وَمَا یَعۡقِلُهَاۤ إِلَّا ٱلۡعَـٰلِمُونَ
 
 He also says: "Had they referred the matter to the Messenger and to those
 endued with authority from amongst them, surely, those of good understanding
 among them would have known it." (An-Nisa 83)
 
-وَلَوْ رَدُّوهُ إِلَى الرَّسُولِ وَإِلَىّ أُوْلِى الْأَمْرِ مِنْهُمْ لَعَلِمَهُ الَّذِينَ يَسْتَنْبِطُونَهُ، مِنْهُمْ
+وَلَوۡ رَدُّوهُ إِلَى ٱلرَّسُولِ وَإِلَىٰۤ أُو۟لِی ٱلۡأَمۡرِ مِنۡهُمۡ لَعَلِمَهُ ٱلَّذِینَ یَسۡتَنۢبِطُونَهُۥ مِنۡهُمۡۗ
 
 In this Holy statement, he refers His Decision of the events to their faculty of
 understanding, and joins their rank to that of the Prophets to anticipate Allah's
@@ -518,7 +516,7 @@ It is said, in comment on Allah's saying: "O Children of Adam! We have
 bestowed raiment upon you to cover your shame, and splendid vesture. But the
 raiment of righteousness, that is the best" (Al-A'raf 26)
 
-يَنِى ءَادَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَرِى سَوْءَاتِكُمْ وَرِبِشًا وَلِبَاسُ النَّقْوَى ذَلِكَ خَيْرُ:
+ءَادَمَ قَدۡ أَنزَلۡنَا عَلَیۡكُمۡ لِبَاسࣰا یُوَٰرِی سَوۡءَٰتِكُمۡ وَرِیشࣰاۖ وَلِبَاسُ ٱلتَّقۡوَىٰ ذَٰلِكَ خَیۡرࣱۚ
 
 "The raiment refers to knowledge, the splendid vesture refers to the certainty
 (of faith), and the raiment of righteousness denotes to shyness (i.e. refraining
@@ -527,17 +525,17 @@ from committing religious indiscretions).
 Allah Almighty says: "We've brought about a Book to them, Whose (Verses)
 We've explained in detail with knowledge."(Al-A'raf 52)
 
-وَلَقَدْ جِئْنَهُم بِكِتَبٍ فَصَّلْنَهُ عَلَى عِلْمٍ
+وَلَقَدۡ جِئۡنَـٰهُم بِكِتَـٰبࣲ فَصَّلۡنَـٰهُ عَلَىٰ عِلۡمٍ
 
 He also says: "We should then relate to them (the narrations) with
 knowledge."(Al-A'raf 7)
 
-فَلَنَقُصَّنَّ عَلَيْهِم بِعِلْمٍ
+فَلَنَقُصَّنَّ عَلَیۡهِم بِعِلۡمࣲۖ
 
 He says: "But even, it (the Qur'an) is of evidently clear signs in the breasts of
 those endued with knowledge." (Al-Ankabut 49)
 
-بَلْ هُوَ ءَايَتْ بَيْنَنتُ فِي صُدُورِ الَّذِينَ أُوتُواْ الْعِلْمَ وَمَا تَجْحَدُ بِئَايَنِنَآ إِلَّ الظَّالِمُونَ
+بَلۡ هُوَ ءَایَـٰتُۢ بَیِّنَـٰتࣱ فِی صُدُورِ ٱلَّذِینَ أُوتُوا۟ ٱلۡعِلۡمَۚ وَمَا یَجۡحَدُ بِـَٔایَـٰتِنَاۤ إِلَّا ٱلظَّـٰلِمُونَ
 
 He says: "He has created man, and taught him speech (and Intelligence)." (Ar-Rahman 3:4)
 
@@ -547,7 +545,7 @@ He says: "He has created man, and taught him speech (and Intelligence)." (Ar-Rah
 
 
 
- خَلَقَ الْإِنْسَنَ عَلَّمَهُ الْبَيَانَ
+خَلَقَ ٱلۡإِنسَـٰنَ عَلَّمَهُ ٱلۡبَیَانَ
 
 He Almighty makes a mention of that on the occasion of reminding him of
 such of blessings as He has bestowed upon him.
@@ -862,7 +860,7 @@ authority of Abu Hurairah and Ahmad Ibn Hanbal.
 In comment on Allah's statement: "Our Lord! Give us good in this world
 and good in the Hereafter, and defend us from the torment of the Fire" (Al-Baqarah 201)
 
-رَبَّنَآ ءَاتِّنَا فِي الدُّنْيَا حَسَنَةً وَفِ آلْأَخِرَةِ حَسَنَةٌ وَقِنَا عَذَابَ النَّارِ
+وَمِنۡهُم مَّن یَقُولُ رَبَّنَاۤ ءَاتِنَا فِی ٱلدُّنۡیَا حَسَنَةࣰ وَفِی ٱلۡـَٔاخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
 
 "The good in this world stands for religious knowledge and service, and the
 good in the hereafter stands for the Garden."
@@ -929,9 +927,7 @@ contingent from every expedition remained behind, they could devote
 themselves to studies in religion, and admonish the people when they return
 to them, that thus they (may learn) to guard themselves (against evil)." (At-Tawbah 122)
 
-فَلَوْلَا نَفَرَ مِن كُلِّ فِرْقَةٍ مِّنْهُمْ طَابِفَةٌ لِيَتَفَقَّهُوْ فِي الدِّينِ وَلِيُنذِرُواْ قَوْمَهُمْ إِذَا رَجَعُواْ
-
-إِلَيْهِمْ لَعَلَّهُمْ تَحْذَرُونَ
+فَلَوۡلَا نَفَرَ مِن كُلِّ فِرۡقَةࣲ مِّنۡهُمۡ طَاۤىِٕفَةࣱ لِّیَتَفَقَّهُوا۟ فِی ٱلدِّینِ وَلِیُنذِرُوا۟ قَوۡمَهُمۡ إِذَا رَجَعُوۤا۟ إِلَیۡهِمۡ لَعَلَّهُمۡ یَحۡذَرُونَ
 
 "If you know this not, ask of those who possess the Message." (An-Nahl 43
 and Al-Anbiya 7)
@@ -1046,18 +1042,18 @@ A mention might be made of the following supporting proofs from the Holy
 Qur'an: " and admonish the people when they return to them, that thus they (may
 learn) to guard themselves (against evil)." (At-Tawbah 122)
 
-وَلِيُنْذِرُواْ قَوْمَهُمْ إِذَا رَجَعُوْاْ إِلَيْهِمْ لَعَلَّهُمْ تَحْذَّرُونَ
+وَلِیُنذِرُوا۟ قَوۡمَهُمۡ إِذَا رَجَعُوۤا۟ إِلَیۡهِمۡ لَعَلَّهُمۡ یَحۡذَرُونَ
 
 What is intended here is teaching and instructing. Allah Almighty further says:
 "And remember Allah took a Covenant from the People of the Book, to make it
 known and clear to mankind, and not to hide it." (Aal-e-Imran 187)
 
-وَإِذْ أَخَذَ اَللَّهُ مِيثَقَ الَّذِينَ أُوتُواْ الْكِتَبَ لَتُبَيِّنُنَّهُ لِلنَّاسِ وَلَا تَكْتُمُونَهٌُ
+وَإِذۡ أَخَذَ ٱللَّهُ مِیثَـٰقَ ٱلَّذِینَ أُوتُوا۟ ٱلۡكِتَـٰبَ لَتُبَیِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكۡتُمُونَهُۥ
 
 This means that teaching is obligatory. Allah Almighty also says: "but some of
 them conceal the truth which they themselves know." (Al-Baqarah 146)
 
-وَإِنَّ فَرِيقًا مِنْهُمْ لَيَكْتُمُونَ الْحَقَّ وَهُمْ يَعْلَمُونَ
+وَإِنَّ فَرِیقࣰا مِّنۡهُمۡ لَیَكۡتُمُونَ ٱلۡحَقَّ وَهُمۡ یَعۡلَمُونَ
 
 This affirms the prohibition of concealing the knowledge. This is also
 supported by Allah's saying in the same Surah: "Conceal not evidence; for
@@ -1082,12 +1078,12 @@ Allah Almighty also says in this respect: " Who is better in speech than one
 who calls (men) to Allah, works righteousness, and says, "I am of those who bow
 in Islam?" (Fussilat 33)
 
-وَمَّنْ أَحْسَنُ قَوْلاً مِمَّن دَعَا إِلَى اللَّهِ وَعَمِلَ صَبِحًا وَقَالَ إِنِّى مِنَ الْمُسْلِمِينَ لَ
+وَمَنۡ أَحۡسَنُ قَوۡلࣰا مِّمَّن دَعَاۤ إِلَى ٱللَّهِ وَعَمِلَ صَـٰلِحࣰا وَقَالَ إِنَّنِی مِنَ ٱلۡمُسۡلِمِینَ
 
 He says: "Invite (all) to the Way of your Lord with wisdom and beautiful
 preaching; and argue with them in ways that are best and most gracious." (An-Nahl 125)
 
-اَدْعُ إِلَى سَبِيلٍ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ وَجَدٍلْهُم بِأَلَّتِى هِىَ أَحْسَنُ شِّ
+ٱدۡعُ إِلَىٰ سَبِیلِ رَبِّكَ بِٱلۡحِكۡمَةِ وَٱلۡمَوۡعِظَةِ ٱلۡحَسَنَةِۖ وَجَـٰدِلۡهُم بِٱلَّتِی هِیَ أَحۡسَنُۚ
 
 He also says, “and to teach them the Book and Wisdom” (Al-Baqarah 2:129, 2:151; Aal-e-Imran 3:164; Al-Jumu‘ah 62:2).
 
@@ -2202,12 +2198,12 @@ of Hell and lead to the Garden), the balance (of deeds), and reckoning.
 said to him): "Read your (own) record; sufficient is your soul this day to make out
 an account against you."" (Al-Isra' 14)
 
-اقْرَأْ كِتَبَكَ كَفَى بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًا
+ٱقۡرَأۡ كِتَـٰبَكَ كَفَىٰ بِنَفۡسِكَ ٱلۡیَوۡمَ عَلَیۡكَ حَسِیبࣰا
 
 And the significance of Allah's Saying: "But verily the Home in the Hereafter,
 that is life indeed, if they but knew." (Al-Ankabut 64)
 
-وَإِنَّ الدَّارَ الْآَخِرَةَ لَهِىَ الْخَيْوَانْ لَوْ كَانُواْ يَعْلَمُونَ،
+وَإِنَّ ٱلدَّارَ ٱلۡـَٔاخِرَةَ لَهِیَ ٱلۡحَیَوَانُۚ لَوۡ كَانُوا۟ یَعۡلَمُونَ
 
 (He also will know) the significance of the meeting with Allah Almighty,
 looking at His Honoured Generous Countenance, coming close to His Presence,
@@ -2518,7 +2514,7 @@ guidance, as shown from His statement: " And those who strive in Our (Cause),
 We will certainly guide them to Our Paths: for verily Allah is with those who do
 right." (Al-Ankabut 69)
 
-وَالَّذِينَ جَهَدُواْ فِينَا لَهْدِيَّهُمْ سُبُلَنَأْ وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ
+وَٱلَّذِینَ جَـٰهَدُوا۟ فِینَا لَنَهۡدِیَنَّهُمۡ سُبُلَنَاۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلۡمُحۡسِنِینَ
 
 If you say: "You've reduced the designation of a theologists to merely a
 guard over the faith of the public audience from being vulnerable to
@@ -2801,7 +2797,7 @@ recitation -and he was of a sweet pleasant voice- with the following: " That wil
 be a Day when they shall not be able to speak, Nor will it be open to them to put
 forth pleas." (Al-Mursalat 35:36)
 
-هَذَا يَوْمُ لَا يَنطِقُونَ وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ
+هَـٰذَا یَوۡمُ لَا یَنطِقُونَ وَلَا یُؤۡذَنُ لَهُمۡ فَیَعۡتَذِرُونَ
 
 I saw the colour of (the face of) Shafi'i "might Allah bestow mercy upon him"
 having changed, and his skin trembled and he was troubled so much that he fell
@@ -2841,10 +2837,7 @@ abstinence and fear be achieved but through the knowledge of Allah Almighty,
 for indeed, "it is the men endued with knowledge, from amongst Allah's Slave
 that fear Allah most." (Fatir 28)
 
-وَمِنَ النَّاسِ وَالدَّوَآنِ وَآلْأَنْعَمِ مُخْتَلِفُ أَلْوَانُهُ، كَذَالِكَ إِنَّمَا تَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَتُأُ إِنَّ
-
-
-اللَّهَ عَزِيزٌ غَفُورُ
+وَمِنَ ٱلنَّاسِ وَٱلدَّوَاۤبِّ وَٱلۡأَنۡعَـٰمِ مُخۡتَلِفٌ أَلۡوَٰنُهُۥ كَذَٰلِكَۗ إِنَّمَا یَخۡشَى ٱللَّهَ مِنۡ عِبَادِهِ ٱلۡعُلَمَـٰۤؤُا۟ۗ إِنَّ ٱللَّهَ عَزِیزٌ غَفُورٌ
 
 By no means did Shafi'i "might Allah bestow mercy upon him" reach such a
 position of abstinence and fear (of Allah Almighty) through the science of
@@ -2911,17 +2904,14 @@ according to the following statements of Allah Almighty: " Thus did we give
 established power to Joseph in the land, to take possession therein as, when, or
 where he pleased." (Yusuf 56)
 
-وَكَذَّالِكَ مَكَّنَا لِيُوسُفَ فِى الْأَرْضِ يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَآءُ نُصِيبُ بِرَحْمَتِّنَا مَن نَّشَآءُ
-
-وَلَا تُضِيعُ أَجْرَ الْمُخْسِنِينَ
+وَكَذَٰلِكَ مَكَّنَّا لِیُوسُفَ فِی ٱلۡأَرۡضِ یَتَبَوَّأُ مِنۡهَا حَیۡثُ یَشَاۤءُۚ نُصِیبُ بِرَحۡمَتِنَا مَن نَّشَاۤءُۖ وَلَا نُضِیعُ أَجۡرَ ٱلۡمُحۡسِنِینَ
 
 Job "Peace be upon him" also was well-established in power after he had
 been put to trial as Allah Almighty says: "We removed the distress that was on
 him, and We restored his people to him, and doubled their number, as a Grace
 from Ourselves, and a thing for commemoration." (Al-Anbiya 84)
 
-فَاسْتَجَبْنَا لَهُ، فَكَشَفْنَا مَا بِهِ، مِن ضُرِّ وَءَاتَيْنَهُ أَهْلَهُ، وَمِثْلَهُم مَّعَهُمْ رَحْمَةُ مِّنْ
-عِندِنَا وَذِكْرَى لِلْعَبِدِينَ
+فَٱسۡتَجَبۡنَا لَهُۥ فَكَشَفۡنَا مَا بِهِۦ مِن ضُرࣲّۖ وَءَاتَیۡنَـٰهُ أَهۡلَهُۥ وَمِثۡلَهُم مَّعَهُمۡ رَحۡمَةࣰ مِّنۡ عِندِنَا وَذِكۡرَىٰ لِلۡعَـٰبِدِینَ
 
 This statements from Ash-Shafi'i signify his versatility in the mysteries of the
 Holy Qur'an, and acquaintance with the different standings of those who
@@ -3288,13 +3278,13 @@ One is computational to which the Holy Qur'an refers in telling that the
 course of both the sun and the moon is computed: "The sun and the moon
 follow courses (exactly) computed." (Ar-Rahman 5)
 
-الشَّمْسُ وَالْقَمَرُ يُحُسْبَانٍ
+ٱلشَّمۡسُ وَٱلۡقَمَرُ بِحُسۡبَانࣲ
 
 He further says: " And the Moon, We have measured for it mansions (to
 traverse) till it returns like the old (and withered) lower part of a date-stalk." (Ya Sin 39)
 
 
- وَالْقَمْرَ قَدَّرْنَهُ مَنَازِلَ حَتَّى عَادَ كَالْعُرْجُونِ اٌلْقَدِيمِ نَّا
+وَٱلۡقَمَرَ قَدَّرۡنَـٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلۡعُرۡجُونِ ٱلۡقَدِیمِ
 
 The other is astrology the essence of which is to attest the future events from
 the present causes. This is similar to the way a physician is guided by the patient's
@@ -3555,7 +3545,7 @@ attested from the following statement of Allah Almighty: "if a contingent from
 every expedition remained behind, they could devote themselves to studies in
 religion, and admonish the people when they return to them." (At-Tawbah 122)
 
-كُلِّ فِرْقَةٍ مِنْهُمْ طَآَبِفَةٌ لِّيَتَفَقَّهُواْ فِى الدِّينِ وَلِيُنذِرُواْ قَوْمَهُمْ إِذَا رَجْعُواْ إِلَيْهِمْ
+كُلِّ فِرۡقَةࣲ مِّنۡهُمۡ طَاۤىِٕفَةࣱ لِّیَتَفَقَّهُوا۟ فِی ٱلدِّینِ وَلِیُنذِرُوا۟ قَوۡمَهُمۡ إِذَا رَجَعُوۤا۟ إِلَیۡهِمۡ
 
 To be sure, it is this kind of religious study which brings about fear and alarm
 in the soul, apart from such detailed branches as the science of emancipation,
@@ -3567,7 +3557,7 @@ themselves only to this practice.
 Allah Almighty further says: "they have hearts wherewith they understand
 not, eyes wherewith they see not, and ears wherewith they hear not." (Al-A'raf 179)
 
-لَهُمْ قُلُوبٌ لَّا يَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌّ لَا يُبْصِرُونَ بِهَا وَلَهُمْ ءَ اذَانٌ لَّ يَسْمَعُونَ بِآَ
+لَهُمۡ قُلُوبࣱ لَّا یَفۡقَهُونَ بِهَا وَلَهُمۡ أَعۡیُنࣱ لَّا یُبۡصِرُونَ بِهَا وَلَهُمۡ ءَاذَانࣱ لَّا یَسۡمَعُونَ بِهَاۤۚ
 
 He refers here to the significance of faith, and not the practice of giving
 religious verdicts. By my life, the term Fiqh, from the linguistic point of view,
@@ -3576,7 +3566,7 @@ modern connotations. Consider Allah's statement: " Of a truth you are stronger
 (than they) because of the terror in their hearts, (sent) by Allah. This is because
 they are men devoid of understanding." (Al-Hashr 13)
 
-لَأَنْتُمْ أَشَدُّ رَهْبَةً فِى صُدُورِهِم مِّنَ اللَّهِ ذَلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ
+لَأَنتُمۡ أَشَدُّ رَهۡبَةࣰ فِی صُدُورِهِم مِّنَ ٱللَّهِۚ ذَٰلِكَ بِأَنَّهُمۡ قَوۡمࣱ لَّا یَفۡقَهُونَ
 
 He thus attributed their little fear of Allah and their great terror of the power
 of man to their weak understanding. Judge, by yourself, whether this was the
@@ -3750,7 +3740,7 @@ as takes as his Allah his own vain desire?" (Al-Jathiyah 23)
 <!-- PageNumber="67" -->
 
 
-أَفَرَءَيْتَ مَنِ اتَّخَذَ إِلَهَهُ، هَوَنُهُ
+أَفَرَءَیۡتَ مَنِ ٱتَّخَذَ إِلَـٰهَهُۥ هَوَىٰهُ
 
 (It is narrated by At-Tabarani on the authority of Abu Umamah that) the
 Messenger of Allah "Peace be upon him" said: "The most hateful Allah to be
@@ -3777,7 +3767,7 @@ I have set my face, firmly and truly, towards Him Who created the heavens and
 the earth, and never shall I give partners to Allah." (Al-An'am 79)
 
 
- إِى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ السَّمَنوَاتِ وَالْأَرْضَ حَنِيفًا وَمَآ أَنَأْ مِنَ الْمُشْرِكِينَ
+إِنِّی وَجَّهۡتُ وَجۡهِیَ لِلَّذِی فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضَ حَنِیفࣰاۖ وَمَاۤ أَنَا۠ مِنَ ٱلۡمُشۡرِكِینَ
 
 This is the first lie therewith he commits against his Lord everyday, unless he
 should turn to Allah Almighty with the depth of his heart. But if he means only
@@ -3799,7 +3789,7 @@ complies with the statement of Allah when He says: "Say: "Allah (sent it
 down)": then leave them to plunge in vain discourse and trifling." (Al-An'am 91)
 
 
- ثُمَّ ذَرْهُمْ فِ خَوْضِهِمْ يَلْعَبُونَ 11
+ثُمَّ ذَرۡهُمۡ فِی خَوۡضِهِمۡ یَلۡعَبُونَ
 
 What is intended here is not verbal profession, since the tongue is like an
 interpreter who tells the truth at one time and lies at another. What Allah
@@ -3819,7 +3809,7 @@ admonition (by teaching your Message): for admonition benefits the
 Believers." (Adh-Dhariyat 55)
 
 
- وَذَكِّرْ فَإِنَّ الذِّكْرَى تَنفَعُ الْمُؤْمِنِينَ
+وَذَكِّرۡ فَإِنَّ ٱلذِّكۡرَىٰ تَنفَعُ ٱلۡمُؤۡمِنِینَ
 
 There are a lot of traditions in which the assemblies of celebration are praised.
 (It is narrated by Tirmidhi on the authority of Anas that) the Messenger of Allah
@@ -3959,14 +3949,14 @@ upon Allah's saying: " And the Poets, it is those straying in Evil, who follow
 them; See you not that they wander distractedly in every valley? And that they say
 what they practise not? "(Ash-Shu'ara' 224:226)
 
-وَالشُّعَرَآءُ يَتَّبِعُهُمُ الْغَاوُونَ أَلَمْ تَرَ أَنَّهُمْ فِى كُلِّ وَادٍ يَهِيمُونَ
+وَٱلشُّعَرَاۤءُ یَتَّبِعُهُمُ ٱلۡغَاوُۥنَ أَلَمۡ تَرَ أَنَّهُمۡ فِی كُلِّ وَادࣲ یَهِیمُونَ
 h
 
 He Almighty further says: " We have not instructed the (Prophet) in Poetry,
 nor is it meet for him: this is no less than a Message and a Qur'an making things
 clear" (Ya Sin 69)
 
-وَمَا عَلَّمْنَهُ الشِّعْرَ وَمَا يَنْبَغِى لَهُنَّ إِنْ هُوَ إِلَّ ذِكْرٌ وَقُرْءَانٌ مُبِينٌّ َِ
+وَمَا عَلَّمۡنَـٰهُ ٱلشِّعۡرَ وَمَا یَنۢبَغِی لَهُۥۤۚ إِنۡ هُوَ إِلَّا ذِكۡرࣱ وَقُرۡءَانࣱ مُّبِینࣱ
 
 The kind of poetry that is most customary to preachers is that which belongs
 to the description of affection, the pretty of the object of adoration (more often
@@ -4108,7 +4098,7 @@ interpretation adopted by those of heresies could be found in that given by one
 of them in comment on Allah's statement: "Go you to Pharaoh, for he has indeed
 transgressed all bounds." (Taa-Haa 24)
 
-أَذْهَبْ إِلَى فِرْعَوْنَ إِنَّهُ, طَفَىْ
+ٱذۡهَبۡ إِلَىٰ فِرۡعَوۡنَ إِنَّهُۥ طَغَىٰ
 
 He said: "This refers to his heart, i.e. the heart which transgresses all bounds
 over the man."
@@ -4116,7 +4106,7 @@ over the man."
 The same is given to Allah's statement to Moses: "And put down your rod!"
 (Al-Qasas 31)
 
-وَأَنْ أَلْقِ عَصَاكٌ
+وَأَنۡ أَلۡقِ عَصَاكَۚ
 
 I.e. that it refers to all things upon which one could depend or rely, other than
 Allah Almighty, and which he should put down. A mention might also be made
@@ -4212,8 +4202,7 @@ whom He pleases; and he to whom wisdom is granted receives indeed a
 benefit overflowing; but none will grasp the Message but men of
 understanding." (Al-Baqarah 269)
 
-يُؤْتِى الْحِكْمَةَ مَن يَشَاءُ وَمَن يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِىَ خَبْرًا كَثِيرًا
-"وَمَا يَذَّكَّرُ إِلَّا أُوْلُواْ الْأَلْبَبٍ
+یُؤۡتِی ٱلۡحِكۡمَةَ مَن یَشَاۤءُۚ وَمَن یُؤۡتَ ٱلۡحِكۡمَةَ فَقَدۡ أُوتِیَ خَیۡرࣰا كَثِیرࣰاۗ وَمَا یَذَّكَّرُ إِلَّاۤ أُو۟لُوا۟ ٱلۡأَلۡبَـٰبِ
 
 It is narrated that the Messenger of Allah "Allah's Peace be upon him"
 said: "A word of wisdom man learns is much better than all of this world
@@ -4525,13 +4514,13 @@ after their guidance but that they were perched in disputation." Then he recited
 This they set forth to you, only by way of disputation: yea, they are a contentious
 people." (Az-Zukhruf 58)
 
-وَلَمَّا ضُرِبَ ابْنُ مَرْيَمَ مَثَلاً إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ
+وَقَالُوۤا۟ ءَأَٰلِهَتُنَا خَیۡرٌ أَمۡ هُوَۚ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلَۢاۚ بَلۡ هُمۡ قَوۡمٌ خَصِمُونَ
 
 According to another narration, in comment on Allah's statement: "But those in
 whose hearts is perversity follow the part thereof that is allegorical" (Aal-e-Imran 7)
 
 
- فَأَمَّا الَّذِينَ فِى قُلُوبِهِمْ زَيْعٌ
+فَأَمَّا ٱلَّذِینَ فِی قُلُوبِهِمۡ
 
 "Those are the men of disputation, whom Allah Almighty means by His
 statement: "So, beware of them!" it is said by one from amongst the good
@@ -5003,8 +4992,7 @@ Self-justification belongs to the blameworthy traits. Allah Almighty says: "
 Therefore justify not yourselves: He knows best who it is that guards against
 evil." (An-Najm 32)
 
-٣٢
-هُوَ أَعْلَمُ بِمَنِ آَنَّفَ
+هُوَ أَعۡلَمُ بِمَنِ ٱتَّقَىٰۤ
 
 It was said to a wise man: "Which kind of telling the truth is hateful?" he said:
 "One's praising himself (even though it is justified)." A debater, in most cases,
@@ -5022,7 +5010,7 @@ people. In this respect, Allah Almighty says: "And spy not on each other!"
 (Al-Hujurat 12)
 
 
- وَلَا تَجَسُوْ ِقْ
+وَلَا تَجَسَّسُوا۟
 
 A debater could hardly be free from seeking after and prying into the faults
 and shortcomings of his fellows and opponents, to the extent that whenever he is
@@ -5112,15 +5100,13 @@ shown form His statement: "And who does more wrong than he who invents a
 lie against Allah or rejects the Truth when it reaches him? Is there not a home in
 Hell for those who reject Faith?" (Al-Ankabut 68)
 
-وَمَّنْ أَظْلَمُ مِمَّنِ افْتَى عَلَى اللَّهِ كَذِبًا أَوْكَذَّبَ بِآلْحَقِّ لَمَّا جَآءَهُنَّ أَلَيْسَ فِى جَهَنُمُ
-مَنْوَّى لِلْكَفِرِينَ
+وَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوۡ كَذَّبَ بِٱلۡحَقِّ لَمَّا جَاۤءَهُۥۤۚ أَلَیۡسَ فِی جَهَنَّمَ مَثۡوࣰى لِّلۡكَـٰفِرِینَ
 
 He Almighty further says: "And who does more wrong than he who
 invents a lie against Allah or gives lie to the Truth when it comes to him?"
 (Az-Zumar 32)
 
-فَمَنْ أَظْلَمُ مِمَّن كَذَبَ عَلَى اللَّهِ وَكَذَّبَ بِالصِّدْقِ إِذْ جَاءَهٌُ
-" أَلَيْسَ فِي جَهَنَّمَ مَثْوَى لِلْكَفِرِينَ
+۞ فَمَنۡ أَظۡلَمُ مِمَّن كَذَبَ عَلَى ٱللَّهِ وَكَذَّبَ بِٱلصِّدۡقِ إِذۡ جَاۤءَهُۥۤۚ أَلَیۡسَ فِی جَهَنَّمَ مَثۡوࣰى لِّلۡكَـٰفِرِینَ
 
 Another trait of such kind is showing off and flattering people in an attempt
 to attract and mislead them. Showing off is that potent disease which leads to
@@ -5252,9 +5238,7 @@ characteristics. In this context, the Messenger of Allah "Peace be upon him" sai
 
 
 inwardly. Allah Almighty says: "Verily, the pagans are unclean." (At-Tawbah 28)
-يَتَأَيُّهَا الَّذِينَ ءَامَنُواْ إِنَّمَا الْمُشْرِكُونَ تَجَسٌ فَلَا يَقْرَبُواْ الْمَسْجِدَ الْحَرَامَ بَعْدَ عَامِهِمْ هَذَاً وَإِنْ
-
-خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ اللَّهُ مِن فَضْلِهِ إِن شَآءَ إِنَّ اللَّهَ عَلِيمٌ حَكِيمٌ
+یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِنَّمَا ٱلۡمُشۡرِكُونَ نَجَسࣱ فَلَا یَقۡرَبُوا۟ ٱلۡمَسۡجِدَ ٱلۡحَرَامَ بَعۡدَ عَامِهِمۡ هَـٰذَاۚ وَإِنۡ خِفۡتُمۡ عَیۡلَةࣰ فَسَوۡفَ یُغۡنِیكُمُ ٱللَّهُ مِن فَضۡلِهِۦۤ إِن شَاۤءَۚ إِنَّ ٱللَّهَ عَلِیمٌ حَكِیمࣱ
 
 This is to stir up the hearts and minds to be concerned with purification.
 
@@ -5274,8 +5258,7 @@ angels? " It is not fitting for a man that Allah should speak to him except by
 inspiration, or from behind a veil, or by the sending of a Messenger to reveal,
 with Allah's permission, what Allah wills: for He is Most High, Most Wise." (Ash-Shura 51)
 
-وَمَا كَانَ لِبَشَرِ أَن يُكَلِّمَهُ اللَّهُ إِلَّ وَحْيًا أَوْ مِن وَرَآي حِجَابٍ أَوْ يُرْسِلَ رَسُولاً فَيُوحِىَ بِإِذْنِهِ، مَا يَشَآءُ
-إِنَّهُ, عَلِىّ حَكِيمٌ لَ
+۞ وَمَا كَانَ لِبَشَرٍ أَن یُكَلِّمَهُ ٱللَّهُ إِلَّا وَحۡیًا أَوۡ مِن وَرَاۤىِٕ حِجَابٍ أَوۡ یُرۡسِلَ رَسُولࣰا فَیُوحِیَ بِإِذۡنِهِۦ مَا یَشَاۤءُۚ إِنَّهُۥ عَلِیٌّ حَكِیمࣱ
 
 It is the entrusted angels who undertake inspiring such of sciences of
 knowledge as are sent by Allah into the hearts: they are those holy, purified,
@@ -5336,8 +5319,7 @@ inspired into the heart." Others, having in mind the statement of Allah
 Almighty "It is these endued with knowledge from amongst His servants that
 fear Allah most" (Fatir 28)
 
-وَمِنَ النَّاسِ وَالدَّوَابِ وَآلْأَنْعَمِ مُخْتَلِفُ أَلْوَانُهُ,
-كَذَلِكَ إِنَّمَا تَخْشَى اللَّهَ مِنْ عِبَادِهِ
+وَمِنَ ٱلنَّاسِ وَٱلدَّوَاۤبِّ وَٱلۡأَنۡعَـٰمِ مُخۡتَلِفٌ أَلۡوَٰنُهُۥ كَذَٰلِكَۗ إِنَّمَا یَخۡشَى ٱللَّهَ مِنۡ عِبَادِهِ
 
 Are of the opinion that knowledge is the fear of Allah. He alludes here to the
 fruits of knowledge; and it is for this reason that one of the scholars said that the
@@ -5416,7 +5398,7 @@ harkening. Allah Almighty says: "Verily in this is a Message for any that has a
 heart and understanding or who gives ear and earnestly witnesses (the truth)."
 (Qaf 37)
 
-إِنَّ فِى ذَلِكَ لَذِكْرَى لِمَن كَانَ لَهُ، قَلْبُ أَوْ أَلْقَى السَّمْعَ وَهُوَ شَهِيدٌ لَا
+إِنَّ فِی ذَٰلِكَ لَذِكۡرَىٰ لِمَن كَانَ لَهُۥ قَلۡبٌ أَوۡ أَلۡقَى ٱلسَّمۡعَ وَهُوَ شَهِیدࣱ
 
 This statement refers to the person who has the faculty of understanding
 knowledge but fails to grasp it unless he opens his ears and heart and attentively,
@@ -5437,7 +5419,7 @@ Khadir said, addressing Moses: "Verily you will not be able to have patience wit
 me! And how can you have patience about things about which your
 understanding is not complete?" (Al-Kahf 67:68)
 
-قَالَ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِىَ صَبْرًا وَكَيْفَ تَصْبِرُ عَلَى مَا لَمْ تُحِطْ بِهِ خُبْرًا لَ
+قَالَ إِنَّكَ لَن تَسۡتَطِیعَ مَعِیَ صَبۡرࣰا وَكَیۡفَ تَصۡبِرُ عَلَىٰ مَا لَمۡ تُحِطۡ بِهِۦ خُبۡرࣰا
 
 He then allowed Moses to follow him on condition that the latter would keep
 silent and ask no questions, and said: "If you follow me, ask me not of aught until
@@ -5453,8 +5435,7 @@ of his teacher, is doomed to disappointment and failure.
 But if you argue that Allah Almighty says: "Ask then those endued with
 knowledge if you know not" (An-Nahl 43)
 
-وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِ جَالاً نُوحِىَ إِلَيْهِمْ فَسْئَلُواْ
-أَهْلَ الذِّكْرِ إِن كُنْتُمْ لَا تَعْلَمُونَ
+وَمَاۤ أَرۡسَلۡنَا مِن قَبۡلِكَ إِلَّا رِجَالࣰا نُّوحِیۤ إِلَیۡهِمۡۖ فَسۡـَٔلُوۤا۟ أَهۡلَ ٱلذِّكۡرِ إِن كُنتُمۡ لَا تَعۡلَمُونَ
 
 Which means that we are commanded to raise questions (about what we know
 not), it should be known to you that it is true but only of the things concerning
@@ -5555,7 +5536,7 @@ not.
 In confirmation to that, Allah Almighty says: "and seeing that they guide
 not themselves thereby, they will say, "This is an (old), old falsehood!"" (Al-Ahqaf 11)
 
-فَسَيَقُولُونَ هَذّا إِفْكِّ قَدِيمٌ
+فَسَیَقُولُونَ هَـٰذَاۤ إِفۡكࣱ قَدِیمࣱ
 
 According to a poetic verse: "He, who has ailment in his mouth, finds even
 the fresh and sweet water of bitter taste." The sciences then, according to their
@@ -5634,9 +5615,7 @@ arrangement and gradation. Allah Almighty says: " Those to whom we have sent
 the Book study it as it should be studied: they are the ones that believe therein."
 (Al-Baqarah 121)
 
-الَّذِينَ ءَاتَيْنَهُمُ الْكِتَبَ يَتْلُونَهُ، حَقِّ تِلَاوَتِهِ أُوْلَئِكَ يُؤْمِنُونَ بِهِ، وَمَن يَكْفُرْ بِهِ،
-
-فَأُوْلَئِكَ هُمُ الْخَسِرُونَ
+ٱلَّذِینَ ءَاتَیۡنَـٰهُمُ ٱلۡكِتَـٰبَ یَتۡلُونَهُۥ حَقَّ تِلَاوَتِهِۦۤ أُو۟لَـٰۤىِٕكَ یُؤۡمِنُونَ بِهِۦۗ وَمَن یَكۡفُرۡ بِهِۦ فَأُو۟لَـٰۤىِٕكَ هُمُ ٱلۡخَـٰسِرُونَ
 
 It refers to those who does not go beyond a certain art before they are perfect
 in knowing and acting upon it. Furthermore, let his intention in any science he
@@ -5806,8 +5785,7 @@ expedience, belongs to those of the left (hand) who have gone astray, and
 "For him is Entertainment with Boiling Water, And burning in Hell-Fire."
 (Al-Waqi'ah 88:91)
 
-فَأَمَّآ إِن كَانَ مِنَ الْمُقَرَّبِينَ لِّ فَرَوْحٌ وَرَتْحَانٌ وَجْنِّتُ نَعِيمٍ وَأَمَّ إِن كَانَ مِنْ أَصْخَبِ اٌلْيَمِينِ
-فَسَلَمٌ لَّكَ مِنْ أَصْحَبِ الْيَمِينِ
+فَأَمَّاۤ إِن كَانَ مِنَ ٱلۡمُقَرَّبِینَ فَرَوۡحࣱ وَرَیۡحَانࣱ وَجَنَّتُ نَعِیمࣲ وَأَمَّاۤ إِن كَانَ مِنۡ أَصۡحَـٰبِ ٱلۡیَمِینِ فَسَلَـٰمࣱ لَّكَ مِنۡ أَصۡحَـٰبِ ٱلۡیَمِینِ
 
 It should be known that this, in the sight of the learned men who are well-
 versed in the science of religion, is the "certain truth" a truth which they have
@@ -5858,7 +5836,7 @@ command in accordance with Allah's Statement: "They ask you concerning the
 Spirit (of inspiration). Say: "The Spirit (comes) by command of my Lord: of
 knowledge it is only a little that is communicated to you, (O men!)"" (Al-Isra' 85)
 
-وَيَسْئَلُّونَكَ عَنِ الرُّوحِ قُلِ الرُّوحُ مِنْ أَمْرٍ نَتِى وَمَآ أُوتِيتُم مِنَ الْعِلْمِ إِلَّا قَلِيلاً
+وَیَسۡـَٔلُونَكَ عَنِ ٱلرُّوحِۖ قُلِ ٱلرُّوحُ مِنۡ أَمۡرِ رَبِّی وَمَاۤ أُوتِیتُم مِّنَ ٱلۡعِلۡمِ إِلَّا قَلِیلࣰا
 
 Although all the creatures are ascribed to Allah Almighty, its ascription to Him
 is more honourable to that of all the body's organs, even though all of the
@@ -6012,13 +5990,13 @@ seek to attain position of authority through knowledge are not included in those
 whom Allah meant when He said: "Verily, the faithful believers are brothers (to
 each other)." (Al-Hujurat 10)
 
-إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُواْ بَيْنَ أَخَوَيْكُمْ وَأَنَّقُواْ اللَّهَ لَعَلَّكُمْ تُرْجُمُونَ
+إِنَّمَا ٱلۡمُؤۡمِنُونَ إِخۡوَةࣱ فَأَصۡلِحُوا۟ بَیۡنَ أَخَوَیۡكُمۡۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمۡ تُرۡحَمُونَ
 
 But they are implied in those, whom He Almighty meant when He said:
 "Friends on that Day will be foes, one to another, except the Righteous."
 (Az-Zukhruf 67)
 
-اَلْأَ خَلَّهُ يَوْمَيِذٍ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّ الْمُنَّفِينَ
+ٱلۡأَخِلَّاۤءُ یَوۡمَىِٕذِۭ بَعۡضُهُمۡ لِبَعۡضٍ عَدُوٌّ إِلَّا ٱلۡمُتَّقِینَ
 
 The second duty: the teacher should follow the steps of the legislator "Peace
 be upon him": he should not ask for reward for his teaching, nor should he aim
@@ -6038,8 +6016,7 @@ reward. So, ask not for any reward in return for your teaching but from Allah
 Almighty, in compliance to Allah's statement: "And O my People! I ask you for
 no wealth in return: my reward is from none but Allah." (Hud 29)
 
-وَيَقَوْمِ لَآ أَسْئَلُكُمْ عَلَيْهِ مَالاً إِنْ أَجْرِىَ إِلَّا عَلَى الَّهِ وَمَا أَنَأْ بِطَارِدِ الَّذِينَ ءَامَنُواْ إِنَّهُم مُلَقُواْ بِهِمْ
-وَلَكِنِى أَرَنِكُمْ قَوْمًا تَجْهَلُونَ
+وَیَـٰقَوۡمِ لَاۤ أَسۡـَٔلُكُمۡ عَلَیۡهِ مَالًاۖ إِنۡ أَجۡرِیَ إِلَّا عَلَى ٱللَّهِۚ وَمَاۤ أَنَا۠ بِطَارِدِ ٱلَّذِینَ ءَامَنُوۤا۟ۚ إِنَّهُم مُّلَـٰقُوا۟ رَبِّهِمۡ وَلَـٰكِنِّیۤ أَرَىٰكُمۡ قَوۡمࣰا تَجۡهَلُونَ
 
 Therefore, the wealth and all that the world contains serve the body, and the
 body is the vehicle and riding mount of the soul. Thus what should be served is
@@ -6289,7 +6266,7 @@ not the people to do a thing, the like of which you do yourself: how shameful it
 will be if you do that!" Allah Almighty says: "Do you enjoin good upon the
 people and forget yourselves?" (Al-Baqarah 44)
 
-أَتَأْمُونَ النَّاسَ بِآلْبِرِ وَتَنسَوْنَ أَنْفُسَكُمْ وَأَنتُمْ تَتْلُونَ الْكِتَبَ أَفَلَا تَعْقِلُونَ:
+۞ أَتَأۡمُرُونَ ٱلنَّاسَ بِٱلۡبِرِّ وَتَنسَوۡنَ أَنفُسَكُمۡ وَأَنتُمۡ تَتۡلُونَ ٱلۡكِتَـٰبَۚ أَفَلَا تَعۡقِلُونَ
 14
 
 For the same reason, the sin of a learned man is more grievous than that of an
@@ -6426,7 +6403,7 @@ Almighty says: "Verily, the hypocrites will be in the lowest bottom of the fire
 (of Hell)." (An-Nisa 145)
 
 
-إِنَّ الْنَفِقِينَ فِى الدَّرْكِ الْأَسْفَلِ مِنَ النَّارِ
+إِنَّ ٱلۡمُنَـٰفِقِینَ فِی ٱلدَّرۡكِ ٱلۡأَسۡفَلِ مِنَ ٱلنَّارِ
 
 That's because they rejected faith after their knowledge of it. Moreover, the
 Jews have been made much worse than the Christians, although they have
@@ -6446,7 +6423,7 @@ with certainty in the same way as they know their real children." (Al-Baqarah
 He further says: "When there came to them what they really know, they rejected
 it: behold! Allah's Curse be upon the rejecters of faith!" (Al-Baqarah 89)
 
-فَلَمَّا جَاءَهُم مَّ عَرَفُواْ كَفَرُواْ بِهِنْ فَلَعْنَةُ اللَّهِ عَلَى الْكَفِرِينَ
+فَلَمَّا جَاۤءَهُم مَّا عَرَفُوا۟ كَفَرُوا۟ بِهِۦۚ فَلَعۡنَةُ ٱللَّهِ عَلَى ٱلۡكَـٰفِرِینَ
 
 He also says relating the story of Bal'am Ibn Ba'ura': " Relate to them the
 story of the man to whom We sent Our Signs, but he passed them by: so Satan
@@ -6457,10 +6434,7 @@ tongue, or if you leave him alone, he (still) lolls out his tongue. That is the
 similitude of those who reject Our Signs; so relate the story; perchance they
 may reflect." (Al-A'raf 175:176)
 
-وَآَتْلُ عَلَيْهِمْ نَبَأَ الَّذِىّ ءَاتَيْنَهُ ءَايَتِنَا فَانْسَلَخَ مِنْهَا فَأَتْبَعَهُ الشَّيْطَنُ فَكَانَ مِنَ الْغَاوِينَ وَلَوْ شِئْنَا
-لَرَفَعْتَهُ بِهَا وَلَكِنَّهُ: أَخْلَدَ إِلَى الْأَرْضِ وَاتَّبَعَ هَوَنَهُ فَمَثَلُهُ، كَمَثَلِ الْكَلْبِ إِن تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ
-
-تَتُكْهُ يَلْهَتَّ ذَلِكَ مَثَلُ الْقَوْمِ الَّذِينَ كَذَّبُواْ بِئَايَتِنَا فَأَقْصُصِ الْقَصَصَ لَعَلَّهُمْ يَتَفَكَّرُونَ)
+وَٱتۡلُ عَلَیۡهِمۡ نَبَأَ ٱلَّذِیۤ ءَاتَیۡنَـٰهُ ءَایَـٰتِنَا فَٱنسَلَخَ مِنۡهَا فَأَتۡبَعَهُ ٱلشَّیۡطَـٰنُ فَكَانَ مِنَ ٱلۡغَاوِینَ وَلَوۡ شِئۡنَا لَرَفَعۡنَـٰهُ بِهَا وَلَـٰكِنَّهُۥۤ أَخۡلَدَ إِلَى ٱلۡأَرۡضِ وَٱتَّبَعَ هَوَىٰهُۚ فَمَثَلُهُۥ كَمَثَلِ ٱلۡكَلۡبِ إِن تَحۡمِلۡ عَلَیۡهِ یَلۡهَثۡ أَوۡ تَتۡرُكۡهُ یَلۡهَثۚ ذَّٰلِكَ مَثَلُ ٱلۡقَوۡمِ ٱلَّذِینَ كَذَّبُوا۟ بِـَٔایَـٰتِنَاۚ فَٱقۡصُصِ ٱلۡقَصَصَ لَعَلَّهُمۡ یَتَفَكَّرُونَ
 
 The same is true of the wicked dissolute learned man. Although Bal'am was
 given the Book of Allah, he betook himself to lusts and desires, and this is the
@@ -6593,7 +6567,7 @@ how should you not be afraid of its temptation, since it was said to the chief o
 the Messengers "Peace be upon him": "And had We not given you strength you
 would nearly have inclined to them a little." (Al-Isra' 74)
 
-وَلَوْلَآ أَن تَبَتْنَكَ لَقَدْ كِدتَّ تَرْكَنُ إِلَيْهِمْ شَيْئًا قَلِيلاً
+وَلَوۡلَاۤ أَن ثَبَّتۡنَـٰكَ لَقَدۡ كِدتَّ تَرۡكَنُ إِلَیۡهِمۡ شَیۡـࣰٔا قَلِیلًا
 
 VL
 
@@ -6637,8 +6611,7 @@ Book, to make it known and clear to mankind, and not to hide it; but they threw
 it away behind their backs, and purchased with it some miserable gain! and vile
 was the bargain they made!" (Aal-e-Imran 187)
 
-وَإِذْ أَخَذَ اللهُ مِيثَقَ الَّذِينَ أُوتُوا الْكِتَبَ لَتُبَيِّئُنَّهُ لِلنَّاسِ وَلَا تَكْتُمُونَهُ، فَتَبَذُوهُ وَرَآءَ ظُهُورِ هِمْ
-وَأَشْتَرَوْاْ بِهِن ثَمَنَّا قَلِيلاً فَبِئْسَ مَا يَشْتُونَ
+وَإِذۡ أَخَذَ ٱللَّهُ مِیثَـٰقَ ٱلَّذِینَ أُوتُوا۟ ٱلۡكِتَـٰبَ لَتُبَیِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكۡتُمُونَهُۥ فَنَبَذُوهُ وَرَاۤءَ ظُهُورِهِمۡ وَٱشۡتَرَوۡا۟ بِهِۦ ثَمَنࣰا قَلِیلࣰاۖ فَبِئۡسَ مَا یَشۡتَرُونَ
 
 Concerning the learned men of the hereafter He Almighty says: " And there
 are, certainly, among the People of the Book, those who believe in Allah, in the
@@ -6646,8 +6619,7 @@ revelation to you, and in the revelation to them, bowing in humility to Allah: t
 will not sell the Signs of Allah for a miserable gain! for them is a reward with their
 Lord, and Allah is swift in account." (Aal-e-Imran 199)
 
-وَإِنَّ مِنْ أَهْلِ الْكِتَبِ لَمَن يُؤْمِنُ بِلّهِ وَمَا أُنزِلَ إِلَيْكُمْ وَمَا أُنزِلَ إِلَيْهِمْ خَاشِعِينَ لِلَّهِلَا يَشْتُونَ بِثَايَنتِ اللَّهِ
-ثَمَنَّا قَلِيلاً أُوْلَتِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ
+وَإِنَّ مِنۡ أَهۡلِ ٱلۡكِتَـٰبِ لَمَن یُؤۡمِنُ بِٱللَّهِ وَمَاۤ أُنزِلَ إِلَیۡكُمۡ وَمَاۤ أُنزِلَ إِلَیۡهِمۡ خَـٰشِعِینَ لِلَّهِ لَا یَشۡتَرُونَ بِـَٔایَـٰتِ ٱللَّهِ ثَمَنࣰا قَلِیلًاۚ أُو۟لَـٰۤىِٕكَ لَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡۗ إِنَّ ٱللَّهَ سَرِیعُ ٱلۡحِسَابِ
 A
 
 According to an ancient man: "The learned men (of the hereafter) will be
@@ -6777,9 +6749,7 @@ you! The reward of Allah (in the Hereafter) is best for those who believe and
 work righteousness: but this none shall attain, save those who steadfastly
 persevere (in good)."" (Al-Qasas 79:80)
 
-فَخَرَجَ عَلَى قَوْمِهِ، فِ زِينَتِهِ، قَالَ الَّذِينَ يُرِيدُونَ الْحَيَوةَ الذُّنْيَا يَلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَرُونُ
-إِنَّهُ، لَذُو حَظٍ عَظِيمٍ وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَيْلَكُمْ ثَوَابُ اللَّهِ خَيْرٌ لِّمَنْ ءَ امَنَ وَعَمِلَ صَالِحًا
-وَلَا يُلَقِّنْهَا إِلَّ الصَّبِرُونَ
+فَخَرَجَ عَلَىٰ قَوۡمِهِۦ فِی زِینَتِهِۦۖ قَالَ ٱلَّذِینَ یُرِیدُونَ ٱلۡحَیَوٰةَ ٱلدُّنۡیَا یَـٰلَیۡتَ لَنَا مِثۡلَ مَاۤ أُوتِیَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِیمࣲ وَقَالَ ٱلَّذِینَ أُوتُوا۟ ٱلۡعِلۡمَ وَیۡلَكُمۡ ثَوَابُ ٱللَّهِ خَیۡرࣱ لِّمَنۡ ءَامَنَ وَعَمِلَ صَـٰلِحࣰاۚ وَلَا یُلَقَّىٰهَاۤ إِلَّا ٱلصَّـٰبِرُونَ
 
 Thus, these of knowledge are recognized by their giving priority to the
 hereafter over the world.
@@ -6789,29 +6759,29 @@ contradict his word in the sense that he should not enjoin anything unless he is
 the first to do it, in compliance with Allah's statement: "Should you enjoin good
 upon the people and forget yourselves?" (Al-Baqarah 44)
 
-أَتَأْمُرُونَ النَّاسَ بِآلْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ
+أَتَأۡمُرُونَ ٱلنَّاسَ بِٱلۡبِرِّ وَتَنسَوۡنَ أَنفُسَكُمۡ
 
 He Almighty further says: "Grievously odious is it in the sight of Allah that
 you say that which you do not." (As-Saff 3)
 
-كَبُرَ مَقْثًا عِندَ اللَّهِ أَن تَقُولُواْ مَا لَا تَفْعَلُونَ
+كَبُرَ مَقۡتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفۡعَلُونَ
 
 He also says in the story of Hud (on his tongue while addressing his people):
 "I wish not, in opposition to you, to do that which I forbid you to do. I only
 desire (your) betterment to the best of my power." (Hud 88)
 
-وَمَآ أُرِيدُ أَنْ أُخَالِفَكُمْ إِلَى مَآ أَنْهَنَكُمْ عَنْهُ
+وَمَاۤ أُرِیدُ أَنۡ أُخَالِفَكُمۡ إِلَىٰ مَاۤ أَنۡهَىٰكُمۡ عَنۡهُۚ
 
 He says too: "So fear Allah; for it is Allah that teaches you. And Allah is well
 acquainted with all things." (Al-Baqarah 282)
 
-وَاَنَّقُواْ اللَّهَ وَيُعَلِّمُكُمُ الهُ
+وَٱتَّقُوا۟ ٱللَّهَۖ وَیُعَلِّمُكُمُ ٱللَّهُۗ
 FAT
 
 He says: " But fear Allah, and listen (to His counsel): for Allah guides not a
 rebellious people." (Al-Ma'idah 108)
 
-وَأَنَّقُواْ اللَّهَ وَاسْمَعُواْ
+وَٱتَّقُوا۟ ٱللَّهَ وَٱسۡمَعُوا۟ۗ
 
 He Almighty said to Jesus: "O son of Mary! Admonish yourself: if you
 receive admonition, you might give admonition to the people, otherwise, feel
@@ -7006,7 +6976,7 @@ hungry one who works out delicious menus of food but cannot taste them.
 Allah Almighty says in a similar meaning: "Woe to you from what you
 describe!" (Al-Anbiya 18)
 
-وَلَكُمُ الْوَيْلُ مِمَّا تَصِفُونَ
+وَلَكُمُ ٱلۡوَیۡلُ مِمَّا تَصِفُونَ
 
 according to a Prophetic tradition (transmitted by At-Tabarani on the
 authority of Abu Ad-Darda' that the Prophet said): "I fear for my nation most
@@ -7063,7 +7033,7 @@ He said: "I have considered Allah's saying: " And for those who had
 entertained the fear of standing before their Lord's (tribunal) and had restrained
 (their) soul from lower Desires, Their Abode will be the Garden." (An-Nazi'at 40:41)
 
-وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ، وَنَهَى النَّفْسَ عَنِ الْمَوَى فَإِنَّ الْجَنَّةَ هِىَ الْمَأْوَى
+وَأَمَّا مَنۡ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفۡسَ عَنِ ٱلۡهَوَىٰ فَإِنَّ ٱلۡجَنَّةَ هِیَ ٱلۡمَأۡوَىٰ
 
 I then came to know that Allah's statement is the truth, thereupon I strived
 myself so much to repel such lower desires until it found its abode in the
@@ -7074,7 +7044,7 @@ everyone has anything of significance and high value would raise and preserve it
 At the same time, I considered the statement of Allah: "What you have will
 inevitably perish, and what is with Allah will abide forever" (An-Nahl 96)
 
-مَا عِندَكُمْ يَنفَدُ وَمَا عِندَ اللّهِ بَاقٍ
+مَا عِندَكُمۡ یَنفَدُ وَمَا عِندَ ٱللَّهِ بَاقࣲۗ
 
 the result is that the more I have anything of value and high esteem, the more
 I direct it to Allah Almighty, perchance it would be preserved with Him."
@@ -7085,7 +7055,7 @@ them and behold! They are of no significance. At the same time, I've considered
 the statement of Allah: "Verily, the most honourable among you is the most
 Allah-fearing of you" (Al-Hujurat 13)
 
-إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أُنْقَنكُمْ
+إِنَّ أَكۡرَمَكُمۡ عِندَ ٱللَّهِ أَتۡقَىٰكُمۡۚ
 
 thereupon I did my best to safeguard myself from the punishment of Allah
 perchance I would be regarded honourable in the Sight of Allah."
@@ -7100,7 +7070,7 @@ his due portion of living in this world." (Az-Zukhruf 32)
 <!-- PageNumber="129" -->
 
 
-نَحْنُ قَسَمْنَا بَيْنَهُم مَّعِيشَّتَهُمْ فِى الْحَيَوْةِ الدُّنْيَا
+نَحۡنُ قَسَمۡنَا بَیۡنَهُم مَّعِیشَتَهُمۡ فِی ٱلۡحَیَوٰةِ ٱلدُّنۡیَاۚ
 
 Thereupon I gave up the envy, and isolated myself from the people, and
 came to know that everyone's portion (in this life) is determined by Allah
@@ -7112,7 +7082,7 @@ transgressing over each other, and fighting each other, thereupon I returned
 to the statement of Allah: "Verily, Satan is an enemy to you, so, take it as
 enemy." (Fatir 6)
 
-إِنَّ الشَّيْطَانَ لَكُمْ عَدُوٌّ فَاتَّخِذُوهُ عَدُوًّاً
+إِنَّ ٱلشَّیۡطَـٰنَ لَكُمۡ عَدُوࣱّ فَٱتَّخِذُوهُ عَدُوًّاۚ
 
 taking from this, I considered Satan alone my enemy, and strove my utmost to
 be cautious of him, for Allah Almighty bears witness that he is an enemy to me;
@@ -7125,7 +7095,7 @@ himself, and does what is unlawful for him to do. At the same time, I've
 considered the Statement of Allah Almighty: "There is no moving thing on earth
 but that its sustenance is incumbent upon Allah." (Hud 6)
 
-وَمَا مِن دَآبَّةٍ فِي الأَرْضِ إِلَّ عَلَى اللَّهِ رِزْقُهَا
+وَمَا مِن دَاۤبَّةࣲ فِی ٱلۡأَرۡضِ إِلَّا عَلَى ٱللَّهِ رِزۡقُهَا
 
 on that I came to know that I'm one of those moving things, whose
 sustenance is incumbent upon Allah Almighty. The result was that I came to
@@ -7139,7 +7109,7 @@ In short, every creature has put his trust in another creature like him. Then, I
 have returned to the statement of Allah Almighty: "He, who puts his trust in
 Allah, He suffices him (for Helper and Supporter)." (At-Talaq 3)
 
-وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوْ حَسْبُهُ
+وَمَن یَتَوَكَّلۡ عَلَى ٱللَّهِ فَهُوَ حَسۡبُهُۥۤۚ
 
 The result was that I came to put my trust in Allah Almighty, for He suffices
 me (for Helper and Supporter)." On that Shaqiq (his mister) said to him: "O
@@ -7282,7 +7252,7 @@ of the Messenger of Allah "Peace be upon him". I then asked where his palace
 was. Hatim then recalled the whole story with the following Qur'anic quotation
 in the end: "You had in the Apostle of Allah a good example (to follow)" (Al-Ahzab 21)
 
-لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ اللَّهِ أُسْوَّةُ حَسَنَةٌ
+لَّقَدۡ كَانَ لَكُمۡ فِی رَسُولِ ٱللَّهِ أُسۡوَةٌ حَسَنَةࣱ
 
 after which he said: 'Whose example have you then followed, that of the
 Messenger of Allah "Peace be upon him" or that of Pharaoh, the first to use
@@ -7654,7 +7624,7 @@ between men, (secrecy is permissible): to him who does this, seeking the good
 pleasure of Allah, We shall soon give a reward of the highest (value)." (An-Nisa 114)
 
 11
-وَمَن يَفْعَلْ ذَلِكَ ابْتِغَاءَ مَرْضَاتِ اللَّهِ فَسَوْفَ نُؤْثِيهِ أَجْرًا عَظِيمًا
+وَمَن یَفۡعَلۡ ذَٰلِكَ ٱبۡتِغَاۤءَ مَرۡضَاتِ ٱللَّهِ فَسَوۡفَ نُؤۡتِیهِ أَجۡرًا عَظِیمࣰا
 
 A learned man saw in a dream one of those endued with sound minds from
 amongst the people of Kufah whom he asked: "What have you come to think
@@ -7760,7 +7730,7 @@ opened." Then, he recited the following statement of Allah Almighty: " With
 Him are the keys of the Unseen, the treasures that none knows but He. He
 knows whatever there is on the earth and in the sea." (Al-An'am 59)
 
-وَعِندَهُ مَفَاتِحُ الْغَيْبِ لَا يَعْلَمُهَا إِلَّا هُوَ وَ يَعْلَمُ مَا فِى الْبَرِّ وَاَلْبَحْرِّ جَ
+وَعِندَهُۥ مَفَاتِحُ ٱلۡغَیۡبِ لَا یَعۡلَمُهَاۤ إِلَّا هُوَۚ وَیَعۡلَمُ مَا فِی ٱلۡبَرِّ وَٱلۡبَحۡرِۚ
 
 Had it not been for the fact that the exoteric science is judged in accordance
 with the enlightenment of the heart of him who has a sound heart with the help
@@ -8101,7 +8071,7 @@ There is no moving creature on earth but its sustenance depends on Allah: He
 knows the time and place of its definite abode and its temporary deposit: all is
 in a clear Record." (Hud 6)
 
-وَمَا مِن دَابَّةٍ فِ آلْأَرْضِ إِلَّا عَلَى اللَّهِ رِزْقُهَا وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَاْ كُلٌّفِى كِتَبٍ مُّبِينٍ
+۞ وَمَا مِن دَاۤبَّةࣲ فِی ٱلۡأَرۡضِ إِلَّا عَلَى ٱللَّهِ رِزۡقُهَا وَیَعۡلَمُ مُسۡتَقَرَّهَا وَمُسۡتَوۡدَعَهَاۚ كُلࣱّ فِی كِتَـٰبࣲ مُّبِینࣲ
 
 It is to be sure that this will come to him, and that what is doomed to him
 will inevitably be brought to him. The more this fact prevails over his heart,
@@ -8113,7 +8083,7 @@ Another one of those is to be possessed by the faith in the fact that "he who
 does even the atom's weight of good will see it, and he who does the atom's
 weight of evil will see it." (Az-Zalzalah 7:8)
 
-فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ,
+فَمَن یَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَیۡرࣰا یَرَهُۥ وَمَن یَعۡمَلۡ مِثۡقَالَ ذَرَّةࣲ شَرࣰّا یَرَهُۥ
 
 it is to have certain faith in both reward and punishment in the sense that he
 sees the obedience (through good works) relates to reward in the same way as the
@@ -8351,24 +8321,24 @@ preference to the hereafter over this world, i.e. asceticism.
 The fear of Allah is deduced from His statement: "Those truly fear Allah,
 among His Servants, who have knowledge." (Fatir 28)
 
-"إِنَّمَا تَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَتَؤُأُ
+إِنَّمَا یَخۡشَى ٱللَّهَ مِنۡ عِبَادِهِ ٱلۡعُلَمَـٰۤؤُا۟ۗ
 
 the merit of submission is understood from Allah's statement: " bowing in
 humility to Allah: they will not sell the Signs of Allah for a miserable gain! for
 them is a reward with their Lord, and Allah is swift in account." (Aal-e-Imran 199)
 
-خَشِعِينَ لِلَّهِ لَا يَشْتُونَ بِثَايَتِ اللَّهِ ثَمَنًا قَلِيلاً
+خَـٰشِعِینَ لِلَّهِ لَا یَشۡتَرُونَ بِـَٔایَـٰتِ ٱللَّهِ ثَمَنࣰا قَلِیلًاۚ
 
 That of humbleness is taken from the statement of Allah Almighty: "but lower
 your wing (in gentleness) to the Believers." (Al-Hijr 88)
 
-وَاخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ
+وَٱخۡفِضۡ جَنَاحَكَ لِلۡمُؤۡمِنِینَ
 
 The quality of good disposition is learnt from the saying of Allah Almighty:
 "It is part of the Mercy of Allah that you do deal gently with them. Wert you
 severe or harsh-hearted, they would have broken away from about you." (Aal-e-Imran 159)
 
-فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ
+فَبِمَا رَحۡمَةࣲ مِّنَ ٱللَّهِ لِنتَ لَهُمۡۖ
 
 The virtue of asceticism is inferred from the statement of Allah Almighty: "
 But those who had been granted (true) knowledge said: "Alas for you! The
@@ -8376,7 +8346,7 @@ reward of Allah (in the Hereafter) is best for those who believe and work
 righteousness: but this none shall attain, save those who steadfastly persevere (in
 good)."" (Al-Qasas 80)
 
-وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَيْلَكُمْ ثَوَابُ اللَّهِ خَيْرٌ لِّمَنْ ءَامَنَ وَعَمِلَ صَلِحًا
+وَقَالَ ٱلَّذِینَ أُوتُوا۟ ٱلۡعِلۡمَ وَیۡلَكُمۡ ثَوَابُ ٱللَّهِ خَیۡرࣱ لِّمَنۡ ءَامَنَ وَعَمِلَ صَـٰلِحࣰاۚ وَلَا یُلَقَّىٰهَاۤ إِلَّا ٱلصَّـٰبِرُونَ
 
 (It is narrated by Al-Hakim and Al-Baihaqi on the authority of Ibn Mas'ud
 that) when the Messenger of Allah "Allah's blessing and peace be upon him"
@@ -8384,7 +8354,7 @@ recited the following statement of Allah Almighty: " Those whom Allah (in
 His plan) wills to guide, He opens their breast to Islam; those whom He wills
 to leave straying, He makes their breast close and constricted" (Al-An'am 125)
 
-فَمَن يُرِدِ اللَّهُ أَن يَهْدِيَهُ, يَشْرَحْ صَدْرَهُ لِلْإِسْلَمِ
+فَمَن یُرِدِ ٱللَّهُ أَن یَهۡدِیَهُۥ یَشۡرَحۡ صَدۡرَهُۥ لِلۡإِسۡلَـٰمِۖ
 
 It was said to him: "What is the meaning of opening the breast?" he "Peace
 be upon him" said: "When the light (of faith) is inspired into the heart, the
@@ -8834,12 +8804,12 @@ sweetness in the hearts of its doers." In confirmation of that, Allah Almighty
 says: " Leave alone those who take their religion to be mere play and amusement,
 and are deceived by the life of this world." (Al-An'am 70)
 
-وَذَّرِ الَّذِينَ اتَّخَذُواْ دِيَهُمْ لَعِبًّا وَلَّهْوَّا
+وَذَرِ ٱلَّذِینَ ٱتَّخَذُوا۟ دِینَهُمۡ لَعِبࣰا وَلَهۡوࣰا
 
 And: " Is he, then, to whom the evil of his conduct is made alluring, so that he
 looks upon it as good, (equal to one who is rightly guided)?" (Fatir 8)
 
-أَفَمَن زُيِّنَ لَهُ، سُوَءُ عَمَلِهِ ، فَرَءَاهُ حَسَنَّا ِيَ
+أَفَمَن زُیِّنَ لَهُۥ سُوۤءُ عَمَلِهِۦ فَرَءَاهُ حَسَنࣰاۖ
 
 Such of innovations as have been made after the holy companions "Allah be
 pleased with them" which have not been integral to the religion, and have been
@@ -8914,7 +8884,7 @@ this reason, Allah says: " nor obey any whose heart We have permitted to neglect
 the remembrance of Us, one who follows his own desires, whose case has gone
 beyond all bounds." (Al-Kahf 28)
 
-وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ, عَن ذِكْرِنَا وَاتَّبَعَ هَوّنْهُ وَكَانَ أَمْرُهُ فُرْطَا
+وَلَا تُطِعۡ مَنۡ أَغۡفَلۡنَا قَلۡبَهُۥ عَن ذِكۡرِنَا وَٱتَّبَعَ هَوَىٰهُ وَكَانَ أَمۡرُهُۥ فُرُطࣰا
 
 It is taken for granted that the disobedient layman is happier than the ignorant
 
@@ -9008,13 +8978,13 @@ Almighty gives it the name of light in His saying: "Allah is the Light of the
 heavens and the earth; and the like of His Light is as if there were a Niche and
 within it a Lamp." (An-Nur 35)
 
-اللَّهُ نُورُ السَّمَنْوَاتِ وَالْأَرْضِ مَثَلُ نُورِهِ، كَمِشْكُوَةٍ َِ
+ٱللَّهُ نُورُ ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضِۚ مَثَلُ نُورِهِۦ كَمِشۡكَوٰةࣲ
 
 He also gives the knowledge obtained through it such names as the spirit,
 revelation and life, as shown in His saying: "As such We have revealed to you a
 Spirit by Our Command." (Ash-Shura 52)
 
-وَكَذَلِكَ أَوْحَيْنَا إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا
+وَكَذَٰلِكَ أَوۡحَیۡنَاۤ إِلَیۡكَ رُوحࣰا مِّنۡ أَمۡرِنَاۚ
 
 He further says: "Is he, who was dead and We have given him life, and
 ordained for him a light therewith to walk among the people like him whose
@@ -9025,14 +8995,14 @@ example is in darkness whence he never comes forth?" (Al-An'am 122)
 <!-- PageNumber="165" -->
 
 
-أَوَمَن كَانَ مَيْتًا فَأَحْبَيْنَهُ وَجَعَلْنَا لَهُ نُورًا يَمْشِى بِهِ، فِى النَّاسِ
+أَوَمَن كَانَ مَیۡتࣰا فَأَحۡیَیۡنَـٰهُ وَجَعَلۡنَا لَهُۥ نُورࣰا یَمۡشِی بِهِۦ فِی ٱلنَّاسِ
 
 What is intended here by light and darkness is knowledge and ignorance,
 as confirmed by His Statement: "We bring them out of darkness to light."
 (Al-Baqarah 257)
 
 
- يُخْرِجُونَهُم مِّنَ النُّورِ إِلَى الظُّلُمَتِ
+یُخۡرِجُونَهُم مِّنَ ٱلنُّورِ إِلَى ٱلظُّلُمَـٰتِۗ
 
 In this context, (it is narrated on the authority of Abu Hurairah that) the
 Messenger of Allah "Allah's blessing and peace be upon him" said: "O people!
@@ -9104,7 +9074,7 @@ hearkened or had good understanding, surely, we would have not been among
 the denizens of the blazing fire." (Al-Mulk 10)
 
 
- وَقَالُواْ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىَ أَصْحَبِ السَّعِيرِ
+وَقَالُوا۟ لَوۡ كُنَّا نَسۡمَعُ أَوۡ نَعۡقِلُ مَا كُنَّا فِیۤ أَصۡحَـٰبِ ٱلسَّعِیرِ
 
 It is narrated (by Ibn Al-Muhabbar) on the authority of Umar "Allah be
 pleased with him" that he asked Tamim Ad-Dari: "What does achieve the
@@ -9331,7 +9301,7 @@ Allah "Allah's blessing and peace be upon him" said: "All of that is but chattel
 of this world, and the hereafter, in the Presence of your Lord, is only for the
 righteous." (Az-Zukhruf 35)
 
-وَإِن كُلُّ ذَلِكَ لَمَّا مَتَعُ الْخَيْوَةِ الدُّنْيَأْ وَالْآَخِرَةُ عِندَ رَبِّكَ لِلْمُنَّقِينَ
+وَزُخۡرُفࣰاۚ وَإِن كُلُّ ذَٰلِكَ لَمَّا مَتَـٰعُ ٱلۡحَیَوٰةِ ٱلدُّنۡیَاۚ وَٱلۡـَٔاخِرَةُ عِندَ رَبِّكَ لِلۡمُتَّقِینَ
 
 (He then resumed) "The intelligent mindful is the righteous Allah-fearing,
 even though he seems in this world inferior and lowly."
@@ -9397,21 +9367,21 @@ remember" (Al-Baqarah 221)
 <!-- PageNumber="172" -->
 
 
-لَعَلَّهُمْ يَتَذَّكَُّونَ ِـ
+لَعَلَّهُمۡ یَتَذَكَّرُونَ
 
 And: "That those endued with sound minds may remember" (Sad 29)
 
-وَلِيَتَذَكَّرَ أُوْلُواْ الْأَلْبَبِ
+وَلِیَتَذَكَّرَ أُو۟لُوا۟ ٱلۡأَلۡبَـٰبِ
 
 And: "And remember Allah's favour upon you, and His covenant which He
 had covenanted with you" (Al-Ma'idah 7)
 
-وَأَذْكُرُواْ نِعْمَةَ اللَّهِ عَلَيْكُمْ وَمِيشَقَهُ الَّذِى وَاثَقَكُمْ بِهِ،
+وَٱذۡكُرُوا۟ نِعۡمَةَ ٱللَّهِ عَلَیۡكُمۡ وَمِیثَـٰقَهُ ٱلَّذِی وَاثَقَكُم بِهِۦۤ
 
 And: "And we have rendered the Qur'an available as a sign to be
 remembered, but is there anyone who will remember?" (Al-Qamar 17)
 
-وَلَقَدْ يَسَّرْنَا الْقُرْءَانَ لِلذِكْرِ فَهَلْ مِن مُّذَّكِرٍ
+وَلَقَدۡ یَسَّرۡنَا ٱلۡقُرۡءَانَ لِلذِّكۡرِ فَهَلۡ مِن مُّدَّكِرࣲ
 
 To give such the name of remembrance is not far-fetched. This
 remembrance is of two kinds: one is to recall an image which once existed in
@@ -9437,18 +9407,18 @@ blindness of the horseman is more harmful than that of the horse. In comparison
 between insight and sight Allah Almighty says: "By no means has his heart
 falsified what he saw" (An-Najm 11)
 
-مَا كَذَبَ الْفُؤَادُ مَا رَأَىّ ِيْ
+مَا كَذَبَ ٱلۡفُؤَادُ مَا رَأَىٰۤ
 
 And: "And thus did We show Abraham the dominion of the Heavens and the
 Earth." (Al-An'am 75)
 
-وَكَّذَ لِكَ ثُرِىّ إِبْرَاهِيمَ مَلَكُوتَ السَّمَوَاتِ وَالْأَرْضِ
+وَكَذَٰلِكَ نُرِیۤ إِبۡرَٰهِیمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضِ وَلِیَكُونَ مِنَ ٱلۡمُوقِنِینَ
 
 The opposite of both is called blindness as shown in the saying of Allah
 Almighty: "For surely it is not the eyes that are blind, but blind are the hearts
 which are in the breasts." (Al-Hajj 46)
 
-فَإِنَّا لَا تَعْمَى الْأَبْصَرُ وَلَكِن تَعْمَى الْقُلُوبُ الَّتِى فِ الصُّدُورِ
+فَإِنَّهَا لَا تَعۡمَى ٱلۡأَبۡصَـٰرُ وَلَـٰكِن تَعۡمَى ٱلۡقُلُوبُ ٱلَّتِی فِی ٱلصُّدُورِ
 
 <!-- PageBreak -->
 
@@ -9458,7 +9428,7 @@ which are in the breasts." (Al-Hajj 46)
 He Almighty further says: "And he who is blind in this (world) will be in the
 hereafter blind and more straying from the path." (Al-Isra' 72)
 
-وَمَنْ كَانَ فِى هَنَذِهِءَ أَعْمَىْ فَهُوَ فِى الْآَخِرَةِ أَعْمَىْ وَأَضَلُّ سَبِيلاً
+وَمَن كَانَ فِی هَـٰذِهِۦۤ أَعۡمَىٰ فَهُوَ فِی ٱلۡـَٔاخِرَةِ أَعۡمَىٰ وَأَضَلُّ سَبِیلࣰا
 
 Some of those matters which were disclosed to the prophets were revealed
 through the sight and others through the insight, but both were called vision. In
@@ -9548,7 +9518,7 @@ instruction, as shown from the statement of Allah Almighty: "Whose oil would
 well nigh shine out, even though fire touches it not! It is light upon light." (An-Nur 35)
 
 
- يَكَادُ زَيْتُهَا يُضِىّءُ وَلَوْ لَمْ تَمْسَسْهُ نَارُّ نُورُ عَلَىْ نُورٍ ِّ
+یَكَادُ زَیۡتُهَا یُضِیۤءُ وَلَوۡ لَمۡ تَمۡسَسۡهُ نَارࣱۚ نُّورٌ عَلَىٰ نُورࣲۚ
 
 this applies to the Prophets "Peace be upon them" in whose inward thoughts
 obscure things are made clear without having learnt or heard anything alike. This
@@ -9658,7 +9628,7 @@ the contrary, "He is the first and the last, the Evident and the Hidden, and He
 has full knowledge of all things." (Al-Hadid 3)
 
 
- هُوَ آلْأَوَّلُ وَآلْآَخِرُ وَالظَّهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ
+هُوَ ٱلۡأَوَّلُ وَٱلۡـَٔاخِرُ وَٱلظَّـٰهِرُ وَٱلۡبَاطِنُۖ وَهُوَ بِكُلِّ شَیۡءٍ عَلِیمٌ
 
 1- Transcendence (Tanzih): He is not a body having a certain form, nor a
 limited or restricted substance: He does not resemble other bodies either in
@@ -9668,7 +9638,7 @@ exist in Him. Nay! He resembles no entity and no entity resembles Him: "nothing
 is like unto Him and He is not like anything" (Ash-Shura 11)
 
 
- لَيْسَ كَمِثْلِهِ شَىْءٌ )
+لَیۡسَ كَمِثۡلِهِۦ شَیۡءࣱۖ
 
 No measure could limit Him and in no way could boundaries contain Him; no
 direction could surround Him and neither the earths nor the Heavens bound
@@ -10006,7 +9976,7 @@ Allah Almighty about which He says: "And he who strives for us in Our ways We
 
 <!-- PageNumber="184  will guide them; for Allah is assuredly with those who do right." (Al-Ankabut 69)" -->
 
-وَلَّذِينَ جَنَهَدُواْ فِينَا لَهْدِيَّهُمْ سُبُلَنَاْ وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِبِينَ لَ
+وَٱلَّذِینَ جَـٰهَدُوا۟ فِینَا لَنَهۡدِیَنَّهُمۡ سُبُلَنَاۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلۡمُحۡسِنِینَ
 
 Verily, this is the precious and valuable gem which is the ultimate goal of the
 faith of the saints and Allah's nearest devotees, to which the secret which rested
@@ -10142,21 +10112,21 @@ that knowledge: How should the mention of the proof and the desire for learning
 and investigating it be forbidden in the presence of Allah's statement: "Say: Give
 your proof if you speak the truth" (Al-Baqarah 111)
 
-قُلْ هَاتُواْ بُرْهَنَكُمْ إِن كُنتُمْ صَدِقِينَ
+قُلۡ هَاتُوا۟ بُرۡهَـٰنَكُمۡ إِن كُنتُمۡ صَـٰدِقِینَ
 
 And: " ... that he who would perish might perish by clear proof, and he who
 would live might live by clear proof" (Al-Anfal 42)
 
-لِيَهْلِكُ مَنْ هَلَّكَ عَنْ بَيِّنَةٍ وَيَحْتَى مَنْ حَىّ عَنْ بَيَِّةٍ
+لِّیَهۡلِكَ مَنۡ هَلَكَ عَنۢ بَیِّنَةࣲ وَیَحۡیَىٰ مَنۡ حَیَّ عَنۢ بَیِّنَةࣲۗ
 
 And: "Do you Have any authority for this?" (Yunus 68)
 
-إِنْ عِنْدَكُم مِّنْ سُلْطَانٍ بَدَأَ
+إِنۡ عِندَكُم مِّن سُلۡطَـٰنِۭ بِهَـٰذَاۤۚ
 
 I.e. any evidence or proof for this. And: "Say: 'The absolute evidence is
 Allah's." (Al-An'am 149)
 
-قُلْ قَلِلَّهِ الْحُجَّةُ الْبَلِغَةٌ
+قُلۡ فَلِلَّهِ ٱلۡحُجَّةُ ٱلۡبَـٰلِغَةُۖ
 
 And: "Have you not considered him who disputed with Abraham about his
 Lord, because Allah had given him dominion? When Abraham said: 'My Lord is
@@ -10169,7 +10139,7 @@ The unbeliever was confounded, for Allah guides not the evil doers." (Al-Baqarah
 <!-- PageNumber="187" -->
 
 
-قَالَ إِبْرَهِمُ فَإِنَّ اللَّهَ يَأْتِى بِالشَّمْسِ مِنَ الْمَشْرِقِ فَأْتِ بِهَا مِنَ الْمَغْرِبِ فَبُهِتَ الَّذِى كَفَرَ
+قَالَ إِبۡرَٰهِـۧمُ فَإِنَّ ٱللَّهَ یَأۡتِی بِٱلشَّمۡسِ مِنَ ٱلۡمَشۡرِقِ فَأۡتِ بِهَا مِنَ ٱلۡمَغۡرِبِ فَبُهِتَ ٱلَّذِی كَفَرَۗ
 
 In this quotation, Allah Almighty mentions, by way of commendation, the
 controversy which broke up between Abraham and his opponent and how
@@ -10177,12 +10147,12 @@ Abraham argued with and silenced him. Allah Almighty says too in this
 context: "This is our argument which we granted Abraham against his
 people." (Al-An'am 83)
 
-وَتِلْكَ حُجَّتُنَآ ءَاتَّيْنَهَا إِبْرَاهِيمَ عَلَىْ قَوْمِهِ -
+وَتِلۡكَ حُجَّتُنَاۤ ءَاتَیۡنَـٰهَاۤ إِبۡرَٰهِیمَ عَلَىٰ قَوۡمِهِۦۚ
 
 He Almighty further says: "They said: 'O Noah! Already have you disputed
 with us, and increased our disputation."" (Hud 32)
 
-قَالُواْ يَنُوحُ قَدْ جَدَ لْتَنَا فَأَكْثَرْتَ جِدَالَنَا
+قَالُوا۟ یَـٰنُوحُ قَدۡ جَـٰدَلۡتَنَا فَأَكۡثَرۡتَ جِدَٰلَنَا
 
 He also says in the story of Pharaoh: "Said (Pharaoh): "And what is the
 'Lord and Cherisher of the worlds'?" (Moses) said: "The Lord and Cherisher of
@@ -10195,13 +10165,7 @@ sense!" (Pharaoh) said: "If you put forward any god other than me, I will certai
 put you in prison!" (Moses) said: "What if I show you that which shall be a
 proof of my mission?" (Ash-Shu'ara' 23:30)
 
-قَالَ فِرْعَوْنُ وَمَا رَبُّ الْعَلَمِينَ قَالَ رَبُّ السَّمَوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِن كُنتُم مُّوقِنِينَ
-
-قَالَ لِمَنْ حَوْلَهُ: أَلَا تَسْتَبِعُونَ قَالَ رَبُّكُمْ وَرَبُّ ءَابَابِكُمُ الْأَوَّلِينَ تَّ قَالَ إِنَّ رَسُولَكُمُ الَّذِىّ
-
-أُرْسِلَ إِلَيْكُمْ لَمَجْنُونٌ قَالَ رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ وَمَا بَيْنَهُمَآَ إِن كُنتُمْ تَعْقِلُونَ قَالَ لَبِنٍ
-
-اتَّخَذْتَ إِلَّهًا غَيْرِى لأجْعَلَنَّكَ مِنَ الْمَسْجُونِينَ قَالَ أَوَلَوْ جِئْئُكَ بِشَىْءٍ مُّبِينٍ
+قَالَ فِرۡعَوۡنُ وَمَا رَبُّ ٱلۡعَـٰلَمِینَ قَالَ رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَیۡنَهُمَاۤۖ إِن كُنتُم مُّوقِنِینَ قَالَ لِمَنۡ حَوۡلَهُۥۤ أَلَا تَسۡتَمِعُونَ قَالَ رَبُّكُمۡ وَرَبُّ ءَابَاۤىِٕكُمُ ٱلۡأَوَّلِینَ قَالَ إِنَّ رَسُولَكُمُ ٱلَّذِیۤ أُرۡسِلَ إِلَیۡكُمۡ لَمَجۡنُونࣱ قَالَ رَبُّ ٱلۡمَشۡرِقِ وَٱلۡمَغۡرِبِ وَمَا بَیۡنَهُمَاۤۖ إِن كُنتُمۡ تَعۡقِلُونَ قَالَ لَىِٕنِ ٱتَّخَذۡتَ إِلَـٰهًا غَیۡرِی لَأَجۡعَلَنَّكَ مِنَ ٱلۡمَسۡجُونِینَ قَالَ أَوَلَوۡ جِئۡتُكَ بِشَیۡءࣲ مُّبِینࣲ
 
 In short the Qur'an, from its beginning to its end, is an argument with the
 unbelievers.
@@ -10210,13 +10174,13 @@ The fundamental proof adopted by theologians for the Allah's Oneness is the
 statement of Allah Almighty: "Had there been in either (Heaven or earth) gods
 besides Allah, both would have surely gone to ruin." (Al-Anbiya 22)
 
-لَوْ كَانَ فِيهِمَآ ءَالِهَةٌ إِلَّ اللَّهُ لَفَسَدَتَأْ
+لَوۡ كَانَ فِیهِمَاۤ ءَالِهَةٌ إِلَّا ٱللَّهُ لَفَسَدَتَاۚ
 
 Their fundamental proof for the Apostleship lies in His statement: "And if
 you are in doubt as to that which We have sent down to Our servant, then
 produce a Surah like it." (Al-Baqarah 23)
 
-وَإِن كُنتُمْ فِى رَيِّبٍ مِّمَّا نَزَّلْنَا عَلَى عَبْدِنَا فَأْتُواْ بِسُورَةٍ مِّن مِثْلِهِ،
+وَإِن كُنتُمۡ فِی رَیۡبࣲ مِّمَّا نَزَّلۡنَا عَلَىٰ عَبۡدِنَا فَأۡتُوا۟ بِسُورَةࣲ مِّن مِّثۡلِهِۦ
 
 Their fundamental proof for the resurrection is: "Say: He shall give life to
 them who first gave them life." (Ya Sin 79)
@@ -10226,13 +10190,13 @@ them who first gave them life." (Ya Sin 79)
 <!-- PageNumber="188" -->
 
 
-قُلْ يُخِهَا الَّذِىَ أَنشَأَهَا أَوَّلَ مَرَّةٍ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ
+قُلۡ یُحۡیِیهَا ٱلَّذِیۤ أَنشَأَهَاۤ أَوَّلَ مَرَّةࣲۖ وَهُوَ بِكُلِّ خَلۡقٍ عَلِیمٌ
 
 Thus the Messenger of Allah "Allah's blessing and peace be upon him" did
 not cease to argue and dispute with the unbelievers. Allah Almighty says:
 "Dispute with them in the kindest manner." (An-Nahl 125)
 
-وَجَدِ لْهُمُ بِأَلَّتِى هِىَ أَحْسَنُ
+وَجَـٰدِلۡهُم بِٱلَّتِی هِیَ أَحۡسَنُۚ
 
 The Companions, too, used to argue and dispute with the unbelievers, but
 only at the time of need. At the time of the companions the need for disputation
@@ -10595,7 +10559,7 @@ people which their minds have failed to understand but that it is a cause of
 temptation for them." Allah Almighty says: "These similitudes do We set forth
 to men, which none understands except those endued with knowledge." (Al-Ankabut 43)
 
-وَتِلْكَ آلْأَ مْثَلُ نَضْرِبُهَا لِلنَّاسِ وَمَا يَعْقِلُهَا إِلَّ الْعَلِمُونَ
+وَتِلۡكَ ٱلۡأَمۡثَـٰلُ نَضۡرِبُهَا لِلنَّاسِۖ وَمَا یَعۡقِلُهَاۤ إِلَّا ٱلۡعَـٰلِمُونَ
 
 
 The Messenger of Allah "Allah's blessing and peace be upon him" said:
@@ -10618,7 +10582,7 @@ In his comment on the statement of Allah Almighty "It is Allah who has
 created seven heavens and as many earths; the (divine) command comes down
 among them" (At-Talaq 12)
 
-اللّهُ الَّذِى خَلَقَ سَبْعَ سَوّاتٍ وَمِنَ الْأَرْضِ مِثْلَهُنَّ يَتَنَّلُ آلْأَمُرُ بَيْنَهُنَّ فِيََّ
+ٱللَّهُ ٱلَّذِی خَلَقَ سَبۡعَ سَمَـٰوَٰتࣲ وَمِنَ ٱلۡأَرۡضِ مِثۡلَهُنَّۖ یَتَنَزَّلُ ٱلۡأَمۡرُ بَیۡنَهُنَّ
 
 Ibn Abbas said: "Had I told you its interpretation, you would have stoned me
 to death" or " you would have said: 'He is a blaspheme"" according to another
@@ -10848,7 +10812,7 @@ such a metaphor conveys the idea of power more completely. Of the same kind is
 the instance where Allah expresses the idea of His power metaphorically by
 saying, "Our words to a thing when We will it is but to say, 'Be,' and it is." (An-Nahl 40)
 
-إِنَّمَا قَوْلُنَا لِشَىْءٍ إِذَا أَرَدْنَهُ أَن نَّقُولَ لَهُ كُنْ فَيَكُونُ
+إِنَّمَا قَوۡلُنَا لِشَیۡءٍ إِذَاۤ أَرَدۡنَـٰهُ أَن نَّقُولَ لَهُۥ كُن فَیَكُونُ
 
 The outward meaning of this verse is not possible because if the saying of
 Allah 'Be' was addressed to the thing before that thing came into existence, then
@@ -10866,7 +10830,7 @@ the outward was intended, as is the case in the interpretation of the words of
 Allah when he said: "He sends down the water from Heaven: then flow the
 torrents in their due measure, and the flood bears along a swelling foam." (Ar-Ra'd 17)
 
-أَنزَلَ مِنَ السَّمَآءِ مَآءُ فَسَالَتْ أَوْدِيَّةٌ
+أَنزَلَ مِنَ ٱلسَّمَاۤءِ مَاۤءࣰ فَسَالَتۡ أَوۡدِیَةُۢ
 
 Here the word water stands for the Qur'an which the torrents represent the
 hearts. Some of the hearts receive and hold much; others receive much and hold
@@ -10930,7 +10894,7 @@ And they both said: 'We come obedient" (Fussilat 11)
 <!-- PageNumber="201" -->
 
 
-ثُمَّ اسْتَوَىَّ إِلَى السَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَا وَلِلْأَرْضِ اثْنِيًا طَوْعًا أَوْ كَرْهًا قَالَتَآً أَتَيْنَا طَابِعِينَ
+ثُمَّ ٱسۡتَوَىٰۤ إِلَى ٱلسَّمَاۤءِ وَهِیَ دُخَانࣱ فَقَالَ لَهَا وَلِلۡأَرۡضِ ٱئۡتِیَا طَوۡعًا أَوۡ كَرۡهࣰا قَالَتَاۤ أَتَیۡنَا طَاۤىِٕعِینَ
 
 The stupid one, because of his lack of understanding, would assume that both
 'the Heaven and the earth possess life, intellect, and the ability to understand
@@ -10943,7 +10907,7 @@ Allah when He said: "Neither is there aught which does not celebrate His praise.
 (Al-Isra' 44)
 
 
- وَإِن مِّن شَىْءٍ إِلَّا يُسَبِحُ بِحَمْدِهِ
+وَإِن مِّن شَیۡءٍ إِلَّا یُسَبِّحُ بِحَمۡدِهِۦ
 
 The stupid one, because of his lack of understanding, would assume that the
 inanimate things possess life, intellect, and the ability to speak and enunciate
@@ -10974,7 +10938,7 @@ they have explained away all or most of their outward and literal meaning. They
 have taken the words of Allah, "Yet shall their hands speak unto us and their feet
 shall bear witness" (Ya Sin 65)
 
-وَتُكَلِّمُنَا أَيْدِيهِمْ وَتَشْهَدُ أَرْجُلُهُم
+وَتُكَلِّمُنَاۤ أَیۡدِیهِمۡ وَتَشۡهَدُ أَرۡجُلُهُم
 
 And: "And they shall say to their skin, 'Why do you witness against us?' They
 
@@ -10983,14 +10947,14 @@ And: "And they shall say to their skin, 'Why do you witness against us?' They
 <!-- PageNumber="202" -->
 <!-- PageHeader=" shall say, 'Allah who gives a voice to all things, has given us voice"(Fussilat 21)" -->
 
-وَقَالُواْ لِجُلُودِهِمْ لِمَ شَهِدْتُمْ عَلَيْنَا قَالُواْ أَنطَقَنَا اللَّهُ الَّذِىّ أَنطَقَ كُلَّ شَىْءٍ
+وَقَالُوا۟ لِجُلُودِهِمۡ لِمَ شَهِدتُّمۡ عَلَیۡنَاۖ قَالُوۤا۟ أَنطَقَنَا ٱللَّهُ ٱلَّذِیۤ أَنطَقَ كُلَّ شَیۡءࣲۚ
 
 And the conversation which takes place between Munkar and Nakir, and in
 the balance, the bridge, and the judgment day together with the debate
 between the people of Hell and the people of Heaven when (the former) said:
 "Pour upon us some water, or of the refreshments Allah has given you" (Al-A'raf 50)
 
-أَفِيضُواْ عَلَيْنَا مِنَ الْمَآءٍ أَوْ مِمَّا رَزَقَكُمُ اللَّهُ
+أَفِیضُوا۟ عَلَیۡنَا مِنَ ٱلۡمَاۤءِ أَوۡ مِمَّا رَزَقَكُمُ ٱللَّهُۚ
 
 And claimed that all this was figurative.
 
@@ -11000,7 +10964,7 @@ far as to forbid the allegorical interpretation of the words of Allah "Be' and i
 is." (An-Nahl 40)
 
 
- كُنْ فَيَكُونُ
+كُن فَیَكُونُ
 
 (His followers) have claimed that these words were words of actual speech
 with enunciated letters and sounds brought into existence by Allah every moment
@@ -11162,9 +11126,7 @@ He scatters through the earth; in the change of the winds and the clouds which
 they trail like their slaves between the sky and the earth, (here) indeed are Signs
 for a people that are wise." (Al-Baqarah 164)
 
-إِنَّ فِى خَلْقِ السَّمَوَاتِ وَالْأَرْضِ وَاخْتِلَفِ آَلَّيْلِ وَالنَّهَارِ وَالْفُلْكِ آَتِى تَجْرِى فِى الْبَحْرِ بِمَا يَنفَعُ النَّاسَ وَمَاً
-أَنزّلَ اللَّهُ مِنَ السَّمَآءِ مِن مٍَّ فَأَحْيَا بِهِ آلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ ذَابَّةٍ وَتَصْرِيفِ الرِّبَحِ
-وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَآءِ وَالأَرْضِ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ
+إِنَّ فِی خَلۡقِ ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضِ وَٱخۡتِلَـٰفِ ٱلَّیۡلِ وَٱلنَّهَارِ وَٱلۡفُلۡكِ ٱلَّتِی تَجۡرِی فِی ٱلۡبَحۡرِ بِمَا یَنفَعُ ٱلنَّاسَ وَمَاۤ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَاۤءِ مِن مَّاۤءࣲ فَأَحۡیَا بِهِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَا وَبَثَّ فِیهَا مِن كُلِّ دَاۤبَّةࣲ وَتَصۡرِیفِ ٱلرِّیَـٰحِ وَٱلسَّحَابِ ٱلۡمُسَخَّرِ بَیۡنَ ٱلسَّمَاۤءِ وَٱلۡأَرۡضِ لَـَٔایَـٰتࣲ لِّقَوۡمࣲ یَعۡقِلُونَ
 
 He also says: "Do you not see how Allah has created the seven heavens one
 over the other? And made the moon a light in their midst, and made the sun as a
@@ -11172,8 +11134,7 @@ over the other? And made the moon a light in their midst, and made the sun as a
 (gradually), And in the End He will return you into the (earth), and raise you
 forth (again at the Resurrection)?" (Nuh 15:18)
 
-أَلَمْ تَرَوْاْ كَيْفَ خَلَقَ اللّهُ سَبْعَ سَمَنوَاتٍ طِبَاقًا وَجَعَلَ اٌلْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا وَاَللَّهُ
-أَنْبَكُرُ مِنَ الْأَرْضِ نَّبَانًا
+أَلَمۡ تَرَوۡا۟ كَیۡفَ خَلَقَ ٱللَّهُ سَبۡعَ سَمَـٰوَٰتࣲ طِبَاقࣰا وَجَعَلَ ٱلۡقَمَرَ فِیهِنَّ نُورࣰا وَجَعَلَ ٱلشَّمۡسَ سِرَاجࣰا وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلۡأَرۡضِ نَبَاتࣰا ثُمَّ یُعِیدُكُمۡ فِیهَا وَیُخۡرِجُكُمۡ إِخۡرَاجࣰا
 
 And: "Do you then see? The (human Seed) that you throw out, Is it you who
 create it, or are We the Creators? We have decreed Death to be your common
@@ -11197,7 +11158,7 @@ We grow it? We have made it a memorial (of Our handiwork), and an article of
 comfort and convenience for the denizens of deserts." (Al-Waqi'ah 58:73)
 
 
- َحْنُ جَعَلْنَهَا تَذْكِرَةً وَمَتَعًا لِلْمُقْوِينَ
+نَحۡنُ جَعَلۡنَـٰهَا تَذۡكِرَةࣰ وَمَتَـٰعࣰا لِّلۡمُقۡوِینَ
 
 Any one with the least traces of brain in his head will, on considering the
 significance of these Holy Verses and examining the wonders of Allah's
@@ -11209,7 +11170,7 @@ with His law. For this reason Allah Almighty says: "Is there any doubt concernin
 Allah, the Creator of the Heavens and of the Earth?" (Abraham 11)
 
 
- أَفِ اللَّهِ شَكٍّ فَاطِرِ السَّمَوَاتِ وَالْأَرْضِ
+قَالَتۡ لَهُمۡ رُسُلُهُمۡ إِن نَّحۡنُ إِلَّا بَشَرࣱ مِّثۡلُكُمۡ وَلَـٰكِنَّ ٱللَّهَ یَمُنُّ عَلَىٰ مَن یَشَاۤءُ مِنۡ عِبَادِهِۦۖ وَمَا كَانَ لَنَاۤ أَن نَّأۡتِیَكُم بِسُلۡطَـٰنٍ إِلَّا بِإِذۡنِ ٱللَّهِۚ وَعَلَى ٱللَّهِ فَلۡیَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ
 
 The Messengers were, therefore, sent in order to call men to monotheism,
 that they may say, "There is no god but Allah." They were not, however,
@@ -11220,15 +11181,14 @@ and the earth and subjected the sun and the moon (to His Law), they will
 certainly reply, "Allah." How are they then deluded away (from the truth)?""
 (Az-Zumar 38)
 
-وَلَِنْ سَأَلْتَهُم مَّنْ خَلَقَ السَّمَوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ
+وَلَىِٕن سَأَلۡتَهُم مَّنۡ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضَ لَیَقُولُنَّ ٱللَّهُۚ
 
 And: "So set you your face steadily and truly to the Faith: (establish) Allah's
 handiwork according to the pattern on which He has made mankind: no change
 (let there be) in the work (wrought) by Allah: that is the standard Religion: but
 most among mankind understand not." (Ar-Rum 30)
 
-فَأَقِمْ وَجْهَكَ لِلدِيْنِ حَنِيفًاً فِظْرَتَ الِّ الَّتِى فَطَرَ النَّاسَ عَلَيْهَاً لَا تَبْدِيلَ لِخَلْقِ اللَّهِّ ذَلِكَ الدِّينُ الْقَيِّمُ
-وَلَكِنَّ أَكْثَ النَّاسِ لَا يَعْلَمُونَ
+فَأَقِمۡ وَجۡهَكَ لِلدِّینِ حَنِیفࣰاۚ فِطۡرَتَ ٱللَّهِ ٱلَّتِی فَطَرَ ٱلنَّاسَ عَلَیۡهَاۚ لَا تَبۡدِیلَ لِخَلۡقِ ٱللَّهِۚ ذَٰلِكَ ٱلدِّینُ ٱلۡقَیِّمُ وَلَـٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا یَعۡلَمُونَ
 
 Therefore there is in human nature and the testimonies of the Qur'an what
 will render the task of citing proofs unnecessary. Nevertheless, by way of
@@ -11444,7 +11404,7 @@ Comprehension of the sky in Allah's Design in the Qur'an as shown from the
 statement of Allah Almighty: "Moreover, He comprehended in His design the
 sky, and it had been (as) smoke." (Fussilat 11)
 
-ثُمَّ اسْتَوَىِّ إِلَى السَّمَآءِ وَهِىَ دُخَانٌ
+ثُمَّ ٱسۡتَوَىٰۤ إِلَى ٱلسَّمَاۤءِ وَهِیَ دُخَانࣱ
 
 This is only through dominion and power, as the poet said: "Bishr has gained
 dominion over Iraq, With neither sword nor shedding of blood." Thus were the
@@ -11453,7 +11413,7 @@ interpretation just as these of the esoteric knowledge were compelled to interpr
 the statement of Allah Almighty: "And He is with you wheresoever you may be.
 And Allah sees well all that you do." (Al-Hadid 4)
 
-وَهُوَ مَعَكُمْ أَيْنَ مَاكُمْ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
+وَهُوَ مَعَكُمۡ أَیۡنَ مَا كُنتُمۡۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِیرࣱ
 m
 
 <!-- PageBreak -->
@@ -11478,19 +11438,19 @@ and unlimited by directions and climes, is nevertheless seen with the eyes in th
 hereafter, the everlasting abode. For He Almighty says: "On that day shall faces
 beam with light, looking towards their Lord." (Al-Qiyamah 22:23)
 
-وُجُوهٌ يَوْمَيِذٍ نَاضِرَةُ إِلَىْ رَبِهَا نَاظِرَةٌ
+وُجُوهࣱ یَوۡمَىِٕذࣲ نَّاضِرَةٌ إِلَىٰ رَبِّهَا نَاظِرَةࣱ
 
 But He cannot be seen in this world according to His statement: "No vision
 can grasp Him. But His grasp is over all vision: He is above all comprehension,
 yet is acquainted with all things" (Al-An'am 100)
 
-سُبْحَنَهُ، وَتَعَلَى عَمَّا يَصِفُونَ
+سُبۡحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا یَصِفُونَ
 
 And according to His statement in His conversation with Moses: "By no
 means can you see Me (direct); but look upon the mount; if it abide in its place,
 then shall you see Me." (Al-A'raf 143)
 
-قَالَ رَتٍّ أَرِنِى أَنْظُرْ إِلَيْكَ قَالَ لَنْ تَرَنِى وَلَكِنِ انْظُرْ إِلَى الْجَبَلِ فَإِنِ اسْتَقَرَّ مَكَانَهُ، فَسَوْفَ تَرَبِى
+قَالَ رَبِّ أَرِنِیۤ أَنظُرۡ إِلَیۡكَۚ قَالَ لَن تَرَىٰنِی وَلَـٰكِنِ ٱنظُرۡ إِلَى ٱلۡجَبَلِ فَإِنِ ٱسۡتَقَرَّ مَكَانَهُۥ فَسَوۡفَ تَرَىٰنِیۚ
 
 Would that I knew how the Mu'tazilites knew the attributes of Allah that
 Moses himself did not know; or how Moses asked to see Allah Almighty when
@@ -11523,7 +11483,7 @@ in the heavens and the earth, other gods besides Allah, there would have been
 confusion in both! But glory to Allah, the Lord of the Throne: (High is He)
 above what they attribute to Him!" (Al-Anbiya 22)
 
-لَوْ كَانَ فِيهِمَآ ءَاِهِةُ إِلَّ اللَّهُ لَفَسَدَتَا فَسُبْحَنَ اَللَّهِ رَبِّ الْعَرْشِ عَمَّا يَصِفُونَ:
+لَوۡ كَانَ فِیهِمَاۤ ءَالِهَةٌ إِلَّا ٱللَّهُ لَفَسَدَتَاۚ فَسُبۡحَـٰنَ ٱللَّهِ رَبِّ ٱلۡعَرۡشِ عَمَّا یَصِفُونَ
 
 This will be readily illustrated (by the fact) that had there been two gods and
 the first of them willed a certain thing, the second, if he were under compulsion
@@ -11549,14 +11509,14 @@ things and comprehending all things; nothing in Heaven or on earth is ever hid
 from His knowledge. He is truthful when He says, "And He knows all things."
 (Al-Baqarah 29)
 
-وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ
+وَهُوَ بِكُلِّ شَیۡءٍ عَلِیمࣱ
 
 Furthermore evidence of His truthfulness is found in His statement:
 "Should He not know, He that created? And He is the One that understands the
 finest mysteries (and) is well-acquainted (with them)." (Al-Mulk 14)
 
 
- أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ
+أَلَا یَعۡلَمُ مَنۡ خَلَقَ وَهُوَ ٱللَّطِیفُ ٱلۡخَبِیرُ
 
 He has led you, through His creation, to arrive at the knowledge that you can
 not doubt the evidence which this intricate and orderly creation, even in
@@ -11605,14 +11565,14 @@ father, who ignorantly and erroneously worshipped idols, be sound? Abraham
 addressed his father saying: "O my father! why worship that which hears not, and
 sees not and can profit you nothing?" (Maryam 42)
 
-لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِى عَنكَ شَيْئًا
+لِمَ تَعۡبُدُ مَا لَا یَسۡمَعُ وَلَا یُبۡصِرُ وَلَا یُغۡنِی عَنكَ شَیۡـࣰٔا
 
 But if these defects which characterized the idols of his father characterized
 his god as well, his argument would have been invalid and his evidence worthless,
 and the statement of Allah Almighty "This is Our argument which We furnished
 Abraham against His people" (Al-An'am 83)
 
-وَتِلْكَ حُجَّتُنَآ ءَ اتَّيْنَهَا إِبْرَاهِيمَ عَلَى قَوْمِهِ،
+وَتِلۡكَ حُجَّتُنَاۤ ءَاتَیۡنَـٰهَاۤ إِبۡرَٰهِیمَ عَلَىٰ قَوۡمِهِۦۚ
 
 Would have been false. And just at is has been possible for the mind to
 conceive of His being a doer, although He has none of the physical senses, and
@@ -11645,7 +11605,7 @@ the b precedes the s and consequently the s cannot be ancient). For Allah has a
 secret (reason) for leading some men astray; "And whom Allah causes to err,
 none shall guide." (An-Nisa 88)
 
-مَنْ أَضَلَّ اَللَّهُ وَ مَن يُضْلِلِ اَللَّهُ فَلَن تَجِدَ لَهُ سَبِيلًا
+مَنۡ أَضَلَّ ٱللَّهُۖ وَمَن یُضۡلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِیلࣰا
 
 As to him who deems it improbable that Moses could have, in this world,
 heard a speech which was neither sound nor phone, let him deny that in the
@@ -11756,19 +11716,18 @@ Him) and for Him, and are connected with His power, confirming thereby His state
 "That is Allah, your Lord! There is no god but He, the Creator of all things; then worship
 you Him; and He has power to dispose of all affairs" (Al-An'am 102)
 
-ذَلِكُمُ اللهُ رَبُّكُمْ لَآ إِلَهَ إِلَّ هُوَّ خَلِقُ كُلِّ شَىٍْ فَأَعْبُدُوهُ وَهُوَ عَلَى كُلِّ شَىْءٍ وَكِيلٌ
+ذَٰلِكُمُ ٱللَّهُ رَبُّكُمۡۖ لَاۤ إِلَـٰهَ إِلَّا هُوَۖ خَـٰلِقُ كُلِّ شَیۡءࣲ فَٱعۡبُدُوهُۚ وَهُوَ عَلَىٰ كُلِّ شَیۡءࣲ وَكِیلࣱ
 
 And "But Allah has created you and your handiwork!" (As-Saffat 96)
 
-وَاللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ
+وَٱللَّهُ خَلَقَكُمۡ وَمَا تَعۡمَلُونَ
 
 "And whether you hide your word or publish it, He certainly has (full)
 knowledge, of the secrets of (all) hearts. Should He not know, He that created?
 And He is the One that understands the finest mysteries (and) is well-acquainted
 (with them)." (Al-Mulk 13:14)
 
-وَأَسِرُواْ قَوْلَكُمْ أَوِ اجْهَرُواْ بِهَِ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ
-أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اُللَّطِيفُ الْخَبِيرُ
+وَأَسِرُّوا۟ قَوۡلَكُمۡ أَوِ ٱجۡهَرُوا۟ بِهِۦۤۖ إِنَّهُۥ عَلِیمُۢ بِذَاتِ ٱلصُّدُورِ أَلَا یَعۡلَمُ مَنۡ خَلَقَ وَهُوَ ٱللَّطِیفُ ٱلۡخَبِیرُ
 
 He commanded His servants to be careful in their words, works and secret
 thoughts and intentions, because He knows the orientation of their works, having
@@ -11824,20 +11783,18 @@ There is none that rescinds His Commands, none that supplements His decrees.
 He leads astray whom He wishes and guides whom He wishes. "He cannot be
 questioned for His acts, but they will be questioned (for theirs)." (Al-Anbiya 23)
 
-لَا يُسْئَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْئَلُونَ
+لَا یُسۡـَٔلُ عَمَّا یَفۡعَلُ وَهُمۡ یُسۡـَٔلُونَ
 
 This is attested in tradition by the statement which has a catholic consent of
 all the faithful, namely, "What He wills is and what He wills not is not" as well as
 the statement of Allah Almighty "that, had Allah (so) willed, He could have
 guided all mankind (to the Right)" (Ar-Ra'd 31)
 
-أَن َّوْ يَشَاءُ اللَّهُ لَهَدَى النَّاسَ جَمِيعًاً وَلَا يَزَالُ الَّذِينَ كَفَرُواْ تُصِيُهُم بِمَا صَنَعُواْ فَارِعَةٌ أَوْ تَحُلُّ قَرِيبًا مِّن
-دَارِهِمْ حَتَّى يَأْتِى وَعْدُ اللَّهِّ إِنَّ اللَّهَ لَا يُخْلِفُ المِعَادَ
+أَن لَّوۡ یَشَاۤءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِیعࣰاۗ وَلَا یَزَالُ ٱلَّذِینَ كَفَرُوا۟ تُصِیبُهُم بِمَا صَنَعُوا۟ قَارِعَةٌ أَوۡ تَحُلُّ قَرِیبࣰا مِّن دَارِهِمۡ حَتَّىٰ یَأۡتِیَ وَعۡدُ ٱللَّهِۚ إِنَّ ٱللَّهَ لَا یُخۡلِفُ ٱلۡمِیعَادَ
 
 And: "Had we pleased we had certainly given to every soul its guidance." (As-Sajdah 13)
 
-وَلَوْ شِئْنَا لَآَتَيْنَا كُلَّ نَفْسٍ هُدَنْهَا وَلَكِنْ حَقَّ الْقَوْلُ مِى لِأَمْلَأَنَّ جَهَنَّمَ مِنَ
-آلْجِنَّةِ وَالنَّاسِ أَحْمَعِينَ
+وَلَوۡ شِئۡنَا لَـَٔاتَیۡنَا كُلَّ نَفۡسٍ هُدَىٰهَا وَلَـٰكِنۡ حَقَّ ٱلۡقَوۡلُ مِنِّی لَأَمۡلَأَنَّ جَهَنَّمَ مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ أَجۡمَعِینَ
 
 <!-- PageBreak -->
 
@@ -11916,7 +11873,7 @@ them that burden. But as a matter of fact they have beseeched Allah to spare
 them that burden when they said." "O our Lord! Lay not on us that for which we
 have no power (to endure)." (Al-Baqarah 286)
 
-رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ،
+رَبَّنَا وَلَا تُحَمِّلۡنَا مَا لَا طَاقَةَ لَنَا بِهِۦۖ
 
 Furthermore Allah has informed His prophet that Abu-Jahl would not
 believe Him, nevertheless Allah commanded the Messenger of Allah "Allah's
@@ -11968,7 +11925,7 @@ think of necessity in connation with Allah. "He cannot be questioned for His act
 but they will be questioned (for theirs)." (Al-Anbiya 23)
 
 
- لَا يُسْئَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْتَلُونَ
+لَا یُسۡـَٔلُ عَمَّا یَفۡعَلُ وَهُمۡ یُسۡـَٔلُونَ
 
 I wonder what answer would the Mu'tazilites give when, in connation with his
 statement that it is incumbent upon Allah to do what is salutary and good, we
@@ -12149,8 +12106,7 @@ his own (origin and) Creation: he says, "Who can give life to (dry) bones and
 decomposed ones (at that)?" Say, "He will give them life Who created them for
 the first time! for He is well-versed in every kind of creation !. " (Ya Sin 78:79)
 
-وَضَرَبَ لَّنَا مَثَلاً وَنَسِىَ خَلْقَهُ، قَالَ مَن يُحْيِ الْعِظَمَ وَهِىَ رَمِيمٌ {لَ قُلْ يُخِهَا الَّذِىّ أَنشَأَهَآ أَوَّلَ مَرَّةٍ
-وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ لِينَ
+وَضَرَبَ لَنَا مَثَلࣰا وَنَسِیَ خَلۡقَهُۥۖ قَالَ مَن یُحۡیِ ٱلۡعِظَـٰمَ وَهِیَ رَمِیمࣱ قُلۡ یُحۡیِیهَا ٱلَّذِیۤ أَنشَأَهَاۤ أَوَّلَ مَرَّةࣲۖ وَهُوَ بِكُلِّ خَلۡقٍ عَلِیمٌ
 
 Therefore the ability of Allah to restore the dead to life is deduced from His
 ability to perform the first act of creation.
@@ -12163,7 +12119,7 @@ single individual." (Luqman 28)
 <!-- PageNumber="224" -->
 
 
-مَّا خَلْقُكُمْ وَلَا بَعْنُكُمْ إِلَّ كَنَفْسٍ وَاحِدَةِ
+مَّا خَلۡقُكُمۡ وَلَا بَعۡثُكُمۡ إِلَّا كَنَفۡسࣲ وَٰحِدَةٍۚ
 
 Restoration to life is nothing but a second act of creation, and is possible like
 the first act of creation.
@@ -12180,7 +12136,7 @@ peace be upon him" used to hear the voice of Gabriel and to see him while those
 who were around neither heard nor saw him. For "naught of His knowledge shall
 they encompass, barring what He wills." (Al-Baqarah 255)
 
-وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِ، إِلَّ بِمَا شَآءَ
+وَلَا یُحِیطُونَ بِشَیۡءࣲ مِّنۡ عِلۡمِهِۦۤ إِلَّا بِمَا شَاۤءَۚ
 
 Thus if Allah Almighty does not create for men hearing and seeing, they will
 not know Him.
@@ -12191,7 +12147,7 @@ brought, morning and evening: and (the Sentence will be) on the Day that
 Judgment will be established: "Cast you the People of Pharaoh into the severest
 Penalty!"" (Ghafir 46)
 
-النَّارُ يُعْرَضُونَ عَلَيْهَا غُدُوًّا وَعَشِيًّا وَيَوْمَ تَقُومُ السَّاعَةُ أَدْخِلُواْ ءَالَ فِرْعَوْنَ أَشَدَّ الْعَذَابِ
+ٱلنَّارُ یُعۡرَضُونَ عَلَیۡهَا غُدُوࣰّا وَعَشِیࣰّاۚ وَیَوۡمَ تَقُومُ ٱلسَّاعَةُ أَدۡخِلُوۤا۟ ءَالَ فِرۡعَوۡنَ أَشَدَّ ٱلۡعَذَابِ
 
 It was also well known that the Messenger of Allah "Allah's blessing and peace
 be upon him" and the righteous Fathers were wont to seek refuge in Allah from
@@ -12204,14 +12160,13 @@ which Allah ordains the restoration of sense perception and feeling.
 The fourth principle is the belief in the balance which is real. Allah
 Almighty says: "Just balances will we set up for the day of Judgement" (Al-Anbiya 47)
 
-وَنَضَعُ الْمَوَزِينَ الْقِسْطَ لِيَوْمِ اٌلْقِيَامَةِ
+وَنَضَعُ ٱلۡمَوَٰزِینَ ٱلۡقِسۡطَ لِیَوۡمِ ٱلۡقِیَـٰمَةِ
 
 And: "Then those whose balance (of good deeds) is heavy, they will attain
 salvation: But those whose balance is light, will be those who have lost their
 souls; in Hell will they abide ... " (Al-Mu'minun 102:103)
 
-فَمَن ثَقُلَتْ مَوَزِينُهُ، فَأُوْلَئِكَ هُمُ الْمُفْلِحُونَ وَمَنْ خَفَّتْ مَوَزِينُهُ، فَأُوْلَئِكَ الَّذِينَ خَسِرُواْ
-أَنْفُسَهُمْ فِى جَهَنَّمَ خَلِدُونَ رِّ
+فَمَن ثَقُلَتۡ مَوَٰزِینُهُۥ فَأُو۟لَـٰۤىِٕكَ هُمُ ٱلۡمُفۡلِحُونَ وَمَنۡ خَفَّتۡ مَوَٰزِینُهُۥ فَأُو۟لَـٰۤىِٕكَ ٱلَّذِینَ خَسِرُوۤا۟ أَنفُسَهُمۡ فِی جَهَنَّمَ خَـٰلِدُونَ
 
 <!-- PageBreak -->
 
@@ -12235,7 +12190,7 @@ Almighty says: "Be quick in the race for forgiveness from your Lord, and for a
 Garden whose width is that (of the whole) of the heavens and of the earth,
 prepared for the righteous." (Aal-e-Imran 133)
 
-وَسَارِعُواْ إِلَى مَغْفِرَةٍ مِن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا السَّمَنْوَتُ وَالْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ
+۞ وَسَارِعُوۤا۟ إِلَىٰ مَغۡفِرَةࣲ مِّن رَّبِّكُمۡ وَجَنَّةٍ عَرۡضُهَا ٱلسَّمَـٰوَٰتُ وَٱلۡأَرۡضُ أُعِدَّتۡ لِلۡمُتَّقِینَ
 
 The word of Allah 'prepared' proves that both Paradise and Hell are created.
 Therefore the literal meaning of the verse should be accepted, especially since it is
@@ -12243,7 +12198,7 @@ not impossible. Nor will it be said that there is no use in their creation befor
 day of judgment because "He (Allah) cannot be questioned for His acts, but they
 will be questioned (for theirs)." (Al-Anbiya 23)
 
-لَا يُسْئَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْتَلُونَ
+لَا یُسۡـَٔلُ عَمَّا یَفۡعَلُ وَهُمۡ یُسۡـَٔلُونَ
 
 The seventh principle is that the rightful imams after the Messenger of Allah
 "Allah's blessing and peace be upon him" are Abu-Bakr, then 'Umar, then
@@ -12383,12 +12338,12 @@ we evacuated those of the Believers who were there, But We found not there any
 
 just (Muslim) persons except in one house." (Adh-Dhariyat 35:36)
 
-﴿فَأَخْرَجْنَا مَن كَانَ فِيهَا مِنَ الْمُؤْمِنِينَ ۝ فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ الْمُسْلِمِينَ﴾
+فَأَخۡرَجۡنَا مَن كَانَ فِیهَا مِنَ ٱلۡمُؤۡمِنِینَ فَمَا وَجَدۡنَا فِیهَا غَیۡرَ بَیۡتࣲ مِّنَ ٱلۡمُسۡلِمِینَ
 Yet as a matter of fact there was only one family. Allah Almighty further says:
 "Moses said: "O my people! If you do (really) believe in Allah, then in Him put
 your trust if you submit (your will to His in Islam)." (Yunus 84)
 
-وَقَالَ مُوسَى يَقَوْمٍ إِن كُنتُمْ ءَامَنُم بِاللَّهِ فَعَلَيْهِ تَوَكَُّواْ إِن كُنتُم مُّسْلِمِينَ
+وَقَالَ مُوسَىٰ یَـٰقَوۡمِ إِن كُنتُمۡ ءَامَنتُم بِٱللَّهِ فَعَلَیۡهِ تَوَكَّلُوۤا۟ إِن كُنتُم مُّسۡلِمِینَ
 
 The Messenger of Allah "Allah's blessing and peace be upon him" also said:
 "Islam has been built upon five pillars." At another time the Messenger of Allah
@@ -12400,7 +12355,7 @@ the statement of Allah Almighty: " The desert Arabs say, "We believe." Say, "You
 have no Faith, but you (only) say, 'We have submitted our wills to Allah (in Islam),
 'for not yet has Faith entered your hearts." (Al-Hujurat 14)
 
-قَالَتِ آلْأَ عْرَابُ ءَامَنَّا قُل لَّمْ تُؤْمِنُواْ وَلَكِن قُولُواْ أَسْلَمْنَا وَلَمَّا يَدْخُلِ آلْإِيمَنُ فِى قُلُوبِكُمْ
+قَالَتِ ٱلۡأَعۡرَابُ ءَامَنَّاۖ قُل لَّمۡ تُؤۡمِنُوا۟ وَلَـٰكِن قُولُوۤا۟ أَسۡلَمۡنَا وَلَمَّا یَدۡخُلِ ٱلۡإِیمَـٰنُ فِی قُلُوبِكُمۡۖ
 
 This means that they have surrendered outwardly only. In this case the
 Messenger of Allah "Allah's blessing and peace be upon him" used belief for
@@ -12457,7 +12412,7 @@ of language. In this sense Allah Almighty used the following statement: The
 desert Arabs say, "We believe." Say, "You, have no Faith, but you (only) say, 'We
 have submitted our wills to Allah, 'for not yet has Faith entered your hearts." (Al-Hujurat 14)
 
-قَالَتِ الْأَعْرَابُ ءَامَنًا قُل لَّمْ تُؤْمِنُواْ وَلَكِن قُولُواْ أَسْلَمْنَا وَلَمَّا يَدْخُلِ آلْإِيمَنْنُ فِى قُلُوبِكُمْ
+قَالَتِ ٱلۡأَعۡرَابُ ءَامَنَّاۖ قُل لَّمۡ تُؤۡمِنُوا۟ وَلَـٰكِن قُولُوۤا۟ أَسۡلَمۡنَا وَلَمَّا یَدۡخُلِ ٱلۡإِیمَـٰنُ فِی قُلُوبِكُمۡۖ
 
 The same is true of the use of the two words (Islam and) in the traditio'
 related by Sa'd (Ibn Abu Waqqas) where the Messenger of Allah "Allah's blessin
@@ -12497,7 +12452,7 @@ exact agreement with it. It was in this sense that Allah used the following
 statement: "Then we evacuated those of the Believers who were there, But We
 found not there any just (Muslim) persons except in one house :. " (Adh-Dhariyat 35:36)
 
-فَأَخْرَجْنَا مَن كَانَ فِيهَا مِنَ الْمُؤْمِنِينَ فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ الْمُسْلِمِينَ
+فَأَخۡرَجۡنَا مَن كَانَ فِیهَا مِنَ ٱلۡمُؤۡمِنِینَ فَمَا وَجَدۡنَا فِیهَا غَیۡرَ بَیۡتࣲ مِّنَ ٱلۡمُسۡلِمِینَ
 
 The third consideration deals with the legal rules which govern the two
 terms. Islam and belief have two functions, one which pertains to the hereafter
@@ -12535,7 +12490,7 @@ and evidence which tend to confirm the contrary, such as the statement of
 Allah Almighty: "Those who believe and do righteous deeds." (At-Talaq 7)
 
 11
-اَلَّذِينَ ءَامَنُواْ وَعَمِلُواْ
+لِیُنفِقۡ ذُو سَعَةࣲ مِّن سَعَتِهِۦۖ وَمَن قُدِرَ عَلَیۡهِ رِزۡقُهُۥ فَلۡیُنفِقۡ مِمَّاۤ ءَاتَىٰهُ ٱللَّهُۚ لَا یُكَلِّفُ ٱللَّهُ نَفۡسًا إِلَّا مَاۤ ءَاتَىٰهَاۚ سَیَجۡعَلُ ٱللَّهُ بَعۡدَ عُسۡرࣲ یُسۡرࣰا
 
 This quotation would indicate that works are something over and above
 belief rather than a part of it. Otherwise the reference to works would be a
@@ -12675,23 +12630,21 @@ position on the statement of Allah Almighty: " And as for us, since we have
 listened to the Guidance, we have accepted it: and any who believes in his Lord
 has no fear, either of a short (account) or of any injustice." (Al-Jinn 13)
 
-وَأَنَّا لَمَّا سَمِعْنَا أَلْهُدَىْ ءَامَنَّا بِهِ، فَمَن يُؤْمِنْ بِرَبِّهِ، فَلَا تَخَافُ مَخْسًا وَلَا رَهَقًّا
+وَأَنَّا لَمَّا سَمِعۡنَا ٱلۡهُدَىٰۤ ءَامَنَّا بِهِۦۖ فَمَن یُؤۡمِنۢ بِرَبِّهِۦ فَلَا یَخَافُ بَخۡسࣰا وَلَا رَهَقࣰا
 
 And: " And those who believe in Allah and His Messengers, they are the
 Sincere (Lovers of Truth), and the Witnesses (who testify), in the eyes of their
 Lord: they shall have their Reward and their Light. But those who reject Allah
 and deny Our Signs, they are the Companions of Hell-Fire." (Al-Hadid 19)
 
-وَلَّذِينَ ءَامَنُوا بِاللَّهِ وَرُسُلِ أُوْلَئِكَ هُمُ الصِّدِّيقُونٌّ وَالشُّهَدَآءُ عِندَ رَبِهِمْ لَهُمْ أَجْرُهُمْ وَنُورُهُمِّ وَالَّذِينَ كَفَرُواْ
-وَكَذَّبُ أْبِثَايَتِنَا أُوْلَتْكَ أَصْحَبُ الْجَحِيمِ
+وَٱلَّذِینَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦۤ أُو۟لَـٰۤىِٕكَ هُمُ ٱلصِّدِّیقُونَۖ وَٱلشُّهَدَاۤءُ عِندَ رَبِّهِمۡ لَهُمۡ أَجۡرُهُمۡ وَنُورُهُمۡۖ وَٱلَّذِینَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔایَـٰتِنَاۤ أُو۟لَـٰۤىِٕكَ أَصۡحَـٰبُ ٱلۡجَحِیمِ
 
 And: " Almost bursting with fury: every time a Group is cast therein, its
 Keepers will ask, "Did no Warner come to you?" They will say: "Yes indeed; a
 Warner did come to us, but we rejected him and said, `Allah never sent down any
 (Message): you are in nothing but an egregious delusion!" (Al-Mulk 8:9)
 
-تَكَادُ تَمَيَّزُ مِنَ الْغَيْظِ ۖ كُلَّمَا أُلْقِيَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَا أَلَمْ يَأْتِكُمْ نَذِيرٌ
-قَالُوا بَلَىٰ قَدْ جَاءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ اللَّهُ مِنْ شَيْءٍ إِنْ أَنْتُمْ إِلَّا فِي ضَلَالٍ كَبِيرٍ
+تَكَادُ تَمَیَّزُ مِنَ ٱلۡغَیۡظِۖ كُلَّمَاۤ أُلۡقِیَ فِیهَا فَوۡجࣱ سَأَلَهُمۡ خَزَنَتُهَاۤ أَلَمۡ یَأۡتِكُمۡ نَذِیرࣱ قَالُوا۟ بَلَىٰ قَدۡ جَاۤءَنَا نَذِیرࣱ فَكَذَّبۡنَا وَقُلۡنَا مَا نَزَّلَ ٱللَّهُ مِن شَیۡءٍ إِنۡ أَنتُمۡ إِلَّا فِی ضَلَـٰلࣲ كَبِیرࣲ
 
 His saying: "every time a Group is cast therein" is inclusive and therefore
 every one who was cast into Hell fire must have rejected the warner. They rely
@@ -12704,24 +12657,24 @@ most wretched who has belied the truth and turned their back." (Al-Lail 15:16)
 
 
 
- لَا يَصْلَنَهَ إِلَّا الْأَنْقَىِ الَّذِى كَذَّبَ وَتَوَلَّى
+لَا یَصۡلَىٰهَاۤ إِلَّا ٱلۡأَشۡقَى ٱلَّذِی كَذَّبَ وَتَوَلَّىٰ
 
 In this verse we find a specification, as well as an affirmation and a negation.
 They also point out the following statement: " If any do good, good will (accrue)
 to them therefrom; and they will be secure from terror that Day." (An-Naml 89)
 
-مَنْ جَآءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌ مِنْهَا وَهُم مِّنْ فَزَعٍ يَوْمَبِذٍ ءَامِنُونَ
+مَن جَاۤءَ بِٱلۡحَسَنَةِ فَلَهُۥ خَیۡرࣱ مِّنۡهَا وَهُم مِّن فَزَعࣲ یَوۡمَىِٕذٍ ءَامِنُونَ
 
 But belief is the beginning of good works, as they quote: "And Allah loves
 these who do good." (Aal-e-Imran 134)
 
-وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ
+وَٱللَّهُ یُحِبُّ ٱلۡمُحۡسِنِینَ
 
 Allah also says: "As to those who believe and work righteousness, verily we
 shall not suffer to perish the reward of any who do a (single) righteous deed."
 (Al-Kahf 30)
 
-إِنَّ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَِّحَتِ إِنَّا لَا نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلاً
+إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ إِنَّا لَا نُضِیعُ أَجۡرَ مَنۡ أَحۡسَنَ عَمَلًا
 
 But they have no proof in any of these verses, because when belief is
 mentioned in them it means belief coupled with good works. We have shown
@@ -12736,8 +12689,7 @@ forgives not (the sin of) joining other gods with Him; but He forgives whom He
 pleases other sins than this: one who joins other gods with Allah, has strayed far,
 far away (from the right)." (An-Nisa 116)
 
-إِنَّ اللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَلِكَ لِمَن يَشَاءُ وَمَن يُشْرِكْ بِاللَّهِ
-فَقَدْ ضَلَّ ضَلَّلاً بَعِيدًا
+إِنَّ ٱللَّهَ لَا یَغۡفِرُ أَن یُشۡرَكَ بِهِۦ وَیَغۡفِرُ مَا دُونَ ذَٰلِكَ لِمَن یَشَاۤءُۚ وَمَن یُشۡرِكۡ بِٱللَّهِ فَقَدۡ ضَلَّ ضَلَـٰلَۢا بَعِیدًا
 
 The fact that Allah may exempt from punishment according to His will,
 signifies discrimination. He also says: "And for he who will rebel against Allah
@@ -12745,12 +12697,12 @@ and His Apostle is the fire of Hell. They shall remain therein always,-forever."
 declare such a person an unbeliever is, nevertheless, unjust. Allah also says:
 "Verily the unjust are in lasting torment." (Ash-Shura 45)
 
-أَلَّ إِنَّالظَّلِمِينَ فِى عَذَابٍ مُّقِيمٍ
+أَلَاۤ إِنَّ ٱلظَّـٰلِمِینَ فِی عَذَابࣲ مُّقِیمࣲ
 
 And: "And if any do evil, their faces will be thrown headlong into the Fire: Do
 you receive a reward other than that which you have earned by your deeds?" (An-Naml 90)
 
-وَمَّنْ جَآءَ بِالسَّيِّئَةِ فَكُبَّتْ وُجُوهُهُمْ فِى النَّارِ هَلْ تُجْزَوْنَ إِلَّ مَا كُنتُمْ تَعْمَلُونَ {يَا
+وَمَن جَاۤءَ بِٱلسَّیِّئَةِ فَكُبَّتۡ وُجُوهُهُمۡ فِی ٱلنَّارِ هَلۡ تُجۡزَوۡنَ إِلَّا مَا كُنتُمۡ تَعۡمَلُونَ
 
 <!-- PageBreak -->
 
@@ -12763,7 +12715,7 @@ in their pronouncements that the sinners will be punished. In fact the statement
 of Allah Almighty: "Not one of you but will Pass over it: this is, with your Lord, a
 decree which must be accomplished" (Maryam 71)
 
-وَإِن ِّنْكُمْ إِلَّا وَارِدُهَا كَانَ عَلَى رَبِكَ حَتْمًا مَّقْضِيًّا
+وَإِن مِّنكُمۡ إِلَّا وَارِدُهَاۚ كَانَ عَلَىٰ رَبِّكَ حَتۡمࣰا مَّقۡضِیࣰّا
 
 Is almost an express declaration that punishment is inevitable to all, because
 every believer cannot help but commit an offence. Furthermore, by the phrase
@@ -12779,8 +12731,7 @@ Again in His statement every time a Group is cast therein, its Keepers will ask,
 us, but we rejected him and said, `Allah never sent down any (Message): you are
 in nothing but an egregious delusion!"." (Al-Mulk 8:9)
 
-كُلِّمَآ أُلْقِىَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَتَتُهَا أَلَمْ يَأْتِّكُمْ نَذِيرٌ قَالُواْ بَلَى قَدْ جَآءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ اللهُ
-مِن شَىْءٍ إِنْ أَنْتُمْ إِلَّ فِي ضَلَلٍ كَبِيٍ
+تَكَادُ تَمَیَّزُ مِنَ ٱلۡغَیۡظِۖ كُلَّمَاۤ أُلۡقِیَ فِیهَا فَوۡجࣱ سَأَلَهُمۡ خَزَنَتُهَاۤ أَلَمۡ یَأۡتِكُمۡ نَذِیرࣱ قَالُوا۟ بَلَىٰ قَدۡ جَاۤءَنَا نَذِیرࣱ فَكَذَّبۡنَا وَقُلۡنَا مَا نَزَّلَ ٱللَّهُ مِن شَیۡءٍ إِنۡ أَنتُمۡ إِلَّا فِی ضَلَـٰلࣲ كَبِیرࣲ
 
 Allah meant a special group of unbelievers.
 
@@ -12796,7 +12747,7 @@ statement of Allah Almighty: " But, without doubt, I am (also) He that forgives
 again and again, to those who repent, believe, and do right, who, in fine, are ready
 to receive true guidance." (Taa-Haa 82)
 
-قَطِنِى لَغَفَّارٌ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَلِحًا ثُمَّ اهْتَدَى ِّ
+وَإِنِّی لَغَفَّارࣱ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَـٰلِحࣰا ثُمَّ ٱهۡتَدَىٰ
 
 And " By (the Token of) Time (through the Ages), Verily Man is in loss,
 Except those who have Faith, and do righteous deeds, and (join together) in the
@@ -12813,17 +12764,17 @@ decree which must be accomplished" (Maryam 71)
 <!-- PageNumber="236" -->
 
 
-وَإِن مِّنْكُمْ إِلَّ وَارِدُهَاْ كَانَ عَلَى رَبِّكَ حَنْمًا مَّقْضِيًّا
+وَإِن مِّنكُمۡ إِلَّا وَارِدُهَاۚ كَانَ عَلَىٰ رَبِّكَ حَتۡمࣰا مَّقۡضِیࣰّا
 
 And He adds: "But we shall save those Who guarded against evil, and we shall
 leave the wrongdoers therein, (Humbled) to their knees." (Maryam 72)
 
-ثُمَّ نُنَجِى الَّذِينَ آَنْقَواْ وَّنَذَرُ الظَّلِمِينَ فِهَا حِيًّا
+ثُمَّ نُنَجِّی ٱلَّذِینَ ٱتَّقَوا۟ وَّنَذَرُ ٱلظَّـٰلِمِینَ فِیهَا جِثِیࣰّا
 
 Also the statement of Allah: " for any that disobey Allah and His Messenger-
 for them is Hell: they shall dwell therein forever." (Al-Jinn 23)
 
-وَمَن يَعْصِ اللَّهَ وَرَسُولَهُ، فَإِنَّ لَهُ نَارَ جَهَنَّمَ خَلِدِينَ فِيهَا أَبَدًا
+وَمَن یَعۡصِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ لَهُۥ نَارَ جَهَنَّمَ خَـٰلِدِینَ فِیهَاۤ أَبَدًا
 
 They also failed to understand every verse wherein Allah Almighty mentions
 good works coupled with belief, and also such statements of Allah as His saying:
@@ -12831,14 +12782,12 @@ good works coupled with belief, and also such statements of Allah as His saying:
 (forever): and the wrath and the curse of Allah are upon him, and a dreadful
 penalty is prepared for him." (An-Nisa 93)
 
-وَمَن يَقْتُلّ مُؤْمِنًا مُتَعَمِّدًا فَجَزَاؤُهُ جَهَنَّمُ خَلِدًا فِيهَا وَغَضِبَ اللَّهُ عَلَيْهِ وَلَعَنَهُ,
-
-وَأَعَدَّ لَهُ, عَذَابًا عَظِيمًا
+وَمَن یَقۡتُلۡ مُؤۡمِنࣰا مُّتَعَمِّدࣰا فَجَزَاۤؤُهُۥ جَهَنَّمُ خَـٰلِدࣰا فِیهَا وَغَضِبَ ٱللَّهُ عَلَیۡهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِیمࣰا
 
 These generalities are also specific as is proved by the statement of Allah
 Almighty: "But other sins He will forgive to him whom He will." (An-Nisa 116)
 
-إِنَّ اللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ، وَيَغْفِرُ مَا دُونَ ذَلِكَ لِمَن يَشَآءُ
+إِنَّ ٱللَّهَ لَا یَغۡفِرُ أَن یُشۡرَكَ بِهِۦ وَیَغۡفِرُ مَا دُونَ ذَٰلِكَ لِمَن یَشَاۤءُۚ
 
 Therefore freedom to forgive men sins, other than the sin of polytheism, must
 be left to Allah. Similarly the statement of the Messenger of Allah "Allah's
@@ -12848,18 +12797,18 @@ thing. So also does the statement of Allah Almighty: " As to those who believe
 and work righteousness, verily we shall not suffer to perish the reward of any
 who do a (single) righteous deed." (Al-Kahf 30)
 
-إِنَّ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَِّحَتِ إِنَّا لَا تُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلاً
+إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ إِنَّا لَا نُضِیعُ أَجۡرَ مَنۡ أَحۡسَنَ عَمَلًا
 
 And "Verily Allah suffers not the reward of the righteous to perish." (At-Tawbah 120)
 
-إِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِيْمِنَ
+إِنَّ ٱللَّهَ لَا یُضِیعُ أَجۡرَ ٱلۡمُحۡسِنِینَ
 
 How then would Allah suffer the reward of belief itself as well as that of good
 works to be lost because of one single offence? As to the statement of Allah
 Almighty "If a man kills a Believer intentionally, his recompense is Hell, to abide
 therein (forever)" (An-Nisa 93)
 
-وَمَن يَقْتُلْ مُؤْمِنًا مُتَعَمِّدًا فَجَزَاؤُهُ جَهَنَّمُ خَلِّدًا فِيهَا
+وَمَن یَقۡتُلۡ مُؤۡمِنࣰا مُّتَعَمِّدࣰا فَجَزَاۤؤُهُۥ جَهَنَّمُ خَـٰلِدࣰا فِیهَا
 
 They mean whoever shall kill a believer because of his belief, and the words
 have been revealed for that particular purpose.
@@ -12946,15 +12895,12 @@ which of you has had his Faith increased by it? yea, those who believe, their
 Faith is increased, and they do rejoice. But those in whose hearts is a disease,
 it will add doubt to their doubt, and they will die in a state of unbelief." (At-Tawbah 124:125)
 
-وَإِذَا مَا أُنزِلَتْ سُورَةٌ فَمِنْهُم مَّن يَقُولُ أَيُّكُمْ زَادَتْهُ هَذِهِ إِيمَنَا فَأَمَّا الَّذِينَ ءَامَنُواْ
-فَزَادَتْهُمْ إِيمَنَّا وَهُمْ يَسْتَبْشِرُونَ وَأَمَّ الَّذِينَ فِى قُلُوبِهِمِ مَّرَضْ فَادَهُمْ رِجْسًا إِلَىْ رِجْسِهِمْ وَمَاتُواْ
-
-وَهُمْ كَفِرُونَ
+وَإِذَا مَاۤ أُنزِلَتۡ سُورَةࣱ فَمِنۡهُم مَّن یَقُولُ أَیُّكُمۡ زَادَتۡهُ هَـٰذِهِۦۤ إِیمَـٰنࣰاۚ فَأَمَّا ٱلَّذِینَ ءَامَنُوا۟ فَزَادَتۡهُمۡ إِیمَـٰنࣰا وَهُمۡ یَسۡتَبۡشِرُونَ وَأَمَّا ٱلَّذِینَ فِی قُلُوبِهِم مَّرَضࣱ فَزَادَتۡهُمۡ رِجۡسًا إِلَىٰ رِجۡسِهِمۡ وَمَاتُوا۟ وَهُمۡ كَـٰفِرُونَ
 
 And: "(He it is who sends down tranquillity into the hearts of the believers)
 that they might increase in faith." (Al-Fath 4)
 
-هُوَ الَّذِىّ أَنزَلَ السَّكِينَةَ فِى قُلُوبٍ الْمُؤْمِنِينَ لِيَزْدَادُواْ إِيمَنًا مَّعَ إِيمَنِمْ إِهَا
+هُوَ ٱلَّذِیۤ أَنزَلَ ٱلسَّكِینَةَ فِی قُلُوبِ ٱلۡمُؤۡمِنِینَ لِیَزۡدَادُوۤا۟ إِیمَـٰنࣰا مَّعَ إِیمَـٰنِهِمۡۗ
 
 According to one tradition the Messenger of Allah "Allah's blessing and peace
 be upon him" said: "Belief is subject to increase and depreciation." This is
@@ -13014,7 +12960,7 @@ until the whole heart is black, and blackness becomes man's second nature."
 Allah Almighty says: "By no means! But on their hearts is the stain of the (il)
 which they do!" (Al-Mutaffifin 14)
 
-كَلَّ بَلّ رَانَ عَلَى قُلُوبِهِم مَّا كَانُواْ يَكْسِبُونَ
+كَلَّاۖ بَلۡۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ یَكۡسِبُونَ
 
 The second usage of the term belief denotes both acceptance and works, just
 as the Messenger of Allah "Allah's blessing and peace be upon him" stated when
@@ -13098,17 +13044,17 @@ The first reason which does not arise from any doubt at all is the care not to
 be decisive for fear of self-justification and making one's self out to be pure.
 Allah Almighty says: "Assert not your own purity." (An-Najm 32)
 
-فَلَ تُزَّكُواْ أَنْفُسَكُمْ
+فَلَا تُزَكُّوۤا۟ أَنفُسَكُمۡۖ
 
 And: "Have you not turned your vision towards those who claim sanctity to
 themselves?" (An-Nisa 49)
 
-أَلَمْ تَرَ إِلَى الَّذِينَ يُزَكُونَ أَنفُسَهُم
+أَلَمۡ تَرَ إِلَى ٱلَّذِینَ یُزَكُّونَ أَنفُسَهُمۚ
 
 And: "Behold how they invent a lie against Allah but that by itself is a
 manifest sin!" (An-Nisa 50)
 
-اَنْظُرْ كَيْفَ يَفْتُونَ عَلَى اللَّهِ الْكَذِبَ وَكَفَى بِهِ إِثْمًا مُبِينًا
+ٱنظُرۡ كَیۡفَ یَفۡتَرُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَۖ وَكَفَىٰ بِهِۦۤ إِثۡمࣰا مُّبِینًا
 
 A certain wise man was once asked, "What is detestable truth?" He replied:
 "Man's praise of himself." Belief is one of the highest forms of praise and to be
@@ -13134,15 +13080,14 @@ things unto His Will. Thus Allah instructed His Prophet in courtesy and said to
 him: "Say not of a thing, 'I will surely do it tomorrow' without, 'if it be the will of
 Allah'." (Al-Kahf 23)
 
-وَلَا تَقُولَنَّ لِشَأَىْءٍ إِى فَاعِلٌّ ذَلِكَ غَدًا إِلَّ أَن يَشَآءَ اللَّهُ
+وَلَا تَقُولَنَّ لِشَا۟یۡءٍ إِنِّی فَاعِلࣱ ذَٰلِكَ غَدًا
 
 Nor has Allah limited (the use of the qualifying phrase) to those things the
 occurrence of which is subject to doubt. On the contrary He says: "You shall
 surely enter the sacred mosque, if it be the will of Allah, in full security, having
 your heads shaved and your hair cut: ye shall not fear" (Al-Fath 27)
 
-لَتَدْ خُلُنَّ الْمَسْجِدَ الْحَرَامَ إِن شَآءَ اللَّهُ ءَامِنِينَ مُخْلِّقِينَ رُءُوسَكُمْ
-وَمُقَصِرِينَ لَا تَخَافُونَ
+لَتَدۡخُلُنَّ ٱلۡمَسۡجِدَ ٱلۡحَرَامَ إِن شَاۤءَ ٱللَّهُ ءَامِنِینَ مُحَلِّقِینَ رُءُوسَكُمۡ وَمُقَصِّرِینَ لَا تَخَافُونَۖ
 
 Although He had full knowledge that they were to enter undoubtedly therein
 and that He had willed their entrance.
@@ -13192,25 +13137,24 @@ and His Messenger, and have never since doubted, but have striven with their
 belongings and their persons in the Cause of Allah: such are the sincere ones .. "
 (Al-Hujurat 15)
 
-إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ ءَامَنُواْ بِالَّهِ وَرَسُولِهِ، ثُمَّ لَمْ يَرْتَابُواْ وَجَهَدُواْ بِأَمْوَ لِهِمْ وَأَنْفُسِهِمْ فِى سَبِيلِ اللَّهِّ
-أُوْلَئِكَ هُمُ الصَّدِقُونَ
+إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِینَ ءَامَنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمۡ یَرۡتَابُوا۟ وَجَـٰهَدُوا۟ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡ فِی سَبِیلِ ٱللَّهِۚ أُو۟لَـٰۤىِٕكَ هُمُ ٱلصَّـٰدِقُونَ
 
 The doubt would, therefore, be concerning this truthfulness. Similarly Allah
 says: "But righteousness is to believe in Allah, the last day, the angels, the Books,
 and the Messengers." (Al-Baqarah 177)
 
-وَلَكِنَّ الْبِرَّ مَنْ ءَامَنَ بِاللَّهِ وَالْيَوْمِ آلْآَخِرِ وَالْمَلْنِكَةِ وَالْكِتَبِ وَالنَّبِيْنَ
+وَلَـٰكِنَّ ٱلۡبِرَّ مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡیَوۡمِ ٱلۡـَٔاخِرِ وَٱلۡمَلَـٰۤىِٕكَةِ وَٱلۡكِتَـٰبِ وَٱلنَّبِیِّـۧنَ
 
 Thus Allah laid down twenty qualities, such as the fulfillment of promises and
 fortitude under hardships, as conditions for belief, and then said (of those who
 possess them), "These are they who are true." (Al-Baqarah 177)
 
-أُوْلَئِكَ الَّذِينَ صَدَقُواْ
+أُو۟لَـٰۤىِٕكَ ٱلَّذِینَ صَدَقُوا۟ۖ
 
 Allah also said: "Allah will raise those of you who believe; and those to whom
 knowledge is given, to lofty ranks." (Al-Mujadilah 11)
 
-يَرْفَعِ اللّهُ الَّذِينَءَ امَنُواْ مِنكُمْ وَالَّذِينَ أُوتُواْ الْعِلْمَ دَرَجَاتٍّ
+یَرۡفَعِ ٱللَّهُ ٱلَّذِینَ ءَامَنُوا۟ مِنكُمۡ وَٱلَّذِینَ أُوتُوا۟ ٱلۡعِلۡمَ دَرَجَـٰتࣲۚ
 
 He further says: "And what cause have ye why ye should not spend in the
 cause of Allah? For to Allah belongs the heritage of the heavens and the earth.
@@ -13219,14 +13163,11 @@ Victory, (with those who did so later). Those are higher in rank than those who
 spent (freely) and fought afterwards, but to all has Allah promised a goodly
 (reward). And Allah is well acquainted with all that ye do." (Al-Hadid 10)
 
-وَمَا لَكُمْ أَلَّا تُنفِقُواْ فِى سَبِيلِ اللَّهِ وَلِلَّهِ مِيرَثُ السَّمَوَاتِ وَالْأَرْضِّ لَا يَسْتَوِى مِنكُم مِّنْ أَنَفَقَ
-مِن قَبْلٍ اُلْفَتْحِ وَقَلَ أُوْلَئِكَ أَعْظَمُ دَرَجَةُ مِنَ الَّذِينَ أَنْفَقُواْ مِنْ بَعْدُ وَقَتَلُواْ وَكُلَّ وَعَدَ اللَّهُ الْحُسْنَىِّ وَاللَّهُ
-
-بِمَا تَعْمَلُونَ خَبِيرٌلَِّ
+وَمَا لَكُمۡ أَلَّا تُنفِقُوا۟ فِی سَبِیلِ ٱللَّهِ وَلِلَّهِ مِیرَٰثُ ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضِۚ لَا یَسۡتَوِی مِنكُم مَّنۡ أَنفَقَ مِن قَبۡلِ ٱلۡفَتۡحِ وَقَـٰتَلَۚ أُو۟لَـٰۤىِٕكَ أَعۡظَمُ دَرَجَةࣰ مِّنَ ٱلَّذِینَ أَنفَقُوا۟ مِنۢ بَعۡدُ وَقَـٰتَلُوا۟ۚ وَكُلࣰّا وَعَدَ ٱللَّهُ ٱلۡحُسۡنَىٰۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِیرࣱ
 
 He Further says: "They are of varying ranks in the Sight of Allah." (Aal-e-Imran 163)
 
-هُمْ دَرَجَتُ عِندَ اللهُ
+هُمۡ دَرَجَـٰتٌ عِندَ ٱللَّهِۗ
 
 The Messenger of Allah "Allah's blessing and peace be upon him" said: "Belief
 is like unto a nude who should be clothed with piety." And again, "Belief
@@ -13323,7 +13264,7 @@ when the heart lie between two of the fingers of the Merciful (Allah), and He
 does with them what He wills? Allah Almighty says: "And there shall appear to
 them, from Allah, things they have never reckoned on." (Az-Zumar 47)
 
-وَبَدَا لَهُم مِنَ اللَّهِ مَا لَمْ يَكُونُواْ تَحْتَسِبُونَ
+وَبَدَا لَهُم مِّنَ ٱللَّهِ مَا لَمۡ یَكُونُوا۟ یَحۡتَسِبُونَ
 
 This was interpreted in commentaries to mean that men have done things
 which they thought were good but (on the day of judgment) these things
@@ -13389,7 +13330,7 @@ Allah has pre-ordained good things? It is said that the statement of Allah
 Almighty "And the stupor of death will bring truth (before his eyes)" (Qaf 19)
 
 
- وَجَآءَتْ سَكْرَةُ الْمَوْتِ بِالْحْقِ رِعَ
+وَجَاۤءَتۡ سَكۡرَةُ ٱلۡمَوۡتِ بِٱلۡحَقِّۖ
 
 Means that the pre-ordained thing has been fulfilled and made known.
 
@@ -13412,7 +13353,7 @@ believer', is an infidel; and whoever says, 'I am learned', is ignorant." In the
 interpretation of Allah's statement "And the words of your Lord are perfect in
 truth and in justice" (Al-An'am 115)
 
-وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلاً
+وَتَمَّتۡ كَلِمَتُ رَبِّكَ صِدۡقࣰا وَعَدۡلࣰاۚ
 
 It is said that 'perfect in truth' relates to those who died in belief and' perfect
 in justice', to those who died in polytheism. Allah also said: "And the final issue
@@ -13463,13 +13404,13 @@ The Messenger of Allah "Allah's blessing and peace be upon him" said:
 to prayer." Allah Almighty says: "Therein are men who aspire to purity, and Allah
 loves the purified." (At-Tawbah 108)
 
-فِيهِ رِ جَالٌ يُحِبُّونَ أَن يَتَطَهَّرُواْ وَاللَّهُ يُحِبُّ الْمُطَّهْرِينَ
+فِیهِ رِجَالࣱ یُحِبُّونَ أَن یَتَطَهَّرُوا۟ۚ وَٱللَّهُ یُحِبُّ ٱلۡمُطَّهِّرِینَ
 
 The Messenger of Allah "Allah's blessing and peace be upon him" said:
 "Purification is one half of belief." Allah Almighty also says: "Allah desires not to
 lay a burden upon you, but He desires to purify you." (Al-Ma'idah 6)
 
-مَا يُرِيدُ اللهُ لِيَجْعَلَ عَلَيْكُمْ مِنْ حَرَجٍ وَلَيْكِن يُرِيدُ لِيُطَهِرَكُمْ رِينَ
+مَا یُرِیدُ ٱللَّهُ لِیَجۡعَلَ عَلَیۡكُم مِّنۡ حَرَجࣲ وَلَـٰكِن یُرِیدُ لِیُطَهِّرَكُمۡ
 
 Through these externals, those who possess insight become conscious of the
 fact that the most important thing is the purification of the heart, because, it is
@@ -13491,7 +13432,7 @@ actually descend into the inmost self unless everything other than Allah is
 removed therefrom. For this reason Allah Almighty says: "Say: "Allah (sent it
 down)": then leave them to plunge in vain discourse and trifling."" (Al-An'am 91)
 
-قُلِ اللٌّ ثُمَّ ذَرْهُمْ فِي خَوْضِهِمْ يَلْعَبُونَ
+قُلِ ٱللَّهُۖ ثُمَّ ذَرۡهُمۡ فِی خَوۡضِهِمۡ یَلۡعَبُونَ
 
 <!-- PageNumber="249" -->
 <!-- PageBreak -->
@@ -15072,16 +15013,16 @@ knowledge except in their youth and in youth lies all that is good." In support 
 his assertion he quoted the statement of Allah: "They said: 'We heard a youth make
 mention of them whom they call Abraham."" (Al-Anbiya 60)
 
-قَالُواْ سَمِعْنَا فَتَّى يَذْكُرُهُمْ يُقَالُ لَهُ: إِبْرَاهِيمُ
+قَالُوا۟ سَمِعۡنَا فَتࣰى یَذۡكُرُهُمۡ یُقَالُ لَهُۥۤ إِبۡرَٰهِیمُ
 
 He also quoted the statement of Allah Almighty: "They were youths who had
 believed in their Lord, and in guidance had We increased them" (Al-Kahf 13)
 
-إِنَّهُمْ فِتْيَةُ ءَامَنُواْ بِرَبِّهِمْ وَزِدْنَهُمْ هُدِّى
+إِنَّهُمۡ فِتۡیَةٌ ءَامَنُوا۟ بِرَبِّهِمۡ وَزِدۡنَـٰهُمۡ هُدࣰى
 
 And: "And We bestowed on him wisdom while yet a child." (Maryam 12)
 
-وَءَاتَيْنَهُ الْحُكْمَ صَبِيًّا قَ
+وَءَاتَیۡنَـٰهُ ٱلۡحُكۡمَ صَبِیࣰّا
 
 Anas was wont to say, "The Messenger of Allah "Allah's blessing and peace
 be upon him" died having in his head and beard no more than twenty gray hairs."
@@ -15152,7 +15093,7 @@ men from women. According to an odd interpretation it is the beard which is
 meant by the statement of Allah Almighty: "He adds to His creatures what He
 wills" (Fatir 1)
 
-يَزِيدُ فِى الْخُلْقِ مَا يَشَآءٌ َِ
+یَزِیدُ فِی ٱلۡخَلۡقِ مَا یَشَاۤءُۚ
 
 The followers of Al-Ahnaf Ibn Qais remonstrated saying, "We wish we could
 purchase for Al-Ahnaf a beard though it may cost us twenty thousand." Shuraih
@@ -15302,7 +15243,7 @@ until he finishes from his Call to prayer."
 In comment on Allah's statement: "And who is better in speech than he, who
 invokes Allah and does righteousness" (Fussilat 33)
 
-وَمَنْ أَحْسَنُ قَوْلاً مِّمَّن دَعَا إِلَى اللَّهِ وَعَمِلَ صَلِحًا :ـ
+وَمَنۡ أَحۡسَنُ قَوۡلࣰا مِّمَّن دَعَاۤ إِلَى ٱللَّهِ وَعَمِلَ صَـٰلِحࣰا وَقَالَ إِنَّنِی مِنَ ٱلۡمُسۡلِمِینَ
 
 It is said: "It was revealed in connection with the Mu'adhdhins." (It is
 unanimously narrated on the authority of Abu Sa'id that the Messenger of Allah
@@ -15337,7 +15278,7 @@ pronounces the Call to prayer, and also the prayer establishment (Iqamah), angel
 Allah Almighty says in this connection: "set up regular prayers: for such
 prayers are enjoined on Believers at stated times." (An-Nisa 103)
 
-إِنَّ الصَّلَوةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَبًا مَّوْقُوتًا
+إِنَّ ٱلصَّلَوٰةَ كَانَتۡ عَلَى ٱلۡمُؤۡمِنِینَ كِتَـٰبࣰا مَّوۡقُوتࣰا
 
 (It is narrated by Abu Dawud, Ibn Majah and An-Nasa'i on the authority of
 Ubadah Ibn As-Samit that the Messenger of Allah "Allah's blessing and peace
@@ -15606,12 +15547,12 @@ Hurairah) that a servant becomes the closest to Allah Almighty when he is in the
 posture of prostration; and this is the significance of Allah's statement: "But
 prostrate yourself in adoration, and bring yourself the closer (to Allah)!" (Al-Alaq 19)
 
-كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِب
+كَلَّا لَا تُطِعۡهُ وَٱسۡجُدۡ وَٱقۡتَرِب ۩
 
 He further says: "On their faces are their marks, (being) the traces of their
 prostration." (Al-Fath 29)
 
-سِيمَاهُمْ فِى وُجُوهِهِمِ مِّنْ أَثَرِ السُّجُودِ
+سِیمَاهُمۡ فِی وُجُوهِهِم مِّنۡ أَثَرِ ٱلسُّجُودِۚ
 
 It is said that this refers to such of earth as sticks to their foreheads because of
 prostration; and it is also said, and it is more right, that it refers to the light of
@@ -15652,7 +15593,7 @@ in such posture."
 Allah Almighty says: "And establish regular prayers for celebrating My
 Praises." (Taa-Haa 14)
 
-فَاعْبُدْنِى وَأَقِمِ الصَّلَوةَ لِذِكْرِىّ
+فَٱعۡبُدۡنِی وَأَقِمِ ٱلصَّلَوٰةَ لِذِكۡرِیۤ
 
 <!-- PageBreak -->
 
@@ -15661,12 +15602,12 @@ Praises." (Taa-Haa 14)
 
 He further says: "Be not of the heedless." (Al-A'raf 205)
 
-وَلَا تَكُن مِّنَ الْغَفِلِينَ
+وَلَا تَكُن مِّنَ ٱلۡغَـٰفِلِینَ
 
 He says too: "Approach not the prayer with your minds befogged until you
 understand what you say." (An-Nisa 43)
 
-لَا تَقْرَبُواْ الصَّلَوةَ وَأَنتُمْ سُكَرَى حَتَّى تَعْلَمُواْ مَا تَقُولُونَ
+لَا تَقۡرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمۡ سُكَـٰرَىٰ حَتَّىٰ تَعۡلَمُوا۟ مَا تَقُولُونَ
 
 It is said that mind's being befogged refers here to the severe anxiety, or to the
 love of this world according to another opinion. But according to Wahb: it is the
@@ -15707,7 +15648,7 @@ Protector, just as Allah Almighty says, in confirmation to that: " O man! Verily
 you are ever toiling on towards your Lord, painfully toiling, but you shall meet
 Him." (Al-Inshiqaq 6)
 
-يَأَيُّهَا آلْإِنسَنْنُ إِنَّكَ كَادِحُ إِلَى رَبِّكَ كَدْحً فَعُلَقِيِ
+یَـٰۤأَیُّهَا ٱلۡإِنسَـٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدۡحࣰا فَمُلَـٰقِیهِ
 
 <!-- PageBreak -->
 
@@ -15717,12 +15658,12 @@ Him." (Al-Inshiqaq 6)
 He further says: "So fear Allah; for it is Allah that teaches you. And Allah is
 well acquainted with all things." (Al-Baqarah 282)
 
-وَاتَّقُواْ اللَّهَ وَيُعَلِّمُكُمُ اللَّهُ وَاللَّهُ بِكُلٍ شَىْءٍ عَلِيمٌ لَّمْ
+وَٱتَّقُوا۟ ٱللَّهَۖ وَیُعَلِّمُكُمُ ٱللَّهُۗ وَٱللَّهُ بِكُلِّ شَیۡءٍ عَلِیمࣱ
 
 He says too: "And fear Allah, and know that ye are to meet Him (in the
 Hereafter), and give (these) good tidings to those who believe." (Al-Baqarah 223)
 
-وَأَّقُواْ اللّهَ وَأَعْلَمُواْ أَنَّكُمْ مُكَفُوهُ وَبَشِرِ الْمُؤْمِنِينَ
+وَٱتَّقُوا۟ ٱللَّهَ وَٱعۡلَمُوۤا۟ أَنَّكُم مُّلَـٰقُوهُۗ وَبَشِّرِ ٱلۡمُؤۡمِنِینَ
 
 (It is narrated on the authority of Al-Hassan, Ibn Abbas and Ibn Mas'ud
 that the Prophet) said: "He, whose prayer does not forbid him from doing what
@@ -15835,7 +15776,7 @@ a whole night (to offer supererogatory prayers) with the heart heedless."
 Allah Almighty says: "The mosques of Allah shall be visited and maintained by
 those who believe in Allah and the Last Day." (At-Tawbah 18)
 
-إِنَّمَا يَعْمُرُ مَسَجِدَ اللَّهِ مَنْ ءَامَنَ بِاللَّهِ وَاَلْيَوْمِ الْآَخِرِ اَ
+إِنَّمَا یَعۡمُرُ مَسَـٰجِدَ ٱللَّهِ مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡیَوۡمِ ٱلۡـَٔاخِرِ
 
 (It is narrated by Ibn Majah on the authority of Jabir that the Messenger of
 Allah) said: "He, who constructs a mosque even (as small in area) as a pigeon's
@@ -15889,7 +15830,7 @@ the ascender which raises up his deeds in the heaven weep on him." He recited
 Allah's saying: " And neither heaven nor earth shed a tear over them: nor were
 they given a respite (again)." (Ad-Dukhan 29)
 
-فَمَا بَكَتْ عَلَيْهِمُ السَّمَاءُ وَالْأَرْضُ وَمَا كَانُواْ مُنظَرِينَ
+فَمَا بَكَتۡ عَلَیۡهِمُ ٱلسَّمَاۤءُ وَٱلۡأَرۡضُ وَمَا كَانُوا۟ مُنظَرِینَ
 
 According to Ibn Abbas: "The earth weeps on such for forty mornings."
 
@@ -15919,12 +15860,12 @@ in fetters, as well as to lift one of both legs. In relation to the first case, 
 Almighty says: "And you will see the Sinners that day bound together in fetters."
 (Abraham 49)
 
-وَتَرَى الْمُجْرِمِينَ يَوْمَيِذٍ مُّقَرَّنِينَ فِ آلْأَصْفَادِ
+وَتَرَى ٱلۡمُجۡرِمِینَ یَوۡمَىِٕذࣲ مُّقَرَّنِینَ فِی ٱلۡأَصۡفَادِ
 
 As for the other, He Almighty says: " Behold, there were brought before him,
 at eventide, coursers of the highest breeding, and swift of foot." (Sad 38)
 
-إِذْ عُرِضَ عَلَيْهِ بِالْعَشِيّ الصَّفِنَتُ الْجِيَادُ
+وَءَاخَرِینَ مُقَرَّنِینَ فِی ٱلۡأَصۡفَادِ
 
 This is what should be observed as far as his legs are concerned on standing.
 
@@ -16478,7 +16419,7 @@ for the celebration of My Praises." (Taa-Haa 14)
 
 <!-- PageNumber="306" -->
 
-فَاعْبُدْنِىّ وَأَقِمِ الصَّلَوْةَ لِذِكْرِىّ
+فَٱعۡبُدۡنِی وَأَقِمِ ٱلصَّلَوٰةَ لِذِكۡرِیۤ
 
 The obligation of submission appears evident here since heedlessness
 stands in opposition to celebration: so, how he who proves heedless in all of
@@ -17268,7 +17209,7 @@ because the statement of Allah Almighty: "So, he, who expects to meet his Lord
 (in the hereafter), let him work righteousness and ascribe nothing to Him in
 worship" (Al-Kahf 110)
 
-فَمَن كَانَ يَرْجُواْ لِقَآءَ رَبِّهِ، فَلْيَعْمَلْ عَمَلاً صَالِحًا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِ- أَحَدَّا
+فَمَن كَانَ یَرۡجُوا۟ لِقَاۤءَ رَبِّهِۦ فَلۡیَعۡمَلۡ عَمَلࣰا صَـٰلِحࣰا وَلَا یُشۡرِكۡ بِعِبَادَةِ رَبِّهِۦۤ أَحَدَۢا
 
 Was revealed in connection with him who intends, with his worship, not only
 Allah's Countenance but also the people praise. Be then careful and fearful of this
@@ -17426,7 +17367,7 @@ examples) is the right of the stories of the Prophets. In this respect, it is na
 that when Zurarah Ibn Awfa (one of the companions) came in his recitation to
 His saying: "Finally, when the Trumpet is sounded" (Al-Muddaththir 8)
 
-فَإِذَا يُقِرَفِ النَّاقُورِ ِيَّ
+فَإِذَا نُقِرَ فِی ٱلنَّاقُورِ
 
 He fell dead. It is narrated that whenever Ibrahim An-Nakh'i heard the saying
 of Allah Almighty: "When the sky is rent asunder", he would quiver until his
@@ -17458,7 +17399,7 @@ and those of Tasbih. It is narrated that it was the habit of An-Nakh'i, whenever
 came upon Allah's statement: "No son did Allah beget, nor is there any god along
 with Him" (Al-Mu'minun 91)
 
-مَا أَّخَذَ اَللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُ مِنْ إِلَهٍ
+مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدࣲ وَمَا كَانَ مَعَهُۥ مِنۡ إِلَـٰهٍۚ
 ¿
 
 To lower his tone as if he felt shy of making a mention of anything that is not
@@ -17514,7 +17455,7 @@ standing in front of Allah Almighty (in prayer). In comment on Allah's saying: "
 Who sees you standing forth (in prayer), And your movements among those who
 prostrate themselves" (Ash-Shu'ara' 218:219)
 
-الَّذِى يَرَنكَ حِينَ تَقُومُ وَتَقَلُّبُكَ فِى السَّجِدِينَ
+ٱلَّذِی یَرَىٰكَ حِینَ تَقُومُ وَتَقَلُّبَكَ فِی ٱلسَّـٰجِدِینَ
 
 "It implies one's standing, bowing, prostration and sitting."
 
@@ -17630,7 +17571,7 @@ For this reason, He Almighty says: "And fall in prostration, and draw yourself
 near (unto Me)." (Al-Alaq 19)
 
 
-وَأَسْجُدَّ وَأَقْتَرِب
+وَٱسۡجُدۡ وَٱقۡتَرِب
 
 But the disclosure granted to every prayer varies in accordance with the degree
 of his purification from the impurities of this world.
@@ -17709,7 +17650,7 @@ same state, with neither increase nor decrease. For this reason, Allah tells abo
 them in His Saying on their tongue: "And there is none among us but that he has
 a well-known station." (As-Saffat 164)
 
-وَمَا مِنَّآَ إِلَّ لَهُ، مَقَامٌ مَّعْلُومٌ ك ..
+وَمَا مِنَّاۤ إِلَّا لَهُۥ مَقَامࣱ مَّعۡلُومࣱ
 
 But man differs from angels in the matter of promotion in degrees, which
 enables him to advance in closeness and nearness unto the Presence of Allah
@@ -17725,14 +17666,13 @@ celebrate His praises night and day, nor do they ever flag or intermit." (Al-Anb
 <!-- PageNumber="329" -->
 <!-- PageHeader="Book four: The mysteries and duties of prayer" -->
 
-وَلَّهُ, مَنْ فِى السَّمَوَاتِ وَالْأَرْضِّ وَمَنْ عِندَهُ، لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِ، وَلَا يَسْتَخْسِرُونَ
-يُسَبِّحُونَ الَّيْلَ وَالنَّهَارَ لَا يَفْتُرُونَ إََِّ
+وَلَهُۥ مَن فِی ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضِۚ وَمَنۡ عِندَهُۥ لَا یَسۡتَكۡبِرُونَ عَنۡ عِبَادَتِهِۦ وَلَا یَسۡتَحۡسِرُونَ یُسَبِّحُونَ ٱلَّیۡلَ وَٱلنَّهَارَ لَا یَفۡتُرُونَ
 
 The prayer is the key to attain more degrees, in accordance with the statement
 of Allah Almighty: "Prosperous are the faithful believers, who humble themselves
 in their prayers." (Al-Mu'minun 1:2)
 
-قَدْ أَفْلَحَ الْمُؤْمِنُونَ إِنَّ الَّذِينَ هُمْ فِى صَلَائِهِمْ خَشِعُونَ
+بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ قَدۡ أَفۡلَحَ ٱلۡمُؤۡمِنُونَ ٱلَّذِینَ هُمۡ فِی صَلَاتِهِمۡ خَـٰشِعُونَ
 
 After He ascribes faith to them, He praises them with particular prayer in
 which they are submissive. He concludes the characteristics of the prosperous
@@ -18410,7 +18350,7 @@ When the call is proclaimed to prayer on Friday (the Day of Assembly), hasten
 earnestly to the Remembrance of Allah, and leave off business (and traffic): that
 is best for you if you but knew!" (Al-Jumu'ah 9)
 
-يَـٰٓأَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِن يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
+یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِذَا نُودِیَ لِلصَّلَوٰةِ مِن یَوۡمِ ٱلۡجُمُعَةِ فَٱسۡعَوۡا۟ إِلَىٰ ذِكۡرِ ٱللَّهِ وَذَرُوا۟ ٱلۡبَیۡعَۚ ذَٰلِكُمۡ خَیۡرࣱ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ
 
 In this way, He Almighty has forbidden any business in the affairs of this
 world, as well as anything that might entertain from hastening to perform prayer
@@ -18608,8 +18548,7 @@ you who believe! When the call is proclaimed to prayer on Friday (the Day of
 Assembly), hasten earnestly to the Remembrance of Allah, and leave off business
 (and traffic): that is best for you if you but knew!" (Al-Jumu'ah 9)
 
-يَأَيُّهَا الَّذِينَ ءَامَنُواْ إِذَا نُودِىَ لِلصَّلَوْةِ مِن يَوْمِ الْجُمُعَةِ فَاسْعَوْاْ إِلَى ذِكْرِ اللَّهِ وَذَرُواْ الْبَيْعَ ذَلِكُمْ
-خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
+یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِذَا نُودِیَ لِلصَّلَوٰةِ مِن یَوۡمِ ٱلۡجُمُعَةِ فَٱسۡعَوۡا۟ إِلَىٰ ذِكۡرِ ٱللَّهِ وَذَرُوا۟ ٱلۡبَیۡعَۚ ذَٰلِكُمۡ خَیۡرࣱ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ
 
 But those are given concession to leave the Friday prayer for such excuses as
 the heavy rain, mud, terror, sickness, nursery, in case the patient has none to take
@@ -19145,7 +19084,7 @@ In comment on Allah's saying: " And when the Prayer is finished, then may
 you disperse through the land, and seek of the Bounty of Allah: and celebrate
 the Praises of Allah often (and without stint): that you may prosper" (Al-Jumu'ah 10)
 
-فَإِذَا قُضِيَتِ الصَّلَوةُ فَانْتَشِرُواْ فِ آلْأَرْضِ وَابْتَغُواْ مِن فَضْلِ اللَّهِ وَاذْكُرُواْ اللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ
+فَإِذَا قُضِیَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِی ٱلۡأَرۡضِ وَٱبۡتَغُوا۟ مِن فَضۡلِ ٱللَّهِ وَٱذۡكُرُوا۟ ٱللَّهَ كَثِیرࣰا لَّعَلَّكُمۡ تُفۡلِحُونَ
 
 Anas Ibn Malik said: "This does not mean to seek the worldly benefits, but it
 means to (do such deeds as to) visit a patient to enquire about his health, to
@@ -19154,12 +19093,12 @@ attend a funeral procession, to learn an item of knowledge, or to visit a brothe
 grace in many location of the Qur'an. He says: " and taught you what you knew
 not (before): and great is the Grace of Allah unto you." (An-Nisa 113)
 
-وَعَلَّمَكَ مَا لَمْ تَكُنْ تَعْلَمْ وَكَانَ فَضْلُ اللَّهِ عَلَيْكَ عَظِيمًا
+وَعَلَّمَكَ مَا لَمۡ تَكُن تَعۡلَمُۚ وَكَانَ فَضۡلُ ٱللَّهِ عَلَیۡكَ عَظِیمࣰا
 
 He further says: "We bestowed Grace Aforetime on David from ourselves."
 (Sheba 10)
 
-وَلَقَدْ ءَاتَيْنَا دَاوُردَ مِنَّا فَضْلاً
+وَلَقَدۡ ءَاتَیۡنَا دَاوُۥدَ مِنَّا فَضۡلࣰاۖ
 
 Of a surety He refers to knowledge. To learn and teach knowledge on that day
 is from amongst the most excellent religious services.
@@ -20271,7 +20210,7 @@ a four-rak'ah prayer on Sunday, in each rak'ah of which he recites Al-Fatihah, i
 addition to (the Holy Verse which says): "The Messenger and the faithful
 believers have believed in what has been revealed to him from his Lord ... " (Al-Baqarah 285)
 
-ءَامَنَ الرَّسُولُ بِمَّآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِ-!
+ءَامَنَ ٱلرَّسُولُ بِمَاۤ أُنزِلَ إِلَیۡهِ مِن رَّبِّهِۦ
 
 Allah Almighty writes for him as many good deeds as the number of every
 male and female Christian, give him a reward (equal to that) of a Prophet, writes
@@ -20488,8 +20427,7 @@ You give Power to whom You please, and You stripe off Power from whom You
 please: You endue with honour whom You please, and You bring low whom
 You please: in Your hand is all Good. Verily, over all things You have power" (Aal-e-Imran 26)
 
-قُلِ اللَّهُمَّ مَئِكَ الْمُلْكِ تُؤِْى الْمُلْكَ مَنِ قَشَاءُ وَتَنزِعُ الْمُلْكَ مِمَّن تَشَاءُ وَتُعِزُّ مَن تَشَاءُ وَتُذِلُّ مَن تَشَآءٌ بِيَدِكَ
-اُلْخَيْرُ إِنَّكَ عَلَى كُلِّ شَىٍْ قَدِيرٌ
+قُلِ ٱللَّهُمَّ مَـٰلِكَ ٱلۡمُلۡكِ تُؤۡتِی ٱلۡمُلۡكَ مَن تَشَاۤءُ وَتَنزِعُ ٱلۡمُلۡكَ مِمَّن تَشَاۤءُ وَتُعِزُّ مَن تَشَاۤءُ وَتُذِلُّ مَن تَشَاۤءُۖ بِیَدِكَ ٱلۡخَیۡرُۖ إِنَّكَ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرࣱ
 
 And when he finishes from his prayer he says: "Might Allah reward
 Muhammad (the Messenger of Allah) on behalf of us as much as is fitting for
@@ -20502,9 +20440,7 @@ Messenger of Allah "Allah's blessing and peace be upon him" said: "If one prays,
 in the period between both Maghrib and Isha' prayers, on Thursday, two rak'ahs,
 in each rak'ah of which he recites Al-Fatihah, the Holy Verse of the Throne (Al-Baqarah 255)
 
-اللَّهُ لَآ إِلَهَ إِلَّ هُوَ آلْحَىُّ الْقَيُّومُّ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمَّ لَّهُ مَا فِي السَّمَنَوَاتِ وَمَا فِي الأَرْضِِّ مَنْ ذَا الَّذِى
-يَشْفَعُ عِندَهٌُ إِلَّا بِإِذْنِهِ،ْ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىٍْ مِنْ عِلْمِهِ إِلَّ بِمَا شَآءً
-وَسِعَ كُرْسِيُّهُ السَّمَنوَاتِ وَآلْأَرْضَ وَلَا يَئُودُهُ، حِفْظُهُمَاْ وَهُوَ الْعَلِىُّ الْعَظِيمُ
+ٱللَّهُ لَاۤ إِلَـٰهَ إِلَّا هُوَ ٱلۡحَیُّ ٱلۡقَیُّومُۚ لَا تَأۡخُذُهُۥ سِنَةࣱ وَلَا نَوۡمࣱۚ لَّهُۥ مَا فِی ٱلسَّمَـٰوَٰتِ وَمَا فِی ٱلۡأَرۡضِۗ مَن ذَا ٱلَّذِی یَشۡفَعُ عِندَهُۥۤ إِلَّا بِإِذۡنِهِۦۚ یَعۡلَمُ مَا بَیۡنَ أَیۡدِیهِمۡ وَمَا خَلۡفَهُمۡۖ وَلَا یُحِیطُونَ بِشَیۡءࣲ مِّنۡ عِلۡمِهِۦۤ إِلَّا بِمَا شَاۤءَۚ وَسِعَ كُرۡسِیُّهُ ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضَۖ وَلَا یَـُٔودُهُۥ حِفۡظُهُمَاۚ وَهُوَ ٱلۡعَلِیُّ ٱلۡعَظِیمُ
 
 Five times, "Say: 'He is Allah, the One and Only" five times, both Surahs of
 seeking refuge (with Allah from Satan) five times, and when he finishes from his
@@ -21296,7 +21232,7 @@ prayer, which is the highest religious service, as shown from His saying: " be
 steadfast in prayer; And practise regular charity." (Al-Baqarah 83)
 
 
- وَأَقِيمُواْ الصَّلَوَةَ وَءَاتُواْ الزَّكَوَةَ
+وَأَقِیمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ
 
 (It is unanimously narrated on the authority of Abu Hurairah that) the
 Messenger of Allah "Allah's blessing and peace be upon him" said: "Islam has
@@ -21307,8 +21243,7 @@ His threat to those who indulge in practicing it when He says: " And there are
 those who bury gold and silver and spend it not in the Way of Allah: announce
 unto them a most grievous penalty." (At-Tawbah 34)
 
-يَيُّهَا الَّذِينَ ءَامَنُواْ إِنَّ كَثِيرًا مِنَ الْأَحْبَارِ وَالرُّهْبَانِ لَيَأْكُونَ أَمْوَالَ النَّاسِ بِالْبَطِلِ وَيَصُدُّونَ عَن
-سَبِيلِ اللَّهُ وَالَّذِينَ يَكْثُونَ الذَّهَبَ وَالْفِضَّةَ وَلَا يُنفِقُونَهَا فِى سَبِيلِ اللَّهِ فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ
+۞ یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِنَّ كَثِیرࣰا مِّنَ ٱلۡأَحۡبَارِ وَٱلرُّهۡبَانِ لَیَأۡكُلُونَ أَمۡوَٰلَ ٱلنَّاسِ بِٱلۡبَـٰطِلِ وَیَصُدُّونَ عَن سَبِیلِ ٱللَّهِۗ وَٱلَّذِینَ یَكۡنِزُونَ ٱلذَّهَبَ وَٱلۡفِضَّةَ وَلَا یُنفِقُونَهَا فِی سَبِیلِ ٱللَّهِ فَبَشِّرۡهُم بِعَذَابٍ أَلِیمࣲ
 
 To spend in the Way of Allah is to take out such of obligatory charity as due
 upon his property. Al-Ahnaf Ibn Qais said in this respect: I was in the company
@@ -21836,8 +21771,7 @@ have been (recently) reconciled (to the truth); for those in bondage and in debt
 the cause of Allah; and for the wayfarer: (thus is it) ordained by Allah, and Allah
 is full of knowledge and wisdom." (At-Tawbah 60)
 
-إِنَّمَا الصَّدَقَتُ لِلْفُقَرَآءِ وَالْمَسْئِكِينِ وَالْعَمِلِينَ عَلَيْهَا وَالْمُؤْلِّفَةِ قُلُوبُهُمْ وَفِى الْرِّقَابِ وَالْغَِمِينَ وَفِى سَبِيلٍ
-اللَّهِ وَابْنِ السَّبِيلِ فَرِيضَةً مِنَ اللَّهِ وَاللَّهُ عَلِيمٌ حَكِيمٌ
+۞ إِنَّمَا ٱلصَّدَقَـٰتُ لِلۡفُقَرَاۤءِ وَٱلۡمَسَـٰكِینِ وَٱلۡعَـٰمِلِینَ عَلَیۡهَا وَٱلۡمُؤَلَّفَةِ قُلُوبُهُمۡ وَفِی ٱلرِّقَابِ وَٱلۡغَـٰرِمِینَ وَفِی سَبِیلِ ٱللَّهِ وَٱبۡنِ ٱلسَّبِیلِۖ فَرِیضَةࣰ مِّنَ ٱللَّهِۗ وَٱللَّهُ عَلِیمٌ حَكِیمࣱ
 
 This is similar to the statement of a sick: "One-third of my property be to the
 poor and needy." This requires the partnership in possession. However, as far as
@@ -21905,7 +21839,7 @@ For this reason, Allah Almighty says: "Allah has purchased of the Believers
 their persons and their goods; for theirs (in return) is the Garden (of Paradise)."
 (At-Tawbah 111)
 
-إِنَّ اللَّهَ اشْتَرَى مِنَ الْمُؤْمِنِينَ أَنْفُسَهُمْ وَأَمْوَالَهُم بِأَنَّ لَهُمُ الْجَّةَ شَ
+إِنَّ ٱللَّهَ ٱشۡتَرَىٰ مِنَ ٱلۡمُؤۡمِنِینَ أَنفُسَهُمۡ وَأَمۡوَٰلَهُم بِأَنَّ لَهُمُ ٱلۡجَنَّةَۚ
 
 This (purchase) is through fighting in His Way, which is to sacrifice one's soul
 out of longing for meeting Allah Almighty (after death). But to sacrifice property
@@ -21952,20 +21886,18 @@ saying of Allah Almighty: " to spend of your substance, out of love for Him, for
 your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for
 the ransom of slaves"? (Al-Baqarah 177)
 
-وَءَاتَى الْمَالَ عَلَى حُبِّهِ ذَوِى الْقُرْبَى وَالْيَتَمَى وَالْمَسْكِينَ وَابْنَ السَّبِيلِ
-وَالسَّابِلِينَ وَفِى الْرِقَابِ
+وَءَاتَى ٱلۡمَالَ عَلَىٰ حُبِّهِۦ ذَوِی ٱلۡقُرۡبَىٰ وَٱلۡیَتَـٰمَىٰ وَٱلۡمَسَـٰكِینَ وَٱبۡنَ ٱلسَّبِیلِ وَٱلسَّاۤىِٕلِینَ وَفِی ٱلرِّقَابِ
 
 They also sought the evidence for that in the statement of Allah Almighty:
 "and spend out of what We have provided for them" (Al-Baqarah 3)
 
-وَمِمَّا رَزَقْنَهُمْ يُنفِقُونَ
+وَمِمَّا رَزَقۡنَـٰهُمۡ یُنفِقُونَ
 
 And: " O you who believe! Spend out of (the bounties) we have provided for
 you, before the Day comes when no bargaining (will avail), nor friendship nor
 intercession." (Al-Baqarah 254)
 
-يَأَيُّهَا الَّذِينَ ءَامَنُوَأْ أَنفِقُواْ مِمَّا رَزَقْنَكُم مِّن قَبْلٍ أَن يَأْتِىَ يَوْمٌ لَّا بَيْعٌ فِيهِ
-وَلَا خُلَّهُ وَلَا شَفْعَةٌ لَ
+یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ أَنفِقُوا۟ مِمَّا رَزَقۡنَـٰكُم مِّن قَبۡلِ أَن یَأۡتِیَ یَوۡمࣱ لَّا بَیۡعࣱ فِیهِ وَلَا خُلَّةࣱ وَلَا شَفَـٰعَةࣱۗ وَٱلۡكَـٰفِرُونَ هُمُ ٱلظَّـٰلِمُونَ
 
 They pretended that this was not abrogated by the Holy Verse of the
 obligatory charity, and argued that this should belong to the right of a Muslim
@@ -21999,7 +21931,7 @@ for the hereafter. Allah Almighty says in this respect: "If He were to ask you f
 all of them, and press you, you would covetously withhold, and He would bring
 out all your ill-feeling." (Muhammad 37)
 
-إِن يَسْتَلَّكُمُوهَا فَيُحْفِكُمْ تَبْخَلُواْ وَتُخْرِجْ أَضْفَكُمْ
+إِن یَسۡـَٔلۡكُمُوهَا فَیُحۡفِكُمۡ تَبۡخَلُوا۟ وَیُخۡرِجۡ أَضۡغَـٰنَكُمۡ
 
 How much is the difference between a servant, from whom He Almighty has
 purchased his own property and soul, on the condition that he will be admitted to
@@ -22014,7 +21946,7 @@ from amongst the destructives: sordid avarice, vehement passion, and self-
 conceit." Allah Almighty says: "And those saved from the covetousness of their
 own souls, they are the ones that achieve prosperity." (Al-Hashr 9)
 
-وَمَّنْ يُوقَ شُحَّ نَفْسِهِ، فَأُوْلَئِكَ هُمُ الْمُفْلِحُونَ
+وَمَن یُوقَ شُحَّ نَفۡسِهِۦ فَأُو۟لَـٰۤىِٕكَ هُمُ ٱلۡمُفۡلِحُونَ
 
 In the quarter of the destructives, there will be a discussion of the point of its
 destructive nature, and the way of keeping away from it. The attribute of
@@ -22106,8 +22038,7 @@ them reach those (really) in need, that is best for you: it will remove from you
 some of your (stains of) evil. And Allah is well acquainted with what you do."
 (Al-Baqarah 272)
 
-إِن تُبْدُواْ الصَّدَقَتِ فَيِبِمَّا هِىَ وَإِن تُخْفُوهَا وَتُؤْتُوهَا الْفُقَرَآءَ فَهُوَ خَيْرٌ لَّكُمّْ وَيُكَفِّرُ عَنْكُم
-مِّن سَيْئَاتِكُمْ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+۞ لَّیۡسَ عَلَیۡكَ هُدَىٰهُمۡ وَلَـٰكِنَّ ٱللَّهَ یَهۡدِی مَن یَشَاۤءُۗ وَمَا تُنفِقُوا۟ مِنۡ خَیۡرࣲ فَلِأَنفُسِكُمۡۚ وَمَا تُنفِقُونَ إِلَّا ٱبۡتِغَاۤءَ وَجۡهِ ٱللَّهِۚ وَمَا تُنفِقُوا۟ مِنۡ خَیۡرࣲ یُوَفَّ إِلَیۡكُمۡ وَأَنتُمۡ لَا تُظۡلَمُونَ
 
 The benefit of concealing it is to get rid of the evil of being seen and heard of
 men. The Messenger of Allah "Allah's blessing and peace be upon him" said in
@@ -22164,7 +22095,7 @@ himself from being seen of men, in the very manner we will discuss later in the
 Book on Showing Off. Allah Almighty says: "If you disclose (acts of) charity,
 even so it is well." (Al-Baqarah 271)
 
-إِن تُبْدُواْ الصَّدَقَتِ فَنِعِمَّا هِىَ
+إِن تُبۡدُوا۟ ٱلصَّدَقَـٰتِ فَنِعِمَّا هِیَۖ
 
 This should be subject to the requirement of the situation to disclose it: either
 to exhort the people to emulate the almsgiver, or because the beggar does his
@@ -22196,7 +22127,7 @@ shyness, no protection should be observed against backbiting him." Allah
 Almighty says in this issue: "And spend out of what We have provided you with
 in secrecy and in public." (Ar-Ra'd 22)
 
-وَأَنْفَقُواْ مِمَّا رَزَقْنَهُمْ سِرًّا وَعَلَاَئِيَةُ
+وَأَنفَقُوا۟ مِمَّا رَزَقۡنَـٰهُمۡ سِرࣰّا وَعَلَانِیَةࣰ
 
 With that He Almighty prompts the people to spend in charity publicly, in
 view of its advantage of exhorting others to do the same. For this reason, let the
@@ -22213,7 +22144,7 @@ Almighty says in this respect: " O you who believe! Cancel not your charity by
 reminders of your generosity or by injury, like those who spend their substance to
 be seen of men." (Al-Baqarah 264)
 
-يَأَيُّهَا الَّذِينَ ءَامَنُواْ لَا تُبْطِلُواْ صَدَقَتِكُمْ بِالْمَنِّ وَالْأَذَى كَالَّذِى يُنفِقُ مَالَهُ رِئَآءَ النَّاسِ ن
+یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لَا تُبۡطِلُوا۟ صَدَقَـٰتِكُم بِٱلۡمَنِّ وَٱلۡأَذَىٰ كَٱلَّذِی یُنفِقُ مَالَهُۥ رِئَاۤءَ ٱلنَّاسِ
 
 They differ about the reality of the distinction between reminding of
 generosity and causing injury therewith: It was said: "To make reminders of
@@ -22401,7 +22332,7 @@ generosity or by injury." (Al-Baqarah 264)
 <!-- PageNumber="417" -->
 <!-- PageHeader="Book five: The mysteries of obligatory charity" -->
 
-يَأَيُّهَا الَّذِينَ ءَامَنُواْ لَا تُبْطِلُواْ صَدَقَتِكُمْ بِآلْمَنِ وَالْأَذَى)
+یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لَا تُبۡطِلُوا۟ صَدَقَـٰتِكُم بِٱلۡمَنِّ وَٱلۡأَذَىٰ
 
 The verdict of the jurisprudent that the charity is fulfilled regardless of that
 condition (of knowledge and work in accordance with that knowledge) and that,
@@ -22415,8 +22346,7 @@ deeds of their fruits. Allah Almighty says in this respect: " and on the day of
 Hunain: behold! your great numbers elated you, but they availed you naught."
 (At-Tawbah 25)
 
-لَقَدْ نَصَرَكُمُ اللَّهُ فِى مَوَاطِنَ كَثِيرَةٍ وَيَوْمَ حُنَيْنٍ إِذْ أَعْجَبَنْكُمْ كَثْرَتُكُمْ فَلَمْ تُغْنِ عَنكُمْ شَيْئًا
-وَضَاقَتْ عَلَيْكُمُ الْأَرْضُ بِمَا رَحُبَتْ ثُمَّ وَلَيْتُم مُّدْبِرِينَ
+لَقَدۡ نَصَرَكُمُ ٱللَّهُ فِی مَوَاطِنَ كَثِیرَةࣲ وَیَوۡمَ حُنَیۡنٍ إِذۡ أَعۡجَبَتۡكُمۡ كَثۡرَتُكُمۡ فَلَمۡ تُغۡنِ عَنكُمۡ شَیۡـࣰٔا وَضَاقَتۡ عَلَیۡكُمُ ٱلۡأَرۡضُ بِمَا رَحُبَتۡ ثُمَّ وَلَّیۡتُم مُّدۡبِرِینَ
 
 It is said that the more a good deed is belittled in the sight of its doer, the
 greater it becomes in the Sight of Allah Almighty, whereas the greater a sin is
@@ -22467,7 +22397,7 @@ and press you, you would covetously withhold, and He would bring out all your
 ill-feeling." (Muhammad 37)
 
 
- إِن يَسْتَلْكُمُوهَا فَيُخْفِكُمْ تَبْخَلُواْ وَتُخْرِجْ أَضْغَتَكُرْ
+إِن یَسۡـَٔلۡكُمُوهَا فَیُحۡفِكُمۡ تَبۡخَلُوا۟ وَیُخۡرِجۡ أَضۡغَـٰنَكُمۡ
 
 The seventh duty: let the almsgiver choose from his property the best and
 the dearest to him, the most honoured and the most lawful, for Allah Almighty is
@@ -22495,8 +22425,7 @@ aim at getting anything which is bad, in order that out of it you may give away
 something, when you yourselves would not receive it except with closed eyes.
 And know that Allah is free of all wants, and worthy of all praise." (Al-Baqarah 267)
 
-يَأَيُّهَا الَّذِينَ ءَامَنُواْ أَنفِقُواْ مِن طَيِبَتِ مَا كَسَبْتُمْ وَمِمَّا أَخْرَجْنَا لَكُم مِّنَ الْأَرْضِ وَلَا تَيَمِّمُواْ الْخَبِثَ
-مِنْهُ تُنفِقُونَ وَلَسْتُم بِتَاخِذِيهِ إِلَّ أَن تُغْمِضُواْ فِيهِ وَاعْلَمُواْ أَنَّاللّهَ غَنِىّ حَمِيدُ
+یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ أَنفِقُوا۟ مِن طَیِّبَـٰتِ مَا كَسَبۡتُمۡ وَمِمَّاۤ أَخۡرَجۡنَا لَكُم مِّنَ ٱلۡأَرۡضِۖ وَلَا تَیَمَّمُوا۟ ٱلۡخَبِیثَ مِنۡهُ تُنفِقُونَ وَلَسۡتُم بِـَٔاخِذِیهِ إِلَّاۤ أَن تُغۡمِضُوا۟ فِیهِۚ وَٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ غَنِیٌّ حَمِیدٌ
 
 <!-- PageBreak -->
 
@@ -22519,8 +22448,7 @@ themselves). And their tongues assert the falsehood that all good things are for
 themselves: without doubt for them is the Fire, and they will be the first to be
 hastened on into it!" (An-Nahl 62)
 
-وَجْعَلُونَ لِلَّهِ مَا يَكْرَهُونَ وَتَصِفُ أَلْسِنَتُهُمُ الْكَذِبَ أَنَّ لَهُمُ الْحُسْنَىِّ لَا جَرَمَ أَنَّ لَهُمُ النَّارَ
-وَأَنَُّم مُّفْرَطُونَ
+وَیَجۡعَلُونَ لِلَّهِ مَا یَكۡرَهُونَۚ وَتَصِفُ أَلۡسِنَتُهُمُ ٱلۡكَذِبَ أَنَّ لَهُمُ ٱلۡحُسۡنَىٰۚ لَا جَرَمَ أَنَّ لَهُمُ ٱلنَّارَ وَأَنَّهُم مُّفۡرَطُونَ
 
 I.e. the fire will be the reprisal for their specifying to Allah Almighty what the
 dislike.
@@ -22646,9 +22574,7 @@ is mentioned, the hearts of those who believe not in the Hereafter are filled wi
 disgust and horror; but when (gods) other than He are mentioned, behold they
 are filled with joy!" (Az-Zumar 45)
 
-وَإِذَا ذُكِرَ اللَّهُ وَحْدَهُ اشْمَأَزَّتْ قُلُوبُ الَّذِينَ لَا يُؤْمِنُونَ بِآلْآَخِرَةِ وَإِذَا ذُكِرَ الَّذِينَ
-
-مِن دُونِهِ إِذَا هُمْ يَسْتَبْشِرُونَ
+وَإِذَا ذُكِرَ ٱللَّهُ وَحۡدَهُ ٱشۡمَأَزَّتۡ قُلُوبُ ٱلَّذِینَ لَا یُؤۡمِنُونَ بِٱلۡـَٔاخِرَةِۖ وَإِذَا ذُكِرَ ٱلَّذِینَ مِن دُونِهِۦۤ إِذَا هُمۡ یَسۡتَبۡشِرُونَ
 
 Such as then does not purify his inward soul from seeing the intermediaries
 except as instruments (in the hand of Allah Almighty) is not free from the
@@ -22672,7 +22598,7 @@ know them by their (unfailing) mark: they beg not importunately from all and
 sundry, and whatever of good you give, be assured Allah knows it well." (Al-Baqarah 273)
 
 
- يَحْسَبُهُمُ الْجَاهِلُ أَغْنِيَاءَ مِنَ التَّعَفُّفِ تَعْرِفُهُم بِسِيمَهُمْ لَا يَسْئَلُونَ النَّاسِ إِلْحَافًاُ وَمَا تُنفِقُواْ مِنْ خَيْرٍ فَإِنَّ اللَّهَ بِهِ، عَلِيمُ
+یَحۡسَبُهُمُ ٱلۡجَاهِلُ أَغۡنِیَاۤءَ مِنَ ٱلتَّعَفُّفِ تَعۡرِفُهُم بِسِیمَـٰهُمۡ لَا یَسۡـَٔلُونَ ٱلنَّاسَ إِلۡحَافࣰاۗ وَمَا تُنفِقُوا۟ مِنۡ خَیۡرࣲ فَإِنَّ ٱللَّهَ بِهِۦ عَلِیمٌ
 
 However, they beg not importunately because they are independent and rich
 in their certainty of faith, while exalted in power and honour with their firm
@@ -22689,7 +22615,7 @@ Almighty: "(Charity is) for those in need, who, in Allah's cause are restricted
 (from travel), and cannot move about in the land, seeking (for trade or work)."
 (Al-Baqarah 273)
 
-لِلْفُقَرَآءِ الَّذِينَ أُحْصِرُواْ فِى سَبِيلِ اللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًا فِي الأَرْضِ
+لِلۡفُقَرَاۤءِ ٱلَّذِینَ أُحۡصِرُوا۟ فِی سَبِیلِ ٱللَّهِ لَا یَسۡتَطِیعُونَ ضَرۡبࣰا فِی ٱلۡأَرۡضِ
 
 I.e. they are restrained in the way to the hereafter by responsibility for
 dependents, hard living, or setting right the heart; and they could not move about
@@ -22947,7 +22873,7 @@ i.e. with Allah Almighty, and the Last Day, and this is what the following Holy
 statement of Allah implies: "I have only created Jinns and men, that they may
 serve Me." (Adh-Dhariyat 56)
 
-وَمَا خَلَقْتُ الْجِنَّ وَآلْإِنسَ إِلَّ لِيَعْبُدُونِ
+وَمَا خَلَقۡتُ ٱلۡجِنَّ وَٱلۡإِنسَ إِلَّا لِیَعۡبُدُونِ
 
 but, when wisdom has ordained that man should be subject to desires and
 needs which divert his attention (from Allah Almighty and the Last Day) it
@@ -23001,7 +22927,7 @@ created the power and capability of doing them. a mention might be made here
 of the statement of Allah Almighty: " how excellent in Our service! ever did he
 turn (to Us)!" (Sad 30) there are many like this.
 
-يَعْمَ الْعَبْدُ إِنَّهُ أَوَّابٌ
+نِعۡمَ ٱلۡعَبۡدُ إِنَّهُۥۤ أَوَّابٌ
 
 Let the recipient say in his invocation (for the almsgiver): "Might Allah purify
 your heart among the hearts of the pious, and justify your work among the works
@@ -23028,7 +22954,7 @@ sources, he should refrain from accepting it; and verily, "He, who fears Allah (
 safeguard himself from His punishment), He makes for him a way-out and
 provides him with sustenance from sources which he expects not." (At-Talaq 2:3)
 
-وَمَنْ يَتَّقِ اللَّهَ تَجْعَل لَّهُ, مَخْرَ جًا إِنَا وَيَرْزُقْهُ مِنْ حَيْثُ لَا تَحْتَسِبُ
+وَمَن یَتَّقِ ٱللَّهَ یَجۡعَل لَّهُۥ مَخۡرَجࣰا وَیَرۡزُقۡهُ مِنۡ حَیۡثُ لَا یَحۡتَسِبُۚ
 
 <!-- PageBreak -->
 
@@ -23277,7 +23203,7 @@ recite, if you so like, Allah's saying: "They never beg the people
 importunately."" (Al-Baqarah 273)
 
 
- يَسْئَلُونَ النَّاسَ إِلَّحَافًا
+یَسۡـَٔلُونَ ٱلنَّاسَ إِلۡحَافࣰاۗ
 
 The Messenger of Allah "Allah's blessing and peace be upon him" said: "No
 Muslim dresses another Muslim (in a dress) but that the former remains in the
@@ -23292,7 +23218,7 @@ According to Urwah Ibn Az-Zubair: "A'ishah gave in charity fifty thousand
 statement of Allah: "And they feed, for the love of Allah, the indigent, the
 orphan, and the captive" (Al-Insan 8)
 
-وَيُطْعِمُونَ الطَّعَامَ عَلَى حُبِهِ، مِسْكِينًا وَبَنِيمًا وَأَسِيرًا
+وَیُطۡعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسۡكِینࣰا وَیَتِیمࣰا وَأَسِیرًا
 
 "They do so in spite of their great love and longing for food." Umar (Ibn Al-
 
@@ -23326,7 +23252,7 @@ you all." Abdullah Ibn Umar used to give sugar in charity and say: "Allah
 Almighty says: "By no means should you attain righteousness until you spend out
 of what you love" (Aal-e-Imran 92)
 
-لَنْ تَنَالُواْ الْبِرَّ حَتَّى تُنفِقُواْ مِمَّا تُحِبُّونَ
+لَن تَنَالُوا۟ ٱلۡبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَۚ
 
 And Allah Almighty knows that I love sugar." An-Nakh'i said: "If there is a
 thing to be given (in charity) for the Sake of Allah, I will not be pleased to see a
@@ -23487,7 +23413,7 @@ The fourth is that to make it public is to establish the tradition of
 gratefulness. Allah Almighty says: " But the Bounty of your Lord; Rehearse and
 proclaim!" (Ad-Duha 11)
 
-وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ
+وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ
 
 But to conceal (alms) is to be ungrateful to the grace of Allah Almighty, Who
 criticizes such as conceals what He Almighty has given him ascribing him to
@@ -23496,8 +23422,7 @@ niggardliness on others, or hide the bounties which Allah has bestowed on them;
 for We have prepared, for those who resist faith, a punishment that steeps them
 in contempt." (An-Nisa 37)
 
-الَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ النَّاسَ بِالْبُخْلِ وَيَكْتُمُونَ مَآ ءَاتَّئُهُمُ اللَّهُ مِن فَضْلِهِ، وَأَعْتَدْنَا
-لِلْكَفِرِينَ عَذَابًا مُّهِينًا
+ٱلَّذِینَ یَبۡخَلُونَ وَیَأۡمُرُونَ ٱلنَّاسَ بِٱلۡبُخۡلِ وَیَكۡتُمُونَ مَاۤ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضۡلِهِۦۗ وَأَعۡتَدۡنَا لِلۡكَـٰفِرِینَ عَذَابࣰا مُّهِینࣰا
 
 The Messenger of Allah "Allah's blessing and peace be upon him" said:
 "When Allah bestows a grace upon anyone of His servants, He likes that (the
@@ -23731,7 +23656,7 @@ Book): "those who patiently persevere will truly receive a reward without
 measure!" (Az-Zumar 10)
 
 
- إِنَّمَا يُوَّى الصَِّرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ
+إِنَّمَا یُوَفَّى ٱلصَّـٰبِرُونَ أَجۡرَهُم بِغَیۡرِ حِسَابࣲ
 
 Fasting comprises (as we have mentioned) half the patience, since its
 reward goes beyond the limit of estimation and calculation. It is sufficient for
@@ -23774,7 +23699,7 @@ because of the (good) that you sent before you, in the days that are gone!"
 (Al-Haqqah 24)
 
 
- كُلُواْ وَاشْرَبُواْ هَنِيًَّا بِمَآ أَسْلَفْتُمْ فِ آلْأَيَّامِ الْخَالِيَّةِ
+كُلُوا۟ وَٱشۡرَبُوا۟ هَنِیۤـَٔۢا بِمَاۤ أَسۡلَفۡتُمۡ فِی ٱلۡأَیَّامِ ٱلۡخَالِیَةِ
 
 "Those are the days of fasting, on which they left food and drink."
 
@@ -23790,12 +23715,12 @@ on the Holy statement of Allah Almighty: " Now no person knows what delights
 of the eye are kept hidden (in reserve) for them, as a reward for their (good)
 Deeds" (As-Sajdah 17)
 
-فَلَا تَعْلَمُ نَفْسٌ مَّ أُخْفِىَ لَهُم مِّن قُرَّةِ أَعْيُنٍ جَزَآءُ بِمَا كَانُواْ يَعْمَلُونَ
+فَلَا تَعۡلَمُ نَفۡسࣱ مَّاۤ أُخۡفِیَ لَهُم مِّن قُرَّةِ أَعۡیُنࣲ جَزَاۤءَۢ بِمَا كَانُوا۟ یَعۡمَلُونَ
 
 Their work (in the world) was fasting, and this is because He Almighty says:
 "those who patiently persevere will truly receive a reward without measure!" (Az-Zumar 10)
 
-إِنَّمَا يُوَّى الصَِّرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ
+إِنَّمَا یُوَفَّى ٱلصَّـٰبِرُونَ أَجۡرَهُم بِغَیۡرِ حِسَابࣲ
 
 Thus the reward of the fasting man will be given amply and abundantly and it
 
@@ -23836,7 +23761,7 @@ surety, Allah's Aid would not come unless men themselves help Him in
 accordance with His saying: " O you who believe! If you will aid (the cause of)
 Allah, He will aid you, and plant your feet firmly." (Muhammad 7)
 
-يَأَيَُّا الَّذِينَ ءَامَنُوْاْ إِن تَنصُرُواْ اللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ رِيًَّا:
+یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِن تَنصُرُوا۟ ٱللَّهَ یَنصُرۡكُمۡ وَیُثَبِّتۡ أَقۡدَامَكُمۡ
 
 The servant then should take the initiative and begin to strive; perchance he
 will be rewarded with the right guidance from Allah Almighty.
@@ -23845,7 +23770,7 @@ For this reason, Allah Almighty says: "And those who strive in Our
 (Cause), We will certainly guide them to Our Paths: for verily Allah is with
 those who do right." (Al-Ankabut 69)
 
-وَالَّذِينَ جَنْهَدُواْ فِينَا لَهْدِيَّهُمْ سُبُلَنَاْ وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ
+وَٱلَّذِینَ جَـٰهَدُوا۟ فِینَا لَنَهۡدِیَنَّهُمۡ سُبُلَنَاۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلۡمُحۡسِنِینَ
 
 He further says: "Verily never will Allah change the condition of a people until
 they change it themselves (with their own souls)." (Ar-Ra'd 11)
@@ -23855,7 +23780,7 @@ they change it themselves (with their own souls)." (Ar-Ra'd 11)
 <!-- PageNumber="445" -->
 <!-- PageHeader="Book six: the mysteries of fasting" -->
 
-إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّى يُغَيِّرُواْ مَا بِأَنْفُسِهِمْ
+إِنَّ ٱللَّهَ لَا یُغَیِّرُ مَا بِقَوۡمٍ حَتَّىٰ یُغَیِّرُوا۟ مَا بِأَنفُسِهِمۡۗ
 
 The change here refers to the increase of desires and lusts, for they are the
 grazing place and pasturing land of the devils; and as long as it is fertile and
@@ -24105,7 +24030,7 @@ Almighty, and this requires to divert it from anything else, and to comply with 
 significance of the statement of Allah Almighty: " Say: "Allah (sent it down)":
 then leave them to plunge in vain discourse and trifling." (Al-An'am 91)
 
-قُلِ اللَّهُ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ زََّ
+قُلِ ٱللَّهُۖ ثُمَّ ذَرۡهُمۡ فِی خَوۡضِهِمۡ یَلۡعَبُونَ
 
 As to the fasting of the private, which is the fasting of the righteous good
 men, it is to withhold the parts of the body from committing sins; and it could be
@@ -24164,13 +24089,13 @@ unlawful) and the devourer of what is forbidden in His statement: "(They are
 fond of) listening to falsehood, of devouring anything forbidden." (Al-Ma'idah 42)
 
 C
-سَمَّعُونَ لِلْكَذِبِ أَكِّلُونَ لِلسُّحْتِ
+سَمَّـٰعُونَ لِلۡكَذِبِ أَكَّـٰلُونَ لِلسُّحۡتِۚ
 
 He further says: "Why do not the Rabbis and the doctors of Law forbid them
 from their (habit of) uttering sinful words and eating things forbidden? Evil
 indeed are their works." (Al-Ma'idah 63)
 
-لَوْلَا يَنَْهُمُ الرََّّبِيُّونَ وَآلْأَحْبَارُ عَنْ قَوْلِهِمُ آلْإِثْمَ وَأَكْلِهِمُ السُّخْتَ لَبِئْسَ مَا كَانُواْ يَصْنَعُونَ
+لَوۡلَا یَنۡهَىٰهُمُ ٱلرَّبَّـٰنِیُّونَ وَٱلۡأَحۡبَارُ عَن قَوۡلِهِمُ ٱلۡإِثۡمَ وَأَكۡلِهِمُ ٱلسُّحۡتَۚ لَبِئۡسَ مَا كَانُوا۟ یَصۡنَعُونَ
 
 However, to keep silent of and pay one's attention to backbiting is forbidden,
 otherwise "you then will be like them" (An-Nisa 140)
@@ -24180,7 +24105,7 @@ otherwise "you then will be like them" (An-Nisa 140)
 <!-- PageNumber="451" -->
 <!-- PageHeader="Book six: the mysteries of fasting" -->
 
-إِنَّكُمْ إِذَا مِثْلُهُمُ
+إِنَّكُمۡ إِذࣰا مِّثۡلُهُمۡۗ
 
 In accordance with Allah's statement. For this reason, the Messenger of Allah
 "Allah's blessing and peace be upon him" said: "Both the backbiter and the
@@ -24253,7 +24178,7 @@ dominion is revealed to man. It is also the night referred to by the saying of A
 Almighty when He says: "Verily We have sent it down on the Night of Power."
 (Al-Qadr 1)
 
-إِنَّا أَنزَلَهُ فِى لَيْلَةِ اٌلْقَدْرِ ْ
+إِنَّاۤ أَنزَلۡنَـٰهُ فِی لَیۡلَةِ ٱلۡقَدۡرِ
 
 But it might be veiled from him, who buries his head deep into a nose-bag full
 of food, and even from him who keeps his stomach empty from food, unless he
@@ -24366,7 +24291,7 @@ blessing and peace be upon him" once said: "Verily fasting is a trust; let each,
 therefore, take good care of his trust." When he recited: "Verily Allah commands
 you to give back the trusts to their real owners" (An-Nisa 58)
 
-إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّواْ الْأُمَنَتِ إِلَى أَهْلِهَا
+إِنَّ ٱللَّهَ یَأۡمُرُكُمۡ أَن تُؤَدُّوا۟ ٱلۡأَمَـٰنَـٰتِ إِلَىٰۤ أَهۡلِهَا
 
 He raised his hands on his ears and eyes and said: "Verily, the hearing is a
 trust! Verily, the sight is a trust (which its possessor should safeguard)." Had it
@@ -24571,7 +24496,7 @@ completion of religion. In connection with it, Allah Almighty revealed: " This d
 have I perfected your religion for you, completed My favour upon you, and have
 chosen for you Islam as your religion." (Al-Ma'idah 3)
 
-اَلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتَْمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ آلْإِسْلَمَ دِينًا
+ٱلۡیَوۡمَ أَكۡمَلۡتُ لَكُمۡ دِینَكُمۡ وَأَتۡمَمۡتُ عَلَیۡكُمۡ نِعۡمَتِی وَرَضِیتُ لَكُمُ ٱلۡإِسۡلَـٰمَ دِینࣰاۚ
 
 Pertaining to it, the Messenger of Allah "Allah's blessing and peace be upon
 him" said (according to the narration of Ibn Abd on the authority of Abu
@@ -24614,7 +24539,7 @@ Allah Almighty says in this respect: "And proclaim the Pilgrimage among men;
 they will come to you on foot and (mounted) on every kind of camel, lean on
 account of journeys through deep and distant mountain highways." (Al-Hajj 27)
 
-وَأَذِّن فِ النَّاسِ بِالْحَجْ يَأْتُوكَ رِجَالاً وَعَلَى كُلِّ ضَامٍِ بَأْنِينَ مِن كُلِّ فَجٍ عَمِيقٍ
+وَأَذِّن فِی ٱلنَّاسِ بِٱلۡحَجِّ یَأۡتُوكَ رِجَالࣰا وَعَلَىٰ كُلِّ ضَامِرࣲ یَأۡتِینَ مِن كُلِّ فَجٍّ عَمِیقࣲ
 
 According to Qatadah: When Allah Almighty commanded Abraham "Peace
 be upon him as well as upon our Prophet (Muhammad) and every well-chosen
@@ -24623,7 +24548,7 @@ Almighty ahs constructed a House (on earth): so, you should come to visit it and
 do the ceremonies of pilgrimage in it!" Allah Almighty resumed: "That they may
 witness the benefits (provided) for them" (Al-Hajj 28)
 
-لَيَشْهَدُواْ مَنَفِعَ لَهُمْ
+لِّیَشۡهَدُوا۟ مَنَـٰفِعَ لَهُمۡ
 
 Which some people construe as to practice trade and traffic in the season, and
 receive the reward in the hereafter. When one of the early men heard that he said:
@@ -24631,7 +24556,7 @@ receive the reward in the hereafter. When one of the early men heard that he sai
 statement of Allah: " He (Satan) said: "Because You have thrown me out of the
 Way, lo! I will lie in wait for them on Your Straight Way" (Al-A'raf 16)
 
-قَالَ فَبِمَآ أَغْوَيْتَنِى لِأَقْعُدَنَّ لَهُمْ صِرَّطَكَ الْمُسْتَقِيمَ
+قَالَ فَبِمَاۤ أَغۡوَیۡتَنِی لَأَقۡعُدَنَّ لَهُمۡ صِرَٰطَكَ ٱلۡمُسۡتَقِیمَ
 
 It refers to the way to Mecca, on which Satan lies in wait for the people in
 order to prevent them from reaching it (and performing Hajj).
@@ -24731,7 +24656,7 @@ statement of Allah Almighty was revealed: " This day have I perfected your
 religion for you, completed My favour upon you, and have chosen for you Islam
 as your religion." (Al-Ma'idah 3)
 
-اَلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ آلْإِسْلَمَ دِينًا فَ
+ٱلۡیَوۡمَ أَكۡمَلۡتُ لَكُمۡ دِینَكُمۡ وَأَتۡمَمۡتُ عَلَیۡكُمۡ نِعۡمَتِی وَرَضِیتُ لَكُمُ ٱلۡإِسۡلَـٰمَ دِینࣰاۚ فَمَنِ
 
 (According to the narration of both sheikhs on the authority of Umar) the
 people of Scripture said: "Had this Holy Verse been revealed unto us, surely, we
@@ -24971,8 +24896,7 @@ Mecca." Then he recited the statement of Allah Almighty: "and any whose
 purpose therein is profanity or wrong-doing, them will We cause to taste of a
 most grievous Penalty." (Al-Hajj 25)
 
-إِنَّ الَّذِينَ كَفَرُواْ وَيَصُدُّونَ عَنِ سَبِيلِ اللَّهِ وَالْمَسْجِدِ الْحَرَامِ الَّذِىِ جَعَلْتَهُ لِلنَّاسِ سَوَآءٍ الْعَنكِفُ فِيهِ
-وَالْبَادٍّ وَمَن يُرِدْ فِيهِ بِإِلْحَادٍ بِظُلْمٍ نُذِقْهُ مِنْ عَذَابٍ أَلِيمٍ
+إِنَّ ٱلَّذِینَ كَفَرُوا۟ وَیَصُدُّونَ عَن سَبِیلِ ٱللَّهِ وَٱلۡمَسۡجِدِ ٱلۡحَرَامِ ٱلَّذِی جَعَلۡنَـٰهُ لِلنَّاسِ سَوَاۤءً ٱلۡعَـٰكِفُ فِیهِ وَٱلۡبَادِۚ وَمَن یُرِدۡ فِیهِ بِإِلۡحَادِۭ بِظُلۡمࣲ نُّذِقۡهُ مِنۡ عَذَابٍ أَلِیمࣲ
 
 Consider here that he reckons them only for the purpose. It is said that as well
 as the good deeds are multiplied therein, the bad deeds also are multiplied.
@@ -25236,8 +25160,7 @@ charity will ask to be made to return once again to this world (to do that)." Th
 he recited the statement of Allah Almighty: " he says: "O my Lord! send me back
 (to life), In order that I may work righteousness in the things I neglected."" (Al-Mu'minun 99:100)
 
-حَتَّى إِذَا جَآءَ أَحَدَهُمُ الْمَوْتُ قَالَ رَبِّ ارْجِعُونٍ لَعَلَّىَ أَعْمَلُ صَبِحًا فِيمَا تَرَكْتُ كَلَّأَّ إِنَّهَا كَلِمَةُ هُوَ
-قَائِلُهَا وَمِن وَرَآبِهِمْ بَرْزَخٌ إِلَىْ يَوْمٍ يُبْعَثُونَ
+حَتَّىٰۤ إِذَا جَاۤءَ أَحَدَهُمُ ٱلۡمَوۡتُ قَالَ رَبِّ ٱرۡجِعُونِ لَعَلِّیۤ أَعۡمَلُ صَـٰلِحࣰا فِیمَا تَرَكۡتُۚ كَلَّاۤۚ إِنَّهَا كَلِمَةٌ هُوَ قَاۤىِٕلُهَاۖ وَمِن وَرَاۤىِٕهِم بَرۡزَخٌ إِلَىٰ یَوۡمِ یُبۡعَثُونَ
 
 He tells that he refers here to the obligation of Hajj.
 
@@ -25452,7 +25375,7 @@ Great. What Allah wills is, and what He wills not is not. Praise be to Allah who
 guided us to that, and had it not been for the fact that Allah guided us, we would
 have had no power to be guided aright" (Al-A'raf 43)
 
-وَقَالُواْ الْحَمْدُ لِلَّهِ الَّذِى هَدَنَنَا لِهَذَا وَمَا كُنَّا لِنَتَدِىَّ ِيّ
+وَقَالُوا۟ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِی هَدَىٰنَا لِهَـٰذَا وَمَا كُنَّا لِنَهۡتَدِیَ
 
 And we are returning to (Allah) our Lord. O Allah! I've turned my face to you,
 entrusted the whole matter of me to You, put my trust, in all of my affairs to
@@ -25495,7 +25418,7 @@ scorpion; and I seek refuge with You from the evil of the townsmen and from
 (the evil of) a father and his son. To him does belong such as resides at night
 and by day: and He is All-Hearing, All-Seeing." (Al-An'am 13)
 
-وَلَّهُ مَا سَكَّنَ فِ الَّيْلِ وَالنَّارِ وَهُوَ السَّمِيعُ الْعَلِيمُ
+۞ وَلَهُۥ مَا سَكَنَ فِی ٱلَّیۡلِ وَٱلنَّهَارِۚ وَهُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ
 
 The seventh pertains to guarding. The performer of Hajj should be cautious
 during the day, in the sense that he should not walk apart from the caravan, lest
@@ -25526,7 +25449,7 @@ beyond Allah; and there is no refuge besides Allah. Allah Almighty has decreed:
 Honour'. (Al-Mujadilah 21)
 
 
-كَتَبَ اللّهُ لأغْلِيَنَّ أَنَاْ وَرُسُلِىّ إِنَّ اللَّهَ قَوِىُّ عَزِيزٌنَّ
+كَتَبَ ٱللَّهُ لَأَغۡلِبَنَّ أَنَا۠ وَرُسُلِیۤۚ إِنَّ ٱللَّهَ قَوِیٌّ عَزِیزࣱ
 
 I fortify myself by Allah, Most Great, and I seek the aid of (Allah) the Ever-
 Living Who never dies. O Allah! Guard us with Your Eye which never sleeps,
@@ -25924,9 +25847,7 @@ thus shall you be brought out (from the dead). Among His Signs is this, that He
 created you from dust; and then, behold, you are men scattered (far and wide)!"
 (Ar-Rum 17:20)
 
-فَسُبْحَنَ اَللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ وَلَهُ الْحَمْدُ فِى السَّمَوَاتِ وَالْأَرْضِ وَعَشِيًّا وَحِينَ
-تُظْهِرُونَ لَّه ُخْرِجُ الْحَىَّ مِنَ الْمَيْتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ وَتَّى الْأَرْضَ بَعْدَ مَوْتِهَاً وَكَذَلِكَ تُخْرَجُونَ
-وَمِنْ ءَايَنْتِهِ أَنْ خَلَفَكُم مِّن تُرَابٍ ثُمَّ إِذَا أَنتُم بَشَرٌ تَتَشِرُونَ
+فَسُبۡحَـٰنَ ٱللَّهِ حِینَ تُمۡسُونَ وَحِینَ تُصۡبِحُونَ وَلَهُ ٱلۡحَمۡدُ فِی ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضِ وَعَشِیࣰّا وَحِینَ تُظۡهِرُونَ یُخۡرِجُ ٱلۡحَیَّ مِنَ ٱلۡمَیِّتِ وَیُخۡرِجُ ٱلۡمَیِّتَ مِنَ ٱلۡحَیِّ وَیُحۡیِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَاۚ وَكَذَٰلِكَ تُخۡرَجُونَ وَمِنۡ ءَایَـٰتِهِۦۤ أَنۡ خَلَقَكُم مِّن تُرَابࣲ ثُمَّ إِذَاۤ أَنتُم بَشَرࣱ تَنتَشِرُونَ
 
 O Allah! I ask You (to grant me) a permanent faith and a truthful certainty,
 and a tongue which is celebrating (Your Praises); and I ask You (to grant me)
@@ -26549,7 +26470,7 @@ Gate of Truth and Honour; and grant me from Your Presence an authority to aid
 (me)." (Al-Isra' 80)
 
 
- وَقُل رَّتِّ أَدْخِلْنِى مُدْخَلَ صِدْقٍ وَأَخْرِ جْنِى مُخْرَجَ صِدْقٍ وَأَجْعَل لِى مِن لَّدُنكَ سُلْطَنًا نَّصِيرًا
+وَقُل رَّبِّ أَدۡخِلۡنِی مُدۡخَلَ صِدۡقࣲ وَأَخۡرِجۡنِی مُخۡرَجَ صِدۡقࣲ وَٱجۡعَل لِّی مِن لَّدُنكَ سُلۡطَـٰنࣰا نَّصِیرࣰا
 
 Then, let him aim at the mosque to enter, and offer a two-rak'ah prayer by the
 side of the pulpit, making the pole of the pulpit alongside his right shoulder, and
@@ -26635,8 +26556,7 @@ Merciful." (An-Nisa 64)
 <!-- PageNumber="499" -->
 <!-- PageHeader="Book seven: the mysteries of pilgrimage" -->
 
-وَلَوْ أَنَّهُمْ إِذ ظَّلَمُوَاْ أَنفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُواْ اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ
-لَوَ جَدُ واْ اللَّهَ تَوَّابًّا رَّحِيمًا
+وَلَوۡ أَنَّهُمۡ إِذ ظَّلَمُوۤا۟ أَنفُسَهُمۡ جَاۤءُوكَ فَٱسۡتَغۡفَرُوا۟ ٱللَّهَ وَٱسۡتَغۡفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُوا۟ ٱللَّهَ تَوَّابࣰا رَّحِیمࣰا
 
 O Allah! We have hearkened Your Statement and complied with Your
 Command, and aimed at Your Prophet, seeking his intercession for us to You in
@@ -26916,7 +26836,7 @@ Ibn Mas'ud "Allah be pleased with them" in their comment on the statement of
 Allah Almighty: " And complete the Hajj or Umrah in the service of Allah." (Al-Baqarah 196)
 
 
- وَأَتِمُواْ الْحَجَّ وَالْعُمْرَةَ لِلَّهِ
+وَأَتِمُّوا۟ ٱلۡحَجَّ وَٱلۡعُمۡرَةَ لِلَّهِۚ
 
 But according to another learned men, riding is much better for it includes
 more spending and provisions, and it is farther from boredom and tedium, and
@@ -26988,7 +26908,7 @@ the rites prescribed for them, perform their vows, and (again) circumambulate th
 Ancient House." (Al-Hajj 29)
 
 
- ثُمَّ لْيَقْضُواْ تَفَتَهُمْ وَلْيُوفُواْ تُذُورَهُمْ وَلْيَطَّوَّفُواْ بِآلْبَيْتِ الْعَتِيقِ
+ثُمَّ لۡیَقۡضُوا۟ تَفَثَهُمۡ وَلۡیُوفُوا۟ نُذُورَهُمۡ وَلۡیَطَّوَّفُوا۟ بِٱلۡبَیۡتِ ٱلۡعَتِیقِ
 
 The rites pointed out here refer to the state of being disheveled and covered
 with dust, and to fulfill that is to get one's head shaved, one's mustache cut short,
@@ -27057,7 +26977,7 @@ Such (is his state): and whoever holds in honour the Symbols of Allah, (in the
 sacrifice of animals), such (honour) should come truly from piety of heart"
 (Al-Hajj 32)
 
-ذَلِكَ وَمَن يُعَظِّمْ شَعَتِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ
+ذَٰلِكَۖ وَمَن یُعَظِّمۡ شَعَـٰۤىِٕرَ ٱللَّهِ فَإِنَّهَا مِن تَقۡوَى ٱلۡقُلُوبِ
 
 It is said: this is to make it (the sacrifice) fair and fat.
 
@@ -27089,7 +27009,7 @@ rather adorn it with the beauty of exaltation of Allah Almighty: " It is not the
 meat nor their blood, that reaches Allah: it is your piety that reaches Him." (Al-Hajj 37)
 
 
- لَنْ يَنَالَ اللَّهَ لُحُومُهَا وَلَا دِمَاؤُهَا وَلَكِن يَنَالُهُ الثَّقْوَى مِنْكُمّْ
+لَن یَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَاۤؤُهَا وَلَـٰكِن یَنَالُهُ ٱلتَّقۡوَىٰ مِنكُمۡۚ
 
 This could only be achieved through observing the precious value, no matte;
 few or great in number it might be.
@@ -27167,7 +27087,7 @@ Almighty appreciated them in His statement: "because amongst these are men
 devoted to learning and men who have renounced the world, and they are not
 arrogant." (Al-Ma'idah 82)
 
-ذَلِكَ بِأَنَّ مِنْهُمْ قِسِيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ
+ذَٰلِكَ بِأَنَّ مِنۡهُمۡ قِسِّیسِینَ وَرُهۡبَانࣰا وَأَنَّهُمۡ لَا یَسۡتَكۡبِرُونَ
 
 <!-- PageBreak -->
 
@@ -27406,8 +27326,7 @@ earth many a refuge, wide and spacious: should he die as a refugee from home for
 Allah and His Messenger, his reward becomes due and sure with Allah: and Allah
 is Oft-Forgiving, Most Merciful." (An-Nisa 100)
 
-وَمَن يُهَاجِرْ فِى سَبِيلِ اللَّهِ يَجِدْ فِى الْأَرْضِ مُرَغَمَّا كَثِيرًا وَسَعَةٌ وَمَن تَخْرُجْ مِنْ بَيْتِهِ، مُهَاجِرًا إِلَى اللَّهِ
-وَرَسُولِهِ، ثُمَّ يُدْرِكْهُ أْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ عَلَى الَّهُ وَكَانَ اللّهُ غَفُورًا رَّحِيمًا
+۞ وَمَن یُهَاجِرۡ فِی سَبِیلِ ٱللَّهِ یَجِدۡ فِی ٱلۡأَرۡضِ مُرَٰغَمࣰا كَثِیرࣰا وَسَعَةࣰۚ وَمَن یَخۡرُجۡ مِنۢ بَیۡتِهِۦ مُهَاجِرًا إِلَى ٱللَّهِ وَرَسُولِهِۦ ثُمَّ یُدۡرِكۡهُ ٱلۡمَوۡتُ فَقَدۡ وَقَعَ أَجۡرُهُۥ عَلَى ٱللَّهِۗ وَكَانَ ٱللَّهُ غَفُورࣰا رَّحِیمࣰا
 
 As for his coming through the desert, until he reaches the place fixed for
 assuming Ihram, and seeing those difficulties, let (the pilgrim) remember is
@@ -27463,7 +27382,7 @@ Almighty when He says: "And proclaim the Pilgrimage among men; they will
 come to you on foot and (mounted) on every kind of camel, lean on account of
 journeys through deep and distant mountain highways" (Al-Hajj 27)
 
-وَأَدِّن ِ اَلنَّاسِ بِالْحَجِّ يَأْتُوكَ رِجَالاً وَعَلَى كُلٍ ضَّامِرٍ يَأْتِينَ مِن كُلِّ فَجْ عَمِيقٍلِّنَا
+وَأَذِّن فِی ٱلنَّاسِ بِٱلۡحَجِّ یَأۡتُوكَ رِجَالࣰا وَعَلَىٰ كُلِّ ضَامِرࣲ یَأۡتِینَ مِن كُلِّ فَجٍّ عَمِیقࣲ
 
 And the Call to the people by sounding the trumpet, and raising them from
 their graves in swarms at the plain land of the Day of Judgement, in their
@@ -27797,7 +27716,7 @@ Praise be to Allah, Who has bestowed His Favour upon His servants with
 Revealed Book, which " No falsehood can approach from before or behind it: it
 is sent down by One Full of Wisdom, Worthy of all Praise" (Fussilat 42)
 
-لَّ يَأْتِيهِ الْبَطِلُ مِنْ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ، تَنِيلٌ مِّنْ حَكِيمٍ حَمِيدٍ
+لَّا یَأۡتِیهِ ٱلۡبَـٰطِلُ مِنۢ بَیۡنِ یَدَیۡهِ وَلَا مِنۡ خَلۡفِهِۦۖ تَنزِیلࣱ مِّنۡ حَكِیمٍ حَمِیدࣲ
 
 That through which the way of consideration has been extended for those of
 thoughts, with such of narrations and news as it contains, and the following of
@@ -27821,9 +27740,7 @@ saying: "We have really heard a wonderful Recital! It gives guidance to the Righ
 and we have believed therein: we shall not join (in worship) any (gods) with our
 Lord." (Al-Jinn 1:2)
 
-قُلْ أُوحِىَ إِلَّ أَنَّهُ أَسْتَمَعَ نَفَرٌ مِنَ الْجِنِّ فَقَالُواْ إِنَّا سَمِعْنَا قُرْءَانًا عَجَبًا
-
-يَهْدِىّ إِلَى الْرُّشْدِ فَامَنَا بِهِ، وَلَن نُشْرِكَ بِرَبِّنَاْ أَحَدًا
+بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ قُلۡ أُوحِیَ إِلَیَّ أَنَّهُ ٱسۡتَمَعَ نَفَرࣱ مِّنَ ٱلۡجِنِّ فَقَالُوۤا۟ إِنَّا سَمِعۡنَا قُرۡءَانًا عَجَبࣰا یَهۡدِیۤ إِلَى ٱلرُّشۡدِ فَـَٔامَنَّا بِهِۦۖ وَلَن نُّشۡرِكَ بِرَبِّنَاۤ أَحَدࣰا
 
 Verily, he who believes in it has, indeed, been guided to success, and he who
 talks with it has indeed told the truth, and he who abides by it has indeed guided
@@ -27832,7 +27749,7 @@ talks with it has indeed told the truth, and he who abides by it has indeed guid
 Allah Almighty says: "We have, without doubt, sent down the Message; and
 We will assuredly guard it (from corruption)." (Al-Hijr 9)
 
-إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ تَخَفِظُونَ
+إِنَّا نَحۡنُ نَزَّلۡنَا ٱلذِّكۡرَ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ
 
 However, it is out of the ways of guarding it in the hearts, as well as in (a
 
@@ -27977,7 +27894,7 @@ recited to him: " Allah commands justice, the doing of good, and liberality to k
 and kin, and He forbids all shameful deeds, and injustice and rebellion: He
 instructs you, that you may receive admonition." (An-Nahl 90)
 
-إِنَّاللَّهَ يَأْمُرُ بِالْعَدْلِ وَآلْإِحْسَنِ وَإِيتَآي ذِى الْقُرْبَى وَيَنْهَى عَنِ الْفَحْشَا، وَالْمُنكَرِ وَآلْبَغْي
+إِنَّ ٱللَّهَ یَأۡمُرُ بِٱلۡعَدۡلِ وَٱلۡإِحۡسَـٰنِ وَإِیتَاۤىِٕ ذِی ٱلۡقُرۡبَىٰ وَیَنۡهَىٰ عَنِ ٱلۡفَحۡشَاۤءِ وَٱلۡمُنكَرِ وَٱلۡبَغۡیِۚ
 
 He asked him once again, and he repeated it, thereupon he commented: "By
 Allah! it (the Holy Qur'an) has a sweetness, and it is adorned with charm, (and it
@@ -28112,8 +28029,7 @@ sides, and contemplate the (wonders of) creation in the heavens and the earth,
 (with the thought): "Our Lord! not for naught have you created (all) this! Glory
 to You! Give us salvation from the Penalty of the Fire." (Aal-e-Imran 191)
 
-الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَمًا وَقُعُودًا وَعَلَى جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ السَّمَوَتِ وَالْأَرْضِ رَبَّنَا مَا خَلَفْتَ
-هَذَا بَطِلَا سُبْحَنَكَ فَقِنَا عَذَابَ النَّارِيَ
+ٱلَّذِینَ یَذۡكُرُونَ ٱللَّهَ قِیَـٰمࣰا وَقُعُودࣰا وَعَلَىٰ جُنُوبِهِمۡ وَیَتَفَكَّرُونَ فِی خَلۡقِ ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضِ رَبَّنَا مَا خَلَقۡتَ هَـٰذَا بَـٰطِلࣰا سُبۡحَـٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ
 
 It is true that He Almighty here praises all, but at the same time, He brings
 forward those who celebrate while standing, followed by those who do while
@@ -28336,7 +28252,7 @@ celebrate the praises of their Lord, nor are they (ever) puffed up with pride" (
 <!-- PageNumber="531" -->
 <!-- PageHeader="Book eight: The proprieties of reciting the qur'an" -->
 
-إِنَّمَا يُؤْمِنُ بِئَايَئِنَا الَّذِينَ إِذَا ذُكِرُواْ بِهَا خَرُّواْ سُجَّدًا وَسَبَّحُواْ بِحَمْدٍ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبُرُونَ
+إِنَّمَا یُؤۡمِنُ بِـَٔایَـٰتِنَا ٱلَّذِینَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدࣰا وَسَبَّحُوا۟ بِحَمۡدِ رَبِّهِمۡ وَهُمۡ لَا یَسۡتَكۡبِرُونَ ۩
 
 Thereupon he says: "O Allah! make me of those who prostrate themselves for
 Your Countenance, exalt You with Your Praises; and I seek refuge with You
@@ -28345,7 +28261,7 @@ those who are) puffed up with pride before Your devotees"; and whenever he
 recites Allah's saying: " They fall down on their faces in tears, and it increases
 their (earnest) humility" (Al-Isra' 109)
 
-وَجِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًا
+وَیَخِرُّونَ لِلۡأَذۡقَانِ یَبۡكُونَ وَیَزِیدُهُمۡ خُشُوعࣰا ۩
 
 Let him say: "O Allah! make me of those who weep for Your Sake, and bow
 to You in humility"; and the same is true of each (Holy Verse of) prostration.
@@ -28576,7 +28492,7 @@ prayer!" He would say: "Are we not in prayer?"
 This is in reference to Allah's statement: "and remembrance of Allah is the
 greatest (thing in life) without doubt." (Al-Ankabut 45)
 
-وَلَذِكْرُ اللَّهِ أَكْبَرُ فٍ
+وَلَذِكۡرُ ٱللَّهِ أَكۡبَرُۗ
 
 The Messenger of Allah "Allah's blessing and peace be upon him" said: "He,
 who listens to a Holy Verse (being recited) from the Book of Allah Almighty, it
@@ -28705,7 +28621,7 @@ Speech of Allah Almighty the utmost care should be taken, since Allah Almighty
 says in this respect: " That this is indeed a Qur'an most honourable, In a Book
 well-guarded, Which none shall touch but those who are clean." (Al-Waqi'ah 77:79)
 
-إِنَّهُ، لَقُرْءَ انٌ كَرِيمٌ ََّ فِ كِتَبٍ مَّكُونٍ إِلَهَ لَّا يَمْسُّهُ: إِلَّ الْمُطَّرُونَ
+إِنَّهُۥ لَقُرۡءَانࣱ كَرِیمࣱ فِی كِتَـٰبࣲ مَّكۡنُونࣲ لَّا یَمَسُّهُۥۤ إِلَّا ٱلۡمُطَهَّرُونَ
 
 As well as the visible cover and papers of the Mushaf are well-guarded from
 the skin and complexion of the toucher unless he is clean, so are the internal
@@ -28747,7 +28663,7 @@ The third pertains to the presence (and attentiveness) of the heart, and
 freeing oneself from any innermost talks. In comment on Allah's saying: "O
 Yahya! take hold of the Book with might" (Maryam 12)
 
-يَنْيَحْيَىْ خُذِ الْكِتَبَ بِقُوَّةٍ
+یَـٰیَحۡیَىٰ خُذِ ٱلۡكِتَـٰبَ بِقُوَّةࣲۖ
 
 It is said that it means with serious effort and endeavour. To take it with
 serious effort is to devote oneself wholeheartedly to it on reciting it, with his
@@ -28842,7 +28758,7 @@ the supererogatory night prayer) with only one Holy Verse he kept reciting, i.e.
 "If You do punish them, they are Your servants: if You do forgive them, You are
 the Exalted in power, the Wise." (Al-Ma'idah 118)
 
-إِن تُعَذِّبِهُمْ فَإِنَّمْ عِبَادُكَ وَإِن تَغْفِرْ لَهُمْ فَإِنَّكَ أَنتَ اُلْعَزِيزُ الْحَكِيمُ
+إِن تُعَذِّبۡهُمۡ فَإِنَّهُمۡ عِبَادُكَۖ وَإِن تَغۡفِرۡ لَهُمۡ فَإِنَّكَ أَنتَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ
 
 One night, Tamim Ad-Dari stood (for the night supererogatory prayer) only
 with the following Holy Verse: "What! do those who seek after evil ways think
@@ -28850,15 +28766,14 @@ that We shall hold them equal with those who believe and do righteous deeds,
 that equal will be their life and their death? Ill is the judgment that they make."
 (Al-Jathiyah 21)
 
-أَمْ حَسِبَ الَّذِينَ اجْتَرَحُواْ السَِّئَاتِ أَن تَجْعَلَهُمْ كَلَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَِّحَت سَوَاءَ نَحْيَاهُمْ وَمَمَّاُمّ
-سَآءَ مَا تَحْكُمُونَ
+أَمۡ حَسِبَ ٱلَّذِینَ ٱجۡتَرَحُوا۟ ٱلسَّیِّـَٔاتِ أَن نَّجۡعَلَهُمۡ كَٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَوَاۤءࣰ مَّحۡیَاهُمۡ وَمَمَاتُهُمۡۚ سَاۤءَ مَا یَحۡكُمُونَ
 
 Sa'id Ibn Jubair stood one night (for supererogatory prayer) with the following
 Holy Verse which eh kept reciting: "And O you in sin! get you apart this Day!"
 (Ya Sin 59)
 
 
- وَأَمْتَزُواْ الْيَوْمَ أَيُّا الْمُجْرِمُونَ
+وَٱمۡتَـٰزُوا۟ ٱلۡیَوۡمَ أَیُّهَا ٱلۡمُجۡرِمُونَ
 
 One of those (learned men) said: "It happens that I inaugurate (the recitation
 of) a Surah, thereupon some (of its meanings) that I observe in it stops me from
@@ -28896,15 +28811,14 @@ The Attributes of Allah Almighty are mentioned in such Holy Verses as His
 Almighty's statement: "there is nothing whatever like unto Him, and He is the
 One that hears and sees (all things)." (Ash-Shura 11)
 
-لَيْسَ كَمِثْلِهِ، شَىْءٌ وَهُوَ السَّمِيعُ الْبَصِيرُ
+لَیۡسَ كَمِثۡلِهِۦ شَیۡءࣱۖ وَهُوَ ٱلسَّمِیعُ ٱلۡبَصِیرُ
 
 And: " Allah is He, than Whom there is no other god; the Sovereign, the Holy
 One, the Source of Peace (and Perfection), the Guardian of Faith, the Preserver
 of Safety, the Exalted in Might, the Irresistible, the Supreme: Glory to Allah!
 (High is He) above the partners they attribute to Him." (Al-Hashr 23)
 
-هُوَ اللّهُ الَّذِى لَآ إِلَهَ إِلَّ هُوَ الْمَلِكُ الْقُدُّوسُ السَّلَمُ الْمُؤْمِنُ الْمُهْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكْبِرُّ
-سُبْحَنَ اللَّهِ عَمَّا يُشْرِكُونَ
+هُوَ ٱللَّهُ ٱلَّذِی لَاۤ إِلَـٰهَ إِلَّا هُوَ ٱلۡمَلِكُ ٱلۡقُدُّوسُ ٱلسَّلَـٰمُ ٱلۡمُؤۡمِنُ ٱلۡمُهَیۡمِنُ ٱلۡعَزِیزُ ٱلۡجَبَّارُ ٱلۡمُتَكَبِّرُۚ سُبۡحَـٰنَ ٱللَّهِ عَمَّا یُشۡرِكُونَ
 
 Let one then consider the meanings of those words and attributes, in order
 that their mysteries might be revealed to him, for indeed, underneath them there
@@ -28942,7 +28856,7 @@ perceive that everything, barring Allah Almighty, is nothing, and that
 "Everything should inevitably perish barring His Own Countenance" (Al-Qasas 88)
 
 
- كُلُّ شَىْءٍ هَالِكُ إِلَّا وَجْهَهُ,
+كُلُّ شَیۡءٍ هَالِكٌ إِلَّا وَجۡهَهُۥۚ
 
 It is not that everything (that exists) will become nothing in the next state (of
 life), but it is nothing at that time, in case one considers His Own Self as He is ,
@@ -28983,7 +28897,7 @@ and disputation, as shown from the statement of Allah Almighty: " Does not man
 see that it is We Who created him from sperm? Yet behold! He (stands forth) as
 an open disputer!" (Ya Sin 77)
 
-أَوْلَمْ يَرَ آلْإِنسَنُ أَنَّا خَلَقْنَهُ مِن نُطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُّبِينٌ
+أَوَلَمۡ یَرَ ٱلۡإِنسَـٰنُ أَنَّا خَلَقۡنَـٰهُ مِن نُّطۡفَةࣲ فَإِذَا هُوَ خَصِیمࣱ مُّبِینࣱ
 
 Let man then consider those marvels, in order to promote therefrom to the
 
@@ -29023,13 +28937,13 @@ every servant understands only in proportion to what he has been provided with:
 or dry (green or withered), but is (inscribed) in a Record clear (to those who can
 read)." (Al-An'am 59)
 
-وَلَا حَبٍَّ فِ ظُلُمَتِ آلْأَرْضِ وَلَا رَظْبٍ وَلَا يَابِسٍ إِلَّ فِ كِتَبٍ مُّبِينٍ
+وَلَا حَبَّةࣲ فِی ظُلُمَـٰتِ ٱلۡأَرۡضِ وَلَا رَطۡبࣲ وَلَا یَابِسٍ إِلَّا فِی كِتَـٰبࣲ مُّبِینࣲ
 
 "Say: "If the ocean were ink (wherewith to write out) the words of my Lord.
 Sooner would the ocean be exhausted than would the words of my Lord, even if
 we added another ocean like it, for its aid."" (Al-Kahf 109)
 
-قُل لَّوْ كَانَ الْبَحْرُ مِدَادًا لِكَلِمَتِ بَى لَنَفِدَ الْبَحْرُ قَبْلَ أَن تَنْفَدَ كُلِمَنتُ رَبِى وَلَوْ جِئْنَا بِمِثْلِهِ، مَدَدًّا
+قُل لَّوۡ كَانَ ٱلۡبَحۡرُ مِدَادࣰا لِّكَلِمَـٰتِ رَبِّی لَنَفِدَ ٱلۡبَحۡرُ قَبۡلَ أَن تَنفَدَ كَلِمَـٰتُ رَبِّی وَلَوۡ جِئۡنَا بِمِثۡلِهِۦ مَدَدࣰا
 
 For this reason, Ali "Allah be pleased with him" said:" If I willed, I could
 (write as much papers as is sufficient for the) load of seventy camels in the
@@ -29051,8 +28965,7 @@ you, they say to those who have received knowledge, "What is it he said just
 then?" Such are men whose hearts Allah has sealed, and who follow their own
 lusts." (Muhammad 16)
 
-وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ حَتَّى إِذَا خَرَجُواْ مِنْ عِندِكَ قَالُواْ لِلَّذِينَ أُوتُوا الْعِلْمَ مَاذَا قَالَ ءَانِفًاْ أُوْلَئِكَ الَّذِينَ
-طَبَعَ اللَّهُ عَلَى قُلُوبِهِمْ وَأَنَّبَعُواْ أَهْوَآءَ هُمْ رٍ
+وَمِنۡهُم مَّن یَسۡتَمِعُ إِلَیۡكَ حَتَّىٰۤ إِذَا خَرَجُوا۟ مِنۡ عِندِكَ قَالُوا۟ لِلَّذِینَ أُوتُوا۟ ٱلۡعِلۡمَ مَاذَا قَالَ ءَانِفًاۚ أُو۟لَـٰۤىِٕكَ ٱلَّذِینَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمۡ وَٱتَّبَعُوۤا۟ أَهۡوَاۤءَهُمۡ
 
 The seal intended here is that which obstructs the understanding, as we shall
 mention latter in our talk about the obstructions of understanding. It is said that
@@ -29158,18 +29071,18 @@ devotee turning (to Allah)." (Qaf 8)
 <!-- PageNumber="546" -->
 
 
-تَبْصِرَةُ وَذِكْرَى لِكُلِّ عَبْدٍ مُبِيبٍ َا
+تَبۡصِرَةࣰ وَذِكۡرَىٰ لِكُلِّ عَبۡدࣲ مُّنِیبࣲ
 
 He Almighty further says: " He it is Who shows you His Signs, and sends
 down Sustenance for you from the sky: but only those receive admonition who
 turn (to Allah)." (Ghafir 13)
 
-هُوَ الَّذِى يُرِيكُمْ ءَايَتِهِ، وَيُنَزِّلُ لَكُم مِّنَ السَّمَآءِ رِزْقًا وَمَا يَتَذَكَّرُ إِلَّ مَن يُنِيبُ
+هُوَ ٱلَّذِی یُرِیكُمۡ ءَایَـٰتِهِۦ وَیُنَزِّلُ لَكُم مِّنَ ٱلسَّمَاۤءِ رِزۡقࣰاۚ وَمَا یَتَذَكَّرُ إِلَّا مَن یُنِیبُ
 
 He also says in this respect: "but none will grasp the Message but men of
 understanding." (Al-Baqarah 269)
 
-وَمَا يَذَّكَّرُ إِلَّ أُوْلُواْ الأَلْبَبِ يجَ
+وَمَا یَذَّكَّرُ إِلَّاۤ أُو۟لُوا۟ ٱلۡأَلۡبَـٰبِ
 
 To be sure, he who gives preference to the vanities of this world over the
 blessings and graces of the hereafter does not belong to those endued with the
@@ -29204,7 +29117,7 @@ of the stories of the Messengers, with it We make firm your heart: in them there
 comes to you the Truth, as well as an exhortation and a message of remembrance
 to those who believe." (Hud 120)
 
-وَكُلاَّ نَّقُصُّ عَلَيْكَ مِنْ أَنْبَآءِ الْرُّسُلِ مَا نُثَّبِّتُ بِهِ، فُؤَادَكَ
+وَكُلࣰّا نَّقُصُّ عَلَیۡكَ مِنۡ أَنۢبَاۤءِ ٱلرُّسُلِ مَا نُثَبِّتُ بِهِۦ فُؤَادَكَۚ
 
 Let the servant further assume that Allah Almighty makes firm his heart with
 
@@ -29228,38 +29141,37 @@ Allah's favours on you, and the fact that He sent down to you the Book and
 Wisdom, for your instruction. And fear Allah, and know that Allah is well-
 acquainted with all things." (Al-Baqarah 231)
 
-وَلَا تَتَّخِذُوْاْءَايَتِ اللَّهِ هُزُوَأْ وَاذْكُرُواْ نِعْمَتَ اللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُم مِّنَ الْكِتَبِ وَالْحِكْمَةِ يَعِطُكُم بِهِ.
-وَأَنَّقُواْ اللَّهَ وَاعْلَمُوْاْ أَنَّ اللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ جَ
+وَلَا تَتَّخِذُوۤا۟ ءَایَـٰتِ ٱللَّهِ هُزُوࣰاۚ وَٱذۡكُرُوا۟ نِعۡمَتَ ٱللَّهِ عَلَیۡكُمۡ وَمَاۤ أَنزَلَ عَلَیۡكُم مِّنَ ٱلۡكِتَـٰبِ وَٱلۡحِكۡمَةِ یَعِظُكُم بِهِۦۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ بِكُلِّ شَیۡءٍ عَلِیمࣱ
 
 He further says: "We have revealed for you (O men!) A Book in which is a
 Message for you: will you not then understand?" (Al-Anbiya 10)
 
-لَقَدْ أَنزَلْنَا إِلَيْكُمْ كِتَبًا فِيهِ ذِكْرُكُمْ أَفَلَا تَعْقِلُونَ
+لَقَدۡ أَنزَلۡنَاۤ إِلَیۡكُمۡ كِتَـٰبࣰا فِیهِ ذِكۡرُكُمۡۚ أَفَلَا تَعۡقِلُونَ
 
 "And We have sent down unto you (also) the Message; that you may
 explain clearly to men what is sent for them, and that they may give thought."
 (An-Nahl 44)
 
-يَاأَلْبِيْنَتِ وَالزُّبْرُ وَأَنزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيْنَ لِلنَّاسِ مَا نُزِّلَ إِلَيْهِمْ وَلَعَلَّهُمْ يَتَفَكَّرُونَ
+بِٱلۡبَیِّنَـٰتِ وَٱلزُّبُرِۗ وَأَنزَلۡنَاۤ إِلَیۡكَ ٱلذِّكۡرَ لِتُبَیِّنَ لِلنَّاسِ مَا نُزِّلَ إِلَیۡهِمۡ وَلَعَلَّهُمۡ یَتَفَكَّرُونَ
 
 "Thus does Allah set forth for men their lessons by similitudes." (Muhammad 3)
 
-كَذَ لِكَ يَضْرِبُ اللَّهُ لِلنَّاسِ أَمْثَلَهُمْ
+كَذَٰلِكَ یَضۡرِبُ ٱللَّهُ لِلنَّاسِ أَمۡثَـٰلَهُمۡ
 
 "And follow the Best of (the courses) revealed to you from your Lord,
 before the Penalty comes on you - of a sudden while you perceive not!" (Az-Zumar 55)
 
-وَأَنَِّعُواْ أَحْسَنَّ مَا أُنزِلَ إِلَيْكُمْ مِن رَّبِّكُم مِّن قَبْلِ أَن يَأْتِيَكُمُ الْعَذَابُ بَغْتَةٌ وَأَنْتُمْ لَا تَشْعُرُونَ تَّ:
+وَٱتَّبِعُوۤا۟ أَحۡسَنَ مَاۤ أُنزِلَ إِلَیۡكُم مِّن رَّبِّكُم مِّن قَبۡلِ أَن یَأۡتِیَكُمُ ٱلۡعَذَابُ بَغۡتَةࣰ وَأَنتُمۡ لَا تَشۡعُرُونَ
 
 "These are clear evidences to men, and a Guidance and Mercy to those of
 assured Faith." (Al-Jathiyah 20)
 
-هَذَا بَصَبِرُ لِلنَّاسِ وَهُدِّى وَرَحْمَةٌ لِقَوْمٍ يُوقِنُونَ إِلَ
+هَـٰذَا بَصَـٰۤىِٕرُ لِلنَّاسِ وَهُدࣰى وَرَحۡمَةࣱ لِّقَوۡمࣲ یُوقِنُونَ
 
 "Here is a plain statement to men, a guidance and instruction to those who
 fear Allah!" (Aal-e-Imran 138)
 
-هَذَا بَيَانٌّ لِلنَّاسِ وَهُدَى وَمَوْعِظَةٌ لِلْمُتَّقِينَ
+هَـٰذَا بَیَانࣱ لِّلنَّاسِ وَهُدࣰى وَمَوۡعِظَةࣱ لِّلۡمُتَّقِینَ
 
 If all of the men (and also jinns) are addressed by His Speech, then, it is more
 fitting that everyone should be included. As long as this certain reciter is
@@ -29274,7 +29186,7 @@ people, and rather let him assume that it is he that is intended (and addressed)
 Allah Almighty says: "this Qur'an has been revealed to me by inspiration, that I
 may warn you and all whom it reaches." (Al-An'am 19)
 
-وَأُوحِىَ إِلَىَّ هَذَا الْقُرْءَانُ لِأُنذِرَكُم بِهِ، وَمَنُ بَلَغَّ
+وَأُوحِیَ إِلَیَّ هَـٰذَا ٱلۡقُرۡءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ بَلَغَۚ
 
 
 According to Muhammad Ibn Ka'b Al-Qurzhi: "Whomever the Qur'an has
@@ -29296,7 +29208,7 @@ returns either with increase or decrease." He quoted Allah's saying: " We send
 down (stage by stage) in the Qur'an that which is a healing and a mercy to those
 who believe: to the unjust it causes nothing but loss after loss." (Al-Isra' 82)
 
-وَنُنَزِّلُ مِنَ الْقُرْءَانِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِلْمُؤْمِنِينَ وَلَا يَزِيدُ الظَّلِمِينَ إِلَّ خَسَارًا
+وَنُنَزِّلُ مِنَ ٱلۡقُرۡءَانِ مَا هُوَ شِفَاۤءࣱ وَرَحۡمَةࣱ لِّلۡمُؤۡمِنِینَ وَلَا یَزِیدُ ٱلظَّـٰلِمِینَ إِلَّا خَسَارࣰا
 
 
 The eighth pertains to the impression. It is that his heart should be
@@ -29312,7 +29224,7 @@ doubt, I am (also) He that forgives again and again", but He stipulates four
 conditions in order to attain such forgiveness: "to those who repent, believe, and
 do right, who, in fine, are ready to receive true guidance." (Taa-Haa 82)
 
-وَإِنِى لَغَفَّارٌ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَلِحًا ثُمَّ أَهْتَدَى
+وَإِنِّی لَغَفَّارࣱ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَـٰلِحࣰا ثُمَّ ٱهۡتَدَىٰ
 
 He Almighty further says: " By (the Token of) Time (through the Ages), Verily
 Man is in loss, Except those who have Faith, and do righteous deeds, and (join
@@ -29331,7 +29243,7 @@ conditions. But on another occasion, he stipulates only one condition to have on
 thing (i.e. Allah's Mercy) when He says: "for the Mercy of Allah is (always) near
 to those who do good." (Al-A'raf 56)
 
-وَلَا تُفْسِدُواْ فِى الْأَرْضِ بَعْدَ إِصْلَحِهَا وَآدْعُوهُ خَوْفًا وَطَمَعًاْ إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِنَ الْمُحْسِنِينَ
+وَلَا تُفۡسِدُوا۟ فِی ٱلۡأَرۡضِ بَعۡدَ إِصۡلَـٰحِهَا وَٱدۡعُوهُ خَوۡفࣰا وَطَمَعًاۚ إِنَّ رَحۡمَتَ ٱللَّهِ قَرِیبࣱ مِّنَ ٱلۡمُحۡسِنِینَ
 
 Verily, doing good joins all (required conditions).
 
@@ -29376,7 +29288,7 @@ and We brought you as a witness against these People" (An-Nisa 41)
 <!-- PageNumber="550" -->
 
 
-فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أُمَّةٍ بِشَهِيدٍ وَحِثْنَا بِكَ عَلَى هَنَؤُلاءِ شَهِدًا
+فَكَیۡفَ إِذَا جِئۡنَا مِن كُلِّ أُمَّةِۭ بِشَهِیدࣲ وَجِئۡنَا بِكَ عَلَىٰ هَـٰۤؤُلَاۤءِ شَهِیدࣰا
 
 I rose up my head, and behold! The eyes of the Messenger of Allah "Allah's
 blessing and peace be upon him" were overflowing with tears. He said to him:
@@ -29389,20 +29301,20 @@ Verses. However, such states as one entertains makes him more than a narrator
 (of the speech). If one, for example, recites (Allah's saying): "if I were to disobey
 my Lord, I should myself fear the Penalty of a Great Day (to come)" (Yunus 15)
 
-إِنِىّ أَخَافُ إِنْ عَصَيْتُ رَّى عَذَابَ يَوْمٍ عَظِيمٍ
+إِنِّیۤ أَخَافُ إِنۡ عَصَیۡتُ رَبِّی عَذَابَ یَوۡمٍ عَظِیمࣲ
 
 And does not entertain the feeling of fear, he will be no more than a speech-
 narrator; and if he recites (Allah's saying): "Our Lord! In You do we trust, and to
 You do we turn in repentance: to You is (our) final Goal" (Al-Mumtahanah 4)
 
-رَّبَّنَا عَلَيْكَ تَوَكَلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ َِّ
+رَّبَّنَا عَلَیۡكَ تَوَكَّلۡنَا وَإِلَیۡكَ أَنَبۡنَا وَإِلَیۡكَ ٱلۡمَصِیرُ
 
 And is not in the habit of putting his trust in Allah Almighty, or turning to
 Him (in repentance), he also will be no more than a speech-narrator; and if he
 recites (Allah's saying): "We shall certainly bear with patience all the hurt you may
-cause us. For those who put their trust should put their trust on Allah" (Ibrahim 12)
+cause us. For those who put their trust should put their trust on Allah" (Abraham 12)
 
-وَلَنَصْبِرَنَّ عَلَى مَآءَ اذَيْتُمُونَأَ وَعَلَى اللَّهِ فَلْيَتَوَّكَّلِ الْمُتَوَّكُونَ
+وَلَنَصۡبِرَنَّ عَلَىٰ مَاۤ ءَاذَیۡتُمُونَاۚ وَعَلَى ٱللَّهِ فَلۡیَتَوَكَّلِ ٱلۡمُتَوَكِّلُونَ
 
 Let him be in the state of showing patience or at least let him be determined
 on showing it until he tastes the sweetness of recitation.
@@ -29413,21 +29325,21 @@ than the movement of his tongue, accompanied by an evident curse against
 himself as shown from the statement of Allah Almighty: "The curse of Allah is
 on the wrong-doers" (Al-A'raf 44)
 
-أَن لَّعْنَةُ اللَّهِ عَلَى الظَّلِمِينَ
+أَن لَّعۡنَةُ ٱللَّهِ عَلَى ٱلظَّـٰلِمِینَ
 
 And: "Grievously odious is it in the sight of Allah that you say that which you
 do not" (As-Saff 3)
 
-كَبُرَ مَقْثًا عِندَ اللَّهِ أَن تَقُولُواْ مَا لَا تَفْعَلُونَ
+كَبُرَ مَقۡتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفۡعَلُونَ
 
 And: "yet they heed not and they turn away" (Al-Anbiya 1)
 
-اقْرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِى غَفْلَةٍ مُّعْرِضُونَ بَا
+ٱقۡتَرَبَ لِلنَّاسِ حِسَابُهُمۡ وَهُمۡ فِی غَفۡلَةࣲ مُّعۡرِضُونَ
 
 And: "Therefore shun those who turn away from Our Message and desire
 nothing but the life of this world" (An-Najm 29)
 
-فَأَعْرِضْ عَن مَّن تَوَلَّى عَن ذِكْرِنَا وَلَمْ يُرِدْ إِلَّ الْحَيَوْةَ الدُّنْيَا رِيّ
+فَأَعۡرِضۡ عَن مَّن تَوَلَّىٰ عَن ذِكۡرِنَا وَلَمۡ یُرِدۡ إِلَّا ٱلۡحَیَوٰةَ ٱلدُّنۡیَا
 
 <!-- PageBreak -->
 
@@ -29436,20 +29348,20 @@ nothing but the life of this world" (An-Najm 29)
 
 And: "and those who do not desist are (indeed) doing wrong" (Al-Hujurat 11)
 
-وَمَن لَّمْ يَتُبْ فَأُوْلَئِكَ هُمُ الظَّلِمُونَ
+وَمَن لَّمۡ یَتُبۡ فَأُو۟لَـٰۤىِٕكَ هُمُ ٱلظَّـٰلِمُونَ
 
 In addition to such Holy Verses, and thus he will be included in those in
 connection with whom Allah Almighty says: And there are among them
 illiterates, who know not the Book, but (see therein their own) desires, and they
 do nothing but conjecture" (Al-Baqarah 78)
 
-وَمِنْهُمْ أُمِيُّونَ لَا يَعْلَمُونَ الْكِتَبَ إِلَّ أَمَانِىَّ وَإِنْ هُمْ إِلَّا يَظُنُونَ
+وَمِنۡهُمۡ أُمِّیُّونَ لَا یَعۡلَمُونَ ٱلۡكِتَـٰبَ إِلَّاۤ أَمَانِیَّ وَإِنۡ هُمۡ إِلَّا یَظُنُّونَ
 
 In reference to the mere recitation (with no impression), and also Allah's
 saying: "And how many Signs in the heavens and the earth do they pass by? Yet
 they turn (their faces) away from them!" (Yusuf 105)
 
-وَكَأَبِنْ مِّنْ ءَايَةٍ فِى السَّمَوَاتِ وَالْأَرْضِ يَمُزُونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ
+وَكَأَیِّن مِّنۡ ءَایَةࣲ فِی ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضِ یَمُرُّونَ عَلَیۡهَا وَهُمۡ عَنۡهَا مُعۡرِضُونَ
 
 That's because the Holy Qur'an is that which makes evident those signs in the
 heavens and the earth; and if one passes by them without being impressed, he
@@ -29474,7 +29386,7 @@ He who turns back from acting upon (what is contained in) the Holy Qur'an is
 intended by Allah's statement: " but they threw it away behind their backs, and
 purchased with it some miserable gain! And vile was the bargain they made!" (Aal-e-Imran 187)
 
-فَتَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَاشْتَرَوْاْ بِهِ، ثَمَنًا قَلِيلاً فَبِئْسَ مَا يَشْتُرُونَ
+فَنَبَذُوهُ وَرَاۤءَ ظُهُورِهِمۡ وَٱشۡتَرَوۡا۟ بِهِۦ ثَمَنࣰا قَلِیلࣰاۖ فَبِئۡسَ مَا یَشۡتَرُونَ
 
 For this reason, the Messenger of Allah "Allah's blessing and peace be upon
 him" said: "Keep reading the Holy Qur'an as long as your hearts agree with it and
@@ -29489,9 +29401,7 @@ faith strengthened, and put (all) their trust in their Lord." (Al-Anfal 2)
 <!-- PageNumber="552" -->
 
 
-إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَحِلَتْ قُلُوبُهُمْ وَإِذَا تُلِيَتْ عَلَيْهِمْ
-
-ءَايَتُهُ زَادَتْهُمْ إِيمَانًا وَعَلَى رَبِّهِمْ يَتَوَّكَّلُونَ
+إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِینَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتۡ قُلُوبُهُمۡ وَإِذَا تُلِیَتۡ عَلَیۡهِمۡ ءَایَـٰتُهُۥ زَادَتۡهُمۡ إِیمَـٰنࣰا وَعَلَىٰ رَبِّهِمۡ یَتَوَكَّلُونَ
 
 The Messenger of Allah "Allah's blessing and peace be upon him" said also:
 "He who has the best and most pleasant voice in (his recitation of) the Qur'an is
@@ -29520,7 +29430,7 @@ Holy Qur'an, he came to Allah's statement: "And he who does even an atom's
 weight of good will see it; and he who does even an atom's weight of evil will
 see it" (Az-Zalzalah 7:8)
 
-فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ، وَا
+فَمَن یَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَیۡرࣰا یَرَهُۥ وَمَن یَعۡمَلۡ مِثۡقَالَ ذَرَّةࣲ شَرࣰّا یَرَهُۥ
 
 He said: "This is enough for me" and then he turned away. On that the
 Messenger of Allah "Allah's blessing and peace be upon him" said: "Verily the
@@ -29534,7 +29444,7 @@ acting upon what he is reading is intended by Allah's saying: "But whosoever
 turns away from My Message, verily for him is a life narrowed down, and We
 shall raise him up blind on the Day of Judgment." (Taa-Haa 124)
 
-وَمَنْ أَعْرَضَ عَن ذِكْرِى فَإِنَّ لَهُ مَعِيشَةً ضَنكًا وَتَخْشُرُهُ يَوْمَ الْقِيَمَةِ أَعْمَىْ لَـ
+وَمَنۡ أَعۡرَضَ عَن ذِكۡرِی فَإِنَّ لَهُۥ مَعِیشَةࣰ ضَنكࣰا وَنَحۡشُرُهُۥ یَوۡمَ ٱلۡقِیَـٰمَةِ أَعۡمَىٰ
 
 And (in the same Surah): "(Allah) will say: "Thus did you, when Our Signs
 came unto you, disregard them: so wilt you, this day, be disregarded" (126)
@@ -29612,11 +29522,11 @@ Producer of Speech apart from anyone and anything else, the servant complies
 with the command of Allah Almighty: " Hasten you then (at once) to Allah"
 (Adh-Dhariyat 50)
 
-فَفِرُواْ إِلَى اللّهِ
+فَفِرُّوۤا۟ إِلَى ٱللَّهِۖ
 
 And: "And make not another an object of worship with Allah." (Adh-Dhariyat 51)
 
-وَلَا تَجْعَلُواْ مَعَ اللَّهِ إِلَهًا ءَ اخْرَ اتِ
+وَلَا تَجۡعَلُوا۟ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَۖ إِنِّی
 
 Therefore, he who does not see Him in all things has, indeed, seen
 anything other than Him; and if a servant diverts his attention to anything
@@ -29637,9 +29547,9 @@ is the addressee, in awe and fear. For this reason, Ibn Umar used to say (by way
 of supplication): "O Allah! I ask for Your Forgiveness for my injustice and
 ungratefulness." When he was asked about that: "As for the injustice (its reason
 might be known): what then is the reason for ungratefulness?" he recited Allah's
-saying: "Verily, man is given up to injustice and ingratitude." (Ibrahim 34)
+saying: "Verily, man is given up to injustice and ingratitude." (Abraham 34)
 
-إِنَّ الْإِنْنَ لَظُومٌ كَفَّارٌ ج
+إِنَّ ٱلۡإِنسَـٰنَ لَظَلُومࣱ كَفَّارࣱ
 
 It was said to Yusuf Ibn Asbat: "With which supplication do you supplicate
 Allah when you recite the Qur'an?" he said: "With which should I supplicate? I
@@ -29819,14 +29729,14 @@ In his comment on the statement of Allah Almighty: " He grants wisdom to
 whom He pleases; and he to whom wisdom is granted receives indeed a benefit
 overflowing; but none will grasp the Message but men of understanding" (Al-Baqarah 269)
 
-وَمَن يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَبْرً كَثِيراً وَمَا يَذَّكَّرُ إِلَّ أُوْلُواْ الأَلْبَبِ
+یُؤۡتِی ٱلۡحِكۡمَةَ مَن یَشَاۤءُۚ وَمَن یُؤۡتَ ٱلۡحِكۡمَةَ فَقَدۡ أُوتِیَ خَیۡرࣰا كَثِیرࣰاۗ وَمَا یَذَّكَّرُ إِلَّاۤ أُو۟لُوا۟ ٱلۡأَلۡبَـٰبِ
 
 Ibn Abbas "Allah be pleased with both" said: "He refers to the faculty of
 understanding in the Qur'an." Allah Almighty further says: " To Solomon We
 inspired the (right) understanding of the matter: to each (of them) We gave
 Judgment and Knowledge" (Al-Anbiya 79)
 
-فَفَهَّمْنَهَا سُلَّيْمَنَّ وَكُلاَّ ءَاتَيْنَا حُكْمًا وَعِلْمًا
+فَفَهَّمۡنَـٰهَا سُلَیۡمَـٰنَۚ وَكُلًّا ءَاتَیۡنَا حُكۡمࣰا وَعِلۡمࣰاۚ
 
 "He names that which both were given 'knowledge and wisdom', whereas he
 gives the name of 'understanding' in particular to that which was unique to
@@ -29897,7 +29807,7 @@ The fourth is that Allah Almighty says: "If they had only referred it to the
 Messenger or to those charged with authority among them, the proper
 investigators would have tested it from them (direct)." (An-Nisa 83)
 
-لَعَلِمَهُ الَّذِينَ يَسْتَنْبِطُونَهُ مِنْهُمْ
+لَعَلِمَهُ ٱلَّذِینَ یَسۡتَنۢبِطُونَهُۥ مِنۡهُمۡۗ
 
 He thus affirms the faculty of investigation to those men endued with
 knowledge; and it is a well-known fact that such investigation is something
@@ -29946,7 +29856,7 @@ which is intended by it, or he who calls for striving one's utmost against the
 hardened heart, saying (in support of his claim): Allah Almighty says: "Go you to
 Pharaoh, for he has indeed transgressed all bounds" (Taa-Haa 24)
 
-اذْهَبْ إِلَى فِرْعَوْنَ إِنَّهُ، طَفَى
+ٱذۡهَبۡ إِلَىٰ فِرۡعَوۡنَ إِنَّهُۥ طَغَىٰ
 
 Beckoning to his heart, hinting that it is that (heart) which is intended by
 Pharaoh.
@@ -30011,7 +29921,7 @@ like Allah's statement: " We sent the She-camel to the Thamud to open their eyes
 but they proved unjust with it: We only sent the Signs by way of terror (and
 warning from evil)." (Al-Isra' 59)
 
-وَءَاتَيْنَا ثَمُودَ النَّاقَةَ مُبْصِرَةً فَظَلَّمُواْ بِهَا
+وَءَاتَیۡنَا ثَمُودَ ٱلنَّاقَةَ مُبۡصِرَةࣰ فَظَلَمُوا۟ بِهَاۚ
 
 It means (We sent the she-camel to them) as a sign to open their eyes,
 thereupon they wronged themselves by killing it. however, one whose knowledge
@@ -30022,7 +29932,7 @@ not know whether they had wronged themselves or others.
 Consider also Allah's statement: "and they had been made to drink into their
 hearts of the Calf because of their Faithlessness." (Al-Baqarah 93)
 
-وَأُشْرِبُواْ فِى قُلُوبِهِمُ الْعِجْلَ بِكُفْرِهِمْ
+وَأُشۡرِبُوا۟ فِی قُلُوبِهِمُ ٱلۡعِجۡلَ بِكُفۡرِهِمۡۚ
 
 It means that they had been made to drink into their hearts the love of the
 
@@ -30037,7 +29947,7 @@ made you taste two times the portion in this life, and two times the portion in
 death: and moreover you would have found none to help you against Us!"
 (Al-Isra' 75)
 
-إِذَّا لَّأَذَقْنَكَ ضِعْفَ الْحَيّوَةِ وَضِعْفَ الْمَمَاتِ
+إِذࣰا لَّأَذَقۡنَـٰكَ ضِعۡفَ ٱلۡحَیَوٰةِ وَضِعۡفَ ٱلۡمَمَاتِ
 
 Here, he means two times the portion of punishment of the living, and two
 times the portion of punishment of the dead; and the (word) punishment has
@@ -30049,7 +29959,7 @@ Allah Almighty says too (on the tongue of the brothers of Yusuf): "'Ask
 the town where we have been and the caravan in which we returned, and (you
 will find) we are indeed telling the truth."" (Yusuf 82)
 
-وَسْئَلِ الْقَرْيَةَ الَّتِى كُنَّا فِيهَا وَالْعِيرَ الَّتِى أَقْبَلْنَا فِيهَا وَإِنَّا لَصَدِقُونَ
+وَسۡـَٔلِ ٱلۡقَرۡیَةَ ٱلَّتِی كُنَّا فِیهَا وَٱلۡعِیرَ ٱلَّتِیۤ أَقۡبَلۡنَا فِیهَاۖ وَإِنَّا لَصَـٰدِقُونَ
 
 He means 'Ask the inhabitants of the town in which we were, and the
 riders of the caravan with which we've returned; and both inhabitants and
@@ -30057,7 +29967,7 @@ riders have been omitted here by way of concealment. Allah Almighty also
 says (about the Doomed Hour of Judgement): "Heavy were its burden
 through the heavens and the earth." (Al-A'raf 187)
 
-ثَقُلَتْ فِى السَّمَوَاتِ وَالْأَرْضِ
+ثَقُلَتۡ فِی ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضِۚ
 
 It means that (the knowledge of) it was hidden from the inhabitants of both
 the heavens and the earth, and the more a thing is hidden, the heavier its burden
@@ -30067,20 +29977,20 @@ burden and the (word) inhabitants has been omitted.
 He Almighty says: "And have you made it your livelihood that you should
 declare it false?" (Al-Waqi'ah 82)
 
-وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ
+وَتَجۡعَلُونَ رِزۡقَكُمۡ أَنَّكُمۡ تُكَذِّبُونَ
 
 He means that you have made the thankfulness for your livelihood that you
 give lie (to Allah Almighty), but he has omitted the word thankfulness. Allah
 Almighty says: "Our Lord! Grant us what You did promise unto us through Your
 Messengers" (Aal-e-Imran 194)
 
-رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَى رُسُلِكَ
+رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ
 
 I.e. on the tongue of Your Messengers, but the word tongue has been omitted.
 Allah Almighty further says: "We have indeed revealed this in the Night of
 Power" (Al-Qadr 1)
 
-إِنَّ أَنزَلَهُ فِى لَيْلَةِ الْقَدْرِ ََّْ
+إِنَّاۤ أَنزَلۡنَـٰهُ فِی لَیۡلَةِ ٱلۡقَدۡرِ
 
 I.e. the Holy Qur'an, to which He refers with 'this'. He says too: "until it was
 hidden in the veil (of Night)" (Sad 32)
@@ -30090,14 +30000,14 @@ hidden in the veil (of Night)" (Sad 32)
 <!-- PageNumber="563" -->
 <!-- PageHeader="Book eight: The proprieties of reciting the qur'an" -->
 
-حَتَّى تَوَارَتْ بِآلْحِجَابِ
+حَتَّىٰ تَوَارَتۡ بِٱلۡحِجَابِ
 
 I.e. the sun, to which He refers with 'it'.
 
 Allah Almighty also says: " But those who take for protectors others than
 Allah: "We only serve them in order that they may bring us nearer to Allah." (Az-Zumar 3)
 
-وَالَّذِينَ اتَّخَذُواْ مِن دُونِهِ أَوْلِيَآءَ مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَآَ إِلَى اللَّهِ
+وَٱلَّذِینَ ٱتَّخَذُوا۟ مِن دُونِهِۦۤ أَوۡلِیَاۤءَ مَا نَعۡبُدُهُمۡ إِلَّا لِیُقَرِّبُونَاۤ إِلَى ٱللَّهِ
 
 I.e. those (who take for protectors others than Allah) say: 'We never worship
 them (but to bring us much nearer to Allah). He further says: "But what has
@@ -30105,15 +30015,14 @@ come to these people that they fail to understand a single fact? Whatever good (
 man) happens to you, is from Allah; but whatever evil happens to you, is from
 your (own) soul." (An-Nisa 78:79)
 
-فَمَالٍ هَنَؤُلَآءِ الْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثًا يَّ مَّ أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللَّهِ
-وَمَآ أَصَابَكَ مِنْ سَيِّئَةٍ فَمِن نَّفْسِكَّ
+فَمَالِ هَـٰۤؤُلَاۤءِ ٱلۡقَوۡمِ لَا یَكَادُونَ یَفۡقَهُونَ حَدِیثࣰا مَّاۤ أَصَابَكَ مِنۡ حَسَنَةࣲ فَمِنَ ٱللَّهِۖ وَمَاۤ أَصَابَكَ مِن سَیِّئَةࣲ فَمِن نَّفۡسِكَۚ
 
 He means that those people never understand even a single fact, for they say
 that whatever good happens to you is from Allah, and whatever evil befalls you is
 from your own soul; and had it so meant, it would have contradicted the
 statement of Allah Almighty: " Say: "All things are from Allah."" (An-Nisa 78)
 
-قُلْ كُلٌّ مِّنْ عِندِ اللَّهِ
+قُلۡ كُلࣱّ مِّنۡ عِندِ ٱللَّهِۖ
 
 However, the Qadarites have based their doctrine upon their notion of this
 holy statement.
@@ -30122,12 +30031,12 @@ Those peculiarities might be linguistic, such as changing the letters from their
 places; and in this respect, a mention might be made of the phrase: "And the
 Mount of Sinin" (At-Tin 3)
 
-وَطُورٍ سِيِنِينَ إِنَّ
+وَهَـٰذَا ٱلۡبَلَدِ ٱلۡأَمِینِ
 
 I.e. 'the Mount of Sinai'; and: "Peace and salutation be upon such as Al Ya
 Sin!" (As-Saffat 130)
 
-سَلَمُ عَلَّى إِلْ يَاسِينَ
+سَلَـٰمٌ عَلَىٰۤ إِلۡ یَاسِینَ
 
 He refers to Elias or Idris (according to the recitation of Ibn Mas'ud).
 
@@ -30137,7 +30046,7 @@ repetition which interrupts the continuous speech, such as Allah's statement:
 what their own souls desire! Even though there has already come to them
 Guidance from their Lord!" (An-Najm 23)
 
-إِن يَتَبِعُونَ إِلَّا الََّنَّ وَمَا تَهْوَى الْأَنفُسُّ وَلَقَدْ جَآءَ هُمْ مِنْ زَّتِهِمُ الْمُدَىَّ ٌِّ
+إِن یَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهۡوَى ٱلۡأَنفُسُۖ وَلَقَدۡ جَاۤءَهُم مِّن رَّبِّهِمُ ٱلۡهُدَىٰۤ
 
 Allah says too: "The leaders of the arrogant party among his people said to
 those who were reckoned powerless, those among them who believed" (Al-A'raf 75)
@@ -30147,7 +30056,7 @@ those who were reckoned powerless, those among them who believed" (Al-A'raf 75)
 <!-- PageNumber="564" -->
 
 
-قَالَ الْمَلَأُ الَّذِينَ اسْتَكْبَرُواْ مِنْ قَوْمِهِ، لِلَّذِينَ أَسْتُضْعِفُواْ لِمَنْ ءَامَنَ
+قَالَ ٱلۡمَلَأُ ٱلَّذِینَ ٱسۡتَكۡبَرُوا۟ مِن قَوۡمِهِۦ لِلَّذِینَ ٱسۡتُضۡعِفُوا۟ لِمَنۡ ءَامَنَ
 Yo
 
 I.e. those arrogant from amongst his (Salih's) people, said to those who
@@ -30159,7 +30068,7 @@ them), such as the statement of Allah Almighty: "Had it not been for a Word that
 went forth before from your Lord, (their punishment) must necessarily have
 come; but there is a term appointed (for respite)." (Taa-Haa 129)
 
-وَلَوْلًا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَكَانَ لِزَامًا وَأَجْلٌّ مُّسَمِّى
+وَلَوۡلَا كَلِمَةࣱ سَبَقَتۡ مِن رَّبِّكَ لَكَانَ لِزَامࣰا وَأَجَلࣱ مُّسَمࣰّى
 
 It means: had it not been for the word (of Allah Almighty) and the term
 appointed, (their punishment) must necessarily have come, and had it not been
@@ -30167,22 +30076,20 @@ for that, there would have been necessarily a severe trouble. Allah Also says:
 "They ask you as if you were eager in search thereof" (Al-A'raf 187)
 L
 
-يَسْتَلُونَكَ كَأَنَّكَ حِفِىٌّ عَنْهَا
+یَسۡـَٔلُونَكَ كَأَنَّكَ حَفِیٌّ عَنۡهَاۖ
 
 He further says: " they have grades of dignity with their Lord, and
 forgiveness, and generous sustenance: Just as your Lord ordered you out of
 your house in truth, even though a party among the Believers disliked it." (Al-Anfal 4:5)
 
-أُوْلَئِكَ هُمُ الْمُؤْمِنُونَ حَقّْ َُّمْ دَرَجَتُ عِندَ رَبِّهِمْ وَمَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ كَمَآ أَخْرَ جَكَ رَبُّكَ مِنْ
-بَيْتِكَ بِآلْحَقِّ وَإِنَّ فَرِيقًا مِنَ الْمُؤْمِنِينَ لَكْبِ هُونَ إِنَا
+أُو۟لَـٰۤىِٕكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقࣰّاۚ لَّهُمۡ دَرَجَـٰتٌ عِندَ رَبِّهِمۡ وَمَغۡفِرَةࣱ وَرِزۡقࣱ كَرِیمࣱ كَمَاۤ أَخۡرَجَكَ رَبُّكَ مِنۢ بَیۡتِكَ بِٱلۡحَقِّ وَإِنَّ فَرِیقࣰا مِّنَ ٱلۡمُؤۡمِنِینَ لَكَـٰرِهُونَ
 
 This speech is not continuous, but the last portion of it refers to Allah's
 statement (in the beginning of the Surah): "They ask you concerning (things
 taken as) spoils of war. Say: "(Such) spoils are at the disposal of Allah and the
 Messenger ... Just as your Lord ordered you out of your house in truth" (Al-Anfal 1)
 
-يَسْتَلُونَكَ عَنِ آلْأَنْفَالِّ قُلِ آلْأَنْقَالُ بِّهِ وَالرَّسُولِّ فَاتَّقُوا اللهَ وَأَصْلِحُواْ ذَاتَ بَيْنِكُمْ وَأَطِيعُوا اللهَ وَرَسُولَهُ:
-إِن كُنتُم مُّؤْمِنِينَ إِنَا
+بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ یَسۡـَٔلُونَكَ عَنِ ٱلۡأَنفَالِۖ قُلِ ٱلۡأَنفَالُ لِلَّهِ وَٱلرَّسُولِۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَصۡلِحُوا۟ ذَاتَ بَیۡنِكُمۡۖ وَأَطِیعُوا۟ ٱللَّهَ وَرَسُولَهُۥۤ إِن كُنتُم مُّؤۡمِنِینَ
 
 I.e. the spoils of war have come to be yours since you were driven out of your
 house and you were satisfied, but they were discontented. But He Almighty
@@ -30196,15 +30103,7 @@ for you, though I have no power (to get) aught on your behalf from Allah." (They
 prayed): "Our Lord! In You do we trust, and to You do we turn in repentance: to
 You is (our) final Goal." (Al-Mumtahanah 4)
 
-قَدْ كَانَتْ لَكُمْ أَسْوَةٌ حَسَنَةٌ فِىَ إِرَاهِيمَ وَالَّذِينَ مَعَهُ: إِذْ قَالُواْ لِقَوْمِهِمْ إِنَّا بُرَءَ وُاْ مِنْكُمْ وَمِمَّا تَعْبُدُونَ مِن دُونِ
-
-<!-- PageBreak -->
-
-<!-- PageNumber="565" -->
-<!-- PageHeader="Book eight: The proprieties of reciting the qur'an" -->
-
-اللَّهِ كَفَرْنَا بِكُرْ وَبَدًا بَيْنَا وَبَيْنَكُمُ الْعَدَوَةُ وَالْبَغْضَاءُ أَبَدًا حَتَّى تُؤْمِنُواْ بِاللَّهِ وَحْدَهُ إِلَّ قَوْلَ إِبْرَاهِيمَ لأَبِيهِ
-لِأَسْتَغْفِرَنَّ لَكَ وَمَآ أَمْلِكُ لَكَ مِنَ اللهِ مِن شَىٍْ رَّبَّنَا عَلَيْكَ تَوَكَلْنَا وَإِلَيْكَ أَثْنَا وَإِلَيْكَ الْمَصِيرُ
+قَدۡ كَانَتۡ لَكُمۡ أُسۡوَةٌ حَسَنَةࣱ فِیۤ إِبۡرَٰهِیمَ وَٱلَّذِینَ مَعَهُۥۤ إِذۡ قَالُوا۟ لِقَوۡمِهِمۡ إِنَّا بُرَءَٰۤؤُا۟ مِنكُمۡ وَمِمَّا تَعۡبُدُونَ مِن دُونِ ٱللَّهِ كَفَرۡنَا بِكُمۡ وَبَدَا بَیۡنَنَا وَبَیۡنَكُمُ ٱلۡعَدَٰوَةُ وَٱلۡبَغۡضَاۤءُ أَبَدًا حَتَّىٰ تُؤۡمِنُوا۟ بِٱللَّهِ وَحۡدَهُۥۤ إِلَّا قَوۡلَ إِبۡرَٰهِیمَ لِأَبِیهِ لَأَسۡتَغۡفِرَنَّ لَكَ وَمَاۤ أَمۡلِكُ لَكَ مِنَ ٱللَّهِ مِن شَیۡءࣲۖ رَّبَّنَا عَلَیۡكَ تَوَكَّلۡنَا وَإِلَیۡكَ أَنَبۡنَا وَإِلَیۡكَ ٱلۡمَصِیرُ
 
 There is also the abstruse words, i.e. those of multiple meanings, such as the
 thing, the companion (Qarin), the nation (Ummah) and the spirit (Ruh).
@@ -30216,8 +30115,7 @@ favours from Ourselves. And he spends thereof (freely), privately and publicly:
 are the two equal? (By no means ;) praise be to Allah. But most of them
 understand not." (An-Nahl 75)
 
-ضَرَبَ اللَّهُ مَثَلاً عَبْدًا مَّمْلُوكًا لَّا يَقْدِرُ عَلَى شَىٍْ وَمَن رَّزَقْنَهُ مِنَّا رِزْقًا حَسَنًا فَهُوَ يُنفِقُ مِنْه سِرًّا وَجْهْرًا
-هَلْ يَسْتَوَانَ الْحَمْدُ لِلَّهِ بَلْ أَكْثُهُمْ لَا يَعْلَمُونَ!
+۞ ضَرَبَ ٱللَّهُ مَثَلًا عَبۡدࣰا مَّمۡلُوكࣰا لَّا یَقۡدِرُ عَلَىٰ شَیۡءࣲ وَمَن رَّزَقۡنَـٰهُ مِنَّا رِزۡقًا حَسَنࣰا فَهُوَ یُنفِقُ مِنۡهُ سِرࣰّا وَجَهۡرًاۖ هَلۡ یَسۡتَوُۥنَۚ ٱلۡحَمۡدُ لِلَّهِۚ بَلۡ أَكۡثَرُهُمۡ لَا یَعۡلَمُونَ
 
 He refers here to the spending from such of sustenance as is given by Allah to
 anyone.
@@ -30227,8 +30125,7 @@ one of them dumb, with no power of any sort: a wearisome burden is he to his
 master; whichever way he directs him, he brings no good: is such a man equal with
 one who commands justice, and is on a Straight Way?" (An-Nahl 76)
 
-وَضَرَبَ اللَّهُ مَثَلًا رَّحِلَيْنِ أَحَدُهُمَآ أَنْكَمُ لَا يَقْدِرُ عَلَى شَىٍْ وَهُوَ كَلُّ عَلَىُ مَوْلَنه أَيْنَمَا يُوَجِهَةُ لَا يَأْتِ
-بِخَيْرٍ هَلْ يَسْتَوِى هُوَ وَمَن يَأْمُرُ بِالْعَذْلِ وَهُوَ عَلَى صِرَاطٍ مُسْتَقِيمٍ قَ
+وَضَرَبَ ٱللَّهُ مَثَلࣰا رَّجُلَیۡنِ أَحَدُهُمَاۤ أَبۡكَمُ لَا یَقۡدِرُ عَلَىٰ شَیۡءࣲ وَهُوَ كَلٌّ عَلَىٰ مَوۡلَىٰهُ أَیۡنَمَا یُوَجِّههُّ لَا یَأۡتِ بِخَیۡرٍ هَلۡ یَسۡتَوِی هُوَ وَمَن یَأۡمُرُ بِٱلۡعَدۡلِ وَهُوَ عَلَىٰ صِرَٰطࣲ مُّسۡتَقِیمࣲ
 
 He refers therewith to enjoin justice and uprightness.
 
@@ -30236,7 +30133,7 @@ Allah Almighty also says (on the tongue of Al-Khadir to Moses "Peace be
 upon him"): "If then you would follow me, ask me no questions about anything
 until I myself speak to you concerning it." (Al-Kahf 70)
 
-قَالَ فَإِنِ اتَّبَعْتَنِى فَلَا تَسْتَلْنِى عَنْ شَىْءٍ حَتَّى أُحْدِثَ لَكَّ مِنْهُ ذِكْرَا
+قَالَ فَإِنِ ٱتَّبَعۡتَنِی فَلَا تَسۡـَٔلۡنِی عَن شَیۡءٍ حَتَّىٰۤ أُحۡدِثَ لَكَ مِنۡهُ ذِكۡرࣰا
 
 He refers by it to the attributes of the Lord, the knowledge that about which it
 is impossible to ask, until the Gnostic himself takes the initiative to expose them
@@ -30245,7 +30142,7 @@ at the proper time.
 Allah Almighty says too: "Were they created of nothing, or were they
 themselves the creators?" (At-Tur 35)
 
-أَمْ خُلِقُواْ مِنْ غَيْرِ شَىْءٍ أَمْ هُمُ الْخَلِقُونَ
+أَمۡ خُلِقُوا۟ مِنۡ غَیۡرِ شَیۡءٍ أَمۡ هُمُ ٱلۡخَـٰلِقُونَ
 
 He means without a creator, lest one might have the false impression that it
 signifies that nothing is created but from a thing (and not by the Creator).
@@ -30260,18 +30157,18 @@ contumacious Rejecter (of Allah)!" (Qaf 23:24)
 <!-- PageNumber="566" -->
 
 
-وَقَالَ قَرِينُهُ هَذَا مَا لَدَىَّ عَتِيدُ تَ أَلْقِيَا فِى جَهَنُ كُلَّ كَفَّارٍ عَنِيدٍ
+وَقَالَ قَرِینُهُۥ هَـٰذَا مَا لَدَیَّ عَتِیدٌ أَلۡقِیَا فِی جَهَنَّمَ كُلَّ كَفَّارٍ عَنِیدࣲ
 
 I.e. the angel to whom he is entrusted. And also: "His Companion will say:
 "Our Lord! I did not make him transgress, but he was (himself) far astray"" (Qaf 27) i.e. Satan.
 
-قَالَ قَرِينُهُ رَبَّنَا مَا أَطْغَيْتُهُ، وَلَيْكِن كَانَ فِي ضَلَلٍ بَعِيدٍ
+۞ قَالَ قَرِینُهُۥ رَبَّنَا مَاۤ أَطۡغَیۡتُهُۥ وَلَـٰكِن كَانَ فِی ضَلَـٰلِۭ بَعِیدࣲ
 
 As for Ummah, it has eight meanings: the first stands for the group like
 Allah's statement (relating of Moses): "And when he arrived at the watering
 (place) in Madyan, he found there a group of men watering (their flocks)." (Al-Qasas 23)
 
-وَلَمَّا وَرَدَ مَآءَ مَّدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِنَ النَّاسِ يَسْقُونَ
+وَلَمَّا وَرَدَ مَاۤءَ مَدۡیَنَ وَجَدَ عَلَیۡهِ أُمَّةࣰ مِّنَ ٱلنَّاسِ یَسۡقُونَ
 
 The second stands for the followers of the Prophets and Messengers, i.e. the
 nation, like your saying about the followers of Muhammad 'the nation of
@@ -30280,24 +30177,24 @@ exist, i.e. a model to be followed, such as Allah's statement: "Abraham was inde
 a model, devoutly obedient to Allah, (and) true in faith, and he joined not gods
 with Allah." (An-Nahl 120)
 
-إِنَّ إِبْرَاهِيمَ كَانَ أُمَّةً قَانِثًا لِلَِّ حَنِيفًا وَلَمْ يَكُ مِنَ الْمُشْرِكِينَ
+إِنَّ إِبۡرَٰهِیمَ كَانَ أُمَّةࣰ قَانِتࣰا لِّلَّهِ حَنِیفࣰا وَلَمۡ یَكُ مِنَ ٱلۡمُشۡرِكِینَ
 
 The fourth stands for religion such as the saying of Allah Almighty (on the
 tongue of the pagans): "We found our fathers following a certain religion, and we
 do guide ourselves by their footsteps." (Az-Zukhruf 22)
 
-بَلْ قَالُواْ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَىّ ءَاثَِهِم مُّهْتَدُونَ
+بَلۡ قَالُوۤا۟ إِنَّا وَجَدۡنَاۤ ءَابَاۤءَنَا عَلَىٰۤ أُمَّةࣲ وَإِنَّا عَلَىٰۤ ءَاثَـٰرِهِم مُّهۡتَدُونَ
 
 The fifth stands for the term appointed (for something to happen) such as the
 statement of Allah Almighty: "If We delay the penalty for them for a definite
 term ... " (Hud 8)
 
-وَلَبِنْ أَخَّرْنَا عَنْهُمُ الْعَذَابَ إِلَى أُمَّةٍ مَّعْدُ ودَقٍ إِيَ
+وَلَىِٕنۡ أَخَّرۡنَا عَنۡهُمُ ٱلۡعَذَابَ إِلَىٰۤ أُمَّةࣲ مَّعۡدُودَةࣲ
 
 And: "But the man who had been released, one of the two (who had been in
 prison) and who now bethought him after (so long) a space of time ... " (Yusuf 44)
 
-وَقَالَ الَّذِى نَا مِنْهُمَا وَاذَّكَرَ بَعْدَ أُمَّةٍ زيَّ
+قَالُوۤا۟ أَضۡغَـٰثُ أَحۡلَـٰمࣲۖ وَمَا نَحۡنُ بِتَأۡوِیلِ ٱلۡأَحۡلَـٰمِ بِعَـٰلِمِینَ
 
 The sixth stands for the stature: it is said: 'So and so is of good stature'. The
 seventh stands for such of men as is unique in his religion, in which none shares,
@@ -30318,19 +30215,19 @@ The abstruseness lies also in the prepositions, such as the saying of Allah
 Almighty: "And raise therewith the dust in clouds the while, And penetrate
 therewith into the midst (of the foe) en masse" (Al-Adiyat 4:5)
 
-﴿فَأَثَرْنَ بِهِۦ نَقْعًا ۝ فَوَسَطْنَ بِهِۦ جَمْعًا﴾
+فَأَثَرۡنَ بِهِۦ نَقۡعࣰا فَوَسَطۡنَ بِهِۦ جَمۡعًا
 The preposition 'therewith' in the first Holy Verse acts as a homonymy for
 the hoofs of horses, which strike sparks of fire, and raise up the dust with their
 steps; and in the second Holy Verse it acts as a homonymy for the raid of
 horses, which push home the charge in the morning, "Truly man is to his lord
 ungrateful ." (Al-Adiyat 6)
 
-إِنَّ الْإِنَسَنَّ لِرَبِّهِ، لَكُنُودْ
+إِنَّ ٱلۡإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودࣱ
 
 Another example is found in Allah's saying: "make rain to descend thereon,
 and produce every kind of harvest therewith" (Al-A'raf 57)
 
-فَأَنْزَلْنَا بِهِ اٌلْمَآءَ فَأَخْرَ جْنَا بِهِ مِن كُلِّ النَّمَرَتِ
+فَأَنزَلۡنَا بِهِ ٱلۡمَاۤءَ فَأَخۡرَجۡنَا بِهِۦ مِن كُلِّ ٱلثَّمَرَٰتِۚ
 
 'Thereon' in the first part refers to the clouds, and 'therewith' in the second
 part refers to the water. However, there are numerous examples of the similar
@@ -30341,19 +30238,19 @@ and its example is shown from Allah's saying: "Ramadan is the (month) in which
 was sent down the Qur'an, as a guide to mankind, also Clear (Signs) for guidance
 and judgment (between right and wrong)." (Al-Baqarah 185)
 
-شَهْرُ رَمَضَانَ الَّذِىّ أُنزِلَ فِيهِ الْقُرْءَانُ هُدِّى لِلنَّاسِ وَبَيْنَتٍ مِنَ الْهُدَى وَالْفُرْقَانِ
+شَهۡرُ رَمَضَانَ ٱلَّذِیۤ أُنزِلَ فِیهِ ٱلۡقُرۡءَانُ هُدࣰى لِّلنَّاسِ وَبَیِّنَـٰتࣲ مِّنَ ٱلۡهُدَىٰ وَٱلۡفُرۡقَانِۚ
 
 In this statement, it is not known whether this revelation was sent down at
 night or by day. Then He Almighty says on another occasion: "We sent it
 down during a blessed night: for We (ever) wish to warn (against Evil)" (Ad-Dukhan 3)
 
-إِنَّ أَنزَلَهُ فِي لَيْلَةٍ مُّبَرَكَةٍ إِنَّا كُنَّا مُنذِرِينَ
+إِنَّاۤ أَنزَلۡنَـٰهُ فِی لَیۡلَةࣲ مُّبَـٰرَكَةٍۚ إِنَّا كُنَّا مُنذِرِینَ
 
 Which shows that the Qur'anic revelation was sent down at night (but on
 which night was it send down? It is still not clear). Then, it was showed clearly
 in Allah's saying: "Verily, We sent this (Qur'an) on the Night of Power." (Al-Qadr 1)
 
-إِنَّ أَنزَلَهُ فِى لَيْلَةِ اَلْقَدْرِ
+إِنَّاۤ أَنزَلۡنَـٰهُ فِی لَیۡلَةِ ٱلۡقَدۡرِ
 
 One might think there are seemingly differences among those Holy Verses
 (even though they are not so). That's because nothing other than hearing and
@@ -30391,7 +30288,7 @@ external meanings of words might be illustrated by the following example: Allah
 Almighty says: " when you threw (a handful of dust), it was not your act, but
 Allah's." (Al-Anfal 17)
 
-وَمَا رَمَيْتَ إِذْ رَمَّيْتَ وَلَكِنَّ اللَّهَ رَمَّّ ِّ
+وَمَا رَمَیۡتَ إِذۡ رَمَیۡتَ وَلَـٰكِنَّ ٱللَّهَ رَمَىٰ
 
 The external meaning of this statement is clear, even though the reality of its
 meaning is abstruse. It is to affirm as well as to negate the act of throwing, and of
@@ -30403,7 +30300,7 @@ not throw.
 Allah Almighty says also in this respect: "Fight them, and Allah will punish
 them by your hands." (At-Tawbah 14)
 
-قَتِلُوهُمْ يُعَذِّبَهُمُ اللَّهُ بِأَيْدِيكُمْ
+قَـٰتِلُوهُمۡ یُعَذِّبۡهُمُ ٱللَّهُ بِأَیۡدِیكُمۡ
 
 How should Allah Almighty do the act of punishing those (unbelievers) seeing
 that it is they (Muslims) who do the act of fighting? And if Allah Almighty is the
@@ -30492,12 +30389,12 @@ common, Who rewards His servants for their remembering Him by mentioning
 them as shown in His statement: "So remember me, so that I should remember
 you." (Al-Baqarah 152)
 
-فَأَذْكُرُ ونِىّ أَذْكُرُكُمْ
+فَٱذۡكُرُونِیۤ أَذۡكُرۡكُمۡ
 
 And exhorts them to invoke Him by His Command, as attested from His
 statement: "Call on Me: I will answer your (Prayer)." (Ghafir 60)
 
-وَقَالَ رَبُّكُمُ ادْعُونىّ أَسْتَجِبْ لَكُمّْ ريّ:
+وَقَالَ رَبُّكُمُ ٱدۡعُونِیۤ أَسۡتَجِبۡ لَكُمۡۚ
 
 In this way, He Almighty makes the obedient as well as the disobedient, the
 near as well as the alien desirous to offer themselves to the Presence of His
@@ -30505,7 +30402,7 @@ Glory, by raising their needs and wishes to Him, as shown from His saying: " I
 am indeed close (to them): I listen to the prayer of every suppliant when he calls
 on Me." (Al-Baqarah 186)
 
-فَإِى قَرِيبٌ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانٍ
+فَإِنِّی قَرِیبٌۖ أُجِیبُ دَعۡوَةَ ٱلدَّاعِ إِذَا دَعَانِۖ
 
 Allah's blessing and peace, as much as it should be, be upon Muhammad, the
 best of His Prophets, and the chief of His creatures, as well as upon his family
@@ -30555,36 +30452,36 @@ The proofs that might be quoted from the Holy Qur'an in the excellence of
 celebration in brief are attested by Allah's statement: "So remember me, so that I
 should remember you." (Al-Baqarah 152)
 
-فَاذْكُرُونِىّ أَذْكُرُكُمْ
+فَٱذۡكُرُونِیۤ أَذۡكُرۡكُمۡ
 
 In this issue, Thabit Al-Bunani said: "I know when my Lord Almighty
 remembers me." They were scared from him and asked him: "How do you come
 to know that?" He said: "When I remember Him, He Almighty remembers me."
 Allah Almighty further says: "celebrate the praises of Allah, and do so often." (Al-Ahzab 41)
 
-اذْكُرُ واْ اللَّهَ ذِكْرًا كَثِيرًا
+ٱذۡكُرُوا۟ ٱللَّهَ ذِكۡرࣰا كَثِیرࣰا
 
 He Almighty also says: "Then when you pour down from (Mount) Arafat,
 celebrate the praises of Allah at the Sacred Monument, and celebrate His
 praises as He has directed you, even though, before this, you went astray." (Al-Baqarah 198)
 
-فَإِذَا أَفَضْتُم مِنْ عَرَفَتٍ فَاذْكُرُواْ اللَّهَ عِندَ الْمَشْعَرِ الْحَرَامِ وَاذْكُرُوهُ كُمَا هَدَنَكُمْ
+فَإِذَاۤ أَفَضۡتُم مِّنۡ عَرَفَـٰتࣲ فَٱذۡكُرُوا۟ ٱللَّهَ عِندَ ٱلۡمَشۡعَرِ ٱلۡحَرَامِۖ وَٱذۡكُرُوهُ كَمَا هَدَىٰكُمۡ
 
 He Almighty says too: " So when you have accomplished your holy rites,
 celebrate the praises of Allah, as you used to celebrate the praises of your fathers,
 even with far more heart and soul." (Al-Baqarah 200)
 
-فَإِذَا قَضَيْتُم مَّنَسِكَكُمْ فَاذْكُرُواْ اللَّهَ كَذِكْرِكُرْءَابَاءَكُمْ أَوْ أَشَدَّ ذِكْرًا
+فَإِذَا قَضَیۡتُم مَّنَـٰسِكَكُمۡ فَٱذۡكُرُوا۟ ٱللَّهَ كَذِكۡرِكُمۡ ءَابَاۤءَكُمۡ أَوۡ أَشَدَّ ذِكۡرࣰاۗ
 
 Allah Almighty also says in this connection: "Men who celebrate the praises of
 Allah, standing, sitting, and lying down on their sides." (Aal-e-Imran 191)
 
-الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَمًا وَقُعُودًا وَ عَلَى جُنُوبِهِمْ
+ٱلَّذِینَ یَذۡكُرُونَ ٱللَّهَ قِیَـٰمࣰا وَقُعُودࣰا وَعَلَىٰ جُنُوبِهِمۡ
 
 He further says: "When you pass (congregational) prayers, celebrate Allah's
 praises, standing, sitting down, or lying down on your sides." (An-Nisa 103)
 
-فَإِذَا قَضَيْتُمُ الصَّلَوَةَ فَاذْكُرُواْ اللَّهَ قِيَّنَمًا وَقُعُودًا وَعَلَى جُنُوبِكُمْ إِّ:
+فَإِذَا قَضَیۡتُمُ ٱلصَّلَوٰةَ فَٱذۡكُرُوا۟ ٱللَّهَ قِیَـٰمࣰا وَقُعُودࣰا وَعَلَىٰ جُنُوبِكُمۡۚ
 
 According to Ibn Abbas "Allah be pleased with both": He means during night
 and day, on the sea and land, on journey and residence, in whichever state of
@@ -30597,18 +30494,18 @@ remembrance." (An-Nisa 142)
 <!-- PageNumber="573" -->
 <!-- PageHeader="Book nine: Celebrations and invocations" -->
 
-وَلَا يَذْكُرُونَ اللَّهَ إِلَّا قَلِيلاً
+وَلَا یَذۡكُرُونَ ٱللَّهَ إِلَّا قَلِیلࣰا
 
 Allah Also says: "And do you (O reader!) bring your Lord to remembrance in
 your (very) soul, with humility and in reverence, without loudness in words, in
 the mornings and evenings; and be not you of those who are unheedful." (Al-A'raf 205)
 
-وَاذْكُرُ رَّبَّكَ فِى نَفْسِكَ تَضَرُّعًا وَخِيفَةٌ وَدُونَ الْجَهْرِ مِنَ الْقَوْلِ بِالْغُدُوِّ وَآلْأَصَالِ وَلَا تَكُنْ مِّنَ الْغَفِلِينَ
+وَٱذۡكُر رَّبَّكَ فِی نَفۡسِكَ تَضَرُّعࣰا وَخِیفَةࣰ وَدُونَ ٱلۡجَهۡرِ مِنَ ٱلۡقَوۡلِ بِٱلۡغُدُوِّ وَٱلۡـَٔاصَالِ وَلَا تَكُن مِّنَ ٱلۡغَـٰفِلِینَ
 
 Allah Almighty says too: "and remembrance of Allah is the greatest (thing in
 life) without doubt. And Allah knows the (deeds) that you do." (Al-Ankabut 45)
 
-وَلَذِكْرُ اللَّهِ أَكْبَرُ وَاللهُ يَعْلَمُ مَا تَصْنَعُونَ
+وَلَذِكۡرُ ٱللَّهِ أَكۡبَرُۗ وَٱللَّهُ یَعۡلَمُ مَا تَصۡنَعُونَ
 
 According to Ibn Abbas "Allah be pleased with both": This statement has two
 points of interpretation: the first that Allah's remembering you is much greater
@@ -30858,7 +30755,7 @@ the claim of truth, and it is the trustworthy handhold, and it is the price of
 In comment on the statement of Allah Almighty: "Is there any Reward for
 Good other than Good" (Ar-Rahman 60)
 
-هَلْ جَزَاءُ الْإِحْسَنِ إِلَ الْإِحْسَنُ أَ
+هَلۡ جَزَاۤءُ ٱلۡإِحۡسَـٰنِ إِلَّا ٱلۡإِحۡسَـٰنُ
 
 It was said: "The good in this world stands for the testimony that 'There is no
 god (to be worshipped) but Allah', and in the hereafter it stands for the Garden."
@@ -30871,7 +30768,7 @@ god (to be worshipped) but Allah', and in the hereafter it stands for the Garden
 This applies also to the other saying of Allah Almighty: " To those who do right
 is a goodly (reward) yea, more (than in measure)!" (Yunus 26)
 
-لِلَّذِينَ أَحْسَنُواْ الْحُسْنَى وَزِيَادَةٌ فَقَ
+لِّلَّذِینَ أَحۡسَنُوا۟ ٱلۡحُسۡنَىٰ وَزِیَادَةࣱۖ
 
 It is narrated on the authority of Al-Bara' that the Messenger of Allah "Allah's
 blessing and peace be upon him" said: "He, who says: "There is no god (to be
@@ -31227,7 +31124,7 @@ is connected with this world, which is to perish in relation to him by death: " 
 that is on earth will perish: But will abide (forever) the Face of your Lord, Full of
 Majesty, Bounty and Honour." (Ar-Rahman 25:26)
 
-كُلُّ مَنْ عَلَيْهَا فَانٍ وَيَبْقَى وَجْهُ رَبِّكَ ذُو الْجَالِ وَآلْإِكْرَامِ
+فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ كُلُّ مَنۡ عَلَیۡهَا فَانࣲ
 
 The world then perishes in relation to him by death, (and so on in relation to
 everyone) until it perishes by itself when the decree (of Allah Almighty) comes to
@@ -31280,8 +31177,7 @@ Allah: and with regard to those left behind, who have not yet joined them (in
 their bliss), the (Martyrs) glory in the fact that on them is no fear, nor have they
 (cause to) grieve." (Aal-e-Imran 169:170)
 
-وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُواْ فِى سَبِيلِ الَّهِ أَمْوَتَأْ بَلْ أَحْيَاءُ عِندَ رَبِّهِمْ يُرْزَقُونَ فَرِحِينَ بِمَآ ءَاتَّئُهُمُ اللَّهُ مِن
-فَضْلِهِ، وَتَسْتَبْشِرُونَ بِالَّذِينَ لَمْ يَلْحَقُواْ بِهِم مِّنْ خَلْفِهِمْ أَلَّ خَوْفُ عَلَيْهِمْ وَلَا هُمْ يَخْزَنُونَ
+وَلَا تَحۡسَبَنَّ ٱلَّذِینَ قُتِلُوا۟ فِی سَبِیلِ ٱللَّهِ أَمۡوَٰتَۢاۚ بَلۡ أَحۡیَاۤءٌ عِندَ رَبِّهِمۡ یُرۡزَقُونَ فَرِحِینَ بِمَاۤ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضۡلِهِۦ وَیَسۡتَبۡشِرُونَ بِٱلَّذِینَ لَمۡ یَلۡحَقُوا۟ بِهِم مِّنۡ خَلۡفِهِمۡ أَلَّا خَوۡفٌ عَلَیۡهِمۡ وَلَا هُمۡ یَحۡزَنُونَ
 
 In view of the honour of the celebration of (the Praises of) Allah Almighty,
 the martyrdom has been given a high and great rank, for indeed, what is required
@@ -31344,7 +31240,7 @@ this state which Allah Almighty expresses in His saying: "Allah has purchased of
 the Believers their persons and their goods; for theirs (in return) is the Garden (of
 Paradise)." (At-Tawbah 111)
 
-إِنَّ اللّهَ اشْتَرَى مِنَ الْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَ لَهُم بِأَنَّ لَهُمُ الْجَنَّةَ
+إِنَّ ٱللَّهَ ٱشۡتَرَىٰ مِنَ ٱلۡمُؤۡمِنِینَ أَنفُسَهُمۡ وَأَمۡوَٰلَهُم بِأَنَّ لَهُمُ ٱلۡجَنَّةَۚ
 
 Such a person is him, who sells this world (with its perishable delights and
 pleasures) for the hereafter (with its never-ending bliss).
@@ -31400,8 +31296,7 @@ close (to them): I listen to the prayer of every suppliant when he calls on Me: 
 them also, with a will, listen to My call, and believe in Me: that they may walk in
 the right way." (Al-Baqarah 186)
 
-وَإِذَا سَأَلَكَ عِبَادِى عِى فَإِى قَرِيبٌ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانٍ فَلْيَسْتَجِيبُواْ لِى
-وَلْيُؤْ مِنُواْ بِى لَعَلَّهُمْ يَرْشُدُونَ
+وَإِذَا سَأَلَكَ عِبَادِی عَنِّی فَإِنِّی قَرِیبٌۖ أُجِیبُ دَعۡوَةَ ٱلدَّاعِ إِذَا دَعَانِۖ فَلۡیَسۡتَجِیبُوا۟ لِی وَلۡیُؤۡمِنُوا۟ بِی لَعَلَّهُمۡ یَرۡشُدُونَ
 
 He Almighty further says: "Call on your Lord with humility and in private: for
 
@@ -31412,20 +31307,19 @@ He Almighty further says: "Call on your Lord with humility and in private: for
 
 Allah loves not those who trespass beyond bounds." (Al-A'raf 55)
 
-آدَعُواْ رَبَّكُمْ تَضَرُّعًا وَخُفْيَةٌ إِنَّهُ لَا يُحِبُّ الْمُعْتَدِينَ
+ٱدۡعُوا۟ رَبَّكُمۡ تَضَرُّعࣰا وَخُفۡیَةًۚ إِنَّهُۥ لَا یُحِبُّ ٱلۡمُعۡتَدِینَ
 
 Allah says too: "And your Lord says: "Call on Me; I will answer your (Prayer):
 but those who are too arrogant to serve Me will surely find themselves in Hell, in
 humiliation!"" (Ghafir 60)
 
-وَقَالَ رَبُّكُمُ ادْعُونِىّ أَسْتَجِبْ لَكُمَّ إِنَّ الَّذِينَ يَسْتَكْبُونَ عَنْ
-عِبَادَتِى سَيَدْ خُلُونَ جَهََّ دَاخِرِينَ
+وَقَالَ رَبُّكُمُ ٱدۡعُونِیۤ أَسۡتَجِبۡ لَكُمۡۚ إِنَّ ٱلَّذِینَ یَسۡتَكۡبِرُونَ عَنۡ عِبَادَتِی سَیَدۡخُلُونَ جَهَنَّمَ دَاخِرِینَ
 
 Allah Almighty also says: "Say: "Call upon Allah, or call upon Rahman: by
 whatever name you call upon Him, (it is well): for to Him belong the Most
 Beautiful Names." (Al-Isra' 110)
 
-قُلِ آدْعُواْ اللَّهَ أَوِ آدْعُواْ الرَّحْمنِنَّ أَيَّا مَّا تَدْعُواْ فَلَهُ الْأَسْمَاءُ الْحُسْنَىِّ
+قُلِ ٱدۡعُوا۟ ٱللَّهَ أَوِ ٱدۡعُوا۟ ٱلرَّحۡمَـٰنَۖ أَیࣰّا مَّا تَدۡعُوا۟ فَلَهُ ٱلۡأَسۡمَاۤءُ ٱلۡحُسۡنَىٰۚ
 €
 
 It is narrated on the authority of An-Nu'man Ibn Bashir from The Messenger
@@ -31433,7 +31327,7 @@ of Allah "Allah's blessing and peace be upon him" that he said: "Verily,
 supplication is (a kind of) worship." Then, he recited: "Call on Me; I will answer
 your (Prayer)." (Ghafir 60)
 
-وَقَالَ رَبُّكُمُ ادْعُونِىَ أَسْتَجِبْ لَكُمْ
+وَقَالَ رَبُّكُمُ ٱدۡعُونِیۤ أَسۡتَجِبۡ لَكُمۡۚ
 
 The Messenger of Allah "Allah's blessing and peace be upon him" further said:
 "Supplication (of Allah) is the marrow of worship." It is narrated on the authority
@@ -31469,7 +31363,7 @@ praying for Forgiveness." (Adh-Dhariyat 18)
 <!-- PageNumber="589" -->
 <!-- PageHeader="Book nine: Celebrations and invocations" -->
 
-وَبِالْأُسْحَارِ هُمْ يَسْتَغْفِرُونَ.
+وَبِٱلۡأَسۡحَارِ هُمۡ یَسۡتَغۡفِرُونَ
 
 The Messenger of Allah "Allah's blessing and peace be upon him" said:
 "When only one-third the night remains every night, Allah Almighty brings His
@@ -31480,7 +31374,7 @@ said that Jacob "Peace be upon him" said (according to the Holy Qur'an): "Soon
 will I ask my Lord for forgiveness for you: for He is indeed Oft-Forgiving, Most
 Merciful" (Yusuf 98)
 
-قَالَ سَوْفٌ أَسْتَغْفِرُ لَكُمْ رَقِىَ إِنَّهُ, هُوَ الْغَفُورُ الرَّحِيمُ
+قَالَ سَوۡفَ أَسۡتَغۡفِرُ لَكُمۡ رَبِّیۤۖ إِنَّهُۥ هُوَ ٱلۡغَفُورُ ٱلرَّحِیمُ
 
 He invoked Allah Almighty at the last portion of the night, a short time before
 dawn. It was said that in the early dawn, he stood and went on invoking Allah
@@ -31586,18 +31480,18 @@ between you and the necks of your riding mounts."
 In comment on the statement of Allah Almighty: "Speak not your prayer aloud,
 nor speak it in a low tone: but seek a middle course between" (Al-Isra' 110)
 
-قُلِ آدَعُواْ اللَّهَ أَوِ آدْعُواْ الرَّحْمِنَّ أَيُّ مَّا تَدْعُواْ فَلَهُ الْأَسْمَاءُ الْحُسْنَىِّ ِيَّ
+قُلِ ٱدۡعُوا۟ ٱللَّهَ أَوِ ٱدۡعُوا۟ ٱلرَّحۡمَـٰنَۖ أَیࣰّا مَّا تَدۡعُوا۟ فَلَهُ ٱلۡأَسۡمَاۤءُ ٱلۡحُسۡنَىٰۚ
 
 A'ishah "Allah be pleased with her" said: "He refers to supplication and
 invocation." Allah Almighty praised His Prophet Zakariyya "Peace be upon him"
 in His saying: "Behold! he cried to his Lord in secret." (Maryam 3)
 
-إِذْ نَادَى رَبَّهُ نِدَآءٌ خَفِيًّا
+إِذۡ نَادَىٰ رَبَّهُۥ نِدَاۤءً خَفِیࣰّا
 
 Allah Almighty says in this connection: "Call on your Lord with humility
 and in private: for Allah loves not those who trespass beyond bounds." (Al-A'raf 55)
 
-آدَعُواْ رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً إِنَّهُ، لَا يُحِبُّ الْمُعْتَدِينَ
+ٱدۡعُوا۟ رَبَّكُمۡ تَضَرُّعࣰا وَخُفۡیَةًۚ إِنَّهُۥ لَا یُحِبُّ ٱلۡمُعۡتَدِینَ
 
 The fifth is that one should not be ostentatious in using rhyme in his
 supplications and invocations. That's because the invoker becomes in the same
@@ -31608,7 +31502,7 @@ trespass beyond due bounds in supplication." In confirmation to that, Allah
 Almighty says: " Call on your Lord with humility and in private: for Allah loves
 not those who trespass beyond bounds." (Al-A'raf 55)
 
-آدَعُواْ رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً إِنَّهُ، لَا يُحِبُّ الْمُعْتَدِينَ
+ٱدۡعُوا۟ رَبَّكُمۡ تَضَرُّعࣰا وَخُفۡیَةًۚ إِنَّهُۥ لَا یُحِبُّ ٱلۡمُعۡتَدِینَ
 
 In comment on it, it was said that it meant to be ostentatious in the use of
 rhymes.
@@ -31677,7 +31571,7 @@ reward) and fear (of Allah's punishment). Allah Almighty says: "These (three)
 were ever quick in emulation in good works; they used to call on Us with love
 and reverence, and humble themselves before Us." (Al-Anbiya 90)
 
-إِنَّهُمْ كَانُواْ يُسَرِعُونَ فِى الْخَيْرَاتِ وَيَدْعُونَنَا رَغَبًا وَرَهَبًّا وَكَانُواْ لَنَا خَشِعِينَ
+إِنَّهُمۡ كَانُوا۟ یُسَـٰرِعُونَ فِی ٱلۡخَیۡرَٰتِ وَیَدۡعُونَنَا رَغَبࣰا وَرَهَبࣰاۖ وَكَانُوا۟ لَنَا خَـٰشِعِینَ
 
 He Almighty further says: " Call on your Lord with humility and in private: for
 Allah loves not those who trespass beyond bounds." (Al-A'raf 55)
@@ -31688,7 +31582,7 @@ Allah loves not those who trespass beyond bounds." (Al-A'raf 55)
 <!-- PageHeader="Book nine: Celebrations and invocations" -->
 
 
-أَدْعُواْ رَبَّكُمْ تَضَرُّعًا وَخُفْيَةٌ إِنَّهُ لَا يُحِبُّ الْمُعْتَدِينَ
+ٱدۡعُوا۟ رَبَّكُمۡ تَضَرُّعࣰا وَخُفۡیَةًۚ إِنَّهُۥ لَا یُحِبُّ ٱلۡمُعۡتَدِینَ
 
 According to a certain narration The Messenger of Allah "Allah's blessing and
 peace be upon him" said: "If Allah Almighty loves one of His servants, He puts
@@ -31716,7 +31610,7 @@ Allah Almighty responded to the invocation of the worst of His creatures, Iblis
 the Day the (dead) are raised." He (Allah) said: "Respite then is granted you."
 (Sad 79:80)
 
-قَالَ رَبِّ فَأَنْظِرْنِىّ إِلَى يَوْمٍ يُبْعَثُونَ) قَالَ فَإِنَّكَ مِنَ الْمُنْظَرِينَ
+قَالَ رَبِّ فَأَنظِرۡنِیۤ إِلَىٰ یَوۡمِ یُبۡعَثُونَ قَالَ فَإِنَّكَ مِنَ ٱلۡمُنظَرِینَ
 
 The eighth is that one should be persistent in his invocation, which he should
 repeat thrice, in accordance with the narration on the authority of Ibn Mas'ud, in
@@ -31834,7 +31728,7 @@ they said: "Yes, O by Allah." on that he said: "O Allah! we heard You having sai
 (in Your Book): " no ground (of complaint) can there be against those who do
 right: and Allah is Oft-Forgiving, Most Merciful." (At-Tawbah 91)
 
-مَا عَلَى الْمُحْسِنِينَ مِن سَبِيلٍ وَاللّهُ غَفُورٌ رَّحِيمٌ
+مَا عَلَى ٱلۡمُحۡسِنِینَ مِن سَبِیلࣲۚ وَٱللَّهُ غَفُورࣱ رَّحِیمࣱ
 
 Verily, we've stated that we are sinful: should Your Forgiveness not be but for
 such people as we? O Allah! forgive us and bestow mercy upon us, and provide
@@ -31946,7 +31840,7 @@ Allah Almighty says: " Allah and His Angels send prayers and blessings on the
 Prophet: O you that believe! send you prayers and blessings on him, and salute
 him with all respect." (Al-Ahzab 56)
 
-إِنَّاللّهَ وَمَلْبِكَتْهُ يُصَلُّونَ عَلَى النَِّّ يَنْأَيُّ الَّذِينَ ءَامَنُواْ صَلُّواْ عَلَيْهِ وَسَلِمُواْ تَسْلِيمًا
+إِنَّ ٱللَّهَ وَمَلَـٰۤىِٕكَتَهُۥ یُصَلُّونَ عَلَى ٱلنَّبِیِّۚ یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ صَلُّوا۟ عَلَیۡهِ وَسَلِّمُوا۟ تَسۡلِیمًا
 
 It is narrated that one day The Messenger of Allah "Allah's blessing and peace
 be upon him" appeared and (the signs of) happiness were visible on his face and
@@ -32021,7 +31915,7 @@ such a degree as He made the obedience of you a part of the obedience of Him
 when He Almighty said: "He who obeys the Messenger, obeys Allah; but if any
 turn away, We have not sent you to watch over their (evil deeds)." (An-Nisa 80)
 
-مِّنْ يُطِعِ الرَّسُولَ فَقَدْ أَطَاعَ اللَّهَ وَمَن تَوْلَّى فَمَآ أَرْسَلْنَكَ عَلَيْهِمْ حَفِيظًا
+مَّن یُطِعِ ٱلرَّسُولَ فَقَدۡ أَطَاعَ ٱللَّهَۖ وَمَن تَوَلَّىٰ فَمَاۤ أَرۡسَلۡنَـٰكَ عَلَیۡهِمۡ حَفِیظࣰا
 
 Let my father and mother sacrifice their lives for you O Messenger of Allah!
 Your superiority (over all of the people) in the Sight of Allah Almighty has
@@ -32030,7 +31924,7 @@ you of the sin when He said: "Allah give you grace! why did you grant them
 exemption until those who told the truth were seen by you in a clear light, and
 you had proved the liars ?. " (At-Tawbah 43)
 
-عَفَا اللَّهُ عَنكَ لِمَ أَذِنتَ لَهُمْ حَتَّى يَتَبَيَّنَ لَكَ الَّذِينَ صَدَقُواْ وَتَعْلَمَ اَلْكَذِبِينَ
+عَفَا ٱللَّهُ عَنكَ لِمَ أَذِنتَ لَهُمۡ حَتَّىٰ یَتَبَیَّنَ لَكَ ٱلَّذِینَ صَدَقُوا۟ وَتَعۡلَمَ ٱلۡكَـٰذِبِینَ
 
 Let my father and mother sacrifice their lives for you O Messenger of Allah!
 Your superiority (over all of the people) in the Sight of Allah Almighty has
@@ -32040,8 +31934,7 @@ remember We took from the Prophets their Covenant: as (We did) from you:
 from Noah, Abraham, Moses, and Jesus the son of Mary: We took from them a
 solemn Covenant." (Al-Ahzab 7)
 
-وَإِذْ أَخَذْنَا مِنَ النَِّيْتِنَّ مِيثَقَهُمْ وَمِنكَ وَمِن نُّوحٍ وَإِرَهِمَ وَمُوسَى وَعِيسَى ابْنٍ مَرْيَمَ
-وَأَخَذْنَا مِنْهُم مِّيثَقًّا غَلِيَطًا
+وَإِذۡ أَخَذۡنَا مِنَ ٱلنَّبِیِّـۧنَ مِیثَـٰقَهُمۡ وَمِنكَ وَمِن نُّوحࣲ وَإِبۡرَٰهِیمَ وَمُوسَىٰ وَعِیسَى ٱبۡنِ مَرۡیَمَۖ وَأَخَذۡنَا مِنۡهُم مِّیثَـٰقًا غَلِیظࣰا
 
 Let my father and mother sacrifice their lives for you O Messenger of Allah!
 Your superiority (over all of the people) in the Sight of Allah Almighty has
@@ -32051,7 +31944,7 @@ their saying (in the Holy Book on the Day that their faces will be turned upside
 down in the Fire: "Woe to us! would that we had obeyed Allah and obeyed the
 Messenger!" (Al-Ahzab 66)
 
-يَوْمَ تُقَلَّبُ وُجُوهُهُمْ فِى النَّارِ يَقُولُونَ يَلَيْتَنَآ أَطَعْنَا اللَّهَ وَأَطَعْنَا الرَّسُولَا
+یَوۡمَ تُقَلَّبُ وُجُوهُهُمۡ فِی ٱلنَّارِ یَقُولُونَ یَـٰلَیۡتَنَاۤ أَطَعۡنَا ٱللَّهَ وَأَطَعۡنَا ٱلرَّسُولَا۠
 
 <!-- PageBreak -->
 
@@ -32078,8 +31971,7 @@ against his people saying: "O my Lord! Leave not of the Unbelievers, a single on
 on earth! "For, if You do leave (any of) them, they will but mislead Your
 devotees, and they will breed none but wicked ungrateful ones." (Nuh 26:27)
 
-وَقَالَ نُوحٌ رَّتِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَفِرِينَ دَيَّارًا إِنَّكَ إِن تَذَرْهُمْ يُضِلُّواْ عِبَادَكَ وَلَا يَلِدُواْ إِلَّ
-فَاجِرًا كَفَّارًا
+وَقَالَ نُوحࣱ رَّبِّ لَا تَذَرۡ عَلَى ٱلۡأَرۡضِ مِنَ ٱلۡكَـٰفِرِینَ دَیَّارًا إِنَّكَ إِن تَذَرۡهُمۡ یُضِلُّوا۟ عِبَادَكَ وَلَا یَلِدُوۤا۟ إِلَّا فَاجِرࣰا كَفَّارࣰا
 
 Verily, had you invoked such evil against us, surely, we would have been
 ruined: your back was trodden (by the pagans and unbelievers of the Quraish),
@@ -32130,7 +32022,7 @@ Allah Almighty says: "And those who, having done something to be ashamed
 of, or wronged their own souls, earnestly bring Allah to mind, and ask for
 forgiveness for their sins." (Aal-e-Imran 135)
 
-وَالَّذِينَ إِذَا فَعَلُواْ فَحِشَةً أَوْ ظَلَمُواْ أَنفُسَهُمْ ذَكَرُواْ اللَّهَ فَاسْتَغْفَرُواْ لِذُنُوبِهِمْ
+وَٱلَّذِینَ إِذَا فَعَلُوا۟ فَـٰحِشَةً أَوۡ ظَلَمُوۤا۟ أَنفُسَهُمۡ ذَكَرُوا۟ ٱللَّهَ فَٱسۡتَغۡفَرُوا۟ لِذُنُوبِهِمۡ
 
 According to both Alqamah and Al-Aswad, Abdullah Ibn Mas'ud "Allah be
 pleased with him" said: "In Allah's Book, there are two Holy Verses, and no
@@ -32139,24 +32031,22 @@ that Allah Almighty forgives for him. Those are: " And those who, having done
 something to be ashamed of, or wronged their own souls, earnestly bring Allah to
 mind, and ask for forgiveness for their sins" (Aal-e-Imran 135)
 
-١٣٥
-
-وَالَّذِينَ إِذَا فَعَلُواْ فَحِشَةً أَوْ ظَلَمُوْاْ أَنْفُسَهُمْ ذَكَرُواْ اللَّهَ فَأَسْتَغْفَرُ وْلِذُنُوبِهِمْ
+وَٱلَّذِینَ إِذَا فَعَلُوا۟ فَـٰحِشَةً أَوۡ ظَلَمُوۤا۟ أَنفُسَهُمۡ ذَكَرُوا۟ ٱللَّهَ فَٱسۡتَغۡفَرُوا۟ لِذُنُوبِهِمۡ
 
 And: "If anyone does evil or wrongs his own soul but afterwards seeks Allah's
 forgiveness, he will find Allah Oft-Forgiving, Most Merciful." (An-Nisa 110)
 
-وَمَنْ يَعْمَلْ سُوْءًا أَوْ يَظْلِمْ نَفْسَهُ، ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَّحِيمًا
+وَمَن یَعۡمَلۡ سُوۤءًا أَوۡ یَظۡلِمۡ نَفۡسَهُۥ ثُمَّ یَسۡتَغۡفِرِ ٱللَّهَ یَجِدِ ٱللَّهَ غَفُورࣰا رَّحِیمࣰا
 
 Allah Almighty further says: "Celebrate the Praises of your Lord, and pray for
 His Forgiveness: for He is Oft-Returning (in Grace and Mercy)." (An-Nasr 3)
 
-فَسَبِّحْ يِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ إِنَّهُ، كَانَ تَوَّاًا
+فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا
 
 He Almighty also says: "and who pray for forgiveness in the early hours of the
 morning." (Aal-e-Imran 17)
 
-وَالْمُسْتَغْفِرِينَ بِالْأَسْحَارِ لِتَ
+وَٱلۡمُسۡتَغۡفِرِینَ بِٱلۡأَسۡحَارِ
 
 The Messenger of Allah "Allah's blessing and peace be upon him" most
 frequently said: Exalted be You O Allah with Your Praises (I exalt You): O Allah!
@@ -32235,8 +32125,7 @@ mind, and ask for forgiveness for their sins; and who can forgive sins except
 Allah? And are never obstinate in persisting knowingly (in the wrong) they have
 done." (Aal-e-Imran 135)
 
-وَالَّذِينَ إِذَا فَعَلُواْ فَحِشَةً أَوْ ظَلَمُوَاْ أَنفُسَهُمْ ذَكُرُواْ اللَّهَ فَاسْتَغْفَرُواْ لِذُنُوبِهِم وَمَنْ يَغْفِرُ الذُّنُوبَ إِلَّ اللَّهُ
-وَلَمْ يُصِرُواْ عَلَى مَا فَعَلُواْ وَهُمْ يَعْلَّمُونَ
+وَٱلَّذِینَ إِذَا فَعَلُوا۟ فَـٰحِشَةً أَوۡ ظَلَمُوۤا۟ أَنفُسَهُمۡ ذَكَرُوا۟ ٱللَّهَ فَٱسۡتَغۡفَرُوا۟ لِذُنُوبِهِمۡ وَمَن یَغۡفِرُ ٱلذُّنُوبَ إِلَّا ٱللَّهُ وَلَمۡ یُصِرُّوا۟ عَلَىٰ مَا فَعَلُوا۟ وَهُمۡ یَعۡلَمُونَ
 
 It is narrated on the authority of Abu Hurairah that the Messenger of Allah
 "Allah's blessing and peace be upon him" said: "If a servant commits a sin, a
@@ -32247,7 +32136,7 @@ covers his heart. This is, however, the stain (of the evil) which accumulates on
 heart in accordance with the statement of Allah Almighty: "By no means! But on
 their hearts is the stain of the (il) which they do!"" (Al-Mutaffifin 14)
 
-كَلَّ بَلَّ رَانَ عَلَى قُلُوبِهِمٍ مَّا كَانُوا يَكْسِبُونَ
+كَلَّاۖ بَلۡۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ یَكۡسِبُونَ
 
 It is narrated on the authority of Abu Hurairah "Allah be pleased with him"
 that the Messenger of Allah "Allah's blessing and peace be upon him" said:
@@ -32646,7 +32535,7 @@ the Throne (of Glory), Supreme"" (At-Tawbah 129)
 
 In
 
-فَإِن تَوَلَّوْا فَقُلْ حَسْبِىَ اللهُ لَآ إِلَهَ إِلَّا هُوَّ عَلَيْهِ تَوَكَّلْتٌ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ
+فَإِن تَوَلَّوۡا۟ فَقُلۡ حَسۡبِیَ ٱللَّهُ لَاۤ إِلَـٰهَ إِلَّا هُوَۖ عَلَیۡهِ تَوَكَّلۡتُۖ وَهُوَ رَبُّ ٱلۡعَرۡشِ ٱلۡعَظِیمِ
 
 Allah Almighty suffices him (for disposer of) all of his affairs of the hereafter,
 no matter true or false he might be."
@@ -33437,8 +33326,7 @@ by day; by day does He raise you up again; that a term appointed be fulfilled; i
 the end unto Him will be your return; then will He show you the truth of all that
 you did." (Al-An'am 60)
 
-وَهُوَ الَّذِى يَتَوَفَّكُم بِأَلَّيْلٍ وَيَعْلَمُ مَا جَرَحْتُم بِالنَّارِ ثُمَّيَبْعَثُكُمْ فِيهِ لِيُقْضَىَّ أَجَلٌّ مُسَنَّىَّ ثُمَّ إِلَيْهِ
-مَرْجِعُكُمْ ثُمَّ يُنَبِتُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ
+وَهُوَ ٱلَّذِی یَتَوَفَّىٰكُم بِٱلَّیۡلِ وَیَعۡلَمُ مَا جَرَحۡتُم بِٱلنَّهَارِ ثُمَّ یَبۡعَثُكُمۡ فِیهِ لِیُقۡضَىٰۤ أَجَلࣱ مُّسَمࣰّىۖ ثُمَّ إِلَیۡهِ مَرۡجِعُكُمۡ ثُمَّ یُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ
 
 O Allah, that cleave the daybreak (from the dark), make the night for rest and
 tranquillity, and the sun and moon for the reckoning (of time): I ask You (to
@@ -33495,8 +33383,7 @@ Almighty not to carry the weapons, since Allah Almighty says: O you who
 believe! take your precautions, and either go forth in parties or go forth all
 together" (An-Nisa 71)
 
-٧١
-يَأَيُّهَا الَّذِينَ ءَامَنُواْ خُذُ واْ حِذْرَكُمْ فَنِفِرُواْ نُّبَاتٍ أَوِ آَنِفِرُواْ جَمِيعًا
+یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ خُذُوا۟ حِذۡرَكُمۡ فَٱنفِرُوا۟ ثُبَاتٍ أَوِ ٱنفِرُوا۟ جَمِیعࣰا
 
 Nor is it not to water the land after sowing the seeds on the ground of the
 saying: "If it has been preordained for the plant to grow, the seeds then will grow,
@@ -33519,7 +33406,7 @@ are befallen by a certain need or fall victims of a certain distress. To be sure
 When evil seizes man, (he comes) full of prolonged prayer!" (Fussilat 51)
 
 
- وَإِذَا مَسَّهُ الشَّرُّ فَذُ ودُعَآءٍ عَرِيضٍ
+وَإِذَا مَسَّهُ ٱلشَّرُّ فَذُو دُعَاۤءٍ عَرِیضࣲ
 
 The need then requires man to take refuge to invocation, and the invocation,
 in turn, brings the heart back to Allah Almighty, by way of supplication and
@@ -33539,7 +33426,7 @@ all due bounds, In that he looks upon himself as self-sufficient." (Al-Alaq 6:7)
 <!-- PageNumber="628" -->
 
 
-كَلَّ إِنَّ الْإِنسَنَ لَيَطْغَىّ ِنَّ أَن رَّءَاهُ اسْتَغْنَىع
+كَلَّاۤ إِنَّ ٱلۡإِنسَـٰنَ لَیَطۡغَىٰۤ أَن رَّءَاهُ ٱسۡتَغۡنَىٰۤ
 
 This is, however, what we like to bring from the entire literature of
 celebrations and invocations; and Allah Almighty helps us do well. As for the
@@ -33685,12 +33572,12 @@ there is for you by day prolonged occupation with ordinary duties: But keep in
 remembrance the name of your Lord and devote yourself to Him whole-
 heartedly." (Al-Muzzammil 7:8)
 
-﴿إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا ۝ وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا﴾
+إِنَّ لَكَ فِی ٱلنَّهَارِ سَبۡحࣰا طَوِیلࣰا وَٱذۡكُرِ ٱسۡمَ رَبِّكَ وَتَبَتَّلۡ إِلَیۡهِ تَبۡتِیلࣰا
 Allah Almighty further says: "And celebrate the name of your Lord morning
 and evening. And part of the night, prostrate yourself to Him; and exalt Him a
 long night through." (Al-Insan 25:26)
 
-﴿وَاذْكُرِ اسْمَ رَبِّكَ بُكْرَةً وَأَصِيلًا ۝ وَمِنَ اللَّيْلِ فَاسْجُدْ لَهُ وَسَبِّحْهُ لَيْلًا طَوِيلًا﴾
+وَٱذۡكُرِ ٱسۡمَ رَبِّكَ بُكۡرَةࣰ وَأَصِیلࣰا وَمِنَ ٱلَّیۡلِ فَٱسۡجُدۡ لَهُۥ وَسَبِّحۡهُ لَیۡلࣰا طَوِیلًا
 
 He Almighty also says: "and celebrate the praises of your Lord, before the
 rising of the sun and before (its) setting, And during part of the night, (also,)
@@ -33701,35 +33588,33 @@ celebrate His praises and (so likewise) after the postures of adoration." (Qaf 3
 <!-- PageNumber="632" -->
 
 
-فَاصْبِرْ عَلَى مَا يَقُولُونَ وَسَبِحْ يِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُوبِ
-وَمِنَ الَّيْلِ فَسَبِّحْهُ وَأَدْبَرَ الشُّجُودِ.
+فَٱصۡبِرۡ عَلَىٰ مَا یَقُولُونَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ قَبۡلَ طُلُوعِ ٱلشَّمۡسِ وَقَبۡلَ ٱلۡغُرُوبِ وَمِنَ ٱلَّیۡلِ فَسَبِّحۡهُ وَأَدۡبَـٰرَ ٱلسُّجُودِ
 
 Allah "Exalted and Hallowed be He" says too: " and celebrate the praises of
 they Lord the while you stand forth, And for part of the night also praise you
 Him, and at the retreat of the stars!" (At-Tur 48:49)
 
-وَاصْبِرْ لِحُكْرِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا وَسَبِحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ وَمِنَ الَّيْلِ فَسَبِّحْهُ وَإِذْبَرَ النُّجُومِ
+وَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ فَإِنَّكَ بِأَعۡیُنِنَاۖ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ حِینَ تَقُومُ وَمِنَ ٱلَّیۡلِ فَسَبِّحۡهُ وَإِدۡبَـٰرَ ٱلنُّجُومِ
 
 Allah Almighty also says: " Truly the rising by night is most potent for
 governing (the soul), and most suitable for (framing) the Word (of Prayer and
 Praise)." (Al-Muzzammil 6)
 
-إِنَّ نَاشِئَةَ الَيْلِ هِىَ أَشَدُّ وَظَئًا وَأَقْوَمُ قِيلاً
+إِنَّ نَاشِئَةَ ٱلَّیۡلِ هِیَ أَشَدُّ وَطۡـࣰٔا وَأَقۡوَمُ قِیلًا
 
 He Almighty further says: " and celebrate (constantly) the praises of your
 Lord, before the rising of the sun, and before its setting; yea, celebrate them for
 part of the hours of the night, and at the sides of the day: that you may have
 (spiritual) joy." (Taa-Haa 130)
 
-فَاصْبِرْ عَلَى مَا يَقُولُونَ وَسَبِحْ يِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوِهَا وَمِنْ ءَانَآي آلَّيْلِ فَسَبِّحْ
-وَأَطْرَافَ النَّهَارِ لَعَلَّكَ تَرْضَى !
+فَٱصۡبِرۡ عَلَىٰ مَا یَقُولُونَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ قَبۡلَ طُلُوعِ ٱلشَّمۡسِ وَقَبۡلَ غُرُوبِهَاۖ وَمِنۡ ءَانَاۤىِٕ ٱلَّیۡلِ فَسَبِّحۡ وَأَطۡرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرۡضَىٰ
 
 He Almighty says too: "And establish regular prayers at the two ends of the
 day and at the approaches of the night: for those things that are good remove
 those that are evil: be that the word of remembrance to those who remember
 (their Lord)." (Hud 114)
 
-وَأَقِمِ الصَّلَوةَ طَرَّفِ النََّارِ وَزُلَقًّا مِنَ اَلَيْلِّ إِنَّ الْسَنَتِ يُذْهِيْنَ السَّيِّئَاتِ ذَلِكَ ذِكْرَى لِلذَّاكِرِينَ
+وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَیِ ٱلنَّهَارِ وَزُلَفࣰا مِّنَ ٱلَّیۡلِۚ إِنَّ ٱلۡحَسَنَـٰتِ یُذۡهِبۡنَ ٱلسَّیِّـَٔاتِۚ ذَٰلِكَ ذِكۡرَىٰ لِلذَّٰكِرِینَ
 
 Consider further how and with which qualities He Almighty describes those
 who achieve felicity among His servants in His saying: "Is one who worships
@@ -33739,13 +33624,12 @@ Mercy of his Lord, (like one who does not)? Say: "Are those equal, those who
 know and those who do not know? It is those who are endued with
 understanding that receive admonition." (Az-Zumar 9)
 
-أَمَّنْ هُوَ قَنِتُ ءَانَآءَ أَلَيْلِ سَاجِدًا وَقَائِمًا تَخْذَرُ الْآَخِرَةَ وَيَرْجُواْ رَحْمَةَ رَبِّهِ قُلْ هَلْ يَسْتَوِى الَّذِينَ يَعْلَمُونَ
-وَالَّذِينَ لَا يَعْلَمُونَ إِنَّمَا يَتَذَكَّرُ أُوْلُواْ الأَلْبَبِ رِينَ
+أَمَّنۡ هُوَ قَـٰنِتٌ ءَانَاۤءَ ٱلَّیۡلِ سَاجِدࣰا وَقَاۤىِٕمࣰا یَحۡذَرُ ٱلۡـَٔاخِرَةَ وَیَرۡجُوا۟ رَحۡمَةَ رَبِّهِۦۗ قُلۡ هَلۡ یَسۡتَوِی ٱلَّذِینَ یَعۡلَمُونَ وَٱلَّذِینَ لَا یَعۡلَمُونَۗ إِنَّمَا یَتَذَكَّرُ أُو۟لُوا۟ ٱلۡأَلۡبَـٰبِ
 
 He Almighty further says: "Their limbs do forsake their beds of sleep, the
 while they call on their Lord, in Fear and Hope." (As-Sajdah 16)
 
-تَتَجَافَىْ جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَّمْ خَوْفًا وَطَمَعًا :
+تَتَجَافَىٰ جُنُوبُهُمۡ عَنِ ٱلۡمَضَاجِعِ یَدۡعُونَ رَبَّهُمۡ خَوۡفࣰا وَطَمَعࣰا وَمِمَّا رَزَقۡنَـٰهُمۡ یُنفِقُونَ
 
 He "Exalted and Hallowed be He" says too: "Those who spend the night in
 adoration of their Lord prostrate and standing." (Al-Furqan 64)
@@ -33755,23 +33639,23 @@ adoration of their Lord prostrate and standing." (Al-Furqan 64)
 <!-- PageNumber="633" -->
 <!-- PageHeader="Book Ten: the constitution of Regular Divisions" -->
 
-وَلَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًا وَقِيَمًا
+وَٱلَّذِینَ یَبِیتُونَ لِرَبِّهِمۡ سُجَّدࣰا وَقِیَـٰمࣰا
 
 Allah, Exalted and Hallowed, further says: "They were in the habit of sleeping
 but little by night, And in the hours of early dawn, they (were found) praying for
 Forgiveness." (Adh-Dhariyat 17:18)
 
-كَانُواْ قَلِيلاً مِّنَ الَّيْلِ مَا يَنْجَعُونَ ِيَا وَبِآلْأُشْخَارِ هُمْ يَسْتَغْفِرُونَ
+كَانُوا۟ قَلِیلࣰا مِّنَ ٱلَّیۡلِ مَا یَهۡجَعُونَ وَبِٱلۡأَسۡحَارِ هُمۡ یَسۡتَغۡفِرُونَ
 
 He Almighty also says: "So (give) glory to Allah, when you reach eventide and
 when you rise in the morning." (Ar-Rum 17)
 
-فَسُبْحَنَ اَللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ
+فَسُبۡحَـٰنَ ٱللَّهِ حِینَ تُمۡسُونَ وَحِینَ تُصۡبِحُونَ
 
 He Almighty says too: "Send not away those who call on their Lord morning
 and evening, seeking His Face." (Al-An'am 52)
 
-وَلَا تَطْرُدِ الَّذِينَ يَدْعُونَ رَبَّهُم بِالْغَدَوَةِ وَالْعَشِيِّ يُرِيدُونَ وَجْهَهُ:
+وَلَا تَطۡرُدِ ٱلَّذِینَ یَدۡعُونَ رَبَّهُم بِٱلۡغَدَوٰةِ وَٱلۡعَشِیِّ یُرِیدُونَ وَجۡهَهُۥۖ
 
 All of that shows to you, there is no doubt, that the way to (the Presence of)
 Allah Almighty is to observe the different times (during night and day) in order to
@@ -33783,28 +33667,25 @@ observe the (time of the appearance of) sun and moon and (the times of) shades
 in order to celebrate (the Praises of) Allah Almighty." Allah Almighty says in this
 connection: "The sun and the moon follow courses (exactly) computed." (Ar-Rahman 5)
 
-الشَّمْسُ وَالْقَمَرُ يُحُسْبَانٍ
+ٱلشَّمۡسُ وَٱلۡقَمَرُ بِحُسۡبَانࣲ
 
 He further says: "Have you not turned your vision to your Lord? How He
 does prolong the Shadow! If He willed, He could make it stationary! Then do We
 make the sun its guide; Then We draw it in towards Ourselves, a contraction by
 easy stages." (Al-Furqan 45:46)
 
-أَلَمْ تَرَ إِلَى رَبِّكَ كَيْفَ مَدَّ الظَلَّ وَلَوْ شَآءَ لَجَعَلَهُ، سَاكِّنًا ثُمَّ جَعَلْنَا الشَّمْسَ عَلَيْهِ دَلِيلًا ثُمَّ قَبَضْنَهُ
-إِلَيْنَا قَبْضًا يَسِيرًا
+أَلَمۡ تَرَ إِلَىٰ رَبِّكَ كَیۡفَ مَدَّ ٱلظِّلَّ وَلَوۡ شَاۤءَ لَجَعَلَهُۥ سَاكِنࣰا ثُمَّ جَعَلۡنَا ٱلشَّمۡسَ عَلَیۡهِ دَلِیلࣰا ثُمَّ قَبَضۡنَـٰهُ إِلَیۡنَا قَبۡضࣰا یَسِیرࣰا
 
 He Almighty also says: "And the Moon, We have measured for it mansions (to
 traverse) till it returns like the old (and withered) lower part of a date-stalk." (Ya Sin 39)
 
-وَالْقَمَرَ قَدَّرْنَهُ مَنَازِلَ حَتَّى عَادَ كَالْعُرْجُونِ اٌلْقَدِيمِ
+وَٱلۡقَمَرَ قَدَّرۡنَـٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلۡعُرۡجُونِ ٱلۡقَدِیمِ
 
 He Almighty further says: " It is He Who makes the stars (as beacons) for you,
 that you may guide yourselves, with their help, through the dark spaces of land
 and sea: We detail Our Signs for people who know." (Al-An'am 96)
 
-وَهُوَ الَّذِى جَعَلَ لَكُمُ النُّجُومَ لِتَتَدُواْ بِهَا فِى ظُلُمَتِ الْبَرِ وَالْبَخرُ قَدْ فَصَّلْنَا
-
-آلْأَيْتِ لِقَوْمٍ يَعْلَمُونَ
+فَالِقُ ٱلۡإِصۡبَاحِ وَجَعَلَ ٱلَّیۡلَ سَكَنࣰا وَٱلشَّمۡسَ وَٱلۡقَمَرَ حُسۡبَانࣰاۚ ذَٰلِكَ تَقۡدِیرُ ٱلۡعَزِیزِ ٱلۡعَلِیمِ
 
 <!-- PageBreak -->
 
@@ -33821,7 +33702,7 @@ Allah Almighty: " And it is He Who made the Night and the Day to follow each
 other: for those who have the will to celebrate His praises or to show their
 gratitude." (Al-Furqan 62)
 
-وَهُوَ الَّذِى جَعَلَ أَلَّيْلَ وَالنَّهَارَ خِلْفَةُ لِّمَنْ أَرَادَ أَن يَذَّكَّرَ أَوْ أَرَادَ شُكُورًا
+وَهُوَ ٱلَّذِی جَعَلَ ٱلَّیۡلَ وَٱلنَّهَارَ خِلۡفَةࣰ لِّمَنۡ أَرَادَ أَن یَذَّكَّرَ أَوۡ أَرَادَ شُكُورࣰا
 
 This means that both come in succession, one after the other, in order that
 one might catch in any of them what he misses in the other. In this statement, He
@@ -33834,8 +33715,7 @@ Day We have made to enlighten you; that you may seek bounty from your Lord,
 and that you may know the number and count of the years: all things have We
 explained in detail." (Al-Isra' 12)
 
-وَجَعَلْنَا أَّيْلَ وَلََّارَ ءَايَتَيْنٍّ فَمَحَوْنَاَ ءَايَةً أَلَّيْلِ وَجَعَلْنَاَ ءَايَةَ النَّهَارِ مُبْصِرَةٌ لِتَبْتَغُواْ فَضْلاً مِّن رَّبِّكُمْ
-وَلِتَعْلَمُواْ عَدَدَ اٌلْسِنِينَ وَالْحِسَابَ وَكُلَّ شَىٍْ فَصَّلْنَهُ تَفْصِيلاً.
+وَجَعَلۡنَا ٱلَّیۡلَ وَٱلنَّهَارَ ءَایَتَیۡنِۖ فَمَحَوۡنَاۤ ءَایَةَ ٱلَّیۡلِ وَجَعَلۡنَاۤ ءَایَةَ ٱلنَّهَارِ مُبۡصِرَةࣰ لِّتَبۡتَغُوا۟ فَضۡلࣰا مِّن رَّبِّكُمۡ وَلِتَعۡلَمُوا۟ عَدَدَ ٱلسِّنِینَ وَٱلۡحِسَابَۚ وَكُلَّ شَیۡءࣲ فَصَّلۡنَـٰهُ تَفۡصِیلࣰا
 
 However, the sought bounty here refers to the good reward and forgiveness
 (of Allah Almighty); and we ask Allah to help us do what pleases Him.
@@ -33858,7 +33738,7 @@ emergence of the sun disk; and of a surety, it is an honourable period as shown
 from Allah's Oath by it when He says: "So verily I call to witness the Dawn as it
 breathes away the darkness." (At-Takwir 18)
 
-وَالصُّبْحِ إِذَا تَنَّفَّسَ
+وَٱلصُّبۡحِ إِذَا تَنَفَّسَ
 
 <!-- PageBreak -->
 
@@ -33869,36 +33749,35 @@ He Almighty ascribes to Himself the attribute of cleaving the daybreak (from
 darkness) as shown in His statement: "He it is that cleaves the daybreak (from the
 dark)." (Al-An'am 96)
 
-فَالِقُ آلْإِصْبَاحِ
+فَالِقُ ٱلۡإِصۡبَاحِ
 
 He Almighty further says: " Say: I seek refuge with (Allah) the Lord of the
 Daybreak." (Al-Falaq 1)
 
-قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ِّ
+قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ
 
 Furthermore, He Almighty shows His Power to draw in the shadow therein
 when He says: "Then We draw it in towards Ourselves, a contraction by easy
 stages." (Al-Furqan 46)
 
-ثُمَّ قَبَضْنَهُ إِلَيْنَا قَبْضًا یَسِیرًا
+ثُمَّ قَبَضۡنَـٰهُ إِلَیۡنَا قَبۡضࣰا یَسِیرࣰا
 
 This is the due time of drawing in the shadow of night by spreading out the
 light of the sun. Allah Almighty guides the people to celebrate the Glories of
 Allah therein in His statement: "So (give) glory to Allah, when you reach eventide
 and when you rise in the morning" (Ar-Rum 17)
 
-فَسُبْحَنَ اَللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ
+فَسُبۡحَـٰنَ ٱللَّهِ حِینَ تُمۡسُونَ وَحِینَ تُصۡبِحُونَ
 
 And: " and celebrate (constantly) the praises of your Lord, before the rising of
 the sun, and before its setting, yea, celebrate them for part of the hours of the
 night, and at the sides of the day: that you may have (spiritual) joy" (Taa-Haa 130)
 
-وَسَيْحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوِاٌ وَمِنْ ءَانَّآِ الَّلِ فَسَيِّحْ وَأَطْرَافَ النََّارِ لَعَلَّكَ تَرْضَى
-١٣٠
+فَٱصۡبِرۡ عَلَىٰ مَا یَقُولُونَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ قَبۡلَ طُلُوعِ ٱلشَّمۡسِ وَقَبۡلَ غُرُوبِهَاۖ وَمِنۡ ءَانَاۤىِٕ ٱلَّیۡلِ فَسَبِّحۡ وَأَطۡرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرۡضَىٰ
 
 And: "And celebrate the name of your Lord morning and evening." (Al-Insan 25)
 
-وَاذْكُرِ اسْمَ رَبِّكَ بُكْزَةً وَأُصِيلاً
+وَٱذۡكُرِ ٱسۡمَ رَبِّكَ بُكۡرَةࣰ وَأَصِیلࣰا
 
 As far as the sequence of its acts is concerned, let one at first begin, once he
 wakes up from his sleep, with the celebration of Allah Almighty saying: "Praise be
@@ -33994,7 +33873,7 @@ and saying while he was turning away: " but man is, in most things, contentious.
 (Al-Kahf 54)
 
 
- وَكَانَ آلْإِنسَانُ أُكْثَشَىْءٍ جَدَلاً
+وَكَانَ ٱلۡإِنسَـٰنُ أَكۡثَرَ شَیۡءࣲ جَدَلࣰا
 
 Furthermore, after offering the two-rak'ah prayer prior to Fajr and saying the
 related supplication, one should engage himself in the prayer for forgiveness and
@@ -34108,7 +33987,7 @@ Lord! I seek refuge with You from the evil suggestions of Satans, and I seek
 refuge with You O my Lord lest they would come near me." (Al-Mu'minun 97:98)
 
 
-﴿وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ ۝ وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ﴾
+وَقُل رَّبِّ أَعُوذُ بِكَ مِنۡ هَمَزَٰتِ ٱلشَّیَـٰطِینِ وَأَعُوذُ بِكَ رَبِّ أَن یَحۡضُرُونِ
 If one recites each of those ten statements ten times, making a total of one
 hundred times, it will be better for him than to recite only one of them one
 hundred times, for each of those statements has its independent excellence
@@ -34125,7 +34004,7 @@ following two Holy Verses from Aal-e-Imran: " There is no god but He: that is th
 witness of Allah, His angels, and those endued with knowledge, standing firm on
 justice. There is no god but He the Exalted in Power, the Wise." (Aal-e-Imran 18)
 
-شَهِدَ اللّهُ أَنَّهُ، لَآ إِلَهَ إِلَّا هُوَ وَالْمَلَئِكَهُ وَأُوْلُواْ الْعِلْمِ قَآبِمًا بِالْقِسْطِ لَآ إِلَهَ إِلَّ هُوَ الْعَزِيزُ الْحَكِيمُ
+شَهِدَ ٱللَّهُ أَنَّهُۥ لَاۤ إِلَـٰهَ إِلَّا هُوَ وَٱلۡمَلَـٰۤىِٕكَةُ وَأُو۟لُوا۟ ٱلۡعِلۡمِ قَاۤىِٕمَۢا بِٱلۡقِسۡطِۚ لَاۤ إِلَـٰهَ إِلَّا هُوَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ
 
 And: " Say: "O Allah! Lord of Power (and Rule), You give Power to whom
 You please, and You stripe off Power from whom You please: You endue with
@@ -34138,31 +34017,27 @@ You please, and You stripe off Power from whom You please: You endue with
 honour whom You please, and You bring low whom You please: in Your hand is
 all Good. Verily, over all things You have power." (Aal-e-Imran 26)
 
-قُلِ اللَّهُمَّ مَلِكَ الْمُلْكِ تُؤْقى الْمُلْكَ مَنِ تَشَاءُ وَتَنزِعُ الْمُلْكَ مِمَّن تَشَاءُ وَتُعِزُّ مَن تَشَاءُ وَتُذِلُّ مَن تَشَآءٌ بِيَدِكَ
-اُلْخَيْرُ إِنَّكَ عَلَى كُلِّ شَىْءٍ قَدِيرٌ لَا
+قُلِ ٱللَّهُمَّ مَـٰلِكَ ٱلۡمُلۡكِ تُؤۡتِی ٱلۡمُلۡكَ مَن تَشَاۤءُ وَتَنزِعُ ٱلۡمُلۡكَ مِمَّن تَشَاۤءُ وَتُعِزُّ مَن تَشَاۤءُ وَتُذِلُّ مَن تَشَاۤءُۖ بِیَدِكَ ٱلۡخَیۡرُۖ إِنَّكَ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرࣱ
 
 Let him also recite the saying of Allah Almighty: " Now has come unto you a
 Messenger from amongst yourselves: it grieves him that you should perish:
 ardently anxious is he over you: to the Believers is he most kind and merciful."
 (At-Tawbah 128)
 
-لَقَدْ جَآءَكُمْ رَسُولٌ مِّنْ أَنْفُسِكُمْ عَزِيزُ عَلَيْهِ مَا عَنِتُمْ حَرِيصٌ عَلَيْكُم
-بِالْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ
+لَقَدۡ جَاۤءَكُمۡ رَسُولࣱ مِّنۡ أَنفُسِكُمۡ عَزِیزٌ عَلَیۡهِ مَا عَنِتُّمۡ حَرِیصٌ عَلَیۡكُم بِٱلۡمُؤۡمِنِینَ رَءُوفࣱ رَّحِیمࣱ
 
 And: " Truly did Allah fulfill the vision for His Messenger: you shall enter the
 Sacred Mosque, if Allah wills, with minds secure, heads shaved, hair cut short,
 and without fear. For He knew what you knew not, and He granted, besides this,
 a speedy victory." (Al-Fath 27)
 
-لَّقَدْ صَدَقَ اللّهُ رَسُولَهُ الرُّغْيَا بِالْحَقِّ لَنَدْ خُلُنَّ الْمَسْجِدَ الْحَرَامَ إِن شَآءَ اللهُ ءَامِينَ مُخْلِقِينَ رُءُوسَكُمْ
-وَمُقَصِّرِينَ لَا تَخَافُونَ فَعَلِمَ مَا لَمْ تَعْلَمُواْ فَجَعَلَ مِن دُونٍ ذَلِكَ فَتْحًا قَرِيبًا
+لَّقَدۡ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءۡیَا بِٱلۡحَقِّۖ لَتَدۡخُلُنَّ ٱلۡمَسۡجِدَ ٱلۡحَرَامَ إِن شَاۤءَ ٱللَّهُ ءَامِنِینَ مُحَلِّقِینَ رُءُوسَكُمۡ وَمُقَصِّرِینَ لَا تَخَافُونَۖ فَعَلِمَ مَا لَمۡ تَعۡلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتۡحࣰا قَرِیبًا
 
 And: " Say: "Praise be to Allah, Who begets no son, and has no partner in
 (His) dominion: nor (needs) He any to protect Him from humiliation: yea, glorify
 Him for His greatness and glory!"" (Al-Isra' 111)
 
-وَقُلِ الْخَمْدُ لِلَّهِ الَّذِى لَمْ يَتَّخِذْ وَلَّدًا وَلَمْ يَكُن لَّهُ شَرِيكُ فِى الْمُلَكِ وَلَمْ يَكُنْ لَّهُ، وَلِىٌّ مِنَ الذُّلِّ
-وَكَّيِّرْهُ تَكْبِيرًا
+وَقُلِ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِی لَمۡ یَتَّخِذۡ وَلَدࣰا وَلَمۡ یَكُن لَّهُۥ شَرِیكࣱ فِی ٱلۡمُلۡكِ وَلَمۡ یَكُن لَّهُۥ وَلِیࣱّ مِّنَ ٱلذُّلِّۖ وَكَبِّرۡهُ تَكۡبِیرَۢا
 
 Let him also recite the first five Holy Verses of Al-Hadid, and the concluding
 three of the Surah of Al-Hashr.
@@ -34336,7 +34211,7 @@ covered him over" i.e. when the matter became very dark and abstruse upon him,
 "he saw a star" i.e. he attained one of the veils of light referred to herein by the
 star. (Al-An'am 76)
 
-فَلَمَّا جَنَّ عَلَيْهِ أَلَّيْلُ رَءَا كَوْكَبًاٌ قَالَ هَذَا تَقَّ فَلَمَّآ أَقَلَ قَالَ لَآ أُحِبُّ الْأَفِلِينَ
+فَلَمَّا جَنَّ عَلَیۡهِ ٱلَّیۡلُ رَءَا كَوۡكَبࣰاۖ قَالَ هَـٰذَا رَبِّیۖ فَلَمَّاۤ أَفَلَ قَالَ لَاۤ أُحِبُّ ٱلۡـَٔافِلِینَ
 
 However, it is not the radiant celestial bodies that is intended here, for indeed,
 it is not hidden from the laymen that it is not consonant with the Majesty of
@@ -34359,9 +34234,7 @@ luminous, though fire scarce touched it: Light upon Light! Allah does guide
 whom He will to His Light: Allah does set forth Parables for men: and Allah does
 know all things." (An-Nur 35)
 
-اللّهُ نُورُ السَّمَوَاتِ وَالْأَرْضِّ مَثَلُ نُورِهِ، كَمِشْكَوَةٍ فِيهَا مِصْبَاحٌ الْمِصْبَاحُ فِ زُجَاجَةٍ الزَّجَاجَةُ كَأَنَّا
-كَوْكْبٌ دُرِىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَرَكَةٍ زَيْتُونَةٍ لَّا شَرْقِيَّةٍ وَلَا غَرِيَّةِ يَكَادُ زَيْتُهَا يُضِىّءُ وَلَوْ لَمْ تَمْسَسْهُ نَارُّ نُورٌ
-عَلَىْ ثُورٍ يَهْدِى اللّهُ لِنُورِهِ، مَن يَشَاءُ وَتَضْرِبُ اللَّهُ آلْأَمْثَلَ لِلنَّاسِ وَاللّهُ بِكُلِّ شَىْءٍ عَلِيمٌ.
+۞ ٱللَّهُ نُورُ ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضِۚ مَثَلُ نُورِهِۦ كَمِشۡكَوٰةࣲ فِیهَا مِصۡبَاحٌۖ ٱلۡمِصۡبَاحُ فِی زُجَاجَةٍۖ ٱلزُّجَاجَةُ كَأَنَّهَا كَوۡكَبࣱ دُرِّیࣱّ یُوقَدُ مِن شَجَرَةࣲ مُّبَـٰرَكَةࣲ زَیۡتُونَةࣲ لَّا شَرۡقِیَّةࣲ وَلَا غَرۡبِیَّةࣲ یَكَادُ زَیۡتُهَا یُضِیۤءُ وَلَوۡ لَمۡ تَمۡسَسۡهُ نَارࣱۚ نُّورٌ عَلَىٰ نُورࣲۚ یَهۡدِی ٱللَّهُ لِنُورِهِۦ مَن یَشَاۤءُۚ وَیَضۡرِبُ ٱللَّهُ ٱلۡأَمۡثَـٰلَ لِلنَّاسِۗ وَٱللَّهُ بِكُلِّ شَیۡءٍ عَلِیمࣱ
 
 But, it is better for us to leave those meanings, which are beyond the science
 of practical religion (and rather belong to the science of Revelation), whose facts
@@ -34411,7 +34284,7 @@ It is the time of the first two rak'ahs (when sun rises) which is intended by
 Allah's statement: " It was We that made the hills declare, in unison with him,
 Our Praises, at eventide and at break of day." (Sad 18)
 
-إِنَّا سَخَّرْنَا الْجِبَالَ مَعَهُ يُسَبِحْنَ بِالْعَشِ وَآلْإِشْرَاقِ
+إِنَّا سَخَّرۡنَا ٱلۡجِبَالَ مَعَهُۥ یُسَبِّحۡنَ بِٱلۡعَشِیِّ وَٱلۡإِشۡرَاقِ
 
 It is really the time of sunrise, in which its light emerges in full perfection,
 when it goes up over the level of earth's fogs and molecules which hinder its
@@ -34420,7 +34293,7 @@ forenoon, by which Allah Almighty swears in His saying: "By the Glorious
 morning Light, And by the Night when it is still, Your Guardian-Lord has not
 forsaken you, nor is He displeased." (Ad-Duha 1:3)
 
-﴿وَالضُّحَىٰ ۝ وَاللَّيْلِ إِذَا سَجَىٰ ۝ مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ﴾
+وَٱلضُّحَىٰ وَٱلَّیۡلِ إِذَا سَجَىٰ مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ
 Furthermore, it is narrated that one day The Messenger of Allah "Allah's
 blessing and peace be upon him" came out to his companions at the time of
 sunrise and they were engaged in prayer, thereupon he called them at the top
@@ -34543,7 +34416,7 @@ And it is He Who made the Night and the Day to follow each other: for those
 who have the will to celebrate His praises or to show their gratitude" (Al-Furqan 62)
 
 
- وَهُوَ الَّذِى جَعَلَ أَلَّيْلَ وَالنَّهَارَ خِلْفَةُ لِّمَنْ أَرَادَ أَنْ يَذَّكَّرَ أَوْ أَرَادَ شُكُورًا
+وَهُوَ ٱلَّذِی جَعَلَ ٱلَّیۡلَ وَٱلنَّهَارَ خِلۡفَةࣰ لِّمَنۡ أَرَادَ أَن یَذَّكَّرَ أَوۡ أَرَادَ شُكُورࣰا
 
 Is that one succeeds the other in excellence and superiority, and the other is
 that both come in succession, one after the other, in order that one might catch
@@ -34566,8 +34439,7 @@ beginning of sun decline that is intended by Allah in His statement: " Yea, to
 Him be praise, in the heavens and on earth; and in the late afternoon and when
 the day begins to decline." (Ar-Rum 18)
 
-وَلَهُ الْحَمْدُ فِ السَّمَوَاتِ وَالْأَرْضِ وَعَشِيًّا وَحِينَ تُظْهِرُونَ
-١٨
+وَلَهُ ٱلۡحَمۡدُ فِی ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضِ وَعَشِیࣰّا وَحِینَ تُظۡهِرُونَ
 
 Just at that time, let him offer a four-rak'ah prayer, with no End Taslim to
 make break between them. This is the only prayer, from amongst all the prayers
@@ -34640,7 +34512,7 @@ the earth do prostrate themselves to Allah (acknowledging subjection) - with
 good-will or in spite of themselves - so do their shadows in the mornings and
 evenings." (Ar-Ra'd 15)
 
-وَلَّهِ يَسْجُدُ مَنْ فِى السَّمَوَتِ وَالْأَرْضِ طَوْعًا وَكْرِهَا وَظِلَلُهُم بِالْغُدُوِّ وَالْأَصَالِ
+وَلِلَّهِ یَسۡجُدُ مَن فِی ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضِ طَوۡعࣰا وَكَرۡهࣰا وَظِلَـٰلُهُم بِٱلۡغُدُوِّ وَٱلۡـَٔاصَالِ ۩
 
 If the non-living beings prostrate themselves in subjection to Allah, how
 should a rational servant be heedless of doing the acts of worship?
@@ -34649,18 +34521,18 @@ The sixth regular division begins with the coming of Asr time, and it is by
 this portion of time that Allah Almighty swears in His saying: "By (the Token of)
 Time of eventide, Verily Man is in loss." (Al-Asr 1:2)
 
-وَاَلْعَصْرِنْهَا إِنَّ الْإِنَسَنَّ لَفِى خُسْرٍ
+وَٱلۡعَصۡرِ إِنَّ ٱلۡإِنسَـٰنَ لَفِی خُسۡرٍ
 
 This is one of the two meanings given to this saying, as well as it is intended
 by the evenings according to one of the two interpretations given to this Holy
 Verse (Ar-Ra'd 15)
 
-وَلِلَّهِ يَسْجُدُ مَن فِى السَّمَنْوَاتِ وَالْأَرْضِ طَوْعًا وَكَّرْهًا وَظِلَلُهُم بِالْغُدُوِّ وَالْأَصَالِ
+وَلِلَّهِ یَسۡجُدُ مَن فِی ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضِ طَوۡعࣰا وَكَرۡهࣰا وَظِلَـٰلُهُم بِٱلۡغُدُوِّ وَٱلۡـَٔاصَالِ ۩
 
 And it is also intended by His saying: "It was We that made the hills declare, in
 unison with him, Our Praises, at eventide and at break of day." (Sad 18)
 
-إِنَّا سَخَّرْنَا الْجِبَالَ مَعَهُ يُسَبِحْنَ بِالْعَشِيَ وَآلْإِشْرَاقِ
+إِنَّا سَخَّرۡنَا ٱلۡجِبَالَ مَعَهُۥ یُسَبِّحۡنَ بِٱلۡعَشِیِّ وَٱلۡإِشۡرَاقِ
 
 There is no prayer to be offered in this regular division other than the four-
 
@@ -34687,13 +34559,13 @@ because the former is before sunset, as well as the latter is before sunrise. It
 that is intended by Allah's statement: " So (give) glory to Allah, when you reach
 eventide and when you rise in the morning." (Ar-Rum 17)
 
-فَسُبْحَنِنَ اللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ
+فَسُبۡحَـٰنَ ٱللَّهِ حِینَ تُمۡسُونَ وَحِینَ تُصۡبِحُونَ
 
 This is also the other side (of the day) that is intended by Allah's statement: "
 yea, celebrate them for part of the hours of the night, and at the sides of the day:
 that you may have (spiritual) joy." (Taa-Haa 130)
 
-وَمِنْ ءَانَآي َلَّيْلِ فَسَبِحْ وَأَطْرَافَ النَّهَارِ لَعَلَّكَ تَرْضَىْ
+وَمِنۡ ءَانَاۤىِٕ ٱلَّیۡلِ فَسَبِّحۡ وَأَطۡرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرۡضَىٰ
 
 According to Al-Hassan, they used to exalt the eventide more than the first
 portion of the morning. According to one of the early men: They used to assign
@@ -34707,7 +34579,7 @@ Allah, Most Great, with Whose Praise (I exalt Him)." This is taken from Allah's
 saying. "so pray for forgiveness for your sin, and celebrate the Praises of your
 Lord in the evening and in the morning." (Ghafir 55)
 
-وَاسْتَغْفِرْ لِذَنْبِكَ وَسَبِّحْ يِحَمْدِ رَبِّكَ بِالْعَشِيِّ وَآلْإِنْكَرِ
+وَٱسۡتَغۡفِرۡ لِذَنۢبِكَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ بِٱلۡعَشِیِّ وَٱلۡإِبۡكَـٰرِ
 
 It is more desirable to pray for forgiveness by the same names which are in the
 Qur'an, such as: "I pray for Allah's Forgiveness: He is the One Who forgives
@@ -34726,11 +34598,11 @@ are the Most ready to forgive (sins)", and the like of that.
 Moreover, it is desirable to recite, before sunset, such Surahs as: "By the Sun
 and its (glorious) splendour" (Ash-Shams 1)
 
-وَالشَّمْسٍ وَضُحُنِهَا ِهُ
+وَٱلشَّمۡسِ وَضُحَىٰهَا
 
 "By the Night as it conceals (the light)" (Al-Lail 1)
 
-وَالَيْلِ إِذَا يَغْشَى
+وَٱلَّیۡلِ إِذَا یَغۡشَىٰ
 
 In addition to both Surahs of seeking refuge (with Allah from the evil of
 Satan). Let the sun set on one while he is engaged in his prayer for Allah's
@@ -34781,13 +34653,13 @@ to witness the ruddy glow of Sunset." (Al-Inshiqaq 16)
 
 
 
- فَلَّ أُقْسِمُ بِالشَّفَقِ
+فَلَاۤ أُقۡسِمُ بِٱلشَّفَقِ
 
 The prayer therein is a prayer in the rising by night, for it lies in its first
 portion. It is one of the parts (of the night) referred to by Allah in His statement:
 "yea, celebrate them for part of the hours of the night." (Taa-Haa 130)
 
-وَمِنْ ءَانَآَيٍ أَلَّيْلِ
+وَمِنۡ ءَانَاۤىِٕ ٱلَّیۡلِ
 
 The prayer therein also is the prayer of those who are devout in their service
 (to Allah Almighty), to whom Allah Almighty refers in His statement: " Their
@@ -34795,7 +34667,7 @@ limbs do forsake their beds of sleep, the while they call on their Lord, in Fear
 Hope." (As-Sajdah 16)
 
 
- تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ تَّمْ خَوْفًا وَطَمَعًا
+تَتَجَافَىٰ جُنُوبُهُمۡ عَنِ ٱلۡمَضَاجِعِ یَدۡعُونَ رَبَّهُمۡ خَوۡفࣰا وَطَمَعࣰا
 
 This is narrated on the authority of Al-Hassan, and attributed by Ibn Abu
 Ziyad to The Messenger of Allah "Allah's blessing and peace be upon him" that
@@ -34809,7 +34681,7 @@ hour intended by Allah's saying: " Their limbs do forsake their beds of sleep, t
 while they call on their Lord, in Fear and Hope." (As-Sajdah 16)
 
 
- تَتَجَافَىْ جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ تَُّمْ خَوْفًا وَطَمَعًا.
+تَتَجَافَىٰ جُنُوبُهُمۡ عَنِ ٱلۡمَضَاجِعِ یَدۡعُونَ رَبَّهُمۡ خَوۡفࣰا وَطَمَعࣰا
 
 However, the excellence of giving life to the period between both Evening
 prayers will be discussed later in the second chapter (of this book).
@@ -34831,7 +34703,7 @@ and the people go to bed. This is the first portion of the overwhelming darkness
 It is by this time that Allah Almighty swears in His saying: "and (by) The Night
 and its Homing" (Al-Inshiqaq 17)
 
-وَأَلَّيْلٍ وَمَا وَسَقَ
+وَٱلَّیۡلِ وَمَا وَسَقَ
 
 <!-- PageBreak -->
 
@@ -34842,7 +34714,7 @@ I.e. with its full darkness. Allah Almighty further says: "Establish regular
 prayers at the sun's decline till the darkness of the night." (Al-Isra' 78)
 
 
- أَقِمِ الصَّلَوةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اَلَيْلِ
+أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمۡسِ إِلَىٰ غَسَقِ ٱلَّیۡلِ
 
 At that time, it becomes very dark, to the extent that its darkness wholly
 covers up the universe.
@@ -35081,7 +34953,7 @@ by hunger, speak only when forced by necessity. For this reason, they were
 described as being "in the habit of sleeping but little by night." (Adh-Dhariyat 17)
 
 
- كَانُواْ قَلِيلاً مِنَ الَّيْلِ مَا يَهْجَعُونَ
+كَانُوا۟ قَلِیلࣰا مِّنَ ٱلَّیۡلِ مَا یَهۡجَعُونَ
 
 Moreover, if he is overpowered by slumber from prayer and celebration (of
 Allah's Praises), and comes to know not what he is saying, let him sleep until he
@@ -35140,10 +35012,7 @@ that is dead; in the beasts of all kinds that He scatters through the earth; in 
 change of the winds and the clouds which they trail like their slaves between the
 sky and the earth, (here) indeed are Signs for a people that are wise." (Al-Baqarah 163:164)
 
-وَإِلَهُكُمْ إِلَهٌ وَجِدٌ لَآ إِلَهَ إِلَّ هُوَ الرَّحْمَنُ الرَّحِيمُ إِنَّ فِى خَلْقِ السَّمَوَاتِ وَالْأَرْضِ
-وَاخْتِلَفِ الَّيْلِ وَالنَّهَارِ وَالْفُلْكِ اَلْتِى تَجْرِى فِى الْبَخْرِ بِمَا يَنفَعُ النَّاسَ وَمَآ أَنزَلَ الَهُ مِنَ السَّمَاءِ مِن مَّآءٍ فَأَحْيَا
-بِهِ آلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَابَّةٍ وَتَصْرِيفِ الرِّيَحِ وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَآءِ وَالأَرْضِ
-لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ
+وَإِلَـٰهُكُمۡ إِلَـٰهࣱ وَٰحِدࣱۖ لَّاۤ إِلَـٰهَ إِلَّا هُوَ ٱلرَّحۡمَـٰنُ ٱلرَّحِیمُ إِنَّ فِی خَلۡقِ ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضِ وَٱخۡتِلَـٰفِ ٱلَّیۡلِ وَٱلنَّهَارِ وَٱلۡفُلۡكِ ٱلَّتِی تَجۡرِی فِی ٱلۡبَحۡرِ بِمَا یَنفَعُ ٱلنَّاسَ وَمَاۤ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَاۤءِ مِن مَّاۤءࣲ فَأَحۡیَا بِهِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَا وَبَثَّ فِیهَا مِن كُلِّ دَاۤبَّةࣲ وَتَصۡرِیفِ ٱلرِّیَـٰحِ وَٱلسَّحَابِ ٱلۡمُسَخَّرِ بَیۡنَ ٱلسَّمَاۤءِ وَٱلۡأَرۡضِ لَـَٔایَـٰتࣲ لِّقَوۡمࣲ یَعۡقِلُونَ
 
 It is said that if one recites those Holy Verses, Allah Almighty helps him
 remain in the habit of keeping the Holy Qur'an, and he never forgets it. let him
@@ -35164,13 +35033,7 @@ beyond bounds. Do no mischief on the earth, after it has been set in order, but
 call on Him with fear and longing (in your hearts): for the Mercy of Allah is
 (always) near to those who do good." (Al-A'raf 54:56)
 
-إِنَّ رَبَّكُمُ اللَّهُ الَّذِى خَلَقَ السَّمَنْوَتِ وَآلْأَرْضَ فِى سِنَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ يُغْشِى أَّيْلَ النَّهَارَ يَطْلُبُهُ، حَئِينًا
-وَالشّمْسَ وَالْقَمّرَ وَالنُّجُومَ مُسْخَّرَتٍ بِأَثْرِةٌ أَلَا لَهُ الْخَلْقُ وَآلْأَثِرُ تَبَارَكَ اللَّهُ رَبُّ الْعَلَمِينَ آدْعُواْ رَنَّكُمْ تَضَرُّعًا
-
-وَخُفْيَّةً إِنَّهُ، لَا يُحِبُّ الْمُعْتَدِينَ وَلَا تُفْسِدُواْ فِى الأَرْضِ بَعْدَ إِصْلَحِهَا وَادْعُوهُ خَوْفًا وَطَمَعَاْ إِنَّ رَحْمَتَ اللَّهِ
-
-
- قَرِيبٌ مِنَ الْمُحْسِيِينَ
+إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِی خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضَ فِی سِتَّةِ أَیَّامࣲ ثُمَّ ٱسۡتَوَىٰ عَلَى ٱلۡعَرۡشِۖ یُغۡشِی ٱلَّیۡلَ ٱلنَّهَارَ یَطۡلُبُهُۥ حَثِیثࣰا وَٱلشَّمۡسَ وَٱلۡقَمَرَ وَٱلنُّجُومَ مُسَخَّرَٰتِۭ بِأَمۡرِهِۦۤۗ أَلَا لَهُ ٱلۡخَلۡقُ وَٱلۡأَمۡرُۗ تَبَارَكَ ٱللَّهُ رَبُّ ٱلۡعَـٰلَمِینَ ٱدۡعُوا۟ رَبَّكُمۡ تَضَرُّعࣰا وَخُفۡیَةًۚ إِنَّهُۥ لَا یُحِبُّ ٱلۡمُعۡتَدِینَ وَلَا تُفۡسِدُوا۟ فِی ٱلۡأَرۡضِ بَعۡدَ إِصۡلَـٰحِهَا وَٱدۡعُوهُ خَوۡفࣰا وَطَمَعًاۚ إِنَّ رَحۡمَتَ ٱللَّهِ قَرِیبࣱ مِّنَ ٱلۡمُحۡسِنِینَ
 
 Let him recite also the concluding two Verses of the Surah of Al-Isra': " Say:
 "Call upon Allah, or call upon Rahman: by whatever name you call upon Him, (it
@@ -35180,9 +35043,7 @@ be to Allah, Who begets no son, and has no partner in (His) dominion: nor
 (needs) He any to protect Him from humiliation: yea, glorify Him for His
 greatness and glory!"" (Al-Isra' 110:111)
 
-قُلِ آدَعُواْ اللَّهُ أَوِ ادْعُواْ الرَّحْمَنَّ أَيَا مَّا تَدْعُواْ فَلَهُ آلْأَسْمَاءُ الْحُسْنَىِّ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَابْتَغِ
-بَيْنَ ذَلِكَ سَبِيلاً إِنَّ وَقُلِ الْحَمْدُ لِلَّهِ الَّذِى لَمْ يَنَّخِذْ وَلَّدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِى الْمُلْكِ وَلَمْ يَكُن لَّهُ، وَإِىٌّ مِّنَ
-الذُّلِّ وَكْرُهُ تَكْبِيرًا
+قُلِ ٱدۡعُوا۟ ٱللَّهَ أَوِ ٱدۡعُوا۟ ٱلرَّحۡمَـٰنَۖ أَیࣰّا مَّا تَدۡعُوا۟ فَلَهُ ٱلۡأَسۡمَاۤءُ ٱلۡحُسۡنَىٰۚ وَلَا تَجۡهَرۡ بِصَلَاتِكَ وَلَا تُخَافِتۡ بِهَا وَٱبۡتَغِ بَیۡنَ ذَٰلِكَ سَبِیلࣰا وَقُلِ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِی لَمۡ یَتَّخِذۡ وَلَدࣰا وَلَمۡ یَكُن لَّهُۥ شَرِیكࣱ فِی ٱلۡمُلۡكِ وَلَمۡ یَكُن لَّهُۥ وَلِیࣱّ مِّنَ ٱلذُّلِّۖ وَكَبِّرۡهُ تَكۡبِیرَۢا
 
 If he does so, an angel enters into his covering, and is entrusted to safeguard
 him, and pray for Allah's Forgiveness for him. Let him recite both Surahs of
@@ -35204,8 +35065,7 @@ the decree of death, He keeps back (from returning to life), but the rest He sen
 (to their bodies) for a term appointed. Verily in this are Signs for those who
 reflect." (Az-Zumar 42)
 
-اللَّهُ يَتَوَلَى الْأَنْفُسَ حِينَ مَوْتِهَا وَالَِّى لَمْ تَّمُتْ فِى مَنَامِهَاً فَيُمْسِكُ الّتِى قَضَى عَلَيْهَا الْمَوْتَ وَيُرْسِلُ
-الْأُخْرَىّ إِلَّ أَجَلٍ مُسَمَّىَّ إِنَّ فِ ذَلِكَ لَيَاتٍ لِفَوْمٍ يَنَفَكَُّونَ
+ٱللَّهُ یَتَوَفَّى ٱلۡأَنفُسَ حِینَ مَوۡتِهَا وَٱلَّتِی لَمۡ تَمُتۡ فِی مَنَامِهَاۖ فَیُمۡسِكُ ٱلَّتِی قَضَىٰ عَلَیۡهَا ٱلۡمَوۡتَ وَیُرۡسِلُ ٱلۡأُخۡرَىٰۤ إِلَىٰۤ أَجَلࣲ مُّسَمًّىۚ إِنَّ فِی ذَٰلِكَ لَـَٔایَـٰتࣲ لِّقَوۡمࣲ یَتَفَكَّرُونَ
 
 <!-- PageBreak -->
 
@@ -35214,7 +35074,7 @@ reflect." (Az-Zumar 42)
 
 He further says: "It is He Who does take your souls by night." (Al-An'am 60)
 
-وَهُوَ الَّذِى يَتَوَفَّنِكُمْ بِأَلَّيْلِ
+وَهُوَ ٱلَّذِی یَتَوَفَّىٰكُم بِٱلَّیۡلِ
 
 He gives sleep the name of death. As well as several kinds of contemplation
 might be revealed to the wakeful which are not relevant to his state during sleep,
@@ -35279,7 +35139,7 @@ regular division which lies after the sun decline, i.e. at the middle of the day
 by that regular division that Allah Almighty swears in His saying: "And by the
 Night when it is still." (Ad-Duha 2)
 
-وَأَلَّيْلٍ إِذَا سَجَى إِنَّ!
+وَٱلَّیۡلِ إِذَا سَجَىٰ
 
 Its stillness refers to its quietness at that time, as there is no eye but that it is
 sleeping except for that of the Ever-Living, Self-Subsisting, Eternal, Eternal,
@@ -35393,7 +35253,7 @@ of the early dawn (i.e. a short time before dawn), to which Allah Almighty refer
 in His statement: " And in the hours of early dawn, they (were found) praying for
 Forgiveness." (Adh-Dhariyat 18)
 
-وَبِالْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ
+وَبِٱلۡأَسۡحَارِ هُمۡ یَسۡتَغۡفِرُونَ
 
 It is said that it means they offer prayer, for indeed prayer implies asking Allah
 for forgiveness. This time is very close to dawn, i.e. the time at which the night
@@ -35420,7 +35280,7 @@ offer a two-rak'ah prayer prior to Fajr. This is what is intended by Allah's
 statement: " And for part of the night also praise you Him, and at the retreat of
 the stars!" (At-Tur 49)
 
-وَمِنَ الَّيْلٍ فَسَيِّحْهُ وَإِذْبَرَ النُّجُومِ
+وَمِنَ ٱلَّیۡلِ فَسَبِّحۡهُ وَإِدۡبَـٰرَ ٱلنُّجُومِ
 
 Then, let him recite Allah's saying: "There is no god but He: that is the witness
 
@@ -35430,7 +35290,7 @@ Then, let him recite Allah's saying: "There is no god but He: that is the witnes
 of Allah, His angels, and those endued with knowledge, standing firm on justice.
 There is no god but He the Exalted in Power, the Wise." (Aal-e-Imran 18)
 
-شَهِدَ اللَّهُ أَنَّهُ لَآ إِلَهَ إِلَّا هُوَ وَالْمَلْفِكَةُ وَأُوْلُواْ الْعِلْمِ قَابِمًا بِالْقِسْطِ لَآ إِلَهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ
+شَهِدَ ٱللَّهُ أَنَّهُۥ لَاۤ إِلَـٰهَ إِلَّا هُوَ وَٱلۡمَلَـٰۤىِٕكَةُ وَأُو۟لُوا۟ ٱلۡعِلۡمِ قَاۤىِٕمَۢا بِٱلۡقِسۡطِۚ لَاۤ إِلَـٰهَ إِلَّا هُوَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ
 
 Once he finishes it he should say: "And I too bear the same witness as Allah
 Almighty bears to Himself, and the same witness of the angels and those endued
@@ -35771,13 +35631,12 @@ turn away from them and the things they worship other than Allah, betake
 yourselves to the Cave: your Lord will shower His mercies on you and dispose of
 your affair towards comfort and ease." (Al-Kahf 16)
 
-وَإِذْ اعْتَزَ لْتُمُوهُمْ وَمَا يَعْبُدُونَ إِلَّ اللَّهَ فَأُوُدّأْ إِلَى الْكَهْفِ يَنْشُرْ لَكُمْ رَبِّكُم مِّن رَّحْمَتِهِ، وَيُّهَبِئْ لَكُر
-مِّنْ أَمْرِكُم مِّرْفَقًّا
+وَإِذِ ٱعۡتَزَلۡتُمُوهُمۡ وَمَا یَعۡبُدُونَ إِلَّا ٱللَّهَ فَأۡوُۥۤا۟ إِلَى ٱلۡكَهۡفِ یَنشُرۡ لَكُمۡ رَبُّكُم مِّن رَّحۡمَتِهِۦ وَیُهَیِّئۡ لَكُم مِّنۡ أَمۡرِكُم مِّرۡفَقࣰا
 
 It is also to this state that the following statement of Allah refers: " He said: "I
 will go to my Lord! He will surely guide me!" (As-Saffat 99)
 
-وَقَالَ إِى ذَاهِبٌ إِلَى تَقِ سَهْدِينٍ:
+وَقَالَ إِنِّی ذَاهِبٌ إِلَىٰ رَبِّی سَیَهۡدِینِ
 
 This is the highest degree of the truly faithful believers, which could not be
 attained except after doing up the regular divisions with regularity for a long time.
@@ -35800,7 +35659,7 @@ but ways to (the Presence of) Allah Almighty. Allah Almighty says: " Say:
 "Everyone acts according to his own disposition: but your Lord knows best who
 it is that is best guided on the Way."" (Al-Isra' 84)
 
-قُلْ كُلِّ يَعْمَلُ عَلَى شَاكِلَتِهِ، فَرَبِّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَى سَبِيلاً
+قُلۡ كُلࣱّ یَعۡمَلُ عَلَىٰ شَاكِلَتِهِۦ فَرَبُّكُمۡ أَعۡلَمُ بِمَنۡ هُوَ أَهۡدَىٰ سَبِیلࣰا
 
 All of those (who follow such constitution of regular divisions) are guided,
 even though some are better guided than others. According to a certain narration:
@@ -35816,8 +35675,7 @@ Whatever different the people's ways of worship might be, all are on the right:
 Lord, even those who are nearest: they hope for His Mercy and fear His Wrath."
 (Al-Isra' 57)
 
-أُوْلَئِكَ الَّذِينَ يَدْعُونَ يَبْتَغُونَ إِلَى رَبِّهِمُ الْوَسِيلَةَ أَيُمْ أَقْرَبُ وَيَرْجُونَ رَحْمَتَهُ، وَخَافُونَ عَذَابَهُنَّ
-إِنَّ عَذَابَ رَبِّكَ كَانَ تَحْذُورًا
+أُو۟لَـٰۤىِٕكَ ٱلَّذِینَ یَدۡعُونَ یَبۡتَغُونَ إِلَىٰ رَبِّهِمُ ٱلۡوَسِیلَةَ أَیُّهُمۡ أَقۡرَبُ وَیَرۡجُونَ رَحۡمَتَهُۥ وَیَخَافُونَ عَذَابَهُۥۤۚ إِنَّ عَذَابَ رَبِّكَ كَانَ مَحۡذُورࣰا
 
 They are really different only in the degree of nearness, and not in its
 foundation. The nearest among them to Allah Almighty is the one who has the
@@ -35929,10 +35787,7 @@ in the change of the winds and the clouds which they trail like their slaves
 between the sky and the earth, (here) indeed are Signs for a people that are wise"
 (Al-Baqarah 163:164)
 
-وَإِلْكُمْ إِلَهٌ وَجِدٌ لَّ إِلَهَ إِلَّا هُوَ الرَّحْمَنُ الرَّحِيمُ إِنَّ فِى خَلْقِ السَّمْوَاتِ وَالْأَرْضِ
-وَاخْتَلَفِ اَلَّيْلِ وَالنَّهَارِ وَالْقُلْكِ الَّتِى تَجْرِى فِى الْبَحْرِ بِمَا يَنفَعُ النَّاسَ وَمَآ أَنزَلَ اللَّهُ مِنَ السَّمَاءِ مِن مَّاءٍ فَأَحْيَا
-بِ الْأَرْضِرَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلّ دَابَّةٍ وَتَصْرِيفِ الْرِّيَحِ وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَاءِ وَالأَرْضِ
-لَأَيْتِ لِقَوْمٍ يَعْقِلُونَ ــ
+وَإِلَـٰهُكُمۡ إِلَـٰهࣱ وَٰحِدࣱۖ لَّاۤ إِلَـٰهَ إِلَّا هُوَ ٱلرَّحۡمَـٰنُ ٱلرَّحِیمُ إِنَّ فِی خَلۡقِ ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضِ وَٱخۡتِلَـٰفِ ٱلَّیۡلِ وَٱلنَّهَارِ وَٱلۡفُلۡكِ ٱلَّتِی تَجۡرِی فِی ٱلۡبَحۡرِ بِمَا یَنفَعُ ٱلنَّاسَ وَمَاۤ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَاۤءِ مِن مَّاۤءࣲ فَأَحۡیَا بِهِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَا وَبَثَّ فِیهَا مِن كُلِّ دَاۤبَّةࣲ وَتَصۡرِیفِ ٱلرِّیَـٰحِ وَٱلسَّحَابِ ٱلۡمُسَخَّرِ بَیۡنَ ٱلسَّمَاۤءِ وَٱلۡأَرۡضِ لَـَٔایَـٰتࣲ لِّقَوۡمࣲ یَعۡقِلُونَ
 
 And: "Say: He is Allah, the One and Only" fifteen times, and then he
 performs bowing and (two prostrations) after which he stands and recite in the
@@ -35945,12 +35800,12 @@ to Allah's saying: "They will be Companions of the Fire, to dwell therein
 <!-- PageNumber="674" -->
 
 
-أُوْلَبِكَ أَصْحَبُ النَّارِ هُمْ فِيهَا خَلِدُونَّ الَّهُ
+أُو۟لَـٰۤىِٕكَ أَصۡحَـٰبُ ٱلنَّارِۖ هُمۡ فِیهَا خَـٰلِدُونَ
 
 The three concluding Holy Verses of Al-Baqarah, i.e. from Allah's saying: "To
 Allah belongs all that is in the heavens and on earth" (Al-Baqarah 284)
 
-لِلَّهِ مَا فِي السَّمْنَوَتِ وَمَا فِى الْأَرْضُ =
+لِّلَّهِ مَا فِی ٱلسَّمَـٰوَٰتِ وَمَا فِی ٱلۡأَرۡضِۗ
 
 Up to the end, and: "Say: He is Allah, the One and Only" fifteen times ... "he
 receives as much reward as is beyond calculation as described in the narration.
@@ -36018,7 +35873,7 @@ is in connection with it that Allah's saying was revealed: " Their limbs do
 forsake their beds of sleep, the while they call on their Lord, in Fear and
 Hope." (As-Sajdah 16)
 
-تَتَجَاقَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَّمْ خَوْفًا وَطَمْعًا رِقٌ
+تَتَجَافَىٰ جُنُوبُهُمۡ عَنِ ٱلۡمَضَاجِعِ یَدۡعُونَ رَبَّهُمۡ خَوۡفࣰا وَطَمَعࣰا وَمِمَّا رَزَقۡنَـٰهُمۡ یُنفِقُونَ
 
 It is narrated that Ahmad Ibn Abu Al-Hawari said: I asked Abu Sulaiman Ad-
 Darani: "Is it dearer in your sight that I observe fast by day and have my meal in
@@ -36046,47 +35901,35 @@ Loan. And whatever good you send forth for your souls, you shall find it in
 Allah's Presence, yea, better and greater, in Reward, and seek you the Grace of
 Allah: for Allah is Oft-Forgiving, Most Merciful." (Al-Muzzammil 20)
 
-إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أُدْنَى مِن تُلْنَى الَّيْلِ وَنِصْفَهُ وَثُلْنَهُ, وَطَآَبِفَةٌ مِّنَ الَّذِينَ مَعَكَّ وَاللَّهُ يُقَدِّرُ الَّيَلَ
-وَالنَّهَارُّ عَلِمْ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَاقْرَءُ واْ مَا تَسَّرَ مِنَ الْقُرْءَانِ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَى
-
-<!-- PageBreak -->
-
-<!-- PageNumber="676" -->
-
-
-وَءَاخَرُونَ يَضْرِبُونَ فِى الْأَرْضِ يَبْتَغُونَ مِن فَضْلِ اللَّهِ وَءَاخَرُونَ يُقَتِلُونَ فِى سَبِيلِ اللَّهِ فَاقْرَءُواْ مَا تَسَّرَ مِنْهٌ
-وَأَقِيمُوا الصَّلَوَةَ وَءَاتُواْ الزَّكَوَةَ وَأَقْرِضُواْ اللَّهَ فَرْضًا حَسَنَاْ وَمَا تُقَدِّمُواْ لأَنفُسِكُم مِنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ هُوَ
-
-خَيْرًا وَأَعْظَمَ أَجْرَأْ وَاسْتَغْفِرُواْ اللَّهَ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ
+۞ إِنَّ رَبَّكَ یَعۡلَمُ أَنَّكَ تَقُومُ أَدۡنَىٰ مِن ثُلُثَیِ ٱلَّیۡلِ وَنِصۡفَهُۥ وَثُلُثَهُۥ وَطَاۤىِٕفَةࣱ مِّنَ ٱلَّذِینَ مَعَكَۚ وَٱللَّهُ یُقَدِّرُ ٱلَّیۡلَ وَٱلنَّهَارَۚ عَلِمَ أَن لَّن تُحۡصُوهُ فَتَابَ عَلَیۡكُمۡۖ فَٱقۡرَءُوا۟ مَا تَیَسَّرَ مِنَ ٱلۡقُرۡءَانِۚ عَلِمَ أَن سَیَكُونُ مِنكُم مَّرۡضَىٰ وَءَاخَرُونَ یَضۡرِبُونَ فِی ٱلۡأَرۡضِ یَبۡتَغُونَ مِن فَضۡلِ ٱللَّهِ وَءَاخَرُونَ یُقَـٰتِلُونَ فِی سَبِیلِ ٱللَّهِۖ فَٱقۡرَءُوا۟ مَا تَیَسَّرَ مِنۡهُۚ وَأَقِیمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقۡرِضُوا۟ ٱللَّهَ قَرۡضًا حَسَنࣰاۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنۡ خَیۡرࣲ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَیۡرࣰا وَأَعۡظَمَ أَجۡرࣰاۚ وَٱسۡتَغۡفِرُوا۟ ٱللَّهَۖ إِنَّ ٱللَّهَ غَفُورࣱ رَّحِیمُۢ
 
 He further says in the same Surah: "Truly the rising by night is most potent
 for governing (the soul), and most suitable for (framing) the Word (of Prayer and
 Praise)." (Al-Muzzammil 6)
 
-إِنَّ نَاشِئَةَ آلَّيْلِ هِىَ أَشَدُّ وَظًّا وَأَقْوَمُ قِيلاً
+إِنَّ نَاشِئَةَ ٱلَّیۡلِ هِیَ أَشَدُّ وَطۡـࣰٔا وَأَقۡوَمُ قِیلًا
 
 He also says: " Their limbs do forsake their beds of sleep, the while they call
 on their Lord, in Fear and Hope." (As-Sajdah 16)
 
-تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رََّّمْ خَوْفًا وَطَمَعًا
+تَتَجَافَىٰ جُنُوبُهُمۡ عَنِ ٱلۡمَضَاجِعِ یَدۡعُونَ رَبَّهُمۡ خَوۡفࣰا وَطَمَعࣰا
 
 He Almighty says too: "Is one who worships devoutly during the hours of the
 night prostrating himself or standing (in adoration), who takes heed of the
 Hereafter, and who places his hope in the Mercy of his Lord, (like one who does
 not)?" (Az-Zumar 9)
 
-أَمَّنْ هُوَ قَنِتْ ءَانَآءَ الَّيْلِ سَاجِدًا وَقَائِمًا تَحْذَرُ الْآَخِرَةَ وَيَرْجُواْ رَحْمَةَ رَبِهِ قُلْ هَلْ يَسْتَوِى الَّذِينَ يَعْلَمُونَ
-وَالَّذِينَ لَا يَعْلَمُونَ إِنَّمَا يَتَذَكَّرُ أُوْلُواْ الْأَلْبْبِ
+أَمَّنۡ هُوَ قَـٰنِتٌ ءَانَاۤءَ ٱلَّیۡلِ سَاجِدࣰا وَقَاۤىِٕمࣰا یَحۡذَرُ ٱلۡـَٔاخِرَةَ وَیَرۡجُوا۟ رَحۡمَةَ رَبِّهِۦۗ قُلۡ هَلۡ یَسۡتَوِی ٱلَّذِینَ یَعۡلَمُونَ وَٱلَّذِینَ لَا یَعۡلَمُونَۗ إِنَّمَا یَتَذَكَّرُ أُو۟لُوا۟ ٱلۡأَلۡبَـٰبِ
 
 Allah Almighty further says in this respect: "Those who spend the night in
 adoration of their Lord prostrate and standing." (Al-Furqan 64)
 
-وَالَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًا وَقِيَئِمًّا
+وَٱلَّذِینَ یَبِیتُونَ لِرَبِّهِمۡ سُجَّدࣰا وَقِیَـٰمࣰا
 
 Allah also says: "Nay, seek (Allah's) help with patient perseverance and prayer: it is
 indeed hard, except to those who bring a lowly spirit." (Al-Baqarah 45)
 
-وَاسْتَعِينُواْ بِالصَّبْرِ وَالصَّلَوْةِ وَإِنَّهَا لَكَبِيرَةُ إِلَّا عَلَى الْخَشِعِينَ
+وَٱسۡتَعِینُوا۟ بِٱلصَّبۡرِ وَٱلصَّلَوٰةِۚ وَإِنَّهَا لَكَبِیرَةٌ إِلَّا عَلَى ٱلۡخَـٰشِعِینَ
 
 It is said that this refers to the standing at night (in adoration), with the patient
 perseverance on which Allah's Help is sought for self-mortification.
@@ -36139,7 +35982,7 @@ more (blessings and favours). Allah Almighty says (in confirmation to that): "An
 remember! your Lord caused to be declared (publicly): "If you are grateful, I will
 add more (blessings and favours) unto you." (Abraham 7)
 
-وَإِذْ تَأَذَّنَ رَبُّكُمْ لَبِن شَكَرْتُمْ لأَزِيدَنَّكُمْ وَلَبِن كَفَرُمْ إِنَّ عَذَارِى لَشَدِيدٌ
+وَإِذۡ تَأَذَّنَ رَبُّكُمۡ لَىِٕن شَكَرۡتُمۡ لَأَزِیدَنَّكُمۡۖ وَلَىِٕن كَفَرۡتُمۡ إِنَّ عَذَابِی لَشَدِیدࣱ
 
 It is further narrated (on the authority of Abu Hurairah) that Allah's Apostle"
 Allah's blessing and peace be upon him" said to him: "O Abu Hurairah! If you
@@ -36326,8 +36169,7 @@ that they make." (Al-Jathiyah 21)
 <!-- PageNumber="681" -->
 <!-- PageHeader="Book Ten: the constitution of Regular Divisions" -->
 
-أُمّ حَسِبَ الَّذِينَ اجْتُرَحُواْ السَّئَاتِ أَن تَّجْعَلَهُمْ كَلَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّلِحَنتِ سَوَاءَ تَّحْيَاهُمْ
-وَمَمْاْتُمْ سَآءَ مَا تَحْكُمُونَ
+أَمۡ حَسِبَ ٱلَّذِینَ ٱجۡتَرَحُوا۟ ٱلسَّیِّـَٔاتِ أَن نَّجۡعَلَهُمۡ كَٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَوَاۤءࣰ مَّحۡیَاهُمۡ وَمَمَاتُهُمۡۚ سَاۤءَ مَا یَحۡكُمُونَ
 
 Al-Mughirah Ibn Habib said: I caught glimpse of Malik Ibn Dinar who
 performed ablution after Isha' prayer, and went to his praying place, and gripped
@@ -36819,13 +36661,13 @@ of the same Surah Al-Muzzammil: " Your Lord does know that you stand
 forth (to prayer) nigh two-thirds of the night, or half the night, or a third of the
 night, and so does a party of those with you." (Al-Muzzammil 20)
 
-إِنَّ رَبَّكَ يَعْلَمْ أَنَّكَ تَقُومُ أَدْنَى مِن ثُلُثَى الَّيْلِ وَنِصْفَدُ، وَثُلُثَهُ، وَطَابِفَةٌ مِنَ الَّذِينَ مَعَكَ جٍ
+إِنَّ رَبَّكَ یَعۡلَمُ أَنَّكَ تَقُومُ أَدۡنَىٰ مِن ثُلُثَیِ ٱلَّیۡلِ وَنِصۡفَهُۥ وَثُلُثَهُۥ وَطَاۤىِٕفَةࣱ مِّنَ ٱلَّذِینَ مَعَكَۚ
 
 His phrase ' nigh two-thirds of the night' refers to its half, and half the
 sixth besides. Consider also His saying in the same Surah: " Stand (to prayer)
 by night, but not all night, Half of it, or a little less, Or a little more." (Al-Muzzammil 2:3)
 
-قُمِ الَّيْلَ إِلَّا قَلِيلاً: نَصْفَهُ أَوٍ آنقُصْ مِنْهُ قَلِيلاً
+قُمِ ٱلَّیۡلَ إِلَّا قَلِیلࣰا نِّصۡفَهُۥۤ أَوِ ٱنقُصۡ مِنۡهُ قَلِیلًا
 
 The little less (than the half) refers to one-third, and even one-fourth, whereas
 the more than the half refers to its two-thirds (as confirmed by the phrase ' nigh
@@ -36843,10 +36685,7 @@ You! Give us salvation from the Penalty of the Fire ... Our Lord! Grant us what
 You did promise unto us through Your Messengers, and save us from shame
 on the Day of Judgment; for You never break Your promise." (Aal-e-Imran 191:194)
 
-رَبَّنَا مَا خَلَقْتَ هَنذَا بَطِلًا سُبْحَنَّكَ فَقِنَا عَذَابَ النَّارِ - رَبَّنَا إِنَّكَ مَن تُدْخِلِ النَّارَ فَقَدْ أَخْزَيْتَهُ، وَمَا
-لِلظَّلِمِينَ مِنْ أَنصَارٍ الشّ رَّتَّنَا إِنَّا سَمِعْنَا مُنَادِيًّا يُنَادِى لِلْإِيمَنْنِ أَنْ ءَامِنُواْ بِرَبِّكُمْ فَامَنَاْ رَبَّنَا فَأَغْفِرْ لَنَا
-ذُنُوبَنَا وَكَفِرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْأَبْرَارِ= رَبَّنَا وَءَاتِنَا مَا وَعَدَثَّنَا عَلَى رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ الْقِيْمَةُ
-إِنَّكَ لَا تُخْلِفُ المِيعَادَ يَِّ
+ٱلَّذِینَ یَذۡكُرُونَ ٱللَّهَ قِیَـٰمࣰا وَقُعُودࣰا وَعَلَىٰ جُنُوبِهِمۡ وَیَتَفَكَّرُونَ فِی خَلۡقِ ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضِ رَبَّنَا مَا خَلَقۡتَ هَـٰذَا بَـٰطِلࣰا سُبۡحَـٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ رَبَّنَاۤ إِنَّكَ مَن تُدۡخِلِ ٱلنَّارَ فَقَدۡ أَخۡزَیۡتَهُۥۖ وَمَا لِلظَّـٰلِمِینَ مِنۡ أَنصَارࣲ رَّبَّنَاۤ إِنَّنَا سَمِعۡنَا مُنَادِیࣰا یُنَادِی لِلۡإِیمَـٰنِ أَنۡ ءَامِنُوا۟ بِرَبِّكُمۡ فَـَٔامَنَّاۚ رَبَّنَا فَٱغۡفِرۡ لَنَا ذُنُوبَنَا وَكَفِّرۡ عَنَّا سَیِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلۡأَبۡرَارِ رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخۡزِنَا یَوۡمَ ٱلۡقِیَـٰمَةِۖ إِنَّكَ لَا تُخۡلِفُ ٱلۡمِیعَادَ
 
 He then drew a toothpick from his bed therewith eh brushed his teeth, and he
 performed ablution and kept offering prayer for a long time that I said (to
