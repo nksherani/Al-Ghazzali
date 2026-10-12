@@ -214,3 +214,23 @@ uv run python fix_quran_references_and_text.py
   uv lock
   ```
 
+
+
+## Next.js Static Web Reader (`web/`)
+
+A static web reader (SSG) built with **Next.js (App Router)** and **Tailwind CSS** to render the structured Volume 1 JSON as an interactive web book.
+
+### Key Features
+- **100% Static HTML Export**: Builds to `web/out/` with zero backend server dependencies; deployable to GitHub Pages, Cloudflare Pages, Vercel, or AWS S3.
+- **Hierarchical Reading Experience**: Pre-rendered routes for Prelude, Books 1 to 10, Chapters, Parts, and sub-sections with instant page transitions.
+- **Classical Islamic Typography**: Automatic RTL detection and distinct callout styling for authentic Arabic Quranic verses (Uthmani script) and Hadith citations.
+- **Reader Controls**: Independent font scaling (`A-` / `A+`) and 3 reading themes (Light Paper, Warm Sepia, OLED Dark) saved in `localStorage`.
+- **Responsive Navigation**: Collapsible Table of Contents sidebar and next/previous chapter footers.
+
+### Running Locally
+```bash
+cd web
+npm install
+npm run dev        # Development server on http://localhost:3000
+npm run build      # Pre-renders all 47 pages and outputs static HTML to web/out/
+```

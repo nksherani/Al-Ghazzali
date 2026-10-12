@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-serif: "Amiri", "Georgia", "Cambria", serif;
+  --font-arabic: "Amiri", "Scheherazade New", "Traditional Arabic", serif;
+}
+
+/* Light Theme (Default) */
+html[data-theme="light"] {
+  --bg-primary: #fcfbf9;
+  --bg-secondary: #f4efe6;
+  --bg-card: #ffffff;
+  --border-color: #e5ded3;
+  --text-primary: #1c1917;
+  --text-secondary: #57534e;
+  --text-muted: #857f77;
+  --accent-gold: #9a6700;
+  --accent-gold-bg: #fffbeb;
+  --arabic-bg: #f7f3ea;
+  --arabic-border: #d5c7b0;
+  --sidebar-bg: #f7f3ec;
+}
+
+/* Warm Sepia Theme (Classic Book) */
+html[data-theme="sepia"] {
+  --bg-primary: #f5eedf;
+  --bg-secondary: #ebdcc6;
+  --bg-card: #faf5eb;
+  --border-color: #d8c7ac;
+  --text-primary: #2d2419;
+  --text-secondary: #5c4e3b;
+  --text-muted: #8a7a63;
+  --accent-gold: #8f5b00;
+  --accent-gold-bg: #f5e4c4;
+  --arabic-bg: #eddcc2;
+  --arabic-border: #c9b493;
+  --sidebar-bg: #ebe0cd;
+}
+
+/* OLED Dark Theme */
+html[data-theme="dark"] {
+  --bg-primary: #0f1012;
+  --bg-secondary: #17191d;
+  --bg-card: #1c1e24;
+  --border-color: #2b2e37;
+  --text-primary: #ececf1;
+  --text-secondary: #a6adba;
+  --text-muted: #6b7280;
+  --accent-gold: #d4a347;
+  --accent-gold-bg: #272218;
+  --arabic-bg: #1e2027;
+  --arabic-border: #3c382b;
+  --sidebar-bg: #14161a;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  transition: background-color 0.25s ease, color 0.25s ease;
+  font-family: var(--font-serif);
+}
+
+.arabic-text {
+  font-family: var(--font-arabic);
+  direction: rtl;
+  text-align: right;
+  line-height: 2.2;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-secondary);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-gold);
+}
