@@ -185,15 +185,9 @@ ISBN 2 -7451-5945.3
 <!-- PageBreak -->
 
 
-# IN THE NAME OF ALLAH, MOST GRACIOUS, MOST MERCIFUL REVIVAL OF RELIGIOUS SCIENCES
-
-
-<figure>
-
-Prelude
-
-</figure>
-
+IN THE NAME OF ALLAH, MOST GRACIOUS, MOST MERCIFUL 
+REVIVAL OF RELIGIOUS SCIENCES
+# Prelude
 
 Firstly, I begin with the praise of Allah Almighty, even though our praise is
 quite insufficient and too little to be compared with His real glory. Secondly, I
@@ -435,17 +429,11 @@ verily, He is Most Generous, All-Bounteous.
 <!-- PageBreak -->
 
 
-<figure>
-
-<!-- PageHeader="Book One: Knowledge" -->
-
-</figure>
+# Book One: Knowledge
+# CHAPTER ONE: ON THE EXCELLENCE OF KNOWLEDGE, TEACHING AND LEARNING
 
 
-## CHAPTER ONE: ON THE EXCELLENCE OF KNOWLEDGE, TEACHING AND LEARNING
-
-
-### The Virtue Of Knowledge
+## The Virtue Of Knowledge
 
 Its proofs from the Holy Qur'an go as follows:
 
@@ -455,7 +443,7 @@ Exalted in Power, the Wise." (Al Imran 18)
 
 ﴿شَهِدَ آللَّهُ أَنَّهُ، لَآ إِلَهَ إِلَّ هُوَ وَالْمَلْتِكَةُ وَأُوْلُواْ الْعِلْمِ قَائِمًا بِالْقِسْطِ لَآ إِلَهَ إِلَّا
 
-هُوَ الْعَزِيزُ اَلْحَكِيمُ (2ٍ﴾﴾
+هُوَ الْعَزِيزُ اَلْحَكِيمُ 
 
 Consider how he Almighty begins with Himself, and makes the angels rank
 second to Him (as far as such witness is concerned), and the men of knowledge
@@ -466,7 +454,7 @@ Allah Almighty says also: "Allah will raise up, to (suitable) ranks (and
 degrees), those of you who believe and who have been granted Knowledge."
 (Al-Mujadilah 11)
 
-﴿ يَرْفَعِ اللّهُ الَّذِينَ ءَامَنُواْ مِنكُمْ وَلَّذِينَ أُوتُواْ الْعِلْمَ دَرَجَاتٍ وَالَهُ بِمَا تَعْمَلُونَ خَبِيرٌ يَ﴾﴾
+ يَرْفَعِ اللّهُ الَّذِينَ ءَامَنُواْ مِنكُمْ وَلَّذِينَ أُوتُواْ الْعِلْمَ دَرَجَاتٍ وَالَهُ بِمَا تَعْمَلُونَ خَبِيرٌ يَ
 
 In this respect, it is narrated on the authority of Ibn Abbas that he said: "The
 men of knowledge have as much as seven hundred degrees higher than the
@@ -495,7 +483,7 @@ of the Book: 'I'm ready to bring it (the throne of Sheba) to you""; (An-Naml 40)
 <!-- PageBreak -->
 
 <!-- PageNumber="10" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 ﴿قَالَ الَّذِى عِندَهُ عِلْمٌ مِّنَ الْكِتَبِ أَنَاْءَاتِيكَ بِهِ، قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ .
 
@@ -558,10 +546,10 @@ Rahman 3:4)
 <!-- PageBreak -->
 
 <!-- PageNumber="11" -->
-<!-- PageHeader="Book One: Knowledge" -->
 
 
-## ﴿خَلَقَ الْإِنْسَنَ (٤) عَلَّمَهُ الْبَيَانَ (®)﴾
+
+ ﴿خَلَقَ الْإِنْسَنَ (٤) عَلَّمَهُ الْبَيَانَ (®)﴾
 
 He Almighty makes a mention of that on the occasion of reminding him of
 such of blessings as He has bestowed upon him.
@@ -617,7 +605,7 @@ need for him."
 <!-- PageBreak -->
 
 <!-- PageNumber="12" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 Messenger of Allah "Peace be upon him" said: "Faith is naked, since its raiment is
 righteousness, its splendid vesture is shyness (refraining from committing
@@ -677,8 +665,6 @@ Messenger of Allah "Peace be upon him" said: "No doubt, the learned one is the
 
 <!-- PageNumber="13" -->
 
-Book One: Knowledge
-
 trustees of Allah Almighty on earth."
 
 (It is narrated by Ibn Abd Al-Barr and Abu Na'im on the authority of Ibn
@@ -735,7 +721,7 @@ been given seventy degrees superior to the only worshipping believer."
 <!-- PageBreak -->
 
 <!-- PageNumber="14" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 (It is narrated by At-Tabarani on the authority of Hizam Ibn Hakim that) The
 Messenger of Allah "Peace be upon him" said: "You've come to live in a time,
@@ -793,7 +779,7 @@ verses: "Let the men of knowledge be proud of being the guides for anyone
 <!-- PageBreak -->
 
 <!-- PageNumber="15" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 who seeks the right guidance. Everyone is estimated by what he is able to do
 perfectly, since the ignorant are always the traditional enemies of the learned
@@ -848,9 +834,8 @@ hinders the sense of injury pain at once, even though it does not remove it. But
 when the moment of death comes to take away from him the burdens of life, he
 
 <!-- PageBreak -->
+<!-- PageNumber="16" -->
 
-16
-The quarter of the acts of worship
 feels he will be ruined, which causes him to regret in sigh (for what he has done),
 even though it will avail him not. His sense is like the sense of fear which the safe
 one entertains, or the sense of the injury pain which one might come to feel after
@@ -911,7 +896,7 @@ Al-Ahnaf "Allah's Mercy be upon him" said: "The learned men are about to
 
 <!-- PageNumber="17" -->
 
-Book One: Knowledge
+
 
 become chiefs; and every power that is not supported by knowledge should
 inevitably be put to humiliation."
@@ -975,7 +960,7 @@ Messenger of Allah "Peace be upon him" said: "To go early in the morning to
 
 <!-- PageNumber="18" -->
 
-The quarter of the acts of worship
+
 learn even a chapter of knowledge is much better for you than to pray one
 hundred rak'ahs."
 
@@ -1032,8 +1017,6 @@ knowledge, even though he does not seek after it."
 <!-- PageBreak -->
 
 <!-- PageNumber="19" -->
-
-Book One: Knowledge
 
 Abu Ad-Darda' "Allah be pleased with him" said: "To learn even a single
 question is much dearer to me than to stand for a whole night (to offer
@@ -1095,7 +1078,7 @@ of knowledge with (any branch of portion of) knowledge but that He takes from
 
 <!-- PageNumber="20" -->
 
-The quarter of the acts of worship
+
 him the same covenant He takes from the Prophets to show it to the people, and
 conceal it not."
 
@@ -1155,7 +1138,7 @@ ignorant chiefs, who give verdicts with no knowledge whenever they are asked,
 
 <!-- PageNumber="21" -->
 
-Book One: Knowledge
+
 
 with the result that they will go astray and mislead (the people)."
 
@@ -1215,7 +1198,7 @@ here for one who gets benefit from his knowledge, and second for one who
 
 <!-- PageNumber="22" -->
 
-The quarter of the acts of worship
+
 benefits the others with his knowledge, and the third for one who is deprived of
 it.
 
@@ -1278,7 +1261,7 @@ It is narrated that Yahya Ibn Mu'adh said: "The men of knowledge are more
 <!-- PageBreak -->
 
 <!-- PageNumber="23" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 merciful to the (members of the) nation of Muhammad than their parents are." It
 was said: "How is that?" he said: "That's for the parents safeguard them from the
@@ -1333,7 +1316,7 @@ astray (from the truth) who covets to know whether so and so is a wise man,
 <!-- PageBreak -->
 
 <!-- PageNumber="24" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 even though he does not know what wisdom really means.
 
@@ -1389,7 +1372,7 @@ Knowledge is the origin of happiness in both the world and the hereafter, and
 <!-- PageBreak -->
 
 <!-- PageNumber="25" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 in this way, it is the most honourable deed, and why is it not so since the
 excellence of a thing could be known by the honour of its fruit; and you know
@@ -1447,7 +1430,7 @@ the nails, the fingers, and both eyebrows.
 <!-- PageBreak -->
 
 <!-- PageNumber="26" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 The best and most honourable of those industries are the fundaments, and the
 best and most honourable of those fundaments is the politics, with its seeking
@@ -1509,9 +1492,6 @@ also clear, since the tutor disposes of the hearts, minds and spirits of the peo
 
 <!-- PageNumber="27" -->
 
-
-### Book One: Knowledge
-
 To be sure, mankind is the most honourable among the inhabitants of the earth,
 and his heart is the most honourable of his components; and the tutor is
 occupied by educating, polishing, purifying and driving it to become much closer
@@ -1531,7 +1511,8 @@ with His Generosity; and Allah's Blessing and Peace be upon every servant
 chosen (by Allah).
 
 
-# CHAPTER TWO: ON THE PRAISEWORTHY AND BLAMEWORTHY KNOWLEDGE: THEIR DIVISIONS AND COMMANDMENTS The Knowledge Whose Learning Is An Obligatory Duty (Upon Everyone)
+# CHAPTER TWO: ON THE PRAISEWORTHY AND BLAMEWORTHY KNOWLEDGE: THEIR DIVISIONS AND COMMANDMENTS 
+## The Knowledge Whose Learning Is An Obligatory Duty (Upon Everyone)
 
 It is narrated that The Messenger of Allah "Peace be upon him" said: "Seeking
 for knowledge is an obligation due upon every Muslim." It is also narrated that
@@ -1566,7 +1547,7 @@ Others say that it is the knowledge of the inward, and thus, it is due only upon
 
 <!-- PageNumber="28" -->
 
-The quarter of the acts of worship
+
 confidential people in particular, who are its real men; and in this way, they divert
 the term from its general meaning.
 
@@ -1621,7 +1602,7 @@ he is occupied by learning, the due time would be over, it then might be said:
 
 <!-- PageNumber="29" -->
 
-Book One: Knowledge
+
 
 before the due time'; and it also might be said: 'The obligation of learning which
 is requisite for doing the deed perfectly ranks second to the obligation of doing
@@ -1678,7 +1659,7 @@ As to beliefs and deeds of minds and hearts, he should learn that in
 
 <!-- PageNumber="30" -->
 
-The quarter of the acts of worship
+
 accordance with the different thoughts that come about in his mind: if suspicion
 rouses in him about the meaning of both statements of testimony (that there is
 no god but Allah and that Muhammad is the Messenger of Allah), he should, at
@@ -1735,7 +1716,7 @@ unless he has just been converted from a religion to another, is the faith in th
 
 <!-- PageNumber="31" -->
 
-Book One: Knowledge
+
 
 Garden and the fire (of Hell), and the mustering and resurrection (on the Day of
 Judgement) so that his trust in them would be affirmed. Such (faith) is integral to
@@ -1793,7 +1774,7 @@ collective duty, for it a town has no cuppers, destruction will hasten to befall
 
 <!-- PageNumber="32" -->
 
-The quarter of the acts of worship
+
 its people, who will be put to critical situation by becoming victims of ruin.
 Of a surety, He, who has created the ailment, has created its medicine, and
 guided the people to the way of using it, and the causes of having it. For this
@@ -1852,7 +1833,7 @@ The first kind is concerned with the matters and affairs of this world, and it i
 
 <!-- PageNumber="33" -->
 
-Book One: Knowledge
+
 
 implied in the books of religious jurisprudence, and it is the jurists, the learned
 men of this world, who undertake it.
@@ -1910,7 +1891,7 @@ the wombs (of women) from which (He brought them out) to the world, from
 <!-- PageBreak -->
 
 34
-The quarter of the acts of worship
+
 which (He caused them to die and go) to the graves, from which (they would go)
 to the place of demonstration (before Him on the Day of Judgement) from
 which (they would go) either to the Garden or to the fire.
@@ -1966,7 +1947,7 @@ undertake this task with no need (nor command from the ruler to do so).
 <!-- PageBreak -->
 
 <!-- PageNumber="35" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 The holy companions (of the Prophet) "Allah be pleased with them" used to
 be careful of giving religious verdicts, to the extent that each of them used to
@@ -2022,7 +2003,7 @@ their blood and property (except legally, i.e. with just cause)." He thus made t
 <!-- PageBreak -->
 
 <!-- PageNumber="36" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 effect of that in both blood and property.
 
@@ -2082,7 +2063,7 @@ no suspicion in you." The Messenger of Allah "Peace be upon him" further said
 
 <!-- PageNumber="37" -->
 
-Book One: Knowledge
+
 
 (sufficient for) a sin to have doubt in the hearts (as to what is done)."
 
@@ -2141,7 +2122,7 @@ since medicine deals with the world, as far as the health of the body is concern
 
 <!-- PageNumber="38" -->
 
-The quarter of the acts of worship
+
 to which the validity of the religion is related, even though this equality stands
 against the unanimity of Muslims?
 
@@ -2202,7 +2183,7 @@ is a light which shines in the heart once it is purified and cleansed from such 
 
 <!-- PageNumber="39" -->
 
-Book One: Knowledge
+
 
 blameworthy characteristics as it has.
 
@@ -2258,7 +2239,7 @@ Some claim grievous things in their knowledge of Allah Almighty. Some say that
 
 <!-- PageNumber="40" -->
 
-The quarter of the acts of worship
+
 of the public audience reaches, i.e. that He Almighty is Ever-Existing,,
 Omniscient, All-Powerful, All-Hearing, All-Seeing, Talking.
 
@@ -2315,7 +2296,7 @@ The blameworthy among them comprise the fear of poverty, feeling of
 <!-- PageBreak -->
 
 <!-- PageNumber="41" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 resentment for what is Divinely decreed, grudge, spitefulness, envy, cheating,
 asking for supremacy, love of being praised, love of having long life in this world
@@ -2368,7 +2349,7 @@ what is of greater significance in itself for the sake of the religion. If he is
 <!-- PageBreak -->
 
 42
-The quarter of the acts of worship
+
 about the reason for doing so, he will say: "I've been occupied by that for it
 belongs to the science of religion, and one of the collective duties", putting, by
 doing so, himself and the others to confusion.
@@ -2423,7 +2404,7 @@ esoteric knowledge are the adornment of the heaven and its dominion."
 <!-- PageBreak -->
 
 <!-- PageNumber="43" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 Al-Junaid said: One day, my mister As-Sari said to me: "When you stand and
 leave me: with whom are you going to keep sitting?" I said: "With Al-Muhasibi."
@@ -2481,7 +2462,7 @@ The second is the logic, whose objective is to look for the point of proof and
 
 <!-- PageNumber="44" -->
 
-The quarter of the acts of worship
+
 its conditions, and the point of term and its conditions, and both are implied in
 theology.
 
@@ -2537,7 +2518,7 @@ guidance, as shown from His statement: " And those who strive in Our (Cause),
 <!-- PageNumber="45" -->
 
 
-### Book One: Knowledge
+### 
 
 We will certainly guide them to Our Paths: for verily Allah is with those who do
 right." (Al-Ankabut 69)
@@ -2593,7 +2574,7 @@ ruling and leading subjects.
 <!-- PageBreak -->
 
 <!-- PageNumber="46" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 When Umar Ibn Al-Khattab died, Ibn Mas'ud said: "No doubt, nine-tenth the
 true knowledge vanished." It was said to him: "How do you say so, since the
@@ -2649,7 +2630,7 @@ undertaking the science of religion but for his doing a job, therewith he intend
 <!-- PageBreak -->
 
 <!-- PageNumber="47" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 to come much closer to (the Presence of) Allah Almighty with the help of his
 knowledge.
@@ -2708,7 +2689,7 @@ their steps only in one, i.e. to go all-out on making extremely unwarranted
 
 <!-- PageNumber="48" -->
 
-The quarter of the acts of worship
+
 categorizations and classifications of the branches of jurisprudence, for the
 remaining four characteristics are not fitting but for the hereafter, and it is only
 this characteristic which is fitting for both this world and the hereafter, and in
@@ -2765,7 +2746,7 @@ from amongst the organs of the body and the most difficult upon the religious
 <!-- Sliced Batch: Pages 51 to 100 -->
 
 <!-- PageNumber="49" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 jurists to manage and curb. This highlights the fact that in no way did he use to
 speak or keep silent but for seeking after excellence and getting reward.
@@ -2821,7 +2802,7 @@ recitation -and he was of a sweet pleasant voice- with the following: " That wil
 
 <!-- PageNumber="50" -->
 
-The quarter of the acts of worship
+
 be a Day when they shall not be able to speak, Nor will it be open to them to put
 forth pleas." (Al-Mursalat 35:36)
 
@@ -2876,7 +2857,7 @@ position of abstinence and fear (of Allah Almighty) through the science of
 <!-- PageBreak -->
 
 <!-- PageNumber="51" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 payment in advance, hiring, and the other sciences of jurisprudence. That's
 because this (knowledge of Allah) belongs to the knowledge of the hereafter,
@@ -2931,7 +2912,7 @@ according to the following statements of Allah Almighty: " Thus did we give
 
 <!-- PageNumber="52" -->
 
-The quarter of the acts of worship
+
 established power to Joseph in the land, to take possession therein as, when, or
 where he pleased." (Yusuf 56)
 
@@ -2986,7 +2967,7 @@ the proof (even though it was right) but that he became insignificant in my eyes
 <!-- PageBreak -->
 
 <!-- PageNumber="53" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 and I came to have aversion towards him."
 
@@ -3044,7 +3025,7 @@ Almighty places wherever He likes; and it is not realized by the large number of
 <!-- PageBreak -->
 
 <!-- PageNumber="54" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 narrations." This respect and appreciation show how strong his knowledge of the
 Majesty of Allah Almighty was.
@@ -3099,7 +3080,7 @@ authority of Sufyan Ibn Abu Zuhair): "Of a surety, Medina is much better for
 <!-- PageBreak -->
 
 <!-- PageNumber="55" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 them (to live in) if they knew!" he "Allah's blessing and peace be upon him"
 further said (on the authority of Abu Hurairah): "Medina removes its impurities,
@@ -3154,7 +3135,7 @@ amount of prayers."
 <!-- PageBreak -->
 
 <!-- PageNumber="56" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 It is narrated that Hammad Ibn Abu Sulaiman said that Abu Hanifah used to
 give life to the whole night (by supererogatory prayers and celebration of Allah
@@ -3211,7 +3192,7 @@ Nu'man Ibn Thabit, who belongs to Kufah that he was solemnly afraid of Allah
 
 <!-- PageNumber="57" -->
 
-Book One: Knowledge
+
 
 Almighty." According to Sharik An-Nakh'i, "Abu Hanifah was on the habit of
 spending long in silence, deep contemplation, even though his conversations to
@@ -3262,7 +3243,7 @@ and the extent to which the legal sciences might be praiseworthy and the
 extent to which they might be blameworthy
 
 
-# The Exposition Of The Reason For Criticizing Such Of Those As Blameworthy
+## The Exposition Of The Reason For Criticizing Such Of Those As Blameworthy
 
 you might exclaim: "Since knowledge is to be acquainted with a certain thing
 as it is really is, and it is an essential characteristic of Allah Almighty: then, how
@@ -3271,7 +3252,7 @@ should a thing be knowledge, and blameworthy at the same time?"
 <!-- PageBreak -->
 
 <!-- PageNumber="58" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 it should be known to you that by no means would the knowledge be regarded
 as blameworthy for its being knowledge so much as it is held blameworthy in the
@@ -3319,7 +3300,7 @@ traverse) till it returns like the old (and withered) lower part of a date-stalk
 Sin 39)
 
 
-## ﴿وَالْقَمْرَ قَدَّرْنَهُ مَنَازِلَ حَتَّى عَادَ كَالْعُرْجُونِ اٌلْقَدِيمِ نَّا
+ ﴿وَالْقَمْرَ قَدَّرْنَهُ مَنَازِلَ حَتَّى عَادَ كَالْعُرْجُونِ اٌلْقَدِيمِ نَّا
 
 The other is astrology the essence of which is to attest the future events from
 the present causes. This is similar to the way a physician is guided by the patient's
@@ -3329,10 +3310,7 @@ creatures. But the law has regarded it as blameworthy.
 
 <!-- PageBreak -->
 
-<!-- PageNumber="59" -->
-
-
-## Book One: Knowledge
+<!-- PageNumber="59" --> 
 
 In this context, (it is narrated by Tabarani on the authority of Ibn Mas'ud) that
 the Messenger of Allah "Peace be upon him" said: "When the Divine decree is
@@ -3389,7 +3367,7 @@ not result therefrom unless several other conditions, whose realities are beyond
 <!-- PageBreak -->
 
 <!-- PageNumber="60" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 the reach of human beings, should be accomplished. If he happened to be
 doomed by Allah to have knowledge of the remaining causes, his prediction
@@ -3446,7 +3424,7 @@ The fact that knowledge might be harmful to some people could not be
 <!-- PageBreak -->
 
 <!-- PageNumber="61" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 rejected, just in the same way as an infant might be harmed by the flesh of birds
 and the variety of sweet edible things. Furthermore, the ignorance of some affairs
@@ -3502,7 +3480,7 @@ around the body. The same is true of the way to the hereafter, and the right way
 
 <!-- PageNumber="62" -->
 
-The quarter of the acts of worship
+
 and etiquette of law, and the beliefs set for the people to follow, therein lie many
 niceties and fine points, which are beyond the capacity and power of the human
 mind to grasp. Similarly, there are wonderful qualities in the properties of the
@@ -3545,7 +3523,7 @@ plentiful are the fruits, but not all are edible; (similarly) many are the branc
 knowledge, but not all are useful."
 
 
-# The Way Of Changing The Names OF SCIENCES
+## The Way Of Changing The Names OF SCIENCES
 
 It should be known that the source of confusion of the blameworthy sciences
 with the legal sciences is the alteration and distortion of the names of the
@@ -3558,7 +3536,7 @@ ancestors and those of the first generation. Those are five terms: Fiqh
 <!-- PageBreak -->
 
 <!-- PageNumber="63" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 Those are praiseworthy terms and the men who are characterized by any of
 them are those of high positions in the science of religion. But now they have
@@ -3615,7 +3593,7 @@ result of the disappearance of those sciences we have already mentioned.
 <!-- PageBreak -->
 
 <!-- PageNumber="64" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 (It is narrated by Abu Na'im on the authority of Suwaid Ibn Al-Harith that)
 the Prophet "Allah's blessing and peace be upon him" said, addressing the
@@ -3670,7 +3648,7 @@ their property, and who is sincere in his advice to their group."
 <!-- PageBreak -->
 
 <!-- PageNumber="65" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 He did not say, in all of what he said, that he is the one who has mastery over
 all the branches of religious verdicts. But I do not say that the name jurisprudent
@@ -3725,7 +3703,7 @@ nothing of the items of this art was known during the first age (of the holy
 
 <!-- PageNumber="66" -->
 
-The quarter of the acts of worship
+
 companions), who, moreover, used to be hard in condemning anyone whenever
 he intended to open the gate of argumentation and debate (pertaining to anything
 in the matters of religion).
@@ -3777,7 +3755,7 @@ as takes as his Allah his own vain desire?" (Al-Jathiyah 23)
 <!-- PageBreak -->
 
 <!-- PageNumber="67" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 ﴿ أَفَرَءَيْتَ مَنِ اتَّخَذَ إِلَهَهُ، هَوَنُهُ (2)﴾
 
@@ -3838,7 +3816,7 @@ interpreter who tells the truth at one time and lies at another. What Allah
 
 <!-- PageNumber="68" -->
 
-The quarter of the acts of worship
+
 Almighty regards is (not the interpreter (i.e. the tongue)) but that for which the
 tongue is the interpreter, i.e. the heart which is the source of religion and the
 place wherefrom it springs.
@@ -3895,7 +3873,7 @@ on depilating the hair of his armpit. The storyteller said to him: "O grand shei
 <!-- PageBreak -->
 
 <!-- PageNumber="69" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 Are you not ashamed of doing that?" he said: "Why? I'm doing something which
 belongs to the sunnah, whereas you are telling a lie. I'm Al-A'mash, and I've
@@ -3950,7 +3928,7 @@ for himself an excuse, protesting that such and such has been narrated on the
 
 <!-- PageNumber="70" -->
 
-The quarter of the acts of worship
+
 authority of such and such of masters or prominent men, adding that 'as long as
 all of us are vulnerable to committing sins, it is no wonder if I disobey Allah (and
 why not) since a greater person than me has done the same.' This also causes him
@@ -4006,7 +3984,7 @@ gatherings, whose members are mostly of the crude among the common folk
 <!-- PageBreak -->
 
 <!-- PageNumber="71" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 whose insides are saturated with lust and their hearts never refrain from turning
 to fair faces. This kind of poetry inspires nothing in their hearts but that which
@@ -4062,8 +4040,9 @@ common folk has become grievous. To destroy the person who comes out with
 <!-- PageBreak -->
 
 <!-- PageNumber="72" -->
-<!-- PageHeader="The quarter of the acts of worship such words is, according to the religion of Allah, better than to spare ten lives." -->
 
+
+such words is, according to the religion of Allah, better than to spare ten lives.
 As to Abu Yazid Al-Bastami, such words as have been ascribed to him cannot
 be true. Even if he were heard saying them, most probably he must have been
 repeating to himself words about Allah; and it is the same as if he was heard
@@ -4116,7 +4095,7 @@ concrete aspects to esoteric things, which are of no benefit to the minds, such 
 
 <!-- PageNumber="73" -->
 
-Book One: Knowledge
+
 
 the Batinite method of interpretation which is unlawful and of great harm;
 because when words are made to connote other than their concrete meanings,
@@ -4171,7 +4150,7 @@ asking for Allah's Forgiveness at the last portion of the night, for the Messeng
 <!-- PageBreak -->
 
 <!-- PageNumber="74" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 of Allah "Allah's blessing and peace be upon him" used to have his night meal
 and say to his companions (by way of exhortation): "Have your night meals, or
@@ -4225,7 +4204,7 @@ you follow those only depending upon the prevalence of the signification of the
 <!-- PageBreak -->
 
 <!-- PageNumber="75" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 name, without turning to that which it signified during the first age (of the
 companions), you will be then like him, who seeks honour through wisdom, by
@@ -4280,8 +4259,6 @@ people are greater in number than their lovers."
 
 <!-- PageBreak -->
 
-76
-The quarter of the acts of worship
 Those sciences have become strange to the extent that the people have
 aversion towards him who is engaged in them. For this reason, Ath-Thawri said:
 "If you see a learned man having more friends, you should know that he makes
@@ -4336,7 +4313,7 @@ is indispensable for self-mortification is the sole key to guidance, other than
 <!-- PageNumber="77" -->
 
 
-## Book One: Knowledge
+## 
 
 which there is no key to it.
 
@@ -4389,8 +4366,6 @@ snakes and scorpions have crept and have been about to kill him, even though he
 
 <!-- PageBreak -->
 
-78
-The quarter of the acts of worship
 is engaged in looking for a whisk therewith to drive flies away from the other
 people, a task which will neither spare nor save him from what he is going to
 suffer from the attacks of those snakes and scorpions.
@@ -4445,7 +4420,7 @@ preceded you, and you might depend upon their books in this respect.
 
 <!-- PageNumber="79" -->
 
-Book One: Knowledge
+
 
 Furthermore, you are not required to memorize the texts of both Sahihs, but
 it is sufficient for you to retain out of them what enables you to get what you
@@ -4496,8 +4471,6 @@ them more determined to adhere to their position. But if these fanatics would
 
 <!-- PageBreak -->
 
-80
-The quarter of the acts of worship
 approach their opponents privately in a spirit of kindness, sympathy, and
 advice rather than attack them publicly in the spirit of bigotry and acrimony,
 they might succeed in their effort. But as long as prestige requires a following
@@ -4548,7 +4521,7 @@ what concerns you from that which is before you, and wipe off yourself anything
 <!-- PageBreak -->
 
 <!-- PageNumber="81" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 else (which concerns you not): and peace be upon you.
 
@@ -4601,7 +4574,7 @@ from their biographies.
 <!-- PageBreak -->
 
 <!-- PageNumber="82" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 When the office of caliphate was moved to a people, who were not fitting
 for it, nor had they mastery over the science of religious verdicts and
@@ -4655,7 +4628,7 @@ of argumentation in jurisprudence, in order to distinguish the more significant
 <!-- PageBreak -->
 
 <!-- PageNumber="83" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 points of the doctrines of both Ash-Shafi'i and Abu Hanifah in particular. In this
 way, the people left theology and its related science, and pursued the questions of
@@ -4706,8 +4679,6 @@ prayer, and turns to the trade of weaving and tailoring, pretending that his
 
 <!-- PageBreak -->
 
-84
-The quarter of the acts of worship
 purpose is to cover the private parts of him who prays while naked, and has no
 garment. However, this might happen, and it is possible, just as the occurrence of
 the rare cases which are the subject of the research of controversies is possible, as
@@ -4758,7 +4729,7 @@ upon his knowledge to be on the right gives legal opinions and religious
 <!-- PageBreak -->
 
 <!-- PageNumber="85" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 verdicts depending only upon his own knowledge, and not upon the doctrines
 of such grand pioneering imams as Shafi'i, Abu Hanifah, and the like of them;
@@ -4812,7 +4783,7 @@ the sake of Allah. One of them may be alone with his companion for a long
 
 <!-- PageNumber="86" -->
 
-The quarter of the acts of worship
+
 period of time but will not even talk to him because there is no audience to
 applaud his speech. He may at times propose to make a discussion but gets no
 response for the same reason. But as soon as someone appears or a group
@@ -4863,7 +4834,7 @@ The seventh: he (the debater) should not withhold his helper from moving
 <!-- PageBreak -->
 
 <!-- PageNumber="87" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 from an argument to another, and from a problem to another. As such the
 debates of the good ancestors were. Furthermore, he should remove from his
@@ -4915,7 +4886,7 @@ knowledge, from whom benefit is expected. They frequently are eager to avoid
 
 <!-- PageNumber="88" -->
 
-The quarter of the acts of worship
+
 debating with the intellectual giants and those who are well-established in
 knowledge, for fear that the truth might appear at their tongues, and they rather
 desire for debating with those who are inferior to them in knowledge, hoping for
@@ -4967,7 +4938,7 @@ one famous among men for his versatility and regarded by the people as one of
 <!-- PageBreak -->
 
 <!-- PageNumber="89" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 better knowledge and keener insight than the debater, the debater will inescapably
 envy him and wish that the favours which he receives might vanish from him,
@@ -5021,7 +4992,7 @@ agreement of all of the audience upon his speech, and approval of all his
 
 <!-- PageNumber="90" -->
 
-The quarter of the acts of worship
+
 conclusions and deductions? Moreover, if his adversary shows even the lest
 inconsideration of his speech, the feeling of resentment will be planted in his
 heart along his life, which he will never uproot from himself until the end of his
@@ -5077,7 +5048,7 @@ imperfections, particularly if his opponent would remain firm and steadfast, and
 <!-- PageBreak -->
 
 <!-- PageNumber="91" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 would not refrain from being blunt if he were given to insolence and scorn. Both
 of these practices are regarded as clever ways of repelling the attacks of an
@@ -5130,7 +5101,7 @@ tongue of a debater's opponent is the most reprehensible to him. Henceforth, he
 <!-- PageBreak -->
 
 <!-- PageNumber="92" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 would do his best to refute it, and strive his utmost to deny it and would exert his
 greatest effort in deception, trickery and fraud in order to repel his adversary until
@@ -5182,7 +5153,7 @@ fellows, who are equal to him in position. Out of each of these ten traits, ten
 <!-- PageBreak -->
 
 <!-- PageNumber="93" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 other vices might be ramified, which we shall neither discuss nor explain with
 detail at the present time. They include self-importance, anger, hatred, greed, the
@@ -5235,7 +5206,7 @@ going to school. But this does not mean that the reasons for the school's
 
 <!-- PageNumber="94" -->
 
-The quarter of the acts of worship
+
 popularity are praiseworthy. Similarly had it not been for the love of power,
 knowledge would not have survived: it does not mean that the seeker after power
 is saved. On the contrary he is one of those whom the Prophet "Peace be upon
@@ -5288,7 +5259,7 @@ characteristics. In this context, the Messenger of Allah "Peace be upon him" sai
 <!-- PageBreak -->
 
 <!-- PageNumber="95" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 inwardly. Allah Almighty says: "Verily, the pagans are unclean." (At-Tawbah 28)
 ﴿ يَتَأَيُّهَا الَّذِينَ ءَامَنُواْ إِنَّمَا الْمُشْرِكُونَ تَجَسٌ فَلَا يَقْرَبُواْ الْمَسْجِدَ الْحَرَامَ بَعْدَ عَامِهِمْ هَذَاً وَإِنْ
@@ -5343,7 +5314,7 @@ those of his own and from those of his own to the nature of the things of this
 
 <!-- PageNumber="96" -->
 
-The quarter of the acts of worship
+
 world is a praiseworthy way of consideration. Proceed, therefore, from the
 consideration of the house built by the people to the heart, which is the house
 constructed by Allah Almighty, and from the consideration of the dog which has
@@ -5395,7 +5366,7 @@ relative ranks of the sciences as well as the value of the science of the hereaf
 <!-- PageBreak -->
 
 <!-- PageNumber="97" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 you would have realized that the sciences to which they have addressed
 themselves are of little avail as knowledge but are of use merely as deeds
@@ -5451,7 +5422,7 @@ Thus knowledge is not attained except through showing humbleness and
 
 <!-- PageNumber="98" -->
 
-The quarter of the acts of worship
+
 harkening. Allah Almighty says: "Verily in this is a Message for any that has a
 heart and understanding or who gives ear and earnestly witnesses (the truth)."
 (Qaf 37)
@@ -5505,7 +5476,7 @@ understanding according to your rank (as a student); and it is for this that Mos
 <!-- Sliced Batch: Pages 101 to 150 -->
 
 <!-- PageNumber="99" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 "Peace be upon him" was forbidden by Al-Khadir to raise questions. In other
 words, you should leave asking a question before its due time, and the teacher has
@@ -5561,7 +5532,7 @@ laziness, idleness and negligence; and how far this is! For this end makes the h
 
 <!-- PageNumber="100" -->
 
-The quarter of the acts of worship
+
 firmly attached to Him in His Witness and presence, and keep celebrating His
 Praises which is the best of deeds regularly and permanently. The weak one's
 imitation of the strong in what apparently seems to him to be a slip is like the
@@ -5616,7 +5587,7 @@ satisfying oneself, so to speak, with the mere tasting of it while directing wha
 <!-- PageBreak -->
 
 <!-- PageNumber="101" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 power one has left, and devote his entire power of mind, after having obtained
 such of knowledge as is available to him, to have full mastery of the knowledge of
@@ -5671,7 +5642,7 @@ arrangement and gradation. Allah Almighty says: " Those to whom we have sent
 
 <!-- PageNumber="102" -->
 
-The quarter of the acts of worship
+
 the Book study it as it should be studied: they are the ones that believe therein."
 (Al-Baqarah 121)
 
@@ -5724,7 +5695,7 @@ to pursue it.
 <!-- PageBreak -->
 
 <!-- PageNumber="103" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 The ninth duty: the learner's purpose should be: at the time to adorn and
 beautify his inward with virtues, and in the future, to come much closer to the
@@ -5777,7 +5748,8 @@ which there will be the never-ending bliss and happiness, even though it is not
 <!-- PageBreak -->
 
 <!-- PageNumber="104" -->
-<!-- PageHeader="The quarter of the acts of worship really estimated as it should be in this world but by a very few men." -->
+
+really estimated as it should be in this world but by a very few men.
 
 The sciences, in relation to the happiness and felicity achieved by the meeting
 of Allah Almighty (in the hereafter) and see His Bounteous Honoured
@@ -5829,7 +5801,7 @@ the true goal which is safety.
 <!-- PageBreak -->
 
 <!-- PageNumber="105" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 The attainment of happiness is not achieved except by the Gnostics who
 know Allah and are close to Him, who are given to enjoy in His neighbourhood
@@ -5883,7 +5855,7 @@ neighbourhood) of Allah is the heart and not the body. Of course I do not mean
 <!-- PageBreak -->
 
 106
-The quarter of the acts of worship
+
 by heart this piece of flesh (within the chest). It is one of Allah's Mysteries which
 is beyond the perception of senses, and one of His Niceties which He sometimes
 designates with the spirit, and at other times with the well-satisfied soul. But the
@@ -5937,7 +5909,7 @@ But no matter how much people mix with one another their ambitions are
 <!-- PageBreak -->
 
 <!-- PageNumber="107" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 aroused which result in their competition to satisfy their desires, and contend and
 struggle to fulfill them. Their struggle results in their destruction because of the
@@ -5993,7 +5965,7 @@ sun which lights up for the other things, even though it is lighting in itself, 
 
 <!-- PageNumber="108" -->
 
-The quarter of the acts of worship
+
 the musk which spreads its scent upon others, as well as it is pleasant in itself. But
 he, who learns and does not act upon what he learns, is like a notebook, which
 benefits the others (with what its pages contain), even though it is unintelligent,
@@ -6046,7 +6018,7 @@ limitation in the pleasures and delights of this world, narrowness is the lot of
 <!-- PageBreak -->
 
 <!-- PageNumber="109" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 way to it, which results from the crowd of competition and struggle. Those who
 seek to attain position of authority through knowledge are not included in those
@@ -6099,7 +6071,7 @@ sacrifice their wealth and rank, and suffer great humiliations in the service of
 <!-- PageBreak -->
 
 110
-The quarter of the acts of worship
+
 rulers in order to gain their favours. Were these men to turn away from such
 practices they would be ignored and no one would turn to them for advice.
 
@@ -6151,7 +6123,7 @@ order to preserve procreation and the survival of the race. He also created
 <!-- PageBreak -->
 
 <!-- PageNumber="111" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 ambition as a means for perpetuating knowledge, a thing highly desirable in these
 sciences.
@@ -6207,7 +6179,7 @@ way for the learner to study other sciences. Moreover, if he undertakes the
 
 <!-- PageNumber="112" -->
 
-The quarter of the acts of worship
+
 teaching of many sciences, he should observe the gradual progression to promote
 the student from one grade to another.
 
@@ -6261,7 +6233,7 @@ pearls be given to herders of the sheep, Shall wealth be trusted to their rustic
 <!-- PageBreak -->
 
 <!-- PageNumber="113" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 keep? They would not comprehend nor know its worth, To give them would be
 adorning beasts. But Allah is kind if by His grace He sends One worthy of my
@@ -6317,7 +6289,7 @@ eager to get what they have been forbidden, saying: "Had it not been the most
 
 <!-- PageNumber="114" -->
 
-The quarter of the acts of worship
+
 pleasant and the most delicious, he would not have favoured himself with it apart
 from us."
 
@@ -6370,7 +6342,7 @@ the esoteric science) and this is the beneficial knowledge."
 <!-- PageBreak -->
 
 <!-- PageNumber="115" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 The Messenger of Allah "Peace be upon him" further said (in the narration of
 Al-Hakim on the authority of Anas): "Towards the end of the time, there will be
@@ -6425,7 +6397,7 @@ does not know and he is well-aware of his ignorance, and this is a guidance-
 
 <!-- PageNumber="116" -->
 
-The quarter of the acts of worship
+
 seeker, whom you should guide (to the right way); and a man who does not
 know, and he is not aware of the fact that the does not know, and this is an
 ignorant, whom you should reject." According to Sufyan Ath-Thawri: "It is
@@ -6467,7 +6439,7 @@ Almighty says: "Verily, the hypocrites will be in the lowest bottom of the fire
 (of Hell)." (An-Nisa 145)
 
 
-### ﴿إِنَّ الْنَفِقِينَ فِى الدَّرْكِ الْأَسْفَلِ مِنَ النَّارِ
+﴿إِنَّ الْنَفِقِينَ فِى الدَّرْكِ الْأَسْفَلِ مِنَ النَّارِ
 
 That's because they rejected faith after their knowledge of it. Moreover, the
 Jews have been made much worse than the Christians, although they have
@@ -6480,7 +6452,7 @@ with certainty in the same way as they know their real children." (Al-Baqarah
 <!-- PageBreak -->
 
 <!-- PageNumber="117" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 ﴿يَعْرِفُونَهُوَ كَمَا يَعْرِفُونَ أَبْنَآءَهُمْ ﴾﴾، ﴿كَمَا يَعْرِفُونَ أَبْنَاءَ هُمَُّ نَ﴾﴾
 
@@ -6535,7 +6507,7 @@ balance: the higher one of them rises up, the lower the other falls, or like bot
 <!-- PageBreak -->
 
 <!-- PageNumber="118" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 East and West: the closer you come to one direction, the farther you go from the
 other, or like two vessels, one of which is full and the other is empty: the more
@@ -6589,7 +6561,7 @@ learned man when he loves this world (and prefers it to My Love) is that I will
 <!-- PageBreak -->
 
 <!-- PageNumber="119" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 take the pleasure and honour of having communion with Me away from his
 heart." According to a certain narration, a man wrote to his brother: "You've
@@ -6645,7 +6617,7 @@ done sincerely (and in accordance with the requirements of law)." He further
 <!-- PageBreak -->
 
 <!-- PageNumber="120" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 said: "All the people die barring the learned men (whose knowledge survives);
 and all the learned men are in the state of bewilderment barring those who act
@@ -6700,7 +6672,7 @@ intention is to seek after this world through his knowledge.
 
 <!-- PageNumber="121" -->
 
-Book One: Knowledge
+
 
 It is narrated (by Ibn Abd Al-Barr) on the authority of Abu Ad-Darda'
 "Allah be pleased with him" that the Messenger of Allah "Peace be upon him"
@@ -6753,7 +6725,7 @@ religion."
 
 <!-- PageNumber="122" -->
 
-The quarter of the acts of worship
+
 
 More heinous is the following tradition (by Abu Na'im) on the authority
 of Mu'adh which ends up with him in one narration, and which he traces up
@@ -6804,7 +6776,7 @@ men) to sincerity (in your deeds), from desire (for the pleasures and delights o
 <!-- PageBreak -->
 
 <!-- PageNumber="123" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 this world) to asceticism (and refraining from the worldly benefits), from
 arrogance to humbleness, and from showing enmity to giving advice (with
@@ -6862,7 +6834,7 @@ Messenger of Allah "Peace be upon him" said: "On the very night I was made
 <!-- PageBreak -->
 
 <!-- PageNumber="124" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 to set out on the Night Journey, I came upon a people, whose lips were being
 filed with files of fire. I asked them: "Who are you?" they said: "We used to
@@ -6917,7 +6889,7 @@ the knowledge of that which you do not know?" according to Ibn As-Simak
 <!-- PageBreak -->
 
 <!-- PageNumber="125" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 "Allah's mercy be upon him": "Many are those who remind of Allah, even though
 they themselves forget (the celebration of) Allah! Many are those who frightens
@@ -6972,7 +6944,7 @@ happen but because the learned men teach knowledge for something other than
 
 <!-- PageNumber="126" -->
 
-The quarter of the acts of worship
+
 Allah Almighty, as well as the learners acquire knowledge for something other
 than Allah Almighty. According to both Torah and Gospel the following is
 written: "Ask not to learn that which you do not know until you act upon that
@@ -7027,7 +6999,7 @@ much knowledge as you like to know, but by Allah, Allah Almighty will give you
 <!-- PageBreak -->
 
 <!-- PageNumber="127" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 no reward until you act (upon what you know). Verily, the weak-minded are
 mainly concerned with the narration, whereas the learned men are mainly
@@ -7082,7 +7054,7 @@ Therefore, the learner should correspond to the same in connection with
 <!-- PageBreak -->
 
 <!-- PageNumber="128" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 whom it is narrated from Hatim Al-Asamm that Shaqiq (his mister) said to him:
 "How long have you been in my company?" Hatim said: "Since thirty-three
@@ -7140,7 +7112,7 @@ his due portion of living in this world." (Az-Zukhruf 32)
 <!-- PageBreak -->
 
 <!-- PageNumber="129" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 ﴿نَحْنُ قَسَمْنَا بَيْنَهُم مَّعِيشَّتَهُمْ فِى الْحَيَوْةِ الدُّنْيَا (ِيَّ)﴾
 
@@ -7197,7 +7169,7 @@ understanding and making sense to the existence of this kind of science. But the
 <!-- PageBreak -->
 
 130
-The quarter of the acts of worship
+
 learned men of this world are mainly engaged in that with facilitates for them the
 getting of wealth, prestige and power, and neglect such sciences (of the hereafter),
 with which Allah Almighty sent all of the Messengers and Prophets "Peace be
@@ -7248,7 +7220,7 @@ the Messenger get his?' he said: 'From Gabriel who got his from Allah
 <!-- PageBreak -->
 
 <!-- PageNumber="131" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 Almighty.' Hatim said: 'Tell me then, in that which Gabriel received from Allah
 and transmitted to the Messenger of Allah "Peace be upon him" who related it
@@ -7300,7 +7272,7 @@ this man! Come! Let us call on him." When they entered his house, Ibn Hanbal
 <!-- PageBreak -->
 
 <!-- PageNumber="132" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 addressed him saying: "O Abu Abd Ar-Rahman! What will grant salvation from
 this world?" Hatim replied: "O Abu Abdullah! You will not be saved (from this
@@ -7354,7 +7326,7 @@ following: "In the name of Allah, Most Gracious, Most Merciful. Allah's blessing
 <!-- PageBreak -->
 
 <!-- PageNumber="133" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 and peace be upon His Apostle Muhammad. From Yahya Ibn Yazid Ibn Abd Al-
 Malik to Malik Ibn Anas: I have been informed that you wear fine clothes, eat
@@ -7407,7 +7379,7 @@ this reason, it is binding upon every religious man to condemn them by showing
 <!-- PageBreak -->
 
 <!-- PageNumber="134" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 their wrongness, and decrying their practices.
 
@@ -7463,7 +7435,7 @@ For this reason, it is not strange to hear Sa'id Ibn Al-Musayyab "Might Allah
 <!-- PageBreak -->
 
 <!-- PageNumber="135" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 bestow mercy upon him" saying: "When you see a learned man having associated
 with the magistrates, you should be cautious of him for at that time he is like a
@@ -7517,7 +7489,7 @@ fatness and flesh (of the body) but not the faith. To be sure, this indicates th
 
 <!-- PageNumber="136" -->
 
-The quarter of the acts of worship
+
 who frequents the magistrate is never safe from hypocrisy, which contradicts the
 faith.
 
@@ -7570,7 +7542,7 @@ be more capable.
 <!-- PageBreak -->
 
 <!-- PageNumber="137" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 This is the clear wisdom, for indeed, it is dangerous to build one's opinion
 depending only upon his independent investigation. According to a certain
@@ -7623,7 +7595,7 @@ Ath-Thawri used to deliver their talks to two, three or a very few number of
 <!-- PageBreak -->
 
 <!-- PageNumber="138" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 people, and if they increased in number, they would turn away from them.
 
@@ -7677,7 +7649,7 @@ one who was the least learned among them; and the most reluctant among them
 <!-- PageBreak -->
 
 <!-- PageNumber="139" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 was the most pious and righteous among them."
 
@@ -7734,7 +7706,7 @@ has knowledge."
 <!-- PageBreak -->
 
 <!-- PageNumber="140" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 It is narrated that Salman sent a letter to Abu Ad-Darda' "Allah be pleased
 with both", and a bond of brotherhood was established between them by the
@@ -7788,7 +7760,7 @@ the earth, nor that the knowledge is in the farthest ends of the earth, and who
 <!-- PageBreak -->
 
 <!-- PageNumber="141" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 would raise it up to the heaven, nor that the knowledge is behind the seas, and
 who then would cross with it! You should know that knowledge is made to lie
@@ -7842,7 +7814,7 @@ than wealth: you guard wealth, but it is knowledge which guards over you.
 <!-- PageBreak -->
 
 142
-The quarter of the acts of worship
+
 Knowledge increases by spending while wealth diminishes therewith. Knowledge
 is a religion worthy of being admitted, through which man is enabled to submit
 his will to the will of Allah in this life, and has kindly words from his fellowmen
@@ -7880,7 +7852,7 @@ knowledge is obtained through doing deeds regularly and persistent self-
 mortification.
 
 
-# The Significance Of Certainty
+## The Significance Of Certainty
 
 A further characteristic is that he should be fundamentally interested in
 strengthening the certainty of faith, since the certainty is the essential resources of
@@ -7893,7 +7865,7 @@ obtained, and then its way will be opened to the heart. The Messenger of Allah
 <!-- PageBreak -->
 
 <!-- PageNumber="143" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 "Allah's blessing and peace be upon him" said (according to the narration of Abu
 Na'im on the authority of Thawr Ibn Yazid): "You should learn certainty of
@@ -7951,7 +7923,7 @@ The first is that both belying and trusting become equal, and this is expressed
 
 <!-- PageNumber="144" -->
 
-The quarter of the acts of worship
+
 by doubt, and its example is to be asked about a certain person, whether he will
 or will not be punished by Allah Almighty, and since his state is unknown to you,
 you will not be inclined to pass a judgment either in the affirmative or in the
@@ -8003,7 +7975,7 @@ they are originated without a cause, or some of them are so originated, all of
 <!-- PageBreak -->
 
 <!-- PageNumber="145" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 which is impossible and what leads to the impossible is itself impossible.
 Therefore, out of sheer necessity, the mind is compelled to believe in the
@@ -8057,7 +8029,7 @@ strength and weakness, muchness and littleness, and clearness and vagueness.
 
 <!-- PageNumber="146" -->
 
-The quarter of the acts of worship
+
 
 As to strength and weakness they are applied to the second technical
 meaning of certainty of faith, in so far as faith prevails over and takes hold of
@@ -8112,7 +8084,7 @@ in the sense that he then should give no concern to the secondary causes in this
 <!-- PageBreak -->
 
 <!-- PageNumber="147" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 respect, since all means are seen by him to be subject (to the will of the Causer
 of causes), and have no power in themselves. If one has trust in that, he then
@@ -8167,7 +8139,7 @@ punishment in the same way as poison and venomous vipers relate to
 <!-- PageBreak -->
 
 <!-- PageNumber="148" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 destruction. As well as he is eager to earn bread to keep himself satisfied, and
 store it no matter little or much it might be, he should also be eager to do all
@@ -8221,7 +8193,7 @@ form points out to him his deed. It is well-known that the eye of generous
 <!-- Sliced Batch: Pages 151 to 200 -->
 
 <!-- PageNumber="149" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 honourable acts as a mirror on which his soul is reflected, and the learned men of
 the hereafter are famous for their signs of tranquillity, lowliness, and humility. In
@@ -8275,7 +8247,7 @@ inhabitants of) both the heaven and the earth." It is narrated in the Israeli ta
 <!-- PageBreak -->
 
 <!-- PageNumber="150" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 that a man made three hundred and sixty compositions in wisdom until he was
 described as a wise man. But Allah revealed to His Prophet: "Tell so and so that
@@ -8328,7 +8300,7 @@ quantity not knowing that little knowledge of the right kind is better than a gr
 <!-- PageBreak -->
 
 <!-- PageNumber="151" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 deal of it which diverts man from Allah. He would drink, as it were, from
 stagnant and stale water and be engaged in diverse activities but of no use. Then
@@ -8382,7 +8354,7 @@ precepts and commandments. They will say: 'We recite the Qur'an perfectly: who
 <!-- PageBreak -->
 
 152
-The quarter of the acts of worship
+
 could recite it better than us? We have perfect knowledge of it: who has better
 knowledge of it than us?' This shall be their share" or According to another
 narration: "Those are the worst of this nation."
@@ -8439,7 +8411,7 @@ said: "Is there any sign characteristic of that?" he "Allah's blessing and peace
 <!-- PageBreak -->
 
 <!-- PageNumber="153" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 be upon him" said: "Yes: to desert the abode of arrogance (i.e. this world with
 its vanities), to return to the abode of eternity, and get ready for death before
@@ -8493,7 +8465,7 @@ Sa'id! You say things which are never heard from anyone else: from where have
 <!-- PageBreak -->
 
 <!-- PageNumber="154" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 you got them?" he said: "From Hudhaifah Ibn Al-Yaman." It was said to
 Hudhaifah: "We see that you say things which are never heard from anyone of
@@ -8547,7 +8519,7 @@ continuously, and he who pursues it is like the person who takes his medicine an
 <!-- PageBreak -->
 
 <!-- PageNumber="155" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 keeps patient on its bitterness in the hope of being cured, or like the man who
 fasts throughout his life and suffers all resulting difficulties in order to enjoy
@@ -8602,7 +8574,7 @@ holy companions "Allah be pleased with them". But as for what we've received
 
 <!-- PageNumber="156" -->
 
-The quarter of the acts of worship
+
 from the early followers, the matter is different, for both them and us are men (of
 knowledge)."
 
@@ -8657,7 +8629,7 @@ Prophetic traditions and acts of sunnah. Then Malik Ibn Anas composed in
 <!-- PageNumber="157" -->
 
 
-# Book One: Knowledge
+# 
 
 Medina his book of Muwatta' (the Well-Trodden Path). Later, Sufyan Ath-Thawri
 composed his Jami'.
@@ -8710,7 +8682,7 @@ It should be known, beyond the shadow of doubt, that the greatest learned
 
 <!-- PageNumber="158" -->
 
-The quarter of the acts of worship
+
 man and the nearest to the truth from amongst those of his time is him, who is
 the most similar to the holy companions, and the most knowledgeable of the
 way which the early ancestors followed, from whom the principles and
@@ -8760,7 +8732,7 @@ errors and disobedience. Blessed be he who humbles himself, whose nature has
 <!-- PageBreak -->
 
 <!-- PageNumber="159" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 been refined and whose heart has been reformed, who keeps his evil from the
 people. Blessed be he who acts upon his knowledge, who spends the surplus of
@@ -8814,7 +8786,7 @@ people did not ask about those things, about which the people at present ask; an
 <!-- PageBreak -->
 
 160
-The quarter of the acts of worship
+
 the learned men used not to describe things as lawful or unlawful, but I caught up
 with them while describing things as desirable and undesirable." This means that
 they considered only the extent to which things would be desirable or
@@ -8865,7 +8837,7 @@ particular command. It is true that the sin of the latter might be excused, unli
 <!-- PageBreak -->
 
 <!-- PageNumber="161" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 him who rebels against the state. According to a learned man: "It is insolent to
 keep silent from that which the predecessors discussed, as well as it is
@@ -8917,7 +8889,7 @@ reins of their desires as you like. If they will ask for Allah's forgiveness He 
 
 <!-- PageNumber="162" -->
 
-The quarter of the acts of worship
+
 not answer them, nor will they repent so that Allah might change their sins into
 good deeds." And so after the first century (of Hegira) there came another group
 of men among whom the Devil kindled desires, and made alluring to them their
@@ -8968,7 +8940,7 @@ It is taken for granted that the disobedient layman is happier than the ignorant
 <!-- PageBreak -->
 
 <!-- PageNumber="163" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 of the way of religion, who renders himself learned, for the former admits his
 laxity, which leads him to ask for Allah's Forgiveness and turn to Him in
@@ -9015,7 +8987,7 @@ world, nor are they prompted to deny Allah Almighty because of their conceit.
 <!-- PageBreak -->
 
 <!-- PageNumber="164" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 
 # CHAPTER SEVEN: ON MIND: ITS HONOUR, REALITY AND DIVISIONS
@@ -9070,7 +9042,7 @@ example is in darkness whence he never comes forth?" (Al-An'am 122)
 <!-- PageBreak -->
 
 <!-- PageNumber="165" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 ﴿ أَوَمَن كَانَ مَيْتًا فَأَحْبَيْنَهُ وَجَعَلْنَا لَهُ نُورًا يَمْشِى بِهِ، فِى النَّاسِ (2))﴾
 
@@ -9124,7 +9096,7 @@ worshippers will rise in the future (i.e. in the hereafter) up to the ranks whic
 <!-- PageBreak -->
 
 <!-- PageNumber="166" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 draw them near unto their Lord as high as are their minds."
 
@@ -9178,7 +9150,7 @@ Allah "Allah's blessing and peace be upon him" said: "As for this matter, you
 <!-- PageBreak -->
 
 <!-- PageNumber="167" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 have no knowledge of it." they asked: "How is that O Messenger of Allah?" the
 Messenger of Allah "Allah's blessing and peace be upon him" said: "They fought
@@ -9229,7 +9201,7 @@ the faithful believers."
 <!-- PageBreak -->
 
 <!-- PageNumber="168" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 (It is narrated by Ibn Al-Muhabbar on the authority of Ibn Umar that) the
 Messenger of Allah "Allah's blessing and peace be upon him" said: "The dearest
@@ -9282,7 +9254,7 @@ matter of course, creates in the donkey some particular movements"; and had it
 <!-- PageBreak -->
 
 <!-- PageNumber="169" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 been possible to regard a donkey as a dead inanimate thing, it then should have
 been said that all movements seen from it are created in it by Allah Almighty
@@ -9337,7 +9309,7 @@ For this reason Ali "Might Allah honour him" said: "I see that knowledge is of
 
 <!-- PageNumber="170" -->
 
-The quarter of the acts of worship
+
 two kinds: that which is integral to nature, and that which is obtained through
 acquisition, But no acquired knowledge is of any use in the absence of natural
 knowledge, in the same way as the light of the sun is of no benefit When the light
@@ -9391,7 +9363,7 @@ trusts his Messengers, and obeys Him through His deeds."
 <!-- PageBreak -->
 
 <!-- PageNumber="171" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 The original meaning of the word 'Aql' (mind) seems in both language and
 usage to have been given to this instinct. But it comes to designate knowledge as
@@ -9442,7 +9414,7 @@ remember" (Al-Baqarah 221)
 <!-- PageBreak -->
 
 <!-- PageNumber="172" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 ﴿ لَعَلَّهُمْ يَتَذَّكَُّونَ ◌ِـ
 
@@ -9500,7 +9472,7 @@ which are in the breasts." (Al-Hajj 46)
 <!-- PageBreak -->
 
 <!-- PageNumber="173" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 He Almighty further says: "And he who is blind in this (world) will be in the
 hereafter blind and more straying from the path." (Al-Isra' 72)
@@ -9556,7 +9528,7 @@ If disparity results from the divergence of the power of the desire, it does not
 <!-- PageBreak -->
 
 174
-The quarter of the acts of worship
+
 then belong to the disparity of mind; and if it results from the difference of
 knowledge, we have given this kind of knowledge the name of mind, for it
 strengthens the instinct of mind, and thus the disparity results from that
@@ -9610,7 +9582,7 @@ you will inevitably die; do what you like, for you will be rewarded accordingly'
 <!-- PageBreak -->
 
 <!-- PageNumber="175" -->
-<!-- PageHeader="Book One: Knowledge" -->
+
 
 This kind of conveying information by the angels to the Prophets is different
 from clear revelation with its implication of hearing a definite voice with the ear
@@ -9663,7 +9635,7 @@ its truth known? If it were known through the blameworthy and unreliable
 
 <!-- PageNumber="176" -->
 
-The quarter of the acts of worship
+
 intellect, that the law itself is blameworthy. No attention, however, is paid to him
 who says that the law is known through certainty itself ("Ayn Al-Yawing) and the
 light of belief rather than through intellect, because we mean by intellect what he
@@ -9734,7 +9706,7 @@ but the throne and those who carry it are supported by the grace of His power
 <!-- PageBreak -->
 
 <!-- PageNumber="178" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 and are controlled by His Hand.
 
@@ -9844,7 +9816,7 @@ seeing, and speech, not only through the Essence.
 
 <!-- PageNumber="180" -->
 
-The quarter of the acts of worship
+
 except that it originates by His Action and proceeds from His Justice, in the
 most beautiful and perfect and complete and just of ways. We bear testimony
 to the fact that He is wise in His actions, just in His Commandments; and in
@@ -9951,7 +9923,7 @@ as they innovated, and the Muslims about their deeds.
 <!-- PageBreak -->
 
 <!-- PageNumber="182" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 One should also have faith in the fact that the monotheists will be released
 from the Fire of Hell after retribution has been exacted from them so that no
@@ -10057,7 +10029,7 @@ Allah Almighty about which He says: "And he who strives for us in Our ways We
 
 <!-- PageBreak -->
 
-<!-- PageNumber="184 The quarter of the acts of worship will guide them; for Allah is assuredly with those who do right." (Al-Ankabut 69)" -->
+<!-- PageNumber="184  will guide them; for Allah is assuredly with those who do right." (Al-Ankabut 69)" -->
 
 ﴿ وَلَّذِينَ جَنَهَدُواْ فِينَا لَهْدِيَّهُمْ سُبُلَنَاْ وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِبِينَ لَ﴾
 
@@ -10164,7 +10136,7 @@ imitate, and we are their followers and disciples.
 <!-- PageBreak -->
 
 <!-- PageNumber="186" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 The other group protested that if the dangers of speculation result from such
 terms as essence and accident and the other strange terms with which the
@@ -10278,7 +10250,7 @@ them who first gave them life." (Ya Sin 79)
 <!-- PageBreak -->
 
 <!-- PageNumber="188" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 ﴿ قُلْ يُخِهَا الَّذِىَ أَنشَأَهَا أَوَّلَ مَرَّةٍ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ (َ﴾
 
@@ -10388,7 +10360,7 @@ from the realm of certitude and determination. These things are lost at the
 
 <!-- PageNumber="190" -->
 
-The quarter of the acts of worship
+
 beginning and their restoration by means of proof is doubtful; and it varies with
 the difference of individuals.
 
@@ -10496,7 +10468,7 @@ in case such effect should confront the children. This is a brief amount which
 <!-- PageBreak -->
 
 192
-The quarter of the acts of worship
+
 we have included in this book because of its conciseness. If he (the child) is
 intelligent enough and well-aware of a certain question or falls skeptic of
 something in his mind, then the dangerous disease has appeared and its trouble
@@ -10606,7 +10578,7 @@ disputation is praiseworthy in all cases. Verily, the need for disputation varie
 <!-- PageBreak -->
 
 <!-- PageNumber="194" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 with the time, and this applies to the rule which governs it.
 
@@ -10718,7 +10690,7 @@ and leads to the science of Revelation which is an essential departure from the
 
 <!-- PageNumber="196" -->
 
-The quarter of the acts of worship
+
 purpose of the science of practical religion which is the topic of these books. The
 creeds which we have already mentioned are included within the deeds of the
 heart which we are required to admit with consent, by setting the heart firm on
@@ -10825,7 +10797,7 @@ Similarly, if the secret of the Divine decree were disclosed, the majority of
 <!-- PageBreak -->
 
 198
-The quarter of the acts of worship
+
 people would imagine (even falsely) that Allah is lacking in power, because
 their minds are short of comprehending anything which should remove that
 false impression. On the other hand, if someone talks about the day of
@@ -10932,7 +10904,7 @@ little; while others still receive much and hold nothing at all. The foam repres
 <!-- PageBreak -->
 
 <!-- PageNumber="200" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 unbelief and hypocrisy, which, although it rises to and floats upon the surface of
 the water, does not last; but guidance which benefits men, endures. Into this part
@@ -11038,7 +11010,7 @@ And: "And they shall say to their skin, 'Why do you witness against us?' They
 <!-- PageBreak -->
 
 <!-- PageNumber="202" -->
-<!-- PageHeader="The quarter of the acts of worship shall say, 'Allah who gives a voice to all things, has given us voice"(Fussilat 21)" -->
+<!-- PageHeader=" shall say, 'Allah who gives a voice to all things, has given us voice"(Fussilat 21)" -->
 
 ﴿ وَقَالُواْ لِجُلُودِهِمْ لِمَ شَهِدْتُمْ عَلَيْنَا قَالُواْ أَنطَقَنَا اللَّهُ الَّذِىّ أَنطَقَ كُلَّ شَىْءٍ
 
@@ -11149,7 +11121,7 @@ faith; who saved them from the errors of the unrighteous and the wickedness
 
 <!-- PageNumber="204" -->
 
-The quarter of the acts of worship
+
 of the unbelievers, and with His grace led them to follow the example of the
 chief Apostle; who directed their footsteps in the way of the honoured
 Companions of the Messenger of Allah "Allah's blessing and peace be upon
@@ -11250,7 +11222,7 @@ that you sow in the ground? Is it you that cause it to grow, or are We the Cause
 <!-- PageBreak -->
 
 <!-- PageNumber="206" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 Were it Our Will, We could crumble it to dry powder, and you would be left in
 wonderment, (Saying), "We are indeed left with debts (for nothing): "Indeed are
@@ -11362,7 +11334,7 @@ The second principle is the knowledge that Allah Almighty is eternally
 
 <!-- PageNumber="208" -->
 
-The quarter of the acts of worship
+
 ancient: He has no beginning, but He is the beginning of everything and before
 anything living or dead. The proof of this is found in supposing that if Allah were
 originated and not ancient, He would have been in need of an originator Himself.
@@ -11470,7 +11442,7 @@ these directions would never have existed. How then could Allah have been
 <!-- PageBreak -->
 
 <!-- PageNumber="210" -->
-<!-- PageHeader="The quarter of the acts of worship limited by any direction in eternity when every direction is originated." -->
+<!-- PageHeader=" limited by any direction in eternity when every direction is originated." -->
 
 Or how could He have become limited by any direction when He never had
 any direction above Him when He created man; for that will mean that He has a
@@ -11583,7 +11555,7 @@ The proof of this is found in the statement of Allah Almighty: " If there were,
 
 <!-- PageNumber="212" -->
 
-The quarter of the acts of worship
+
 in the heavens and the earth, other gods besides Allah, there would have been
 confusion in both! But glory to Allah, the Lord of the Throne: (High is He)
 above what they attribute to Him!" (Al-Anbiya 22)
@@ -11695,7 +11667,7 @@ How then has this fact not been known by a group of ignorant people while it
 <!-- PageBreak -->
 
 <!-- PageNumber="214" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 has been known by ignorant poets.
 
@@ -11804,7 +11776,7 @@ it is impossible to conceive of a knower without knowledge, and of knowledge
 <!-- PageBreak -->
 
 216
-The quarter of the acts of worship
+
 without something known, and of something known without a knower. These
 three are inseparable and the one is inconceivable without the other. Whoever
 would deem it possible that a knower would exist independently of knowledge,
@@ -11910,7 +11882,7 @@ Sajdah 13)
 <!-- PageBreak -->
 
 <!-- PageNumber="218" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 As to the evidence for it from reason (we know) that since Allah does neither
 like nor will sins and crimes, they must be in accordance with the will of the
@@ -12020,7 +11992,7 @@ so that He might reward them for the pains which they suffered, would violate
 
 <!-- PageNumber="220" -->
 
-The quarter of the acts of worship
+
 the dictates of the Law and reason, since He would regard resurrection and
 reward necessary and therefore incumbent upon Allah. If he means thereby that
 Allah will suffer some harm through its neglect, then it is impossible; and if he
@@ -12125,7 +12097,7 @@ and defined only through such study, with the result that the Messenger of Allah
 
 <!-- PageNumber="222" -->
 
-The quarter of the acts of worship
+
 argument is the same as that of the person who, on being warned by another that
 there is a wild lion standing behind him, and that unless he runs away the beast
 will devour him, and that he can ascertain that the warning is true if he will only
@@ -12229,7 +12201,7 @@ single individual." (Luqman 28)
 <!-- PageBreak -->
 
 <!-- PageNumber="224" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 ﴿ مَّا خَلْقُكُمْ وَلَا بَعْنُكُمْ إِلَّ كَنَفْسٍ وَاحِدَةِ (تَ﴾
 
@@ -12340,7 +12312,7 @@ imamate. 'Ali deemed that the surrender of the assassins of 'Uthman, because of
 
 <!-- PageNumber="226" -->
 
-The quarter of the acts of worship
+
 their many relatives among the tribes and the fact that these relatives were
 scattered all over the army, would lead to disturbances which would endanger the
 safety of the imamate in its early days. He, therefore, saw fit to postpone their
@@ -12448,7 +12420,7 @@ we evacuated those of the Believers who were there, But We found not there any
 <!-- PageBreak -->
 
 <!-- PageNumber="228" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 just (Muslim) persons except in one house." (Adh-Dhariyat 35:36)
 
@@ -12560,7 +12532,7 @@ word and deed is the fruit and result of inward submission. Thus the name of a
 
 <!-- PageNumber="230" -->
 
-The quarter of the acts of worship
+
 certain tree is freely used to signify both the plant itself as well as the fruit of
 the plant. Similarly the signification of the term belief may be extended so as to
 become general, thereby making it synonymous with the term Islam and in
@@ -12671,7 +12643,7 @@ most plausible position, since there is no choice but to follow the exact meanin
 
 <!-- PageNumber="232" -->
 
-The quarter of the acts of worship
+
 of terms and to satisfy the dictates of language. The Messenger of Allah "Allah's
 blessing and peace be upon him" said: "Whoever has in his heart the weight of an
 atom of belief will be brought forth from Hell fire". The heart does not become
@@ -12773,7 +12745,7 @@ most wretched who has belied the truth and turned their back." (Al-layl 15:16)
 <!-- PageBreak -->
 
 <!-- PageNumber="234" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 
 #### ﴿لَا يَصْلَنَهَ إِلَّا الْأَنْقَىِ الَّذِى كَذَّبَ وَتَوَلَّى )﴾
@@ -12884,7 +12856,7 @@ decree which must be accomplished" (Maryam 71)
 <!-- PageBreak -->
 
 <!-- PageNumber="236" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 ﴿وَإِن مِّنْكُمْ إِلَّ وَارِدُهَاْ كَانَ عَلَى رَبِّكَ حَنْمًا مَّقْضِيًّا
 
@@ -12995,7 +12967,7 @@ ways.
 <!-- PageBreak -->
 
 <!-- PageNumber="238" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 The first usage denotes an acceptance with the heart, a belief based on the
 authority of others without the benefit of revelation and an open heart. This is
@@ -13099,7 +13071,7 @@ he said: "Belief comprises over seventy branches." The same thing is also seen i
 
 <!-- PageNumber="240" -->
 
-The quarter of the acts of worship
+
 the words of the Messenger of Allah "Allah's blessing and peace be upon him"
 when He said: "A believer is no longer a believer when he commits fornication."
 And when works become an integral part of belief, it becomes evident that it is
@@ -13205,7 +13177,7 @@ things unto His Will. Thus Allah instructed His Prophet in courtesy and said to
 
 <!-- PageNumber="242" -->
 
-The quarter of the acts of worship
+
 him: "Say not of a thing, 'I will surely do it tomorrow' without, 'if it be the will of
 Allah'." (Al-Kahf 23)
 
@@ -13311,7 +13283,7 @@ is like unto a nude who should be clothed with piety." And again, "Belief
 
 <!-- PageNumber="244" -->
 
-The quarter of the acts of worship
+
 comprises over seventy divisions, the least of which is to clear the road of
 obstacles." This shows the dependence of the perfection of belief on good works.
 Its dependence on freedom from hypocrisy and concealed polytheism is shown
@@ -13408,7 +13380,7 @@ appeared in the balance in the scale of evil.
 <!-- PageBreak -->
 
 <!-- PageNumber="246" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 As-Sari As-Saqati once said: "If a person enters a garden containing trees of
 every kind and on these are birds of every kind, and then each bird calls to him in
@@ -13511,7 +13483,7 @@ despite the outward fulfillment of all the prerequisites of validity, may be blo
 <!-- PageBreak -->
 
 248
-The quarter of the acts of worship
+
 by hidden cause unknown except to Allah, the Lord of Lords of the mighty
 majesty. Hence it is desirable to entertain some doubts concerning the validity (of
 belief as well as all the works of righteousness).
@@ -13574,7 +13546,7 @@ down)": then leave them to plunge in vain discourse and trifling."" (Al-An'am
 <!-- PageBreak -->
 
 <!-- PageNumber="250" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 It is evident therefore that (the knowledge of Allah and allegiance to another
 besides Him) can not inhabit the same heart and Allah has not created for man
@@ -13679,7 +13651,7 @@ started in connection with their outward appearance and matters of cleanliness
 
 <!-- PageNumber="252" -->
 
-The quarter of the acts of worship
+
 are forbidden and evil?" I shall say, "Far be it from me to generalize on this
 subject and not treat every case on its own merit." Nevertheless I will say: "This
 excessive cleaning and these painful undertakings, the preparation of special
@@ -13789,7 +13761,7 @@ That which is removed is impurity. Substances are of three kinds: inanimate
 <!-- PageBreak -->
 
 <!-- PageNumber="254" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 objects, animate objects and parts of animate objects.
 
@@ -13895,7 +13867,7 @@ even after he had seen it eat a mouse. Nowhere in their land were tanks set apar
 <!-- PageBreak -->
 
 <!-- PageNumber="256" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 for cats to drink. Nor did the cats go down to the bottom of the well for water.
 
@@ -14001,7 +13973,7 @@ streamlets and dip impure vessels therein, and then wonder whether or not the
 
 <!-- PageNumber="258" -->
 
-The quarter of the acts of worship
+
 water has undergone any perceptible change. It has therefore become evident
 that whenever the quantity of waters exceeds two pitchers, ordinary impurities do
 not cause it to undergo any change.
@@ -14110,7 +14082,7 @@ and peace be upon him" taught us everything, even how to answer the call of
 <!-- PageBreak -->
 
 260
-The quarter of the acts of worship
+
 nature: How commanded us not to perform the act of abstersion with either
 bone or (dried) dung, and forbade us to face the Qiblah when defecating or
 urinating." A certain Bedouin having fought with one of the Companions told
@@ -14218,7 +14190,7 @@ when the taste of the mouth has become bad as a result of sleep, or long
 <!-- PageBreak -->
 
 <!-- PageNumber="262" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 abstinence from food, or eating a thing of unpleasant smell.
 
@@ -14323,7 +14295,7 @@ he washes his left foot he should say, "I seek your aid O Allah lest my foot
 <!-- PageBreak -->
 
 <!-- PageNumber="264" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 should slip off the bridge on that day when the feet of the hypocrites slip." (In
 washing his feet) he should let the water reach half way up his legs. When he is
@@ -14427,7 +14399,7 @@ be flung open before him and he will enter therein through whichever gate he
 <!-- PageBreak -->
 
 <!-- PageNumber="266" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 may desire." Said Umar "Good ablution drives away Satan from you." Mujahid
 also said: "He who is able to go to bed purified, remembering Allah and penitent,
@@ -14533,7 +14505,7 @@ ordained rite should be preceded by a single act of Tayammum.
 <!-- PageNumber="268" -->
 
 
-# The quarter of the acts of worship PART THREE: ON CLEANLINESS AND CLEANSING FROM THE EXTERNAL BODILY CYSTS AND DISCHARGES
+#  PART THREE: ON CLEANLINESS AND CLEANSING FROM THE EXTERNAL BODILY CYSTS AND DISCHARGES
 
 which are of Two Kinds: Discharges and cysts
 
@@ -14638,7 +14610,7 @@ beneath them. Consequently, the Messenger of Allah "Allah's blessing and
 
 <!-- PageNumber="270" -->
 
-The quarter of the acts of worship
+
 peace be upon him" ordered that the manicuring of nails plucking the hair off
 the arm-pits, and shaving the pubes should be done (at least) once every forty
 days, but he commanded that the part beneath the nails be cleaned regularly
@@ -14748,7 +14720,7 @@ money and requires labour.
 <!-- PageBreak -->
 
 <!-- PageNumber="272" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 The eighth is that the heat of the bath-house should remind the individual of
 the heat of Hell and, having spent one hour in the heat of the bathhouse, he
@@ -14858,7 +14830,7 @@ The second is the hair of the moustache. The Messenger of Allah "Allah's
 <!-- PageBreak -->
 
 <!-- PageNumber="274" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 blessing and peace be upon him" said: "Cut your moustaches off." According to
 another version, "Shear your moustaches." And according to another, "Trim your
@@ -14963,7 +14935,7 @@ same category and form a single line close to the ground. Therefore, one begins
 <!-- PageBreak -->
 
 <!-- PageNumber="276" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 with the right. Nevertheless any such assumption of their forming, as it were, a
 circle when the sole of the one foot is placed against that of the other, unlike the
@@ -15065,7 +15037,7 @@ been revealed to the Messenger of Allah "Allah's blessing and peace be upon
 
 <!-- PageNumber="278" -->
 
-The quarter of the acts of worship
+
 him" despite the fact that he was unlettered. Praise, therefore, be to Allah who
 has sent His Apostle to be a mercy unto men and through him to make
 available for them the blessings of this world and of the world to come.
@@ -15170,7 +15142,7 @@ hair?" they asked. Anas replied, "Do you not all dislike gray hair?"
 <!-- PageBreak -->
 
 <!-- PageNumber="280" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 It is also said that Yahya Ibn Aktham was appointed judge when he was
 twenty-one years old. While sitting in his court one day a certain man, wishing to
@@ -15278,7 +15250,7 @@ tradition. Now whereas the purpose of this book is to discuss outward and
 
 <!-- PageNumber="282" -->
 
-The quarter of the acts of worship
+
 physical cleanliness rather than the inward we shall confine ourselves to the
 former. Let it, however, be known that the inward filth and dirt from which it is
 necessary to clean one self are innumerable and we shall take them up in detail in
@@ -15344,7 +15316,7 @@ Chapter five: on the Friday prayer and its etiquette
 <!-- PageBreak -->
 
 <!-- PageNumber="284" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 Chapter six: on different problems of general significance, which the seeker is
 in need to learn and know
@@ -15459,7 +15431,7 @@ rewardable in the Sight of Allah)?" he said: "It is (to establish and perform)
 <!-- PageBreak -->
 
 <!-- PageNumber="286" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 prayers just at their stated prescribed times." (It is narrated by Ahmad and Ibn
 Hibban on the authority of Abdullah Ibn Amr that The Messenger of Allah
@@ -15567,7 +15539,7 @@ of Abu Qatadah that The Messenger of Allah "Allah's blessing and peace be
 <!-- PageBreak -->
 
 <!-- PageNumber="288" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 upon him") said: "The worst among thieves is he, who steals from his prayer."
 According to Ibn Mas'ud and Salman "Allah be pleased with them": "The prayer
@@ -15678,7 +15650,7 @@ It is said (according to the narration of Muslim on the authority of Abu
 
 <!-- PageNumber="290" -->
 
-The quarter of the acts of worship
+
 Hurairah) that a servant becomes the closest to Allah Almighty when he is in the
 posture of prostration; and this is the significance of Allah's statement: "But
 prostrate yourself in adoration, and bring yourself the closer (to Allah)!" (Al-Alaq
@@ -15790,7 +15762,7 @@ Him." (Al-Inshiqaq 6)
 <!-- PageBreak -->
 
 <!-- PageNumber="292" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 He further says: "So fear Allah; for it is Allah that teaches you. And Allah is
 well acquainted with all things." (Al-Baqarah 282)
@@ -15899,7 +15871,7 @@ submissively, then sit on my left hip and spread the back of the left foot, set 
 
 <!-- PageNumber="294" -->
 
-The quarter of the acts of worship
+
 the right foot on the biggest toe, and observe sincerity in all of that; but even, I
 do not know whether it will or will not be accepted from me."
 
@@ -16009,7 +15981,7 @@ This is what should be observed as far as his legs are concerned on standing.
 <!-- PageBreak -->
 
 <!-- PageNumber="296" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 He should also be eager to set up his knees and the part of his body where the
 belt is tied up. As for his head, he could leave it upright at the same level of his
@@ -16119,7 +16091,7 @@ On the other hand, let him recite aloud in the Morning, Maghrib and Isha'
 <!-- PageBreak -->
 
 <!-- PageNumber="298" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 prayers, unless he is praying behind an imam (for in this case the imam's
 recitation suffices him), but he should utter "Amen" aloud. After that, let him
@@ -16229,7 +16201,7 @@ prompted to stand as is the case in the first: on the contrary, he sits firm. So
 
 <!-- PageNumber="300" -->
 
-The quarter of the acts of worship
+
 him lie his left leg outside from underneath his body, and set up his right leg,
 placing the top of the big tow towards the direction of the Qiblah, unless it is
 difficult for him to do so.
@@ -16340,7 +16312,7 @@ his recitation; and two are due upon him who prays behind him, i.e. not to join
 
 <!-- PageNumber="302" -->
 
-The quarter of the acts of worship
+
 the Takbir of assuming the prayer with the Takbir of the imam, and not to join
 his End Salutation (Taslim) with the imam's; and one is common between them,
 i.e. not to join the first salutation (Taslim) which is obligatory with the last one,
@@ -16449,7 +16421,7 @@ the sitting for reciting the first Tashahhud, which corresponds to the habit, an
 
 <!-- PageNumber="304" -->
 
-The quarter of the acts of worship
+
 its purpose is just for reciting Tashahhud. For this reason, leaving it is clearly
 influential. Therefore, leaving both the supplication of opening the prayer and
 reciting the Surah has no effect, seeing that the standing is inhabited with Al-
@@ -16557,7 +16529,7 @@ for the celebration of My Praises." (Ta Ha 14)
 <!-- PageBreak -->
 
 <!-- PageNumber="306" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 <!-- PageHeader="﴿فَاعْبُدْنِىّ وَأَقِمِ الصَّلَوْةَ لِذِكْرِىّ (جـ)" -->
 
 The obligation of submission appears evident here since heedlessness
@@ -16665,7 +16637,7 @@ I do not think but that all of this great significance and importance is not
 <!-- PageBreak -->
 
 <!-- PageNumber="308" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 given to prayer depending only upon its outward acts, but also the purpose of the
 private conversation therein should be implied, therewith it is put forward before
@@ -16772,7 +16744,7 @@ Allah Almighty for His Good Aid.
 <!-- PageBreak -->
 
 <!-- PageNumber="310" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 
 ## The Internal Meanings Therewith The Prayer's Life Is Perfect
@@ -16884,7 +16856,7 @@ knowledge of the Glory and Majesty of Allah Almighty are joined together.
 
 <!-- PageNumber="312" -->
 
-The quarter of the acts of worship
+
 He who is independent from others, who feels secure against anything that
 may befall him could probably know the greatness of another, even though he
 is not in the state of exaltation and submissiveness to him, because the other
@@ -16993,7 +16965,7 @@ in their prayer, of reassurance, quietness, feeling of bliss and pleasure therei
 
 <!-- PageNumber="314" -->
 
-The quarter of the acts of worship
+
 a surety, he has told the truth. Each one will be mustered in the same state in
 which he dies, and each one will die in the same state in which he lives. But it is
 the state of his heart not of his body that is to be observed, since it is from the
@@ -17101,7 +17073,7 @@ humbled myself before my Lord Almighty in order not to abhor me." Then, he
 
 <!-- PageNumber="316" -->
 
-The quarter of the acts of worship
+
 set out while wearing it, and gave it to the first beggar whom he met. He further
 told Ali "Allah be pleased with him" to buy for him a leather hairless sandals
 which he put on.
@@ -17210,7 +17182,7 @@ container, then your garment, which represents your closer wrapper then your
 <!-- PageBreak -->
 
 <!-- PageNumber="318" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 complexion which represents your nearest crust, ignore not your core, which
 comprises your essence, i.e. your heart: endeavour to purify it through showing
@@ -17317,7 +17289,7 @@ Pardon of Allah Almighty.
 <!-- PageBreak -->
 
 <!-- PageNumber="320" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 In regard with the supplication of inauguration, the first word to start with is:
 "I've set my face, firmly and truly, towards Him Who created the heavens and the
@@ -17426,7 +17398,7 @@ Almighty, since all graces and favours are from Him; and he, who thinks there is
 <!-- PageBreak -->
 
 322
-The quarter of the acts of worship
+
 any grace or favour from anyone else, or intends anyone else with his thanks and
 praise, ignoring the fact that it is subjugated by Allah Almighty, his mentioning
 the Name of Allah (as commencement), as well as his praise and thanks are, to be
@@ -17534,7 +17506,7 @@ and those of Tasbih. It is narrated that it was the habit of An-Nakh'i, whenever
 
 <!-- PageNumber="324" -->
 
-The quarter of the acts of worship
+
 came upon Allah's statement: "No son did Allah beget, nor is there any god along
 with Him" (Al-Mu'minun 91)
 
@@ -17642,7 +17614,7 @@ good and pure manners and complements i.e. all dominion are to Allah Almighty.
 <!-- PageBreak -->
 
 <!-- PageNumber="326" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 Fill your heart with the presence of the Prophet "Peace be upon him" and his
 generous and honoured person, saying: "Peace, Allah's Mercy and Blessing be
@@ -17752,7 +17724,7 @@ who does not belong to the people who are granted the privilege of disclosure,
 
 <!-- PageNumber="328" -->
 
-The quarter of the acts of worship
+
 should, at least, have trust and believe in the unseen until it becomes visible to
 him through evidence.
 
@@ -17859,7 +17831,7 @@ having gazed his sight and turned down his head. Whenever Ibn Mas'ud saw him
 <!-- PageBreak -->
 
 <!-- PageNumber="330" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 are devoutly obedient. Had Muhammad "Peace be upon him" seen you, he would
 have rejoiced with you (or according to another narration, he would have loved
@@ -17969,7 +17941,7 @@ forgot a Holy Verse from his recitation. When he turned away he asked the
 <!-- PageBreak -->
 
 <!-- PageNumber="332" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 people: "What have I recited (in the prayer)?" the people gave no reply. He
 asked Ubai Ibn Ka'b "Allah be pleased with him" thereupon he said: "You've
@@ -18080,7 +18052,7 @@ Mu'adhdhins." Of a surety, forgiveness is more fitting to be sought and asked
 <!-- PageBreak -->
 
 <!-- PageNumber="334" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 for, since guidance is sought for to lead to forgiveness. According to the
 narration (of both At-Tirmidhi and Ibn Majah on the authority of Ibn Abbas) he
@@ -18188,7 +18160,7 @@ the conditions of his prayer. It is out of his sincerity not to take charge for 
 <!-- PageBreak -->
 
 <!-- PageNumber="336" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 leading the prayer. (According to the narration of the men of Sunan on the
 authority of Uthman Ibn Abu Al-As) the Messenger of Allah "Peace be upon
@@ -18299,7 +18271,7 @@ should be equal in length to the half of the first interval. The third interval 
 
 <!-- PageNumber="338" -->
 
-The quarter of the acts of worship
+
 be after his finishing from reciting the Surah; and it is the shortest of them all. It
 should be just enough for a short break between the recitation and Takbir, for it
 is forbidden to join both. Let not the one led in prayer recite after the imam but
@@ -18407,7 +18379,7 @@ right to say that there is no blame to do so with sincerity, on the condition th
 
 <!-- PageNumber="340" -->
 
-The quarter of the acts of worship
+
 should not lead to overstrain the attendants of the prayer, for their right of
 refraining from prolonging should be observed.
 
@@ -18519,7 +18491,7 @@ Friday, nor attended any congregational prayer, thereupon he said to him: "He
 
 <!-- PageNumber="342" -->
 
-The quarter of the acts of worship
+
 will be admitted to the fire (of Hell)." He kept visiting him and asking him the
 same question, and Ibn Abbas gave him the same answer: "He will be admitted
 to the fire."
@@ -18628,7 +18600,7 @@ bowing of the other rak'ah (in congregation), let him follow the congregation
 <!-- PageBreak -->
 
 344
-The quarter of the acts of worship
+
 with the intention to perform Zhuhr prayer (i.e. to offer four rak'ahs), which he
 should complete once the imam utters the End Salutation.
 
@@ -18737,7 +18709,7 @@ Messenger of Allah "Peace be upon him" said): "Allah's Mercy be upon him
 
 <!-- PageNumber="346" -->
 
-The quarter of the acts of worship
+
 who (has sexual relation with his wife and thus) causes (her) to take a bath,
 and he himself takes a bath (on Friday); then he hastens to go (to the mosque)
 at the earliest portion (of the due time of the prayer)." But this does not
@@ -18842,7 +18814,7 @@ the imam's ascent to the pulpit, nor during his sermon.
 <!-- PageBreak -->
 
 <!-- PageNumber="348" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 The fourth: This pertains to going very early in the morning to the mosque;
 and it is desirable to aim at the mosque from as far as two or three Farsakhs. Let
@@ -18949,7 +18921,7 @@ authority of Abdullah Ibn Busr that) he "Peace be upon him" said to (him who
 
 <!-- PageNumber="350" -->
 
-The quarter of the acts of worship
+
 stepped over the necks of the people): "What has prevented you from offering
 prayer with us?" He said: "Have you not seen me O Messenger of Allah?" he
 "Peace be upon him" said: "I've seen that you have delayed to come early, and
@@ -19055,7 +19027,7 @@ himself, and showing good manners, there will be no harm." At that point it is
 
 <!-- PageNumber="352" -->
 
-The quarter of the acts of worship
+
 said that "The (rewards of) deeds are (reckoned) in accordance to the intentions
 (of their doers)."
 
@@ -19163,7 +19135,7 @@ After the Friday congregation, let one pray six rak'ahs (as supererogatory).
 
 <!-- PageNumber="354" -->
 
-The quarter of the acts of worship
+
 In this issue, it is unanimously narrated on the authority of Ibn Umar that the
 Messenger of Allah "Peace be upon him" used to offer a two-rak'ah prayer
 after Friday congregation. But he "Peace be upon him" exhorted people to
@@ -19275,7 +19247,7 @@ saying: "This man has caused harm to me with his stories, and diverted me from
 
 <!-- PageNumber="356" -->
 
-The quarter of the acts of worship
+
 my supererogatory prayers." Ibn Umar beat him severely until he broke his stick
 on his back and then drove him away.
 
@@ -19379,7 +19351,7 @@ Fountain-Lake, and let us drink in his cup, unashamed, not regretting, not
 
 <!-- PageNumber="358" -->
 
-The quarter of the acts of worship
+
 doubting, not changing, not trying others, and not tried! Amen O Lord of the
 Worlds!"
 
@@ -19486,7 +19458,7 @@ bestow mercy upon me, and rescue me from the fire (of Hell)", and then
 
 <!-- PageNumber="360" -->
 
-The quarter of the acts of worship
+
 supplicates him with whichever invocations seems to him, it will receive answer
 from Him."
 
@@ -19590,7 +19562,7 @@ choose to leave his sandals during the prayer), let him place them in between hi
 <!-- PageBreak -->
 
 <!-- PageNumber="362" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 legs." Abu Hurairah himself said to another man: "Place them in between your
 legs, and cause no harm to a Muslim by them." but (according to the narration of
@@ -19696,7 +19668,7 @@ Asr prayer, that may do, but in this case he will have left what is preferred, a
 <!-- PageBreak -->
 
 <!-- PageNumber="364" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 come under the risk of disagreement. However, if he finds an imam to follow, let
 him offer the Asr prayer and then offer the Zhuhr prayer after it. of a surety, the
@@ -19804,7 +19776,7 @@ it is a noon time act, and that it is a performance of a duty at its prescribed 
 
 <!-- PageNumber="366" -->
 
-The quarter of the acts of worship
+
 time, and that it is an obligation, all in one state, differentiated into its various
 expressions while he observes them; and of a surety, this is absurd. Were he to
 impose that task on himself in standing up for a learned man, it would be
@@ -19911,7 +19883,7 @@ time, he finds a boy in the row, who has not yet attained the age of puberty, he
 
 <!-- PageNumber="368" -->
 
-The quarter of the acts of worship
+
 might take him out of the row and enter the row in his place, and turn back the
 boy.
 
@@ -20020,7 +19992,7 @@ obligatory prayer provided that he should not meet a congregation, for in this
 <!-- PageBreak -->
 
 <!-- PageNumber="370" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 case, the sequence should be reversed, and they should be performed out of the
 fulfillment of prayer in the prescribed time. Nevertheless, it is more desirable to
@@ -20127,7 +20099,7 @@ be upon a servant who offers a four-rak'ah prayer before Asr (obligatory prayer)
 <!-- PageBreak -->
 
 <!-- PageNumber="372" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 To do so in the hope of being included in the invocation of the Messenger of
 Allah "Allah's blessing and peace be upon him" is constantly desirable seeing that
@@ -20236,7 +20208,7 @@ offering a separate rak'ah for Witr is more excellent, since the Messenger of Al
 
 <!-- PageNumber="374" -->
 
-The quarter of the acts of worship
+
 regularly. But it is also said that the Witr connected prayer is more excellent, since
 it removes the suspicion of contradiction (of opinions), particularly from the part
 of the imam, who might be followed by him who is not of the opinion that the
@@ -20343,7 +20315,7 @@ palaces in the Garden, the width of each of which is as much as (a distance to b
 
 <!-- PageNumber="376" -->
 
-The quarter of the acts of worship
+
 covered in) one hundred journey, and between which a garden will be planted for
 him, and if all of the inhabitants of the earth go round it, it will extend to imply
 them." however, its remaining good merits will be discussed later in the Book of
@@ -20452,7 +20424,7 @@ prayers two rak'ahs, in the first rak'ah of which he recites Al-Fatihah and the
 <!-- PageBreak -->
 
 <!-- PageNumber="378" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 Holy Verse of the Throne one hundred times, and in the second both Al-Fatihah
 and "Say: 'He is Allah, the One and Only" one hundred times, and invokes
@@ -20560,7 +20532,7 @@ recites in the first Al-Fatihah and "Say: I seek refuge with (Allah) Lord of
 <!-- PageBreak -->
 
 <!-- PageNumber="380" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 daybreak ... " ten times, and in the second Al-Fatihah and "Say: I seek refuge with
 (Allah) Lord of mankind ... " ten times, and when he utters salutation asks for
@@ -20668,7 +20640,7 @@ Secondly: when it is the morning of the Id day, let one take bath, get adorned
 
 <!-- PageNumber="382" -->
 
-The quarter of the acts of worship
+
 and apply perfume to himself, the same as we've mentioned in the Friday
 congregation. Wearing upper garment and turban is much better for men, and the
 children should avoid silk (in their clothes), and the old women should avoid
@@ -20776,7 +20748,7 @@ Damrah Ibn Habib from one of the companions that the Messenger of Allah
 <!-- PageBreak -->
 
 <!-- PageNumber="384" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 "Allah's blessing and peace be upon him" said: "The superiority of performing
 the voluntary prayer in one's house to performing it in the mosque is like the
@@ -20883,7 +20855,7 @@ When the sun eclipses at a time in which the prayer is or is not undesirable,
 <!-- PageBreak -->
 
 386
-The quarter of the acts of worship
+
 let's a caller make a public announcement that the people should gather for
 congregational prayer. The imam then should lead a two-rak'ah prayer, each of
 which contains two bowings, the first of which is longer than the second. He
@@ -20988,7 +20960,7 @@ though others are possible too.
 <!-- PageBreak -->
 
 <!-- PageNumber="388" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 On the other hand, the narrations which pertain to the excellence of the
 funeral prayer and following the funeral procession are so much famous and we
@@ -21091,7 +21063,7 @@ should be given no concession to leave it: on the contrary, he should overtake i
 <!-- PageBreak -->
 
 <!-- PageNumber="390" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 in another time, lest he should not be inclined to comfort and luxury. It is good
 to overtake it, by way of self-mortification on the one hand, and in accordance
@@ -21195,7 +21167,7 @@ thinks of doing any job he should offer a two-rak'ah-prayer other than the
 
 <!-- PageNumber="392" -->
 
-The quarter of the acts of worship
+
 obligatory ones and then name the matter (concerning which he likes to seek
 Allah's Guidance)", and supplicate with the supplication which we've mentioned.
 According to a wise man: "He, who gives four things, will not be forbidden four
@@ -21298,7 +21270,7 @@ prayer of greeting the mosque. When he performs ablution, he prays two rak'ahs
 <!-- PageBreak -->
 
 <!-- PageNumber="394" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 voluntarily, in order that his ablution should not be idle, the same as Bilal did.
 This prayer is voluntary which occurs just after the ablution. The narration
@@ -21477,7 +21449,7 @@ to him upon whom it is binding.
 <!-- PageBreak -->
 
 <!-- PageNumber="398" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 There are five conditions which pertain to the property, upon which the
 obligatory charity is due: It should be livestock; such should be maintained on
@@ -21586,7 +21558,7 @@ gravid , nor sheep which has just brought forth, nor male, nor the best among th
 <!-- PageBreak -->
 
 <!-- PageNumber="400" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 flock should be taken (as obligatory charity).
 
@@ -21700,7 +21672,7 @@ property) is confirmed to what is similar, i.e. the war booty, and considering s
 
 <!-- PageNumber="402" -->
 
-The quarter of the acts of worship
+
 (minimum amount liable to Zakat) is not unlikely, in view of the fact that the way
 of spending both is one. For this reason, it (its liability to Zakat) is limited to both
 gold and silver.
@@ -21809,7 +21781,7 @@ fall out of him.
 <!-- PageBreak -->
 
 <!-- PageNumber="404" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 However, it is permissible to pay the alms in advance, provided that the limit
 amount liable to alms has been obtained, and a whole year has elapsed. It is also
@@ -21919,7 +21891,7 @@ according to an opinion; even though to avoid the uncertainty resulting from
 
 <!-- PageNumber="406" -->
 
-The quarter of the acts of worship
+
 the difference (of views in this matter) is much better. So, let the obligatory
 charity due upon the property of every town be brought out and distributed
 among its people; and there is no harm to give out of that the strangers within
@@ -22027,7 +21999,7 @@ family, he said: "The like of it." when he "Peace be upon him" asked Abu Bakr he
 <!-- PageBreak -->
 
 <!-- PageNumber="408" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 said: "I've left for them Allah and His Messenger." On that the Messenger of
 Allah "Allah's blessing and peace be upon him" said: "The difference between
@@ -22136,7 +22108,7 @@ sustenance has been restricted, and he has been forced to be in need of it, and 
 
 <!-- PageNumber="410" -->
 
-The quarter of the acts of worship
+
 the same time, he (the wealthy) does not stretch a helping hand to give thanks to
 Allah Almighty Who has made him free from want and begging, which He has
 visited upon others, by giving in charity one-fortieth or one-tenth of his property.
@@ -22236,7 +22208,7 @@ showing off lies in his knowledge of the identity of the mediator. Whenever the
 
 <!-- PageNumber="412" -->
 
-The quarter of the acts of worship
+
 almsgiver's purpose is to obtain fame, his good deed will be fruitless since the
 purpose of the obligatory charity is to eliminate niggardliness and weaken the love of
 wealth; but even the love of position and rank is more dangerous than the love
@@ -22341,7 +22313,7 @@ the poor, although it is incumbent upon him to see himself beneficiary and owing
 
 <!-- PageNumber="414" -->
 
-The quarter of the acts of worship
+
 to the poverty-stricken, who concedes to accept from him the due of Allah
 Almighty which is the cause of his purification and salvation from the fire (of
 Hell); and were he not to accept it, he would remain in pledge of it. so, he should
@@ -22444,7 +22416,7 @@ giving him in charity? If his disapproval of the poor who committed sin against
 <!-- PageBreak -->
 
 <!-- PageNumber="416" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 him after giving him charity was stronger (than it would have been before giving
 charity to him), then his charity had not been free from the taint of reminders of
@@ -22549,7 +22521,7 @@ the view that he spends (in charity) just in expectation of the reward, it is no
 
 <!-- PageNumber="418" -->
 
-The quarter of the acts of worship
+
 fitting for him to make much of spending that the reward of which he will receive
 is so many times like it.
 
@@ -22653,7 +22625,7 @@ concern." This was mentioned to Al-Junaid he made good of it and said
 
 <!-- PageNumber="420" -->
 
-The quarter of the acts of worship
+
 describing him: "This is one of the devotees of Allah Almighty." He further said:
 "I've never heard a speech much better than that for a long time." It was related
 that this same man came upon hard times and decided to close the shop
@@ -22758,7 +22730,7 @@ Allah.
 <!-- PageBreak -->
 
 <!-- PageNumber="422" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 The fourth characteristic is that the beneficiary should be unknown, and
 belong to those who conceal their states (of poverty) and hide their need (from
@@ -22866,7 +22838,7 @@ he needs, and has no power to get it. it is inordinate to stipulate for a poor t
 <!-- PageBreak -->
 
 <!-- PageNumber="424" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 have no garment beyond what covers his private parts, since on the whole, the
 like of that could hardly be found. His being accustomed to begging should not
@@ -22970,7 +22942,7 @@ thereby to avoid the dangers of suspicions. The pious person chooses the safest
 <!-- PageBreak -->
 
 <!-- PageNumber="426" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 course of conduct, abandoning what is suspicious to what is not suspicious. The
 problematic intermediate degrees between the two definite and contrasting
@@ -23080,7 +23052,7 @@ helping him serve Allah Almighty, with the intention to become much stronger
 <!-- PageBreak -->
 
 <!-- PageNumber="428" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 therewith in his obedience to Allah Almighty; and if he could not, let him then
 spend it in what has been made permissible by Allah Almighty. But if he uses it to
@@ -23185,7 +23157,7 @@ things, all of which are abhorred by Law. When the amount of his need has been
 
 <!-- PageNumber="430" -->
 
-The quarter of the acts of worship
+
 determined, he should not take more but rather should take what is sufficient for
 his need within one year beginning with the time of payment. For this is the limit
 which the Law allows, since with the lapse of each year the occasions of the
@@ -23287,7 +23259,7 @@ things if it does not appear (to the recipient) what might arouse his suspicion 
 
 <!-- PageNumber="432" -->
 
-The quarter of the acts of worship
+
 their being unlawful. The questions relating to begging and the different degrees
 of probability will be discussed in the Book on what is Lawful and what is
 Unlawful, Allah Willing.
@@ -23399,7 +23371,7 @@ orphan, and the captive" (Al-Insan 8)
 <!-- PageBreak -->
 
 <!-- PageNumber="434" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 Khattab) used to say: "O Allah! bestow plenty (and abundance of blessings) upon
 the generous among us, perchance they would return its benefit to the needy
@@ -23509,7 +23481,7 @@ returned it. he was asked: "Why have you returned what Allah Almighty had
 
 <!-- PageNumber="436" -->
 
-The quarter of the acts of worship
+
 given you (through His servant)?" he said: "You have joined others with Allah
 in that which belongs only to Allah Almighty, and have not been satisfied with
 Allah Almighty Alone, thereupon I rejected your joining." One of the Gnostics
@@ -23615,7 +23587,7 @@ recommended. In this respect, The Messenger of Allah "Allah's blessing and
 <!-- PageBreak -->
 
 <!-- PageNumber="438" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 peace be upon him" said: "He, who give no thanks to the people (for their gifts)
 has, indeed, not been grateful to Allah Almighty." Thankfulness here stands in
@@ -23722,7 +23694,7 @@ some speech is (in its effect like) magic." The Messenger of Allah "Allah's
 
 <!-- PageNumber="440" -->
 
-The quarter of the acts of worship
+
 blessing and peace be upon him" said: "If anyone of you knows good in his
 brother, he should tell him about it, for this prompts his desire to do more
 good." The Messenger of Allah "Allah's blessing and peace be upon him" further
@@ -23903,7 +23875,7 @@ Thus the reward of the fasting man will be given amply and abundantly and it
 <!-- PageBreak -->
 
 <!-- PageNumber="444" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 will be beyond imagination or estimate. It is fitting to be so, because fasting
 belongs to Allah Almighty and, by virtue of this relation, it has been rendered
@@ -24007,7 +23979,7 @@ not make valid his fasting of Ramadan, or even the obligatory fasting at all. Bu
 
 <!-- PageNumber="446" -->
 
-The quarter of the acts of worship
+
 is held valid for the voluntary fasting; and this is what we meant by (saying that
 the intention should be stated) at night before dawn. If one states his intention to
 observe fasts absolutely or the obligatory fasts with no restriction, it will not
@@ -24117,7 +24089,7 @@ imitation of the fasting persons), it is obligatory upon anyone who broke fastin
 
 <!-- PageNumber="448" -->
 
-The quarter of the acts of worship
+
 woman is under no obligation to fast for the rest of the day if she has already got
 clean. Similarly the traveller, who at the end of two days' journey, arrives not in a
 state of fasting, is under no obligation to fast for the rest of the day. It is also
@@ -24224,7 +24196,7 @@ heart." It is further narrated on the authority of Jabir from Anas that the
 <!-- PageBreak -->
 
 <!-- PageNumber="450" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 Messenger of Allah "Allah's blessing and peace be upon him" said: "Five things
 break the fast of the fasting person: telling a lie, backbiting, going about with
@@ -24332,7 +24304,7 @@ passions as would have remained inactive had it been left on its custom (before
 
 <!-- PageNumber="452" -->
 
-The quarter of the acts of worship
+
 fasting). The spirit and the secret of fasting are to weaken the powers which
 Satan uses as his instruments to turn men back to evil; and this will not be
 achieved unless one reduces his food to the amount of food which he would
@@ -24438,7 +24410,7 @@ Verily an atom's weight of the worship of the righteous and pious, endued
 
 <!-- PageNumber="454" -->
 
-The quarter of the acts of worship
+
 with certainty of faith is much better and even heavier than as much as
 mountains of worship of those who are misguided and misled. For this reason,
 one of the learned men said: "Many a person who seems fasting even though he
@@ -24539,7 +24511,7 @@ good deeds, preferably better than those done on the (first) ten days of Dhul-
 
 <!-- PageNumber="456" -->
 
-The quarter of the acts of worship
+
 Hijjah, the fast of any day of which is equal (in reward) to the fasts of a whole
 year, and standing for night supererogatory prayer on any night of which is
 equal (in reward) to standing for night supererogatory prayers on the night of
@@ -24641,7 +24613,7 @@ beginning from the) Id day, in addition to the three days of Tashriq, arguing th
 
 <!-- PageNumber="458" -->
 
-The quarter of the acts of worship
+
 this might harden the heart, give rise to bad manners and customs, and open the
 gate of lusts and desires; and by my life, this is true to most of the people,
 particularly those whose habit is to eat twice each day and night.
@@ -24697,7 +24669,7 @@ and inward works. Now, let's begin with the first chapter.
 <!-- PageBreak -->
 
 <!-- PageNumber="460" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 
 # CHAPTER ONE: ON THE GOOD MERITS OF THE GREATER PILGRIMAGE (HAJJ), THE EXCELLENCE OF MECCA AND THE ANCIENT HOUSE, AND THE PILLARS AND CONDITIONS OF ITS OBLIGATION.
@@ -24803,7 +24775,7 @@ family of the Prophet: "Such as has the greatest sin is he, who stands at Arafah
 <!-- PageBreak -->
 
 <!-- PageNumber="462" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 thinking that Allah Almighty will not forgive for him."
 
@@ -24905,7 +24877,7 @@ woke up with pleasure that was beyond description.
 <!-- PageBreak -->
 
 <!-- PageNumber="464" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 It is further narrated from him that he said: I performed Hajj one year, and
 when I finished from all of my ceremonies, I thought of those whose Hajj might
@@ -25008,7 +24980,7 @@ pre-Islamic period of ignorance. Then the Anti-Christ would appear and Jesus
 
 <!-- PageNumber="466" -->
 
-The quarter of the acts of worship
+
 would be like the pregnant woman in travail, waiting for the moment of her
 delivery.
 
@@ -25117,7 +25089,7 @@ Allah "Allah's blessing and peace be upon him" said in this respect (according t
 <!-- PageBreak -->
 
 <!-- PageNumber="468" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 the authentic narration on the authority of Abu Hurairah): "A single prayer to be
 offered in this mosque of mine (in Medina) is better than one thousand prayers to
@@ -25220,7 +25192,7 @@ accompany not a Quraishi man, and make not public your objects of charity."
 <!-- PageBreak -->
 
 <!-- PageNumber="470" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 However, he disliked (the prayer in) the first row because such as does obtains
 fame, and whenever he is absent, he will be searched for, with the result that his
@@ -25330,7 +25302,7 @@ was due, and he died without performing it, I would offer no funeral prayer on
 
 <!-- PageNumber="472" -->
 
-The quarter of the acts of worship
+
 him." One of them had a wealthy neighbour who died without performing the
 obligation of Hajj, thereupon he did not offer funeral prayer on him. According
 to Ibn Abbas: "He, who died without performing Hajj or giving obligatory
@@ -25436,7 +25408,7 @@ The third pertains to getting the head shaved or the nails cut off. If one does
 
 <!-- PageNumber="474" -->
 
-The quarter of the acts of worship
+
 any of both, a ransom i.e. an offering of a sheep becomes due upon him. But
 there is no harm to apply kohl (to the eyes), enter the bath, get oneself exposed
 to phlebotomy or cupping, or to comb the hair.
@@ -25540,7 +25512,7 @@ life, upon You I've put my trust, by You I've held fast, and to You I've turned
 
 <!-- PageNumber="476" -->
 
-The quarter of the acts of worship
+
 my face. O Allah! It is You (upon Whom I put) my Reliance, and You are my
 hope: suffice me against what concerns me and what concerns me not, and
 what You have knowledge of better than me: Honoured be Your Shelter, and
@@ -25642,7 +25614,7 @@ of Your servants towards us, and cause them to treat us with mercy and
 <!-- PageBreak -->
 
 <!-- PageNumber="478" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 clemency: You are the Most Merciful of those who are merciful."
 
@@ -25752,7 +25724,7 @@ Your servants; and make me one of Your devotees who obey You (in service and
 <!-- PageBreak -->
 
 <!-- PageNumber="480" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 worship)."
 
@@ -25865,7 +25837,7 @@ hypocrisy, schism, the bad manners, the evil sight of the family, property and
 <!-- PageBreak -->
 
 <!-- PageNumber="482" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 offspring." When he reaches the spout let him say: "O Allah! shade us
 underneath Your Throne on the very day on which there will be no shade but
@@ -25969,7 +25941,7 @@ righteous pious servants. O Allah! as You guided me to Islam, make me
 
 <!-- PageNumber="484" -->
 
-The quarter of the acts of worship
+
 constantly firm on it, through Your Grace and Care, and use me in Your
 obedience, and the obedience of Your Messenger; and deliver me from the
 misleading afflictions."
@@ -26070,7 +26042,7 @@ circumambulation, whatever it might be.
 <!-- PageBreak -->
 
 <!-- PageNumber="486" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 
 ## The Sixth Subsection: On Standing And What Precedes It
@@ -26176,7 +26148,7 @@ and from the evil of the misfortunes of time. O Allah! I seek refuge with You
 
 <!-- PageNumber="488" -->
 
-The quarter of the acts of worship
+
 from turning the power and health given by You (from me), from the sudden
 attack of Your Wrath, and the whole of Your Displeasure. O Allah! guide me
 with the right guidance, and forgive for me in the hereafter and in this world: O
@@ -26270,7 +26242,7 @@ Qur'an) to Muhammad the Seal of the Prophets: " Say to the Unbelievers, if
 
 <!-- PageNumber="490" -->
 
-The quarter of the acts of worship
+
 (now) they desist (from unbelief), their past would be forgiven them; but if they
 persist, the punishment of those before them is already (a matter of warning for
 them)" (Al-Anfal: 38)
@@ -26375,7 +26347,7 @@ himself in supplication until it is clear: "O Allah! by the right of the Sacred
 <!-- PageBreak -->
 
 <!-- PageNumber="492" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 Monument; the Sacred month; the Sacred House; the Corner (of the Black Stone)
 and the Station (of Abraham): convey to the spirit of Muhammad from us
@@ -26479,7 +26451,7 @@ perform circumambulation.
 <!-- PageBreak -->
 
 <!-- PageNumber="494" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 As to the imam, it is out of the sunnah to deliver his sermon on that day after
 the decline of the sun, and it was (on that day that) the Messenger of Allah
@@ -26582,7 +26554,7 @@ upon him" said (according to the narration of Ibn Majah on the authority of
 <!-- PageBreak -->
 
 496
-The quarter of the acts of worship
+
 Jabir): "The water of Zamzam acts (as remedy) for that for which it is drunk."
 This means that it cures such of ailments as is intended by drinking it.
 
@@ -26686,7 +26658,7 @@ Peace be upon you O leader of good! Peace be upon you O conqueror of piety!
 <!-- PageBreak -->
 
 <!-- PageNumber="498" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 Peace be upon you O Prophet of mercy! Peace be upon you O guide of the
 nation! Peace be upon you O leader of those of light! Peace be upon you and
@@ -26790,7 +26762,7 @@ walks) until he reaches the mosque of Quba and offer prayer in it will receive (
 
 <!-- PageNumber="500" -->
 
-The quarter of the acts of worship
+
 reward) equal to that of Umrah." Let him come to the well of Aris which lies
 near the mosque and perform ablution and drink from its water, for it is said
 that the Messenger of Allah "Allah's blessing and peace be upon him" spat in
@@ -26897,7 +26869,7 @@ those of sound hearts among the people dislike that unless his intention is to s
 
 <!-- PageNumber="502" -->
 
-The quarter of the acts of worship
+
 in Mecca, and he has not what might help him reach there. In this case, there is
 no harm to take charge just for this intention, and not with the intention to attain
 this world through religion but to attain religion through this world. At this point,
@@ -27004,7 +26976,7 @@ capacity, for this is better. At his death, Abdullah Ibn Abbas "Allah be pleased
 <!-- PageBreak -->
 
 <!-- PageNumber="504" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 with both" advised his sons saying: "O my sons! Perform Hajj on foot, for the
 walking pilgrim receives as much as seven hundred good deeds of those of the
@@ -27115,7 +27087,7 @@ to them and snatched them from the backs of the camels, so that some of the
 <!-- PageBreak -->
 
 <!-- PageNumber="506" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 camels were startled."
 
@@ -27228,7 +27200,7 @@ case there is any; for indeed, this is one of the signs of the acceptance of his
 <!-- PageBreak -->
 
 <!-- PageNumber="508" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 Verily, the calamity on the way to Hajj is equal (in reward) to the spending in the
 Cause of Allah, in a rate of seven hundred Dirhams for each Dirham, and this is
@@ -27332,7 +27304,7 @@ familiar to them, nor are the minds guided to their significance. Thus, nothing
 
 <!-- PageNumber="510" -->
 
-The quarter of the acts of worship
+
 motivates one to do them other than the absolute command (of Allah Almighty),
 whose purpose is to comply with the command in so far it is only a command,
 whose implementing is obligatory. This keeps the mind away from its normal
@@ -27441,7 +27413,7 @@ As for provisions, he should seek it from a lawful source, and if he feels he is
 
 <!-- PageNumber="512" -->
 
-The quarter of the acts of worship
+
 eager to take much of it, and to keep what will remain with him along his journey,
 which does not change nor putrefy before achieving his purpose, let him
 remember that the journey to the hereafter is much longer than this journey (to
@@ -27547,7 +27519,7 @@ response be not accepted, nor you be blessed'." When he started reciting
 
 <!-- PageNumber="514" -->
 
-The quarter of the acts of worship
+
 Talbiyah, he swooned and fell down of his riding mount. He kept on that state
 until he fulfilled his Hajj.
 
@@ -27654,7 +27626,7 @@ of Ibn Abbas that the Messenger of Allah "Allah's blessing and peace be upon
 
 <!-- PageNumber="516" -->
 
-The quarter of the acts of worship
+
 him" said: "The Black Stone is the Right Hand of Allah on earth, therewith He
 shakes hands with His creatures, in the same way as a man shakes hands with
 his brother."
@@ -27761,7 +27733,7 @@ remember that it is the city chosen by Allah Almighty for His Messenger "Allah's
 <!-- PageBreak -->
 
 <!-- PageNumber="518" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 blessing and peace be upon him", and made the place of his migration; and that it
 was his abode, in which he laid the foundation of the obligations and duties
@@ -27868,7 +27840,7 @@ be upon him", and take on the impression of his ascent to the pulpit, and pictur
 
 <!-- PageNumber="520" -->
 
-The quarter of the acts of worship
+
 in your heart his brilliant countenance, as if he were on the pulpit, surrounded by
 both the Muhajirs and the Ansar, as he "Peace be upon him" was urging them in
 his sermon to obey Allah (and comply with His Commands). Then, ask Allah
@@ -27947,7 +27919,7 @@ However, it is out of the ways of guarding it in the hearts, as well as in (a
 
 <!-- PageNumber="522" -->
 
-The quarter of the acts of worship
+
 written form in) Mushafs, the continuous recitation, and regular studies of it, in
 addition to undertaking its proprieties and conditions, and guarding such of
 internal works and external deeds as it contains. All of that could be explained in
@@ -28062,7 +28034,7 @@ Ibn Ka'b Al-Qurzhi: "When the people will hear the Qur'an (being recited by)
 
 <!-- PageNumber="524" -->
 
-The quarter of the acts of worship
+
 Allah on the Day of Judgement, they will seem as if they have never heard it
 before that." According to Al-Fudail Ibn Iyad: "The carrier of the Qur'an should
 not be in need of anyone, and even to the rulers and those inferior to them (in
@@ -28172,7 +28144,7 @@ We lived for a long time during which one of us might have been given faith
 
 <!-- PageNumber="526" -->
 
-The quarter of the acts of worship
+
 before (his knowledge of) the Qur'an, and once a certain Surah was revealed
 upon Muhammad "Peace be upon him", he would learn what is lawful and what
 is unlawful in it, such of commands and admonitions as it contained, and that at
@@ -28282,7 +28254,7 @@ concludes it by daylight, they keep invoking Allah's Prayer and Blessing upon
 
 <!-- PageNumber="528" -->
 
-The quarter of the acts of worship
+
 him until night enters upon him; and in this way, their blessing encompasses
 night and daylight.
 
@@ -28389,7 +28361,7 @@ It should be known to you that the recitation in a slow measured rhythmic
 <!-- PageBreak -->
 
 530
-The quarter of the acts of worship
+
 tones and pleasant voice is desirable, not only for the purpose of reflecting and
 considering its meanings, since it is desirable for the non-Arab who could not
 understand well the meanings of the Qur'an to recite it in a slow measured
@@ -28496,7 +28468,7 @@ with his tongue or with his heart, saying: Exalted be Allah! we seek refuge with
 <!-- PageBreak -->
 
 <!-- PageNumber="532" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 Allah! O Allah! bestow sustenance upon us! O Allah! bestow mercy upon us!"
 
@@ -28605,7 +28577,7 @@ reciting the Qur'an) in a Mushaf is seven (times greater), because looking at th
 
 <!-- PageNumber="534" -->
 
-The quarter of the acts of worship
+
 Mushaf is also a kind of worship. Uthman "Allah be pleased with him" is
 reported to have torn two Mushafs in view of his reciting in them so much.
 However, a great number of the holy companions used to recite in Mushafs, and
@@ -28716,7 +28688,7 @@ Majesty to the degree of having His speech understandable to His creatures.
 
 <!-- PageNumber="536" -->
 
-The quarter of the acts of worship
+
 Consider then How he has been kind to His creatures, through conveying the
 meanings of His Speech, Which is an Ancient Attribute belonging to His Nature,
 to the minds of His creatures, and how this Attribute is manifested to them in the
@@ -28825,7 +28797,7 @@ the skin and complexion of the toucher unless he is clean, so are the internal
 
 <!-- PageNumber="538" -->
 
-The quarter of the acts of worship
+
 meanings of the Qur'an, because of its power and glory, veiled from the inside of
 the heart of the reciter unless it gets pure and clean from any kind of
 abomination, and is enlightened by the light of exaltation and veneration; and as
@@ -28934,7 +28906,7 @@ be fitting for me to turn away?" he then regarded this thought a whispered
 
 <!-- PageNumber="540" -->
 
-The quarter of the acts of worship
+
 suggestions; and it is so as long as it diverts him from understanding what he is
 reciting in his prayer, and of a surety, Satan could not have power over the like of
 this man except through causing him to be engaged in the serious matters of his
@@ -29044,7 +29016,7 @@ itself, for he who knows the truth should see it in everything round him, since
 
 <!-- PageNumber="542" -->
 
-The quarter of the acts of worship
+
 everything comes from Him, and inevitably should return to Him, and is done
 by Him, and for Him. He then is assuredly the entirety; and he who does not
 see Him in all that he sees does not, in fact, know Him (as he should be
@@ -29152,7 +29124,7 @@ you, they say to those who have received knowledge, "What is it he said just
 <!-- PageBreak -->
 
 <!-- PageNumber="544" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 then?" Such are men whose hearts Allah has sealed, and who follow their own
 lusts." (Muhammad 16)
@@ -29262,7 +29234,7 @@ devotee turning (to Allah)." (Qaf 8)
 <!-- PageBreak -->
 
 <!-- PageNumber="546" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 ﴿تَبْصِرَةُ وَذِكْرَى لِكُلِّ عَبْدٍ مُبِيبٍ ◌َا﴾
 
@@ -29376,7 +29348,7 @@ fitting that everyone should be included. As long as this certain reciter is
 
 <!-- PageNumber="548" -->
 
-The quarter of the acts of worship
+
 intended, let not him be concerned but with himself, and not with the other
 people, and rather let him assume that it is he that is intended (and addressed).
 Allah Almighty says: "this Qur'an has been revealed to me by inspiration, that I
@@ -29483,7 +29455,7 @@ and We brought you as a witness against these People" (An-Nisa 41)
 <!-- PageBreak -->
 
 <!-- PageNumber="550" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 ﴿فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أُمَّةٍ بِشَهِيدٍ وَحِثْنَا بِكَ عَلَى هَنَؤُلاءِ شَهِدًا (ََّ﴾
 
@@ -29598,7 +29570,7 @@ faith strengthened, and put (all) their trust in their Lord." (Al-Anfal 2)
 <!-- PageBreak -->
 
 <!-- PageNumber="552" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 ﴿ إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَحِلَتْ قُلُوبُهُمْ وَإِذَا تُلِيَتْ عَلَيْهِمْ
 
@@ -29708,7 +29680,7 @@ Messenger of Allah "Allah's blessing and peace be upon him". Then, Allah
 
 <!-- PageNumber="554" -->
 
-The quarter of the acts of worship
+
 Almighty raised me up to a higher station, in which it seems as if I hear it from its
 Producer (i.e. Allah Almighty), thereupon I come to entertain a sweetness and
 bliss in it which I could not endure to leave."
@@ -29819,7 +29791,7 @@ critical the matter of understanding the mysteries of the Holy Qur'an, and such 
 
 <!-- PageNumber="556" -->
 
-The quarter of the acts of worship
+
 its abstruse meanings as are disclosed to the masters of pure hearts: how should it
 be desirable, since the Messenger of Allah "Allah's blessing and peace be upon
 him" said: 'He, who interprets the Qur'an just depending upon his own opinion,
@@ -29925,7 +29897,7 @@ salvation lies in it." according to Ali "Allah be pleased with him": "He, who
 
 <!-- PageNumber="558" -->
 
-The quarter of the acts of worship
+
 understands well the Holy Qur'an, becomes able to interpret therewith all kinds
 of knowledge." This statement of him reveals that in the Qur'an there is reference
 to the main points of all kinds of knowledge.
@@ -30036,7 +30008,7 @@ surely, this meaning would not have appeared to him from the Holy Qur'an. This
 
 <!-- PageNumber="560" -->
 
-The quarter of the acts of worship
+
 (kind of interpretation) might be done with knowledge, such as the one who
 confirms his innovation with some Holy Verses from the Qur'an, even though he
 knows that it is not this meaning which is intended by the Holy Verse, but he
@@ -30146,7 +30118,7 @@ It means that they had been made to drink into their hearts the love of the
 
 <!-- PageNumber="562" -->
 
-The quarter of the acts of worship
+
 calf; and it goes without saying that the (word) love here has been omitted (by
 way of concision). Allah Almighty further says: " In that case We should have
 made you taste two times the portion in this life, and two times the portion in
@@ -30263,7 +30235,7 @@ A'raf 75)
 <!-- PageBreak -->
 
 <!-- PageNumber="564" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 ﴿ قَالَ الْمَلَأُ الَّذِينَ اسْتَكْبَرُواْ مِنْ قَوْمِهِ، لِلَّذِينَ أَسْتُضْعِفُواْ لِمَنْ ءَامَنَ (٦٥)﴾
 Yo
@@ -30378,7 +30350,7 @@ contumacious Rejecter (of Allah)!" (Qaf 23:24)
 <!-- PageBreak -->
 
 <!-- PageNumber="566" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 ﴿ وَقَالَ قَرِينُهُ هَذَا مَا لَدَىَّ عَتِيدُ تَ أَلْقِيَا فِى جَهَنُ كُلَّ كَفَّارٍ عَنِيدٍ ◌َّ﴾
 
@@ -30492,7 +30464,7 @@ thus it had all ways and devices included in their speech, such as concision,
 
 <!-- PageNumber="568" -->
 
-The quarter of the acts of worship
+
 circumlocution, omission, concealment, substitution, bringing forward and
 backward, and the like of that, in order that it should make them silent, as being
 inimitable and matchless.
@@ -30597,7 +30569,7 @@ seeking refuge with a certain attribute (of Allah Almighty) from another; and th
 
 <!-- PageNumber="570" -->
 
-The quarter of the acts of worship
+
 seeking refuge with Him from Him. However, the mysteries of that is numerous,
 and they could not be attested only from the explanation of the external
 meanings of words. In no way does the interior of a word disagree with its
@@ -30663,7 +30635,7 @@ which are attributed to their sayers, and considers their occasions.
 <!-- PageBreak -->
 
 <!-- PageNumber="572" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 The fourth chapter raises some invocations whose chains of transmission are
 unknown, and are selected from amongst the handed down supplications.
@@ -30779,7 +30751,7 @@ evening will enter upon you with no sin against you." the Messenger of Allah
 
 <!-- PageNumber="574" -->
 
-The quarter of the acts of worship
+
 "Allah's blessing and peace be upon him" said: "Verily, to celebrate (the Praises
 of) Allah Almighty every morning and evening is much better than to break the
 swords (during fighting) in the Cause of Allah Almighty, and also to spend the
@@ -30887,7 +30859,7 @@ that the Messenger of Allah "Allah's blessing and peace be upon him" said: "Alla
 
 <!-- PageNumber="576" -->
 
-The quarter of the acts of worship
+
 Almighty has angels who wander in the land, other than the scribes (who record
 the deeds of) men. Once they find a people celebrating (the Praises of) Allah
 Almighty, they call each other: 'Come to that which you seek for!' they come and
@@ -30996,7 +30968,7 @@ god (to be worshipped) but Allah', and in the hereafter it stands for the Garden
 
 <!-- PageNumber="578" -->
 
-The quarter of the acts of worship
+
 This applies also to the other saying of Allah Almighty: " To those who do right
 is a goodly (reward) yea, more (than in measure)!" (Yunus 26)
 
@@ -31105,7 +31077,7 @@ praise be to Allah; Allah is Greater; and there is neither might nor power but w
 <!-- PageBreak -->
 
 <!-- PageNumber="580" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 Allah'." The Messenger of Allah "Allah's blessing and peace be upon him" said
 according to the narration of Ibn Umar: "No man living on this earth says: 'There
@@ -31213,7 +31185,7 @@ to the testimony of both Abu Hurairah and Abu Sa'id Al-Khudri: "If a servant
 
 <!-- PageNumber="582" -->
 
-The quarter of the acts of worship
+
 says: "There is no god (to be worshipped) but Allah; and Allah is Greater'
 Allah Almighty then says: 'My servant has told the truth: there is no god (to be
 worshipped) but I; and I'm Greater'; and if a servant says: "There is no god (to
@@ -31321,7 +31293,7 @@ could blessing be produced but from the affability with and love for that in whi
 
 <!-- PageNumber="584" -->
 
-The quarter of the acts of worship
+
 one should be blessed, and in no way could such affability be produced unless
 one continues to proceed through it, and force himself to be accustomed to it for
 a long time until what is done by such compulsion turns to be done by nature
@@ -31428,7 +31400,7 @@ which he regards as slight for the sake of his love for Allah Almighty, and seek
 
 <!-- PageNumber="586" -->
 
-The quarter of the acts of worship
+
 His Good Pleasure. Thus, one could not devote himself wholeheartedly to Allah
 Almighty better than that.
 
@@ -31537,7 +31509,7 @@ He Almighty further says: "Call on your Lord with humility and in private: for
 <!-- PageBreak -->
 
 <!-- PageNumber="588" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 Allah loves not those who trespass beyond bounds." (Al-A'raf 55)
 
@@ -31650,7 +31622,7 @@ narrated on the authority of Ibn Abbas "Allah be pleased with both" that The
 <!-- PageBreak -->
 
 <!-- PageNumber="590" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 Messenger of Allah "Allah's blessing and peace be upon him" said: "I've been
 forbidden to recite the Qur'an while being in the posture of bowing or
@@ -31762,7 +31734,7 @@ seek refuge with You from the fire (of Hell) and from such of words and deeds
 
 <!-- PageNumber="592" -->
 
-The quarter of the acts of worship
+
 as draws me close to it!" it is narrated that The Messenger of Allah "Allah's
 blessing and peace be upon him" said: "There will be a people, whose habit is to
 trespass beyond due bounds in supplication and ablution." It is narrated that one
@@ -31875,7 +31847,7 @@ thing and he comes to know that his invocation has received answer, let him say:
 
 <!-- PageNumber="594" -->
 
-The quarter of the acts of worship
+
 'Praise be to Allah with Whose Favour all good things are accomplished'; and if
 the answer slows to come to him let him say: 'Praise be to Allah for every state
 (in which I should be)'."
@@ -31985,7 +31957,7 @@ bored Jesus "Peace be upon him" said to them: "Let such of you as has
 
 <!-- PageNumber="596" -->
 
-The quarter of the acts of worship
+
 committed a sin return." All of them returned barring one who remained with
 him in the desert. Jesus "Peace be upon him" asked him: "Have you not
 committed any sin?" he said: "By Allah! I do not know that I've committed a
@@ -32088,7 +32060,7 @@ be upon him" appeared and (the signs of) happiness were visible on his face and
 <!-- PageBreak -->
 
 <!-- PageNumber="598" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 he said: "Gabriel "Peace be upon him" came to me and said: 'Are you not
 pleased, O Muhammad that none from amongst your nation invokes for Allah's
@@ -32190,7 +32162,7 @@ Messenger!" (Al-Ahzab 66)
 <!-- PageBreak -->
 
 <!-- PageNumber="600" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 Let my father and mother sacrifice their lives for you O Messenger of Allah! If
 Moses "Peace be upon him" was given (as a miracle) the rock therefrom the
@@ -32299,7 +32271,7 @@ Forgive for me: You are Oft-Returning (in repentance and grace), Most
 <!-- PageBreak -->
 
 <!-- PageNumber="602" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 Merciful." It is narrated that the Messenger of Allah "Allah's blessing and peace
 be upon him" said: "He, who prays for Allah's Forgiveness most frequently, Allah
@@ -32406,7 +32378,7 @@ day."
 <!-- PageBreak -->
 
 <!-- PageNumber="604" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 It is narrated that the Messenger of Allah "Allah's blessing and peace be upon
 him" said: "A man who has never done good cast a glance at the sky and said:
@@ -32515,7 +32487,7 @@ A mention might be made here of the following supplications:
 <!-- PageBreak -->
 
 <!-- PageNumber="606" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 
 # The Supplication Of The Messenger Of Allah "Allah's Blessing And Peace Be Upon Him" Following The Two-Rak'ah Prayer Prior To Fajr:
@@ -32618,7 +32590,7 @@ You sent down upon) Jesus, the Psalms (which You sent down upon) David, and
 <!-- PageBreak -->
 
 <!-- PageNumber="608" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 the Criterion (i.e. the Holy Qur'an which You revealed to) Muhammad "Allah's
 blessing and peace be upon him, and upon all of them", and by virtue of each
@@ -32730,7 +32702,7 @@ what I dislike from me, or even get benefit from what I like and hope, seeing th
 
 <!-- PageNumber="610" -->
 
-The quarter of the acts of worship
+
 the (disposal of the) matter has turned to be in the hand of someone else other
 than me, and I've become in pledge of my deed, in such a way that there is no
 poorer than me. O Allah! make You not my enemy rejoice over my misfortune,
@@ -32846,7 +32818,7 @@ the Unique, the Odd (which is one), Who has knowledge of the unseen and that
 
 <!-- PageNumber="612" -->
 
-The quarter of the acts of worship
+
 which is visible, The Sovereign, The Holy One, The Source Of Peace And
 Perfection, The Guardian Of Faith And Security, The Preserver Of Safety, The
 Exalted In Might, The Compeller, The Supreme, The Creator, The Evolver, The
@@ -32945,7 +32917,7 @@ Fount-Lake of Muhammad, and cause us to have a blessed fresh satisfying drink
 
 <!-- PageNumber="614" -->
 
-The quarter of the acts of worship
+
 from his cup, after which we will never become thirsty, and gather us in his
 company, without being disgraced, nor breaking our covenant, nor doubting, nor
 being afflicted, nor of those upon whom (Allah's) Wrath falls, nor of those who
@@ -33050,7 +33022,7 @@ Garden of Eternity. O Allah! I ask You (to provide me with) good things and
 
 <!-- PageNumber="616" -->
 
-The quarter of the acts of worship
+
 You (to help me) love You and love him who loves You, and love such of
 deeds as draws near unto Your Love; and (I ask You) to turn to me in
 repentance, to forgive for me, and to bestow mercy upon me, and to take me
@@ -33152,7 +33124,7 @@ one calling (us) to Faith, 'Believe you in the Lord', and we have believed. Our
 <!-- PageBreak -->
 
 <!-- PageNumber="618" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 Lord! forgive us our sins, blot out from us our iniquities, and take to Yourself our
 souls in the company of the righteous. O Our Lord! Grant us what You did
@@ -33253,7 +33225,7 @@ each chosen servant from all of the worlds.
 <!-- PageBreak -->
 
 <!-- PageNumber="620" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 
 ## CHAPTER FIVE: ON SUPPLICATIONS HANDED DOWN ON DIFFERENT OCCASIONS
@@ -33355,7 +33327,7 @@ of angels and spirits." When you raise your head from bowing, you might say:
 
 <!-- PageNumber="622" -->
 
-The quarter of the acts of worship
+
 "Allah hears such as praises Him: O our Lord! To You be the praise, as much as
 to fill the heavens and the earth, and such of things afterwards as You will, (O
 Allah) the worthiest of praise and glory, as most fitting for a servant to say (in
@@ -33459,7 +33431,7 @@ you might say: "O Allah! You are my supporting forearm and helper, and it is
 <!-- PageBreak -->
 
 <!-- PageNumber="624" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 with (the help of) You that I fight (my enemies)." When there is a whir in your
 ear, you might invoke Allah's Prayer and Blessing upon Muhammad "Peace be
@@ -33563,7 +33535,7 @@ destiny (the end of the journey of all of the people). O Allah! we ask You to ra
 
 <!-- PageNumber="626" -->
 
-The quarter of the acts of worship
+
 us up, on this day, to every kind of good, and we seek refuge with You from
 committing or incurring any evil upon a Muslim, for it is You Who say: " It is He
 Who does take your souls by night, and has knowledge of all that you have done
@@ -33671,7 +33643,7 @@ all due bounds, In that he looks upon himself as self-sufficient." (Al-Alaq 6:7)
 <!-- PageBreak -->
 
 <!-- PageNumber="628" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 ﴿كَلَّ إِنَّ الْإِنسَنَ لَيَطْغَىّ ◌ِنَّ أَن رَّءَاهُ اسْتَغْنَىع ◌َ﴾
 
@@ -33731,7 +33703,7 @@ In view of this great danger and momentous risk, those who were granted
 
 <!-- PageNumber="630" -->
 
-The quarter of the acts of worship
+
 success have rolled up their sleeves and given up the pleasures of their souls, and
 utilized the remaining of their lifetimes, to arrange the functions of regular
 divisions in accordance with the recurrence of time, in eagerness to give life to
@@ -33838,7 +33810,7 @@ celebrate His praises and (so likewise) after the postures of adoration." (Qaf
 <!-- PageBreak -->
 
 <!-- PageNumber="632" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 ﴿ فَاصْبِرْ عَلَى مَا يَقُولُونَ وَسَبِحْ يِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُوبِ (2)
 وَمِنَ الَّيْلِ فَسَبِّحْهُ وَأَدْبَرَ الشُّجُودِ.
@@ -33951,7 +33923,7 @@ and sea: We detail Our Signs for people who know." (Al-An'am 96)
 <!-- PageBreak -->
 
 <!-- PageNumber="634" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 Think not that the main purpose for which both the sun and the moon follow
 their exactly computed courses, and the shade, light and stars are created is to
@@ -34063,7 +34035,7 @@ all the rules and supplications explained in the Book of Purification. However, 
 <!-- PageBreak -->
 
 <!-- PageNumber="636" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 have introduced the items of worship in separation in order to mention, in this
 Book (of Regular Divisions) only the point of setting and putting their acts in
@@ -34171,7 +34143,7 @@ Praises and Glories for an hour after Dawn prayer and an hour after Asr prayer,
 <!-- PageBreak -->
 
 <!-- PageNumber="638" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 perchance I would suffice you (for Guardian against evil) in the period between
 them." Since the excellence of that is then obvious, let one sit and keep silent
@@ -34278,7 +34250,7 @@ You please, and You stripe off Power from whom You please: You endue with
 <!-- PageBreak -->
 
 <!-- PageNumber="640" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 honour whom You please, and You bring low whom You please: in Your hand is
 all Good. Verily, over all things You have power." (Al Imran 26)
@@ -34383,7 +34355,7 @@ with the truth: none but he whom Allah Almighty created as happy does the like
 
 <!-- PageNumber="642" -->
 
-The quarter of the acts of worship
+
 of that deed, and none but he whom Allah Almighty created as wretched leaves
 it."" However, Ibrahim At-Taimi was reported to have remained about four
 months with neither food nor drink, and this might have happened after this
@@ -34491,7 +34463,7 @@ sight; and of a surety, what misleads naught the laymen was not to mislead
 <!-- PageBreak -->
 
 <!-- PageNumber="644" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 Abraham, the Bosom Friend "Peace be upon him". Furthermore, by the Veils
 which are called Lights, it is not that light which is visible by the eye that is
@@ -34599,7 +34571,7 @@ the celebrations (of the Praises and Glories of Allah), the recitation (of the H
 <!-- PageBreak -->
 
 646
-The quarter of the acts of worship
+
 Qur'an) and the meditation (on Allah's Signs and Dominion), or to perform the
 voluntary prayers if he so likes, which are undesirable just after the Morning
 prayer, and not in that period (of forenoon), in which it comes to occupy the
@@ -34706,7 +34678,7 @@ the best of the regular divisions during the day. If one performs ablution befor
 
 <!-- PageNumber="648" -->
 
-The quarter of the acts of worship
+
 sun decline, and goes to the mosque, and then the sun passes the meridian and
 the Mu'adhdhin goes on pronouncing the Call to Prayer, let him keep patient
 until he finishes from responding to the Adhan, and then let him stand and give
@@ -34817,7 +34789,7 @@ There is no prayer to be offered in this regular division other than the four-
 
 <!-- PageNumber="650" -->
 
-The quarter of the acts of worship
+
 rak'ah prayer in the interval between both Adhan and Iqamah (of Asr), as we've
 mentioned earlier pertaining to Zhuhr prayer. Then, let one offer the obligatory
 prayer after which let him engage in the four duties which we've explained earlier
@@ -34927,7 +34899,7 @@ to witness the ruddy glow of Sunset." (Al-Inshiqaq 16)
 <!-- PageBreak -->
 
 <!-- PageNumber="652" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 
 ## ﴿فَلَّ أُقْسِمُ بِالشَّفَقِ ()﴾
@@ -35041,7 +35013,7 @@ before he goes to bed if standing (at night) is not habitual to him. In this
 <!-- PageBreak -->
 
 <!-- PageNumber="654" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 connection, it is narrated on the authority of Abu Hurairah that he said: The
 Messenger of Allah "Allah's blessing and peace be upon him" advised me not to
@@ -35149,7 +35121,7 @@ Qur'an perfectly with competence (as much as I can)." On that Mu'adh said: "But
 
 <!-- PageNumber="656" -->
 
-The quarter of the acts of worship
+
 as for me, I sleep (for a portion of the night) and then I get up, and expect for my
 sleep (from Allah Almighty the same reward) which I expect for my standing."
 When a mention of that was made to The Messenger of Allah "Allah's blessing
@@ -35260,7 +35232,7 @@ never sleeps, and he observes fasts continuously (during the day) and never leav
 
 <!-- PageNumber="658" -->
 
-The quarter of the acts of worship
+
 fasting." On that The Messenger of Allah "Allah's blessing and peace be upon
 him" said: "But as for me, I pray (for a portion of the night) and sleep (for
 another portion), and I observe fasts (for many days) and I leave fasting (during
@@ -35363,7 +35335,7 @@ reflect." (Az-Zumar 42)
 <!-- PageBreak -->
 
 <!-- PageNumber="660" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 He further says: "It is He Who does take your souls by night." (Al-An'am 60)
 
@@ -35473,7 +35445,7 @@ his standing for the night vigil:
 <!-- PageBreak -->
 
 <!-- PageNumber="662" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 "O Allah! to You be the praise: You are the Light of the heavens and the
 earth. to You be the Praise: You are the Brightness of the heavens and the earth.
@@ -35580,7 +35552,7 @@ Then, let him recite Allah's saying: "There is no god but He: that is the witnes
 <!-- PageBreak -->
 
 664
-The quarter of the acts of worship
+
 of Allah, His angels, and those endued with knowledge, standing firm on justice.
 There is no god but He the Exalted in Power, the Wise." (Al Imran 18)
 
@@ -35685,7 +35657,7 @@ might be difficult to be regular on doing it. so, the best then differs with the
 
 <!-- PageNumber="666" -->
 
-The quarter of the acts of worship
+
 different states of a certain person. However, since the main purpose of the
 regular division is to justify, purify and adorn the heart and make it affable with
 the celebration of the Praises and Glories of Allah Almighty, let the follower of
@@ -35789,7 +35761,7 @@ reading and arranging the items of knowledge, the middle third for the prayer,
 
 <!-- PageNumber="668" -->
 
-The quarter of the acts of worship
+
 and the last third for sleep. This is available in the nights of both summer and
 winter. But it might be unbearable unless the greatest part of sleep is taken during
 the daylight. This is most desirable in the sequence of the regular divisions of the
@@ -35892,7 +35864,7 @@ given priority to the physical acts of worship: one is knowledge, and the other 
 
 <!-- PageNumber="670" -->
 
-The quarter of the acts of worship
+
 to be kind and lenient to the Muslims. Each of those, i.e. knowledge and doing
 favours is in itself a work, and at the same time an act of worship, superior to the
 other acts of worship, whose benefit and widespread advantage are transitive to
@@ -35998,7 +35970,7 @@ impact on him.
 <!-- PageBreak -->
 
 <!-- PageNumber="672" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 For the sake of this mystery, The Messenger of Allah "Allah's blessing and
 peace be upon him" said: "The dearest deed to Allah Almighty is that which one
@@ -36101,7 +36073,7 @@ to Allah's saying: "They will be Companions of the Fire, to dwell therein
 <!-- PageBreak -->
 
 <!-- PageNumber="674" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 ﴿ أُوْلَبِكَ أَصْحَبُ النَّارِ هُمْ فِيهَا خَلِدُونَّ الَّهُ﴾
 
@@ -36210,7 +36182,7 @@ Allah: for Allah is Oft-Forgiving, Most Merciful." (Al-Muzzammil 20)
 <!-- PageBreak -->
 
 <!-- PageNumber="676" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 وَءَاخَرُونَ يَضْرِبُونَ فِى الْأَرْضِ يَبْتَغُونَ مِن فَضْلِ اللَّهِ وَءَاخَرُونَ يُقَتِلُونَ فِى سَبِيلِ اللَّهِ فَاقْرَءُواْ مَا تَسَّرَ مِنْهٌ
 وَأَقِيمُوا الصَّلَوَةَ وَءَاتُواْ الزَّكَوَةَ وَأَقْرِضُواْ اللَّهَ فَرْضًا حَسَنَاْ وَمَا تُقَدِّمُواْ لأَنفُسِكُم مِنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ هُوَ
@@ -36321,7 +36293,7 @@ hinders him) from offering it, but that the reward of his prayer is written to h
 
 <!-- PageNumber="678" -->
 
-The quarter of the acts of worship
+
 and his sleep is regarded as an object of charity to be given to him." According to
 another narration, Allah's Apostle" Allah's blessing and peace be upon him" said
 to Abu Dharr: "If you are going to set out on journey, would you not get
@@ -36427,7 +36399,7 @@ from His Light."
 <!-- PageBreak -->
 
 <!-- PageNumber="089" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 One of the good righteous men returned from journey, and the bed was
 prepared for him on which he slept, until he missed his nightly regular division.
@@ -36537,7 +36509,7 @@ used to say: "It is dearer to me to see a devil in my house than to see a cushio
 
 <!-- PageNumber="682" -->
 
-The quarter of the acts of worship
+
 therein, for it induces one to sleep." He had a small carpet of leather, and
 whenever he was overpowered by slumber, eh would lie his breast over it and
 have a little nap, after which he would get up to continue his prayer. One of the
@@ -36645,7 +36617,7 @@ from innovations of heresies (which have no reference in the religion), and
 
 <!-- PageNumber="684" -->
 
-The quarter of the acts of worship
+
 from being engaged in the unnecessary affairs of this world. That's because it is
 not easy for one involved in disposing of the affairs of this world to stand at
 night (for supererogatory prayers), and even if he stands, his mind will be busy
@@ -36748,7 +36720,7 @@ answer him, and rather keeps silent of him, there will remain for him the pleasu
 
 <!-- PageNumber="686" -->
 
-The quarter of the acts of worship
+
 of offering his different states and raising his true intention to Him, let alone the
 believer whose faith is certain, who hears from Allah Almighty all that occurs to
 his mind during his private discourse, of which he takes pleasure. Likewise, he
@@ -36851,7 +36823,7 @@ It should be known to you that those gifts (of bounty) are expectable more at
 <!-- PageBreak -->
 
 <!-- PageNumber="688" -->
-<!-- PageHeader="The quarter of the acts of worship" -->
+
 
 night, for standing at night (in prayer) results in the purity of the heart, and
 averting all that might occupy (one from becoming alone with Allah Almighty).
@@ -36968,7 +36940,7 @@ On the other hand, there is no fixed portion of standing followed by Allah's
 
 <!-- PageNumber="690" -->
 
-The quarter of the acts of worship
+
 Apostle" Allah's blessing and peace be upon him", but rather it differed with the
 difference of the nights, in the sense that sometimes he stood (in prayer) for half
 the night, sometimes for one-third the night, and sometimes for one-sixth,
@@ -37077,7 +37049,7 @@ receives the good of one hundred years: so, if one prays twelve rak'ah on that
 
 <!-- PageNumber="692" -->
 
-The quarter of the acts of worship
+
 night, in each of which he recites the Opening of the Book and a Surah from the
 Holy Qur'an, recites Tashahhud after each two, and then concludes them with
 the End Salutation, and says one hundred times: Exalted be Allah; Praise be to
@@ -37156,7 +37128,7 @@ servant chosen (by Allah) from all of the worlds.
 <td>3</td>
 </tr>
 <tr>
-<td>BOOK ONE: KNOWLEDGE</td>
+<td></td>
 <td>9</td>
 </tr>
 <tr>
