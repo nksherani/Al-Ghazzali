@@ -164,6 +164,23 @@ uv run python clean_arabic_markdown.py output_markdown/ --all
 
 ---
 
+### 5. Surah Name Unification & Normalization (`unify_surah_names.py`)
+
+Unifies Surah names across both `Al-Quran/Al-Quran.json` and Markdown book volumes:
+- Identifies the most frequent transliteration used in the book for all Surahs.
+- Updates `Al-Quran.json` `englishName` fields to match.
+- Replaces inconsistent variants, OCR space breaks (e.g. `Al- Baqarah` $\rightarrow$ `Al-Baqarah`), and repairs page-split citations (e.g. `(Al-Baqarah ... 258)`).
+
+```bash
+# Unify Surah names across Quran JSON and Volume 1 Markdown:
+uv run python unify_surah_names.py
+
+# Verify / view comparison report:
+uv run python compare_surah_names.py
+```
+
+---
+
 ## Helpful Commands
 
 - **Check CLI options for Azure DI script:**
