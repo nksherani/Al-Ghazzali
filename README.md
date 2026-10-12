@@ -140,6 +140,30 @@ uv run python generate_toc_from_markdown.py output_markdown/ --all
 
 ---
 
+### 4. Arabic Text Cleansing (`clean_arabic_markdown.py`)
+
+Cleanses Arabic verses and text from decorative brackets, OCR registration symbols, verse stops, and stray artifacts:
+- Strips Quranic ayah brackets: `﴿`, `﴾`, `«`, `»`
+- Strips OCR registration & publisher symbols: `®`, `©`, `™`, `◌`, `•`, `■`
+- Strips parenthesized verse numbers / OCR footnote fragments: `(12)`, `(٤)`, `(®)`, `(يَ)`
+- Strips erroneous markdown header formatting (`#`, `##`) on pure Arabic verses
+
+```bash
+# 1. Preview changes (Dry run):
+uv run python clean_arabic_markdown.py output_markdown/volume_1/Ihya_Ghazali_Eng_Book_volume_1_Complete_complete.md --dry-run
+
+# 2. Clean in-place (automatically creates a .bak backup):
+uv run python clean_arabic_markdown.py output_markdown/volume_1/Ihya_Ghazali_Eng_Book_volume_1_Complete_complete.md
+
+# 3. Clean without creating .bak:
+uv run python clean_arabic_markdown.py output_markdown/volume_1/Ihya_Ghazali_Eng_Book_volume_1_Complete_complete.md --no-backup
+
+# 4. Clean all Markdown files across the output directory:
+uv run python clean_arabic_markdown.py output_markdown/ --all
+```
+
+---
+
 ## Helpful Commands
 
 - **Check CLI options for Azure DI script:**
