@@ -27,9 +27,7 @@ Volume 1
 The quarter of The acts of worship
 
 مِنْشُورَات
-season
 دار الكتب العلمية
-DK
 Beirut- Lebanon
 
 </figure>
@@ -142,7 +140,6 @@ Riyad al-Soloh Beirut 1107 2290
 ص .ب: ٩٤٢٤-١١
 رياض الصلح-بيروت
 
-١١٠٧٢٢٩٠
 
 </figure>
 
@@ -164,7 +161,6 @@ des poursuites judiciaires
 كاملاً أو مجزا أو تسجيله على أشرطة كاسيت أو إدخاله على الكمبيوتر
 أو برمجته على اسطوانات ضوئية إلا بموافقة الناشر خطياً.
 
-00006
 
 ISBN 978-2-7451-5945-8
 
@@ -2504,7 +2500,6 @@ guidance, as shown from His statement: " And those who strive in Our (Cause),
 <!-- PageNumber="45" -->
 
 
-### 
 
 We will certainly guide them to Our Paths: for verily Allah is with those who do
 right." (Al-Ankabut 69)
@@ -4529,8 +4524,7 @@ further narrated that "No people have been given to logic and argumentation but
 that their deeds will be suffered to be lost." And Allah Almighty knows best.
 
 
-# CHAPTER FOUR: ON THE CAUSE OF PEOPLE'S INTEREST IN POLEMICS; 
-## THE DEFECTS OF ARGUMENTATION AND DISPUTATION; AND THE CONDITIONS OF RENDERING THEM PERMISSIBLE
+# CHAPTER FOUR: ON THE CAUSE OF PEOPLE'S INTEREST IN POLEMICS; THE DEFECTS OF ARGUMENTATION AND DISPUTATION; AND THE CONDITIONS OF RENDERING THEM PERMISSIBLE
 
 It should be known that after the death of the Messenger of Allah "Peace be
 upon him", the office of caliphate was taken by the well-directed, rightly-guided
@@ -13364,7 +13358,7 @@ foundations of the Articles of Faith.
 
 <!-- Sliced Batch: Pages 251 to 300 -->
 
-# Book threes the mysteries of purification
+# Book Three: The Mysteries of Purification
 
 Praise be to Allah Who has caused His Kindness to overspread His servants
 and bestowed mercy upon them; who for the purification of their inward
@@ -13617,7 +13611,7 @@ bodily cysts and discharges, which is accomplished by such operations as
 manicuring, shaving, depilating the pubic hair, circumcision, and the like of that.
 
 
-## PART ONE: ON PURIFICATION FROM IMPURITIES
+# PART ONE: ON PURIFICATION FROM IMPURITIES
 
 The discussion thereof includes a Study of that which is removed, the Vehicle
 of Removal, and the way of Removal.
@@ -13878,7 +13872,7 @@ prayer, and one should not resort to deduction to prove the presence of
 impurities.
 
 
-## PART TWO: ON PURIFICATION FROM EXCREMENTS
+# PART TWO: ON PURIFICATION FROM EXCREMENTS
 
 The purification from excrements includes performing ablution, bathing,
 purification with clean sand, and all are preceded by abstersion. We shall now
@@ -14373,7 +14367,7 @@ ordained rite should be preceded by a single act of Tayammum.
 <!-- PageNumber="268" -->
 
 
-##  PART THREE: ON CLEANLINESS AND CLEANSING FROM THE EXTERNAL BODILY CYSTS AND DISCHARGES
+# PART THREE: ON CLEANLINESS AND CLEANSING FROM THE EXTERNAL BODILY CYSTS AND DISCHARGES
 
 which are of Two Kinds: Discharges and cysts
 
@@ -23091,10 +23085,9 @@ of probability will be discussed in the Book on what is Lawful and what is
 Unlawful, Allah Willing.
 
 
-# CHAPTER FOUR
+# CHAPTER FOUR: ON THE VOLUNTARY CHARITY: ITS EXCELLENCE, AND THE PROPRIETIES OF RECEIVING AND GIVING IT
 
 
-## ON THE VOLUNTARY CHARITY: ITS EXCELLENCE, AND THE PROPRIETIES OF RECEIVING AND GIVING IT
 
 
 ### The Exposition Of The Excellence Of Charity
@@ -25020,10 +25013,9 @@ fame, and whenever he is absent, he will be searched for, with the result that h
 deed might be mixed with adornment and ostentation.
 
 
-## PART TWO:
+## PART TWO: The conditions of the obligation of greater pilgrimage; the validity of its pillars; its duties and taboos
 
 
-### The conditions of the obligation of greater pilgrimage; the validity of its pillars; its duties and taboos
 
 As for the conditions of the obligation of Hajj, they are two: the validity of
 Hajj, and the due time of Hajj in addition to being a Muslim.
@@ -31251,11 +31243,7 @@ Those are some references to the significances (and concepts) of celebration
 (of the Praises of Allah Almighty) to which nothing could be added within the
 limits of the science of the practical religion.
 
-CHAPTER TWO: ON THE PROPRIETIES AND EXCELLENCE OF
-SUPPLICATION; THE EXCELLENCE OF SOME HANDED DOWN
-SUPPLICATIONS; THE EXCELLENCE OF ASKING FOR ALLAH'S
-FORGIVENESS, AND INVOKING FOR ALLAH'S PRAYER AND BLESSING
-UPON THE MESSENGER OF ALLAH
+# CHAPTER TWO: ON THE PROPRIETIES AND EXCELLENCE OF SUPPLICATION; THE EXCELLENCE OF SOME HANDED DOWN SUPPLICATIONS; THE EXCELLENCE OF ASKING FOR ALLAH'S FORGIVENESS, AND INVOKING FOR ALLAH'S PRAYER AND BLESSING UPON THE MESSENGER OF ALLAH
 
 
 ## The Excellence Of Supplication
@@ -32226,8 +32214,7 @@ presence of an assembly or in seclusion, in secrecy or in public: O (Allah) Most
 Forbearing." It is said that this supplication was Adam's and Al-Khadir's prayer
 of forgiveness "Peace be upon both".
 
-CHAPTER THREE: ON SOME HANDED DOWN SUPPLICATIONS WHOSE
-TRANSMITTERS ARE KNOWN
+# CHAPTER THREE: ON SOME HANDED DOWN SUPPLICATIONS WHOSE TRANSMITTERS ARE KNOWN
 
 Such Of Supplications As With Which It Is Desirable For One To
 Supplicate Every Morning And Evening, And Following Every
