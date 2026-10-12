@@ -23,7 +23,7 @@ IHYA' ULUM AD-DIN
 Translated by
 Mohammad Mahdi al-Sharif
 
-Volume®
+Volume 1
 The quarter of The acts of worship
 
 مِنْشُورَات
@@ -74,10 +74,7 @@ baydoun@al-ilmiyah.com
 
 <!-- PageHeader="http://www.al-ilmiyah.com info@al-ilmiyah.com" -->
 
-Title
-:
-REVIVAL
-OF RELIGION'S SCIENCES
+Title: REVIVAL OF RELIGION'S SCIENCES
 (IHYA' ULUM AD-DIN)
 إحياء علوم الدين
 
@@ -1881,7 +1878,6 @@ the wombs (of women) from which (He brought them out) to the world, from
 
 <!-- PageBreak -->
 
-34
 
 which (He caused them to die and go) to the graves, from which (they would go)
 to the place of demonstration (before Him on the Day of Judgement) from
@@ -2339,7 +2335,6 @@ what is of greater significance in itself for the sake of the religion. If he is
 
 <!-- PageBreak -->
 
-42
 
 about the reason for doing so, he will say: "I've been occupied by that for it
 belongs to the science of religion, and one of the collective duties", putting, by
@@ -3950,7 +3945,6 @@ them; See you not that they wander distractedly in every valley? And that they s
 what they practise not? "(Ash-Shu'ara' 224:226)
 
 وَٱلشُّعَرَاۤءُ یَتَّبِعُهُمُ ٱلۡغَاوُۥنَ أَلَمۡ تَرَ أَنَّهُمۡ فِی كُلِّ وَادࣲ یَهِیمُونَ
-h
 
 He Almighty further says: " We have not instructed the (Prophet) in Poetry,
 nor is it meet for him: this is no less than a Message and a Qur'an making things
@@ -5820,7 +5814,6 @@ neighbourhood) of Allah is the heart and not the body. Of course I do not mean
 
 <!-- PageBreak -->
 
-106
 
 by heart this piece of flesh (within the chest). It is one of Allah's Mysteries which
 is beyond the perception of senses, and one of His Niceties which He sometimes
@@ -6034,7 +6027,6 @@ sacrifice their wealth and rank, and suffer great humiliations in the service of
 
 <!-- PageBreak -->
 
-110
 
 rulers in order to gain their favours. Were these men to turn away from such
 practices they would be ignored and no one would turn to them for advice.
@@ -6267,7 +6259,6 @@ will be if you do that!" Allah Almighty says: "Do you enjoin good upon the
 people and forget yourselves?" (Al-Baqarah 44)
 
 ۞ أَتَأۡمُرُونَ ٱلنَّاسَ بِٱلۡبِرِّ وَتَنسَوۡنَ أَنفُسَكُمۡ وَأَنتُمۡ تَتۡلُونَ ٱلۡكِتَـٰبَۚ أَفَلَا تَعۡقِلُونَ
-14
 
 For the same reason, the sin of a learned man is more grievous than that of an
 ignorant, for with his slip; a lot of people are misled in imitation of his conduct.
@@ -6569,7 +6560,6 @@ would nearly have inclined to them a little." (Al-Isra' 74)
 
 وَلَوۡلَاۤ أَن ثَبَّتۡنَـٰكَ لَقَدۡ كِدتَّ تَرۡكَنُ إِلَیۡهِمۡ شَیۡـࣰٔا قَلِیلًا
 
-VL
 
 According to Sahl: "All knowledge belongs to this world, and the hereafter's
 portion of it is only that upon which one acts; and all deeds are vain except those
@@ -6620,7 +6610,6 @@ will not sell the Signs of Allah for a miserable gain! for them is a reward with
 Lord, and Allah is swift in account." (Aal-e-Imran 199)
 
 وَإِنَّ مِنۡ أَهۡلِ ٱلۡكِتَـٰبِ لَمَن یُؤۡمِنُ بِٱللَّهِ وَمَاۤ أُنزِلَ إِلَیۡكُمۡ وَمَاۤ أُنزِلَ إِلَیۡهِمۡ خَـٰشِعِینَ لِلَّهِ لَا یَشۡتَرُونَ بِـَٔایَـٰتِ ٱللَّهِ ثَمَنࣰا قَلِیلًاۚ أُو۟لَـٰۤىِٕكَ لَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡۗ إِنَّ ٱللَّهَ سَرِیعُ ٱلۡحِسَابِ
-A
 
 According to an ancient man: "The learned men (of the hereafter) will be
 mustered in the company of the Prophets, whereas the judges in the company of
@@ -6776,7 +6765,6 @@ He says too: "So fear Allah; for it is Allah that teaches you. And Allah is well
 acquainted with all things." (Al-Baqarah 282)
 
 وَٱتَّقُوا۟ ٱللَّهَۖ وَیُعَلِّمُكُمُ ٱللَّهُۗ
-FAT
 
 He says: " But fear Allah, and listen (to His counsel): for Allah guides not a
 rebellious people." (Al-Ma'idah 108)
@@ -7124,7 +7112,6 @@ understanding and making sense to the existence of this kind of science. But the
 
 <!-- PageBreak -->
 
-130
 
 learned men of this world are mainly engaged in that with facilitates for them the
 getting of wealth, prestige and power, and neglect such sciences (of the hereafter),
@@ -7623,7 +7610,6 @@ there is no good; but if one exhorts to a deed of charity or justice or concilia
 between men, (secrecy is permissible): to him who does this, seeking the good
 pleasure of Allah, We shall soon give a reward of the highest (value)." (An-Nisa 114)
 
-11
 وَمَن یَفۡعَلۡ ذَٰلِكَ ٱبۡتِغَاۤءَ مَرۡضَاتِ ٱللَّهِ فَسَوۡفَ نُؤۡتِیهِ أَجۡرًا عَظِیمࣰا
 
 A learned man saw in a dream one of those endued with sound minds from
@@ -7767,7 +7753,6 @@ than wealth: you guard wealth, but it is knowledge which guards over you.
 
 <!-- PageBreak -->
 
-142
 
 Knowledge increases by spending while wealth diminishes therewith. Knowledge
 is a religion worthy of being admitted, through which man is enabled to submit
@@ -8307,7 +8292,6 @@ precepts and commandments. They will say: 'We recite the Qur'an perfectly: who
 
 <!-- PageBreak -->
 
-152
 
 could recite it better than us? We have perfect knowledge of it: who has better
 knowledge of it than us?' This shall be their share" or According to another
@@ -8736,7 +8720,6 @@ people did not ask about those things, about which the people at present ask; an
 
 <!-- PageBreak -->
 
-160
 
 the learned men used not to describe things as lawful or unlawful, but I caught up
 with them while describing things as desirable and undesirable." This means that
@@ -9478,7 +9461,6 @@ If disparity results from the divergence of the power of the desire, it does not
 
 <!-- PageBreak -->
 
-174
 
 then belong to the disparity of mind; and if it results from the difference of
 knowledge, we have given this kind of knowledge the name of mind, for it
@@ -10405,7 +10387,6 @@ in case such effect should confront the children. This is a brief amount which
 
 <!-- PageBreak -->
 
-192
 
 we have included in this book because of its conciseness. If he (the child) is
 intelligent enough and well-aware of a certain question or falls skeptic of
@@ -10733,7 +10714,6 @@ Similarly, if the secret of the Divine decree were disclosed, the majority of
 
 <!-- PageBreak -->
 
-198
 
 people would imagine (even falsely) that Allah is lacking in power, because
 their minds are short of comprehending anything which should remove that
@@ -11414,7 +11394,6 @@ the statement of Allah Almighty: "And He is with you wheresoever you may be.
 And Allah sees well all that you do." (Al-Hadid 4)
 
 وَهُوَ مَعَكُمۡ أَیۡنَ مَا كُنتُمۡۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِیرࣱ
-m
 
 <!-- PageBreak -->
 
@@ -12489,7 +12468,6 @@ claimed that catholic consent back his position and cited in its support proofs
 and evidence which tend to confirm the contrary, such as the statement of
 Allah Almighty: "Those who believe and do righteous deeds." (At-Talaq 7)
 
-11
 لِیُنفِقۡ ذُو سَعَةࣲ مِّن سَعَتِهِۦۖ وَمَن قُدِرَ عَلَیۡهِ رِزۡقُهُۥ فَلۡیُنفِقۡ مِمَّاۤ ءَاتَىٰهُ ٱللَّهُۚ لَا یُكَلِّفُ ٱللَّهُ نَفۡسًا إِلَّا مَاۤ ءَاتَىٰهَاۚ سَیَجۡعَلُ ٱللَّهُ بَعۡدَ عُسۡرࣲ یُسۡرࣰا
 
 This quotation would indicate that works are something over and above
@@ -13375,7 +13353,6 @@ despite the outward fulfillment of all the prerequisites of validity, may be blo
 
 <!-- PageBreak -->
 
-248
 
 by hidden cause unknown except to Allah, the Lord of Lords of the mighty
 majesty. Hence it is desirable to entertain some doubts concerning the validity (of
@@ -13973,7 +13950,6 @@ and peace be upon him" taught us everything, even how to answer the call of
 
 <!-- PageBreak -->
 
-260
 
 nature: How commanded us not to perform the act of abstersion with either
 bone or (dried) dung, and forbade us to face the Qiblah when defecating or
@@ -17286,7 +17262,6 @@ Almighty, since all graces and favours are from Him; and he, who thinks there is
 
 <!-- PageBreak -->
 
-322
 
 any grace or favour from anyone else, or intends anyone else with his thanks and
 praise, ignoring the fact that it is subjugated by Allah Almighty, his mentioning
@@ -17400,7 +17375,6 @@ came upon Allah's statement: "No son did Allah beget, nor is there any god along
 with Him" (Al-Mu'minun 91)
 
 مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدࣲ وَمَا كَانَ مَعَهُۥ مِنۡ إِلَـٰهٍۚ
-¿
 
 To lower his tone as if he felt shy of making a mention of anything that is not
 consonant with the majesty of Allah Almighty. It is narrated (by both Abu
@@ -18481,7 +18455,6 @@ bowing of the other rak'ah (in congregation), let him follow the congregation
 
 <!-- PageBreak -->
 
-344
 
 with the intention to perform Zhuhr prayer (i.e. to offer four rak'ahs), which he
 should complete once the imam utters the End Salutation.
@@ -20721,7 +20694,6 @@ When the sun eclipses at a time in which the prayer is or is not undesirable,
 
 <!-- PageBreak -->
 
-386
 
 let's a caller make a public announcement that the people should gather for
 congregational prayer. The imam then should lead a two-rak'ah prayer, each of
@@ -24088,7 +24060,6 @@ For this reason, Allah Almighty places on equal footing such as hears (what is
 unlawful) and the devourer of what is forbidden in His statement: "(They are
 fond of) listening to falsehood, of devouring anything forbidden." (Al-Ma'idah 42)
 
-C
 سَمَّـٰعُونَ لِلۡكَذِبِ أَكَّـٰلُونَ لِلسُّحۡتِۚ
 
 He further says: "Why do not the Rabbis and the doctors of Law forbid them
@@ -26398,7 +26369,6 @@ upon him" said (according to the narration of Ibn Majah on the authority of
 
 <!-- PageBreak -->
 
-496
 
 Jabir): "The water of Zamzam acts (as remedy) for that for which it is drunk."
 This means that it cures such of ailments as is intended by drinking it.
@@ -30057,7 +30027,6 @@ those who were reckoned powerless, those among them who believed" (Al-A'raf 75)
 
 
 قَالَ ٱلۡمَلَأُ ٱلَّذِینَ ٱسۡتَكۡبَرُوا۟ مِن قَوۡمِهِۦ لِلَّذِینَ ٱسۡتُضۡعِفُوا۟ لِمَنۡ ءَامَنَ
-Yo
 
 I.e. those arrogant from amongst his (Salih's) people, said to those who
 believed, from amongst those whom they regarded as powerless.
@@ -31320,7 +31289,6 @@ whatever name you call upon Him, (it is well): for to Him belong the Most
 Beautiful Names." (Al-Isra' 110)
 
 قُلِ ٱدۡعُوا۟ ٱللَّهَ أَوِ ٱدۡعُوا۟ ٱلرَّحۡمَـٰنَۖ أَیࣰّا مَّا تَدۡعُوا۟ فَلَهُ ٱلۡأَسۡمَاۤءُ ٱلۡحُسۡنَىٰۚ
-€
 
 It is narrated on the authority of An-Nu'man Ibn Bashir from The Messenger
 of Allah "Allah's blessing and peace be upon him" that he said: "Verily,
@@ -36638,15 +36606,7 @@ if I return to sleep once again."
 
 On the other hand, there is no fixed portion of standing followed by Allah's
 
-¥
-Ž
 
-\>
->
->
->
->
->
 
 <!-- PageBreak -->
 
@@ -37998,15 +37958,12 @@ PRAYER; THE NIGHTS TO WHICH GIVING LIFE BY STANDING IS DESIRABLE;
 THE EXCELLENCE OF GIVING LIFE TO THE NIGHT AND THE PERIOD
 BETWEEN BOTH EVENING PRAYERS; AND THE WAY OF DIVIDING NIGHT
 INTO REGULAR DIVISIONS
-672
 
 THE EXCELLENCE OF GIVING LIFE TO THE PERIOD BETWEEN BOTH
 EVENING PRAYERS
-672
 
 THE EXCELLENCE OF STANDING AT NIGHT (FOR PRAYER)
 
-675
 
 <!-- PageBreak -->
 
