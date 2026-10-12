@@ -3784,7 +3784,7 @@ I have set my face, firmly and truly, towards Him Who created the heavens and
 the earth, and never shall I give partners to Allah." (Al-An'am 79)
 
 
-## ﴿ إِى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ السَّمَنوَاتِ وَالْأَرْضَ حَنِيفًا وَمَآ أَنَأْ مِنَ الْمُشْرِكِينَ (يَّ﴾
+ ﴿ إِى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ السَّمَنوَاتِ وَالْأَرْضَ حَنِيفًا وَمَآ أَنَأْ مِنَ الْمُشْرِكِينَ (يَّ﴾
 
 This is the first lie therewith he commits against his Lord everyday, unless he
 should turn to Allah Almighty with the depth of his heart. But if he means only
@@ -3807,7 +3807,7 @@ down)": then leave them to plunge in vain discourse and trifling." (Al-An'am
 91)
 
 
-## ﴿ثُمَّ ذَرْهُمْ فِ خَوْضِهِمْ يَلْعَبُونَ ﴾ 11
+ ﴿ثُمَّ ذَرْهُمْ فِ خَوْضِهِمْ يَلْعَبُونَ ﴾ 11
 
 What is intended here is not verbal profession, since the tongue is like an
 interpreter who tells the truth at one time and lies at another. What Allah
@@ -3827,7 +3827,7 @@ admonition (by teaching your Message): for admonition benefits the
 Believers." (Adh-Dhariyat 55)
 
 
-## ﴿وَذَكِّرْ فَإِنَّ الذِّكْرَى تَنفَعُ الْمُؤْمِنِينَ (َ)
+ ﴿وَذَكِّرْ فَإِنَّ الذِّكْرَى تَنفَعُ الْمُؤْمِنِينَ (َ)
 
 There are a lot of traditions in which the assemblies of celebration are praised.
 (It is narrated by Tirmidhi on the authority of Anas that) the Messenger of Allah
@@ -4265,7 +4265,7 @@ aversion towards him who is engaged in them. For this reason, Ath-Thawri said:
 confusions, for if he says the truth, they will dislike him."
 
 
-# The Commendable Amount Of Praiseworthy Sciences
+## The Commendable Amount Of Praiseworthy Sciences
 
 It should be known that sciences, in this consideration, are of three parts: one
 which is blameworthy, in whole or part, one which is praiseworthy, in whole or
@@ -4311,9 +4311,6 @@ is indispensable for self-mortification is the sole key to guidance, other than
 <!-- PageBreak -->
 
 <!-- PageNumber="77" -->
-
-
-## 
 
 which there is no key to it.
 
@@ -4542,7 +4539,7 @@ According to another narration, in comment on Allah's statement: "But those in
 whose hearts is perversity follow the part thereof that is allegorical" (Al Imran 7)
 
 
-### ﴿ فَأَمَّا الَّذِينَ فِى قُلُوبِهِمْ زَيْعٌ (َ﴾﴾
+ ﴿ فَأَمَّا الَّذِينَ فِى قُلُوبِهِمْ زَيْعٌ (َ﴾﴾
 
 "Those are the men of disputation, whom Allah Almighty means by His
 statement: "So, beware of them!" it is said by one from amongst the good
@@ -4557,7 +4554,8 @@ further narrated that "No people have been given to logic and argumentation but
 that their deeds will be suffered to be lost." And Allah Almighty knows best.
 
 
-# CHAPTER FOUR: ON THE CAUSE OF PEOPLE'S INTEREST IN POLEMICS; THE DEFECTS OF ARGUMENTATION AND DISPUTATION; AND THE CONDITIONS OF RENDERING THEM PERMISSIBLE
+# CHAPTER FOUR: ON THE CAUSE OF PEOPLE'S INTEREST IN POLEMICS; 
+## THE DEFECTS OF ARGUMENTATION AND DISPUTATION; AND THE CONDITIONS OF RENDERING THEM PERMISSIBLE
 
 It should be known that after the death of the Messenger of Allah "Peace be
 upon him", the office of caliphate was taken by the well-directed, rightly-guided
@@ -4906,7 +4904,7 @@ him because of the darkness of evils in which he has dipped him, which we are
 going to enumerate: so, we ask Allah Almighty for the good aid and success.
 
 
-# The Exposition Of The Evils Of Debate And The Destructive Qualities Resulting From Them
+## The Exposition Of The Evils Of Debate And The Destructive Qualities Resulting From Them
 
 It should be known with certainty that debates which are designed for the
 purpose of overcoming and silencing an opponent as well as for displaying
@@ -5032,7 +5030,7 @@ people. In this respect, Allah Almighty says: "And spy not on each other!"
 (Al-Hujurat 12)
 
 
-## ﴿وَلَا تَجَسُوْ ◌ِقْ)
+ ﴿وَلَا تَجَسُوْ ◌ِقْ)
 
 A debater could hardly be free from seeking after and prying into the faults
 and shortcomings of his fellows and opponents, to the extent that whenever he is
@@ -5941,7 +5939,7 @@ folk and the elite, i.e. tradition is based on ambition and lust. This is suffic
 the discussion of the different duties of the learner.
 
 
-# The Exposition Of The Duties Of The Guide Teacher
+## The Exposition Of The Duties Of The Guide Teacher
 
 It should be known that man in relation to his knowledge has four states, like
 those of the owner of wealth: in the first state, the owner of wealth gains money
@@ -6315,7 +6313,7 @@ men through his asceticism and the learned one deceives them through his
 debauchery."
 
 
-## CHAPTER SIX: ON THE DEFECTS OF KNOWLEDGE; AND EXPOSITION OF THE DISTINCTIVE FEATURES OF THE LEARNED MEN OF THE HEREAFTER; AND THE LEARNED MEN OF FALSEHOOD
+# CHAPTER SIX: ON THE DEFECTS OF KNOWLEDGE; AND EXPOSITION OF THE DISTINCTIVE FEATURES OF THE LEARNED MEN OF THE HEREAFTER; AND THE LEARNED MEN OF FALSEHOOD
 
 We've mentioned earlier the good merits of knowledge and the learned men;
 and there are grievous warnings against the learned men of falsehood, which
@@ -8629,8 +8627,6 @@ Prophetic traditions and acts of sunnah. Then Malik Ibn Anas composed in
 <!-- PageNumber="157" -->
 
 
-# 
-
 Medina his book of Muwatta' (the Well-Trodden Path). Later, Sufyan Ath-Thawri
 composed his Jami'.
 
@@ -9051,7 +9047,7 @@ as confirmed by His Statement: "We bring them out of darkness to light."
 (Al-Baqarah 257)
 
 
-### ﴿ يُخْرِجُونَهُم مِّنَ النُّورِ إِلَى الظُّلُمَتِ (ِ﴾ 1
+ ﴿ يُخْرِجُونَهُم مِّنَ النُّورِ إِلَى الظُّلُمَتِ (ِ﴾ 1
 
 In this context, (it is narrated on the authority of Abu Hurairah that) the
 Messenger of Allah "Allah's blessing and peace be upon him" said: "O people!
@@ -9123,7 +9119,7 @@ hearkened or had good understanding, surely, we would have not been among
 the denizens of the blazing fire." (Al-Mulk 10)
 
 
-### ﴿ وَقَالُواْ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىَ أَصْحَبِ السَّعِيرِ يَّ﴾﴾
+ ﴿ وَقَالُواْ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىَ أَصْحَبِ السَّعِيرِ يَّ﴾﴾
 
 It is narrated (by Ibn Al-Muhabbar) on the authority of Umar "Allah be
 pleased with him" that he asked Tamim Ad-Dari: "What does achieve the
@@ -9568,7 +9564,7 @@ well nigh shine out, even though fire touches it not! It is light upon light." (
 Nur 35)
 
 
-### ﴿يَكَادُ زَيْتُهَا يُضِىّءُ وَلَوْ لَمْ تَمْسَسْهُ نَارُّ نُورُ عَلَىْ نُورٍ ◌ِّ﴾
+ ﴿يَكَادُ زَيْتُهَا يُضِىّءُ وَلَوْ لَمْ تَمْسَسْهُ نَارُّ نُورُ عَلَىْ نُورٍ ◌ِّ﴾
 
 this applies to the Prophets "Peace be upon them" in whose inward thoughts
 obscure things are made clear without having learnt or heard anything alike. This
@@ -9650,12 +9646,7 @@ in the technical terminologies of men.
 <!-- PageBreak -->
 
 
-<figure>
-
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
-
-</figure>
-
+# Book two: the foundations of the Creeds
 
 # CHAPTER ONE: THE EXPOSITION OF THE CREED OF THE ESTABLISHED COMMUNITY OF SUNNAH AS MANIFESTED IN THE TWO STATEMENTS OF TESTIMONY WHICH FORM THE FIRST OF THE PILLARS OF ISLAM.
 
@@ -9683,7 +9674,7 @@ the contrary, "He is the first and the last, the Evident and the Hidden, and He
 has full knowledge of all things." (Al-Hadid 3)
 
 
-## ﴿ هُوَ آلْأَوَّلُ وَآلْآَخِرُ وَالظَّهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ (﴾﴾
+ ﴿ هُوَ آلْأَوَّلُ وَآلْآَخِرُ وَالظَّهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ (﴾﴾
 
 1- Transcendence (Tanzih): He is not a body having a certain form, nor a
 limited or restricted substance: He does not resemble other bodies either in
@@ -9693,7 +9684,7 @@ exist in Him. Nay! He resembles no entity and no entity resembles Him: "nothing
 is like unto Him and He is not like anything" (Ash-Shura 11)
 
 
-## ﴿لَيْسَ كَمِثْلِهِ شَىْءٌ ))﴾
+ ﴿لَيْسَ كَمِثْلِهِ شَىْءٌ ))﴾
 
 No measure could limit Him and in no way could boundaries contain Him; no
 direction could surround Him and neither the earths nor the Heavens bound
@@ -9761,7 +9752,7 @@ experience.
 <!-- PageBreak -->
 
 <!-- PageNumber="179" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 and Disposer of all originated things: nothing happens, whether in the dominion
 of visible or unseen, no matter meager or abundant small or great, good or evil,
@@ -9851,7 +9842,7 @@ promises and threats. So it became obligatory upon all creatures to have faith i
 what they brought.
 
 
-### The Meaning Of The Second Word Of The Testimony
+## The Meaning Of The Second Word Of The Testimony
 
 The second word of the testimony is that which affirms the Apostleship to all
 the Prophets and Messengers "Peace be upon them", and asserts the fact that
@@ -9868,7 +9859,7 @@ of Allah.
 <!-- PageBreak -->
 
 <!-- PageNumber="181" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 Moreover, he made it obligatory upon all the creatures to have faith in him, in
 all the things which he related (from his Lord) concerning the affairs of this
@@ -9955,7 +9946,7 @@ And Allah's blessing and peace be upon the well-chosen, His servant
 Muhammad, our chief and master.
 
 
-#### CHAPTER TWO: ON THE WAY OF PROGRESSION TO RELIGIOUS INSTRUCTION; AND THE SEQUENCE OF THE STAGES OF FAITH
+# CHAPTER TWO: ON THE WAY OF PROGRESSION TO RELIGIOUS INSTRUCTION; AND THE SEQUENCE OF THE STAGES OF FAITH
 
 It should be known that what we have already stated under the Exposition of
 the Creed should be presented to the child in his early years in order that he may
@@ -9978,7 +9969,7 @@ art of argumentation and speculation so much as it lies in the recitation and
 <!-- PageBreak -->
 
 <!-- PageNumber="183" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 learning the interpretation of the Qur'an, in the study of the Prophetic traditions
 and their meaning, and in the performance of religious duties and acts of
@@ -10082,7 +10073,7 @@ named or something else other than what is named, I bear witness that he is a
 <!-- PageBreak -->
 
 <!-- PageNumber="185" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 scholastic theologian and has no faith."
 
@@ -10192,7 +10183,7 @@ The unbeliever was confounded, for Allah guides not the evil doers." (Al-Baqarah
 <!-- PageBreak -->
 
 <!-- PageNumber="187" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 ﴿ قَالَ إِبْرَهِمُ فَإِنَّ اللَّهَ يَأْتِى بِالشَّمْسِ مِنَ الْمَشْرِقِ فَأْتِ بِهَا مِنَ الْمَغْرِبِ فَبُهِتَ الَّذِى كَفَرَ (٣)﴾
 258)
@@ -10304,7 +10295,7 @@ the confusion of the opponent persisted or he proved unrelenting on his error,
 <!-- PageBreak -->
 
 <!-- PageNumber="189" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 they would have prolonged their argument, without reckoning, as it were, the
 need with weight or measure once they had entered into their (debate).
@@ -10413,7 +10404,7 @@ ambiguities of the innovators, just as the magistrates are expected to well-guar
 <!-- PageBreak -->
 
 <!-- PageNumber="191" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 their property from the attacks of the wrongdoers and ravishers.
 
@@ -10524,7 +10515,7 @@ government and their like. Furthermore, unless the learned men address
 <!-- PageBreak -->
 
 <!-- PageNumber="193" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 themselves to disseminating and teaching this science and making investigations
 in it, it will not survive, and if it were entirely left, it would vanish. To be sure,
@@ -10634,7 +10625,7 @@ said: "If you only know what I know, you would laugh little and weep much." If
 <!-- PageBreak -->
 
 <!-- PageNumber="195" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 this had not been a secret which he was forbidden to disclose to them because
 the minds were short of grasping it, why then did he not divulge it to them,
@@ -10742,7 +10733,7 @@ understood by them except in terms of the pleasure of eating which they
 <!-- PageBreak -->
 
 <!-- PageNumber="197" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 understand, even though this kind of understanding is not obtained from real
 experience.
@@ -10851,7 +10842,7 @@ kind are the words of the Messenger of Allah "Allah's blessing and peace be upon
 <!-- Sliced Batch: Pages 201 to 250 -->
 
 <!-- PageNumber="199" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 him" when he said: "Is he who raises his head from prostration before the imam
 not afraid that Allah will transform his head into that of a donkey?" This,
@@ -10957,7 +10948,7 @@ And they both said: 'We come obedient" (Fussilat 11)
 <!-- PageBreak -->
 
 <!-- PageNumber="201" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 ﴿ ثُمَّ اسْتَوَىَّ إِلَى السَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَا وَلِلْأَرْضِ اثْنِيًا طَوْعًا أَوْ كَرْهًا قَالَتَآً أَتَيْنَا طَابِعِينَ (®)﴾
 
@@ -10972,7 +10963,7 @@ Allah when He said: "Neither is there aught which does not celebrate His praise.
 (Al-Isra' 44)
 
 
-# ﴿ وَإِن مِّن شَىْءٍ إِلَّا يُسَبِحُ بِحَمْدِهِ- {يَّ﴾﴾
+ ﴿ وَإِن مِّن شَىْءٍ إِلَّا يُسَبِحُ بِحَمْدِهِ- {يَّ﴾﴾
 
 The stupid one, because of his lack of understanding, would assume that the
 inanimate things possess life, intellect, and the ability to speak and enunciate
@@ -11030,7 +11021,7 @@ far as to forbid the allegorical interpretation of the words of Allah "Be' and i
 is." (An-Nahl 40)
 
 
-## ﴿ كُنْ فَيَكُونُ (ْ)﴾
+ ﴿ كُنْ فَيَكُونُ (ْ)﴾
 
 (His followers) have claimed that these words were words of actual speech
 with enunciated letters and sounds brought into existence by Allah every moment
@@ -11063,7 +11054,7 @@ also explain away the ascension of the Messenger of Allah "Allah's blessing and
 <!-- PageBreak -->
 
 <!-- PageNumber="203" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 peace be upon him" and claim that it had not taken place bodily, the punishment
 of the grave, the balance, the bridge, and other eschatological representations.
@@ -11171,10 +11162,10 @@ considered legitimate and binding.
 <!-- PageBreak -->
 
 <!-- PageNumber="205" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
 
 
-# The First Pillar Is The Knowledge Of The Essence Of Allah And That He Is One And It Includes Ten Principles
+
+## The First Pillar Is The Knowledge Of The Essence Of Allah And That He Is One And It Includes Ten Principles
 
 The first pillar is the knowledge of the existence of Allah Almighty: The first
 light which should be used for illumination and the first thing to be followed on
@@ -11234,7 +11225,7 @@ We grow it? We have made it a memorial (of Our handiwork), and an article of
 comfort and convenience for the denizens of deserts." (Al-Waqi'ah 58:73)
 
 
-## ﴿َحْنُ جَعَلْنَهَا تَذْكِرَةً وَمَتَعًا لِلْمُقْوِينَ
+ ﴿َحْنُ جَعَلْنَهَا تَذْكِرَةً وَمَتَعًا لِلْمُقْوِينَ
 
 Any one with the least traces of brain in his head will, on considering the
 significance of these Holy Verses and examining the wonders of Allah's
@@ -11246,7 +11237,7 @@ with His law. For this reason Allah Almighty says: "Is there any doubt concernin
 Allah, the Creator of the Heavens and of the Earth?" (Abraham 11)
 
 
-## ﴿ أَفِ اللَّهِ شَكٍّ فَاطِرِ السَّمَوَاتِ وَالْأَرْضِ﴾
+ ﴿ أَفِ اللَّهِ شَكٍّ فَاطِرِ السَّمَوَاتِ وَالْأَرْضِ﴾
 
 The Messengers were, therefore, sent in order to call men to monotheism,
 that they may say, "There is no god but Allah." They were not, however,
@@ -11278,7 +11269,7 @@ come into existence without a cause, is obvious. For every originated
 <!-- PageBreak -->
 
 <!-- PageNumber="207" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 phenomenon belongs to a certain definite time the precedence or the
 subsequence of which may be assumed. Its being definite in time and distinct
@@ -11388,7 +11379,7 @@ composition, motion, quiescence, form, and quantity, all of which are
 <!-- PageBreak -->
 
 <!-- PageNumber="209" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 characteristic of originated phenomena. And if it were possible to believe that
 the Maker of the world is a body, it would also be possible to believe in the
@@ -11496,7 +11487,7 @@ m
 <!-- PageBreak -->
 
 <!-- PageNumber="211" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 This has been taken, by agreement, to mean thorough comprehension and
 knowledge just as the words of the Messenger of Allah "Allah's blessing and
@@ -11570,7 +11561,7 @@ would be a powerful and dominating being while the first would be weak and
 impotent rather than an almighty Allah.
 
 
-### The Second Pillar Concerning the Attributes of Allah Almighty, and it includes Ten Principles
+## The Second Pillar Concerning the Attributes of Allah Almighty, and it includes Ten Principles
 
 The first principle is the knowledge that the Maker of the world is almighty
 and that, in His statement: "He has power over all things."
@@ -11593,7 +11584,7 @@ Furthermore evidence of His truthfulness is found in His statement:
 finest mysteries (and) is well-acquainted (with them)." (Al-Mulk 14)
 
 
-#### ﴿أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ يّ
+ ﴿أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ يّ
 
 He has led you, through His creation, to arrive at the knowledge that you can
 not doubt the evidence which this intricate and orderly creation, even in
@@ -11613,7 +11604,7 @@ The fourth principle is the knowledge that Allah is willing. He wills all His
 <!-- PageBreak -->
 
 <!-- PageNumber="213" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 works and nothing exists which does not depend upon, and proceed from His
 will. He is the Creator, the Restorer, the Doer of whatsoever He wills. And how
@@ -11720,7 +11711,7 @@ with the epithet of origination was established because of the fact that they ar
 <!-- PageBreak -->
 
 <!-- PageNumber="215" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 subject to change and variation in properties. How, then, could their Creator
 share with them (the property of) accepting change.
@@ -11775,7 +11766,6 @@ it is impossible to conceive of a knower without knowledge, and of knowledge
 
 <!-- PageBreak -->
 
-216
 
 without something known, and of something known without a knower. These
 three are inseparable and the one is inconceivable without the other. Whoever
@@ -11784,8 +11774,7 @@ he would have to deem it possible that a knower could exist independently of
 that which is known, and that knowledge could exist independently of a
 knower, since there is no difference between these qualities.
 
-The Third Pillar Concerning The Knowledge Of The Acts Of Allah
-Almighty, And It Includes Ten Principles
+## The Third Pillar Concerning The Knowledge Of The Acts Of Allah Almighty, And It Includes Ten Principles
 
 The first principle is the knowledge that every originated phenomenon in the world is
 of His make, creation, and invention. There is no other creator of it besides Him, and
@@ -11830,7 +11819,7 @@ actions of His servants, does not prevent them from doing voluntary actions by
 <!-- PageBreak -->
 
 <!-- PageNumber="217" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 way of acquisition, for Allah has created will as well as the willed, choice as well
 as the chosen. Will is a quality with regards to man and a creation of Allah rather
@@ -11936,7 +11925,7 @@ mean the second signification, he would then be a Muslim, since when
 <!-- PageBreak -->
 
 <!-- PageNumber="219" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 knowledge of thing obtains, its existence will be inevitable. But if he should mean
 a third signification, that thing is unintelligible. As to his statement that (creation
@@ -12008,7 +11997,7 @@ think of necessity in connation with Allah. "He cannot be questioned for His act
 but they will be questioned (for theirs)." (Al-Anbiya 23)
 
 
-##### ﴿لَا يُسْئَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْتَلُونَ
+ ﴿لَا يُسْئَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْتَلُونَ
 
 I wonder what answer would the Mu'tazilites give when, in connation with his
 statement that it is incumbent upon Allah to do what is salutary and good, we
@@ -12044,7 +12033,7 @@ desirable to the other if it disagrees with the desire of the one and promotes t
 <!-- PageBreak -->
 
 <!-- PageNumber="221" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 of the other. Thus a family would deem the murder of their child undesirable but
 their enemies would welcome it. Hence if that which does not promote the
@@ -12149,7 +12138,7 @@ challenged the Arabs For the Arabs, in their struggle with the Messenger of Alla
 <!-- PageBreak -->
 
 <!-- PageNumber="223" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 "Allah's blessing and peace be upon him", did everything to check mate him but
 despite their distinguished ability and excellence in eloquence and rhetoric, they
@@ -12178,7 +12167,7 @@ the shadow of doubt, that the king's action takes the place of his saying You ar
 right."
 
 
-###### The Fourth Pillar Concerning the Accepted Things and Believing in what the Messenger of Allah "Allah's blessing and peace be upon him" told Concerning them, and it includes Ten Principles
+## The Fourth Pillar Concerning the Accepted Things and Believing in what the Messenger of Allah "Allah's blessing and peace be upon him" told Concerning them, and it includes Ten Principles
 
 The first principle is the belief in the resurrection of the dead and the day of
 judgment both of which have been mentioned in tradition. They are real and
@@ -12257,7 +12246,7 @@ souls; in Hell will they abide ... " (Al-Mu'minun 102:103)
 <!-- PageBreak -->
 
 <!-- PageNumber="225" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 The manner in which this is done is that Allah causes to exist in the balance
 sheets of men's works a weight in proportion to the value of these works in His
@@ -12364,7 +12353,7 @@ legitimate when the need for it is great and urgent ? These then are four pillar
 <!-- PageBreak -->
 
 <!-- PageNumber="227" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 which comprise the forty principles which pertain to the foundations of the
 creeds. He who believes therein will be in harmony with the established
@@ -12372,12 +12361,12 @@ community of sunnah and the enemy of all heretics. Might Allah guide us by His
 grace and drive us into the right path of truth.
 
 
-## CHAPTER FOUR: ON FAITH AND ISLAM; THE POINTS OF SIMILARITY AND DIFFERENCE BETWEEN THEM AND THE INCREASE OR DECREASE OF BELIEF; AND THE FOUNDATIONS WHICH THE FOREFATHERS LAID DOWN THEREIN
+# CHAPTER FOUR: ON FAITH AND ISLAM; THE POINTS OF SIMILARITY AND DIFFERENCE BETWEEN THEM AND THE INCREASE OR DECREASE OF BELIEF; AND THE FOUNDATIONS WHICH THE FOREFATHERS LAID DOWN THEREIN
 
 This chapter includes three questions:
 
 
-### Question One
+## Question One
 
 People differed concerning Islam, whether it was identical with faith or
 different therefrom; and, in the event it was different, whether it was independent
@@ -12477,7 +12466,7 @@ linguistically, because belief is in reality a work-in fact the best of works. I
 <!-- PageBreak -->
 
 <!-- PageNumber="229" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 the other hand is submission either with the mind, or with the tongue, or with the
 senses; but the best is the submission with the mind. It is that acceptance which
@@ -12590,7 +12579,7 @@ It is strange that Abu-Talib Al-Makki should claim the support of catholic
 <!-- PageBreak -->
 
 <!-- PageNumber="231" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 consent for this position of his and yet relate the following tradition, "No one
 would be declared an unbeliever unless he should deny what he has professed,"
@@ -12694,7 +12683,7 @@ time. For this reason, Hudhaifah used to stay away from the funerals of
 <!-- PageBreak -->
 
 <!-- PageNumber="233" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 hypocrites, and it was customary for 'Umar to follow his example and absent
 himself whenever Hudhaifah did so. Nevertheless prayer over the dead is a
@@ -12748,7 +12737,7 @@ most wretched who has belied the truth and turned their back." (Al-layl 15:16)
 
 
 
-#### ﴿لَا يَصْلَنَهَ إِلَّا الْأَنْقَىِ الَّذِى كَذَّبَ وَتَوَلَّى )﴾
+ ﴿لَا يَصْلَنَهَ إِلَّا الْأَنْقَىِ الَّذِى كَذَّبَ وَتَوَلَّى )﴾
 
 In this verse we find a specification, as well as an affirmation and a negation.
 They also point out the following statement: " If any do good, good will (accrue)
@@ -12800,7 +12789,7 @@ Naml 90)
 <!-- PageBreak -->
 
 <!-- PageNumber="235" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 All these generalities contradict theirs. Therefore it is inevitable to resort to
 specification and interpretation on both sides; especially when traditions are clear
@@ -12913,7 +12902,7 @@ have been revealed for that particular purpose.
 <!-- PageBreak -->
 
 <!-- PageNumber="237" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 You may say: "What has already been said will lead to the conclusion that
 belief obtains without good works although it is well known that the Fathers said
@@ -12939,7 +12928,7 @@ been amputated is described as being no longer a human being; in other words he
 lacks that perfection which is beyond actual humanity.
 
 
-### Question Two
+## Question Two
 
 You may say, "The Fathers have agreed that belief is subject to increase and
 depreciation-increasing with obedience and good works, and decreasing with
@@ -13020,7 +13009,7 @@ manifold increase through its active operation. Similarly if the person who
 <!-- PageBreak -->
 
 <!-- PageNumber="239" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 believes in modesty will, in accordance with his belief, humble himself before
 another person, he will sense the quality of modesty within himself at the time he
@@ -13098,7 +13087,7 @@ in his heart the weight of a Dinar of belief." Why then should the amount differ
 if the belief in the heart does not vary?
 
 
-#### Question Three
+## Question Three
 
 You may ask, "What then have the Fathers meant with the saying, 'If it be the
 will of Allah I am a believer?" A qualification implies doubt, and to entertain
@@ -13122,7 +13111,7 @@ asked, "Are you a believer ?" To which he replied: "If it be the will of Allah."
 <!-- PageBreak -->
 
 <!-- PageNumber="241" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 Thereupon he was told, "O Abu Sa'id ? Why do you qualify your belief?" He
 answered and said: "I fear saying, 'Yes', and then Allah will say, 'You have
@@ -13228,7 +13217,7 @@ perfection of belief, and hypocrisy is something hidden while freedom from it
 <!-- PageBreak -->
 
 <!-- PageNumber="243" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 is readily discerned or determined. The second is because belief is perfected
 through the fulfillment of good works which are not known to exist in their
@@ -13331,7 +13320,7 @@ time of the Messenger of Allah "Allah's blessing and peace be upon him". The
 <!-- PageBreak -->
 
 <!-- PageNumber="245" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 Messenger of Allah "Allah's blessing and peace be upon him" said: 'He who is
 double-tongued in this world will, in the hereafter, be made double tongued by
@@ -13430,14 +13419,14 @@ ordained and there may appear in the present a thing which will give the lie to 
 <!-- PageBreak -->
 
 <!-- PageNumber="247" -->
-<!-- PageHeader="Book two: the foundations of the Creeds" -->
+
 
 words, " I am a believer ". And who can be sure that he is one of those for whom
 Allah has pre-ordained good things? It is said that the statement of Allah
 Almighty "And the stupor of death will bring truth (before his eyes)" (Qaf 19)
 
 
-##### ﴿وَجَآءَتْ سَكْرَةُ الْمَوْتِ بِالْحْقِ رِعَ)﴾
+ ﴿وَجَآءَتْ سَكْرَةُ الْمَوْتِ بِالْحْقِ رِعَ)﴾
 
 Means that the pre-ordained thing has been fulfilled and made known.
 
@@ -13748,13 +13737,13 @@ bodily cysts and discharges, which is accomplished by such operations as
 manicuring, shaving, depilating the pubic hair, circumcision, and the like of that.
 
 
-# PART ONE: ON PURIFICATION FROM IMPURITIES
+## PART ONE: ON PURIFICATION FROM IMPURITIES
 
 The discussion thereof includes a Study of that which is removed, the Vehicle
 of Removal, and the way of Removal.
 
 
-## That Which Is Removed
+### That Which Is Removed
 
 That which is removed is impurity. Substances are of three kinds: inanimate
 
@@ -13802,7 +13791,7 @@ the principle of purity is lenience and all that was innovated therein is the re
 of obsessions which have no foundation.
 
 
-## The Vehicle Of Removal
+### The Vehicle Of Removal
 
 The vehicle of removal is either solid or liquid. The solid is the stone of
 abstersion which has been purified through being (sun-) dried. It should be a
@@ -13991,7 +13980,7 @@ do away with fears and suspicions. In that spirit have I given my legal opinions
 concerning disputed problems of purity.
 
 
-# THE Way OF REMOVAL
+### THE Way OF REMOVAL
 
 If an impurity is an impurity in effect, i.e. it has no palpable body, it is
 sufficient to run water over all its parts. But if it is an impurity in fact, i.e. physical
@@ -14009,7 +13998,7 @@ prayer, and one should not resort to deduction to prove the presence of
 impurities.
 
 
-# PART TWO: ON PURIFICATION FROM EXCREMENTS
+## PART TWO: ON PURIFICATION FROM EXCREMENTS
 
 The purification from excrements includes performing ablution, bathing,
 purification with clean sand, and all are preceded by abstersion. We shall now
@@ -14018,7 +14007,7 @@ etiquette and rules, beginning with the reason for ablution and the etiquette of
 answering the call of nature.
 
 
-# THE ETIQUETTE OF ANSWERING THE Call OF NATURE
+### THE ETIQUETTE OF ANSWERING THE Call OF NATURE
 
 One should go into the wilderness far from the eyes of onlookers He should
 shelter himself behind something whenever possible and should not uncover his
@@ -14099,7 +14088,7 @@ and peace be upon him" has done that despite his extreme shyness, in order to
 show men that it was permissible.
 
 
-# The Way Of Abstersion
+### The Way Of Abstersion
 
 One should perform the abstersion for his posterior orifice with three stones.
 If the orifice is cleansed therewith, the three stones will suffice, otherwise, a
@@ -14153,7 +14142,7 @@ herewith praised you?" They said: "We were wont to use both stones and
 water (for abstersion)."
 
 
-## The Way Of Performing Ablution
+### The Way Of Performing Ablution
 
 When one is through with abstersion, he should proceed to perform his
 ablution, for never has the Messenger of Allah "Allah's blessing and peace be
@@ -14356,7 +14345,7 @@ neglects the interior, leaving it stuffed with all manner of dirt and filth. Suc
 man is best fitted for contempt and perdition. But Allah knows best.
 
 
-# The Excellence Of Ablution
+### The Excellence Of Ablution
 
 The Messenger of Allah "Allah's blessing and peace be upon him" said:
 "Whoever performs his ablution well and prostrates himself twice in prayer
@@ -14407,7 +14396,7 @@ let him do so, for souls are brought back to life in the same condition in which
 they were when taken away."
 
 
-## The way of bathing
+### The way of bathing
 
 One should place the vessel which contains the water to his right, and
 repeating the Basmalah, he should wash his hands, thrice, then perform the act of
@@ -14461,7 +14450,7 @@ semen, the insane when he regains his sanity, and the person who has washed a
 dead body. All these are desirable.
 
 
-## The way of Purification with clean Sand
+### The way of Purification with clean Sand
 
 If, after trying earnestly to find water, a person is unable to secure any, or is
 prevented by the presence of some beast or obstacle from reaching the water
@@ -14505,12 +14494,12 @@ ordained rite should be preceded by a single act of Tayammum.
 <!-- PageNumber="268" -->
 
 
-#  PART THREE: ON CLEANLINESS AND CLEANSING FROM THE EXTERNAL BODILY CYSTS AND DISCHARGES
+##  PART THREE: ON CLEANLINESS AND CLEANSING FROM THE EXTERNAL BODILY CYSTS AND DISCHARGES
 
 which are of Two Kinds: Discharges and cysts
 
 
-## The First Kind: The Discharges And The Wet Excretions Of The Body
+### The First Kind: The Discharges And The Wet Excretions Of The Body
 
 These comprise eight:
 
@@ -15260,7 +15249,7 @@ and the method of purifying the heart from them.
 <!-- PageBreak -->
 
 
-#### Book four: The mysteries and duties of prayer
+# Book four: The mysteries and duties of prayer
 
 Praise be to Allah Who has caused His Kindness to overspread His servants,
 and filled their hearts with the light of faith, which descends from the Throne of
@@ -15324,7 +15313,7 @@ in need to learn and know
 Chapter seven: on the related voluntary deeds.
 
 
-## CHAPTER ONE: ON THE MERITS OF PRAYER
+# CHAPTER ONE: ON THE MERITS OF PRAYER
 
 Prostration, congregational prayer, the call to prayer (Adhan) and other related
 topics
@@ -15629,7 +15618,7 @@ they missed the Takbir of the first (rak'ah), and for seven days whenever they
 missed a congregational prayer.
 
 
-## The Excellence Of Prostration
+### The Excellence Of Prostration
 
 (It is narrated by Ibn Al-Mubarak on the authority of Damrah Ibn Habib that)
 the Messenger of Allah said: "The servant never draws near unto Allah Almighty
@@ -15697,7 +15686,7 @@ Almighty when he is falling in prostration: so, invoke (Allah) so much while bei
 in such posture."
 
 
-## The Excellence Of Submission
+### The Excellence Of Submission
 
 Allah Almighty says: "And establish regular prayers for celebrating My
 Praises." (Ta Ha 14)
@@ -15880,7 +15869,7 @@ prayer one offers proportionately with thoughtfulness is better than standing fo
 a whole night (to offer supererogatory prayers) with the heart heedless."
 
 
-## The Excellence Of Mosques And Places Of Worship
+### The Excellence Of Mosques And Places Of Worship
 
 Allah Almighty says: "The mosques of Allah shall be visited and maintained by
 those who believe in Allah and the Last Day." (At-Tawbah 18)
@@ -15957,7 +15946,7 @@ upon them (in case they offer prayer in it) or for Allah's Curse upon them (in c
 they do not offer prayer in it)."
 
 
-## CHAPTER TWO :ON THE OUTWARD ACTS OF PRAYER BEGINNING FROM TAKBIR AND WHAT IS PRIOR TO IT
+# CHAPTER TWO :ON THE OUTWARD ACTS OF PRAYER BEGINNING FROM TAKBIR AND WHAT IS PRIOR TO IT
 
 Once a praying man finishes from performing his ablution, and purifying his
 body, the place (in which he will pray) and garment from filth, and covering his
@@ -16179,7 +16168,7 @@ closer to what is common. Then, let him offer the second rak'ah in the same way
 from Satan) with which he commenced the prayer.
 
 
-# The Testification (Tashahhud)
+## The Testification (Tashahhud)
 
 After finishing from the second rak'ah, let him recite the first testification
 (Tashahhud), and invoke for Allah's Prayer and Blessing upon the Messenger
@@ -16351,7 +16340,7 @@ way as he should fall down on removing that wall, his prayer would be invalid;
 and Allah Almighty knows best.
 
 
-# The Differentiation between obligatory duties and Traditional Practices Of Sunnah
+## The Differentiation between obligatory duties and Traditional Practices Of Sunnah
 
 What have been mentioned include many acts which belong to the obligatory
 duties, others to the Prophetic practice, some to the etiquette and states which
@@ -16520,7 +16509,7 @@ each one of the prayer's pillars, in order to be valid for the provision of the
 hereafter.
 
 
-# The Exposition Of The Necessity Of Submission And Heart's Presence
+## The Exposition Of The Necessity Of Submission And Heart's Presence
 
 It should be known that there are so many proofs for that concept; and a
 mention might be made here of Allah's statement: "And establish prayer regularly
@@ -16975,7 +16964,7 @@ heart: we ask Allah Almighty to grant us good success by virtue of His Kindness
 and Generosity.
 
 
-# The Exposition Of The Treatment Which Is Useful To The Heart's Attentiveness
+## The Exposition Of The Treatment Which Is Useful To The Heart's Attentiveness
 
 It should be known that the faithful believer should entertain the feelings of
 exaltation, fear, and hope of Allah Almighty, and shyness of his failure (to fulfill
@@ -18560,7 +18549,7 @@ prior to Friday, Allah Almighty writes for him the reward of a martyr and saves
 him from the affliction of the grave."
 
 
-### The Exposition Of The Conditions And Traditions Of Friday Prayer
+## The Exposition Of The Conditions And Traditions Of Friday Prayer
 
 It should be known that it shares all conditions with the other (obligatory)
 prayers; and there are further six conditions characteristic of it:
@@ -19169,7 +19158,7 @@ mosques: sit not in their company, for Allah Almighty is not in need of their
 (religious service)."
 
 
-# The Exposition Of Further Manners Outside This Sequence
+## The Exposition Of Further Manners Outside This Sequence
 
 Those cover the whole day, and they consist of seven things:
 
@@ -20298,7 +20287,7 @@ Allah Almighty: " Their limbs do forsake their beds of sleep, the while they cal
 on their Lord, in Fear and Hope." (As-Sajdah:16)
 
 
-### 17 ﴿ نَتَجَالَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا
+ 17 ﴿ نَتَجَالَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا
 
 (It is narrated by Ibn Al-Mubarak on the authority of Ibn Al-Mundhir that)
 the Messenger of Allah "Allah's blessing and peace be upon him" said: "He, who
@@ -20322,7 +20311,7 @@ them." however, its remaining good merits will be discussed later in the Book of
 Regular Divisions, Allah Willing.
 
 
-# The Second Category: That Which Is Repeated With The Recurrence Of Weeks
+## The Second Category: That Which Is Repeated With The Recurrence Of Weeks
 
 It implies the prayers to be offered on each of the days and nights along the
 week. As for days, let's start with Sunday.
@@ -20832,7 +20821,7 @@ on this night, Allah Almighty looks at him seventy times, and with each He
 fulfills a need for him, the least of which is the forgiveness.
 
 
-### The Fourth Category Of Supererogatory Prayers Which Pertain To Occasional Causes, And Not To Fixed Times
+## The Fourth Category Of Supererogatory Prayers Which Pertain To Occasional Causes, And Not To Fixed Times
 
 Those include nine prayers: the eclipse prayer, the Istisqa' (invoking for water)
 prayer, the two-rak'ah prayer of greeting the mosque, the two-rak'ah prayer of
@@ -21338,8 +21327,7 @@ knows best.
 
 # Book five: The mysteries of obligatory charity
 
-
-## In the Name of Allah, Most Gracious, Most Merciful
+In the Name of Allah, Most Gracious, Most Merciful
 
 Praise be to Allah, Who has blessed some with happiness and reduced others
 to wretchedness, brought some to death and others to life, caused some to laugh,
@@ -21366,7 +21354,7 @@ prayer, which is the highest religious service, as shown from His saying: " be
 steadfast in prayer; And practise regular charity." (Al-Baqarah 83)
 
 
-## ﴿وَأَقِيمُواْ الصَّلَوَةَ وَءَاتُواْ الزَّكَوَةَ (2)﴾
+ ﴿وَأَقِيمُواْ الصَّلَوَةَ وَءَاتُواْ الزَّكَوَةَ (2)﴾
 
 (It is unanimously narrated on the authority of Abu Hurairah that) the
 Messenger of Allah "Allah's blessing and peace be upon him" said: "Islam has
@@ -21429,7 +21417,7 @@ conditions and manners by which he is worthy of receiving it.
 Chapter four: On the voluntary charity (Sadaqat) and its excellence.
 
 
-## CHAPTER ONE: ON THE DIFFERENT KINDS OF OBLIGATORY CHARITY (ZAKAT) AND THE CAUSES OF ITS OBLIGATION
+# CHAPTER ONE: ON THE DIFFERENT KINDS OF OBLIGATORY CHARITY (ZAKAT) AND THE CAUSES OF ITS OBLIGATION
 
 The kinds of obligatory charity, in relation to its appurtenances, are six: the
 obligatory charity due upon livestock (of cattle and sheep); the obligatory charity
@@ -21563,7 +21551,7 @@ gravid , nor sheep which has just brought forth, nor male, nor the best among th
 flock should be taken (as obligatory charity).
 
 
-# The Second Kind: The Obligatory Charity Due Upon The Land Yields
+## The Second Kind: The Obligatory Charity Due Upon The Land Yields
 
 One-tenth the edible plants (of foodstuff), which is as much as no less than
 eight hundred manebs, is due as obligatory charity; and nothing is due upon a
@@ -21598,7 +21586,7 @@ becomes evident, and the grains grow hard, whereas it should be fulfilled after
 being dried.
 
 
-# The Third Kind: The Obligatory Charity Due Upon Both Gold And Silver
+## The Third Kind: The Obligatory Charity Due Upon Both Gold And Silver
 
 When a whole year has passed with a weight equal to two hundred sterling
 Dirhams (of silver while being in the possession of somebody) according to the
@@ -21657,7 +21645,7 @@ lender himself, i.e. upon his share of the profit, even before distributing the
 shares. This is the most standard practice.
 
 
-# The Fifth Kind: The Alms Due Upon Buried Treasures And Mines
+## The Fifth Kind: The Alms Due Upon Buried Treasures And Mines
 
 The buried treasure applies to such (of gold, silver and any precious metals) as
 had been buried during the pre-Islamic period of ignorance and was found in a
@@ -21697,7 +21685,7 @@ contradictory. It is dangerous to lay down hasty and strict verdicts in view of 
 contradictory nature of these conjectures.
 
 
-# The Sixth Kind: The Alms Of Breaking The Fast
+## The Sixth Kind: The Alms Of Breaking The Fast
 
 It is obligatory, on the tongue of the Messenger of Allah "Allah's blessing and
 peace be upon him" upon every Muslim, from what is left over of the sustenance
@@ -21743,7 +21731,7 @@ case he should seek the religious verdicts, after having grasped this amount of
 knowledge.
 
 
-## CHAPTER TWO: ON THE FULFILLMENT OF ALMS AND ITS OUTWARD AND INWARD CONDITIONS
+# CHAPTER TWO: ON THE FULFILLMENT OF ALMS AND ITS OUTWARD AND INWARD CONDITIONS
 
 It should be known that the almsgiver should observe five things:
 
@@ -21946,7 +21934,7 @@ them, so that they might share it, for indeed doing so is necessary.
 <!-- PageHeader="Book five: The mysteries of obligatory charity" -->
 
 
-# On The Exposition Of The Details Of The Inward Manners Pertaining To The Obligatory Charity
+## On The Exposition Of The Details Of The Inward Manners Pertaining To The Obligatory Charity
 
 It should be known that there are several duties incumbent upon the seeker
 after the way to the hereafter, which go as follows:
@@ -22537,7 +22525,7 @@ and press you, you would covetously withhold, and He would bring out all your
 ill-feeling." (Muhammad 37)
 
 
-## ﴿إِن يَسْتَلْكُمُوهَا فَيُخْفِكُمْ تَبْخَلُواْ وَتُخْرِجْ أَضْغَتَكُرْ(
+ ﴿إِن يَسْتَلْكُمُوهَا فَيُخْفِكُمْ تَبْخَلُواْ وَتُخْرِجْ أَضْغَتَكُرْ(
 
 The seventh duty: let the almsgiver choose from his property the best and
 the dearest to him, the most honoured and the most lawful, for Allah Almighty is
@@ -22744,7 +22732,7 @@ sundry, and whatever of good you give, be assured Allah knows it well." (Al-
 Baqarah 273)
 
 
-## ﴿يَحْسَبُهُمُ الْجَاهِلُ أَغْنِيَاءَ مِنَ التَّعَفُّفِ تَعْرِفُهُم بِسِيمَهُمْ لَا يَسْئَلُونَ النَّاسِ إِلْحَافًاُ وَمَا تُنفِقُواْ مِنْ خَيْرٍ فَإِنَّ اللَّهَ بِهِ، عَلِيمُ (2)
+ ﴿يَحْسَبُهُمُ الْجَاهِلُ أَغْنِيَاءَ مِنَ التَّعَفُّفِ تَعْرِفُهُم بِسِيمَهُمْ لَا يَسْئَلُونَ النَّاسِ إِلْحَافًاُ وَمَا تُنفِقُواْ مِنْ خَيْرٍ فَإِنَّ اللَّهَ بِهِ، عَلِيمُ (2)
 
 However, they beg not importunately because they are independent and rich
 in their certainty of faith, while exalted in power and honour with their firm
@@ -23349,7 +23337,7 @@ recite, if you so like, Allah's saying: "They never beg the people
 importunately."" (Al-Baqarah 273)
 
 
-#### ﴿يَسْئَلُونَ النَّاسَ إِلَّحَافًا (َ﴾
+ ﴿يَسْئَلُونَ النَّاسَ إِلَّحَافًا (َ﴾
 
 The Messenger of Allah "Allah's blessing and peace be upon him" said: "No
 Muslim dresses another Muslim (in a dress) but that the former remains in the
@@ -23776,7 +23764,7 @@ best.
 # Book six: the mysteries of fasting
 
 
-## In the Name of Allah, Most Gracious, Most Merciful.
+ In the Name of Allah, Most Gracious, Most Merciful.
 
 Praise be to Allah Who has made great His Favour upon His servants, when
 He averted from them the evil plots and guiles of Satan, thwarted his hopes and
@@ -23803,7 +23791,7 @@ Book): "those who patiently persevere will truly receive a reward without
 measure!" (Az-Zumar 10)
 
 
-### ﴿إِنَّمَا يُوَّى الصَِّرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ (﴾﴾
+ ﴿إِنَّمَا يُوَّى الصَِّرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ (﴾﴾
 
 Fasting comprises (as we have mentioned) half the patience, since its
 reward goes beyond the limit of estimation and calculation. It is sufficient for
@@ -23846,7 +23834,7 @@ because of the (good) that you sent before you, in the days that are gone!"
 (Al-Haqqah 24)
 
 
-### ﴿ كُلُواْ وَاشْرَبُواْ هَنِيًَّا بِمَآ أَسْلَفْتُمْ فِ آلْأَيَّامِ الْخَالِيَّةِ (ي)﴾
+ ﴿ كُلُواْ وَاشْرَبُواْ هَنِيًَّا بِمَآ أَسْلَفْتُمْ فِ آلْأَيَّامِ الْخَالِيَّةِ (ي)﴾
 
 "Those are the days of fasting, on which they left food and drink."
 
@@ -23947,7 +23935,7 @@ and regulations, and its inward rules; and this will be achieved through three
 chapters.
 
 
-## CHAPTER ONE: ON THE OUTWARD DUTIES AND REGULATIONS, AND THE OBLIGATIONS CONCOMITANT TO BREAKING THE FAST
+# CHAPTER ONE: ON THE OUTWARD DUTIES AND REGULATIONS, AND THE OBLIGATIONS CONCOMITANT TO BREAKING THE FAST
 
 As for the outward duties, they are six:
 
@@ -25432,7 +25420,7 @@ natural proximity between species. However, the sea game is lawful, and no
 reprisal is due concerning it.
 
 
-## CHAPTER TWO: ON THE SEQUENCE OF THE OUTWARD ACTS (OF GREATER PILGRIMAGE) FROM TRAVELING TO RETURNING HOME
+# CHAPTER TWO: ON THE SEQUENCE OF THE OUTWARD ACTS (OF GREATER PILGRIMAGE) FROM TRAVELING TO RETURNING HOME
 
 Those acts are included in ten subsections:
 
@@ -26625,7 +26613,7 @@ Gate of Truth and Honour; and grant me from Your Presence an authority to aid
 (me)." (Al-Isra' 80)
 
 
-### ﴿ وَقُل رَّتِّ أَدْخِلْنِى مُدْخَلَ صِدْقٍ وَأَخْرِ جْنِى مُخْرَجَ صِدْقٍ وَأَجْعَل لِى مِن لَّدُنكَ سُلْطَنًا نَّصِيرًا(2)﴾
+ ﴿ وَقُل رَّتِّ أَدْخِلْنِى مُدْخَلَ صِدْقٍ وَأَخْرِ جْنِى مُخْرَجَ صِدْقٍ وَأَجْعَل لِى مِن لَّدُنكَ سُلْطَنًا نَّصِيرًا(2)﴾
 
 Then, let him aim at the mosque to enter, and offer a two-rak'ah prayer by the
 side of the pulpit, making the pole of the pulpit alongside his right shoulder, and
@@ -26805,7 +26793,7 @@ could, and visit the mosques which lie on the way between Medina and Mecca,
 one by one, and offer prayer in them; and they are twenty mosques.
 
 
-# A Chapter On The Traditions Of Returning From Journey
+## A Chapter On The Traditions Of Returning From Journey
 
 Whenever the Messenger of Allah "Allah's blessing and peace be upon him",
 (according to what is unanimously narrated on the authority of Ibn Umar)
@@ -26993,7 +26981,7 @@ Allah Almighty: " And complete the Hajj or Umrah in the service of Allah." (Al-
 Baqarah 196)
 
 
-## ﴿ وَأَتِمُواْ الْحَجَّ وَالْعُمْرَةَ لِلَّهِ﴾
+ ﴿ وَأَتِمُواْ الْحَجَّ وَالْعُمْرَةَ لِلَّهِ﴾
 
 But according to another learned men, riding is much better for it includes
 more spending and provisions, and it is farther from boredom and tedium, and
@@ -27065,7 +27053,7 @@ the rites prescribed for them, perform their vows, and (again) circumambulate th
 Ancient House." (Al-Hajj 29)
 
 
-## ﴿ ثُمَّ لْيَقْضُواْ تَفَتَهُمْ وَلْيُوفُواْ تُذُورَهُمْ وَلْيَطَّوَّفُواْ بِآلْبَيْتِ الْعَتِيقِ (َ)
+ ﴿ ثُمَّ لْيَقْضُواْ تَفَتَهُمْ وَلْيُوفُواْ تُذُورَهُمْ وَلْيَطَّوَّفُواْ بِآلْبَيْتِ الْعَتِيقِ (َ)
 
 The rites pointed out here refer to the state of being disheveled and covered
 with dust, and to fulfill that is to get one's head shaved, one's mustache cut short,
@@ -27167,7 +27155,7 @@ meat nor their blood, that reaches Allah: it is your piety that reaches Him." (A
 Hajj 37)
 
 
-## ﴿ لَنْ يَنَالَ اللَّهَ لُحُومُهَا وَلَا دِمَاؤُهَا وَلَكِن يَنَالُهُ الثَّقْوَى مِنْكُمّْ
+ ﴿ لَنْ يَنَالَ اللَّهَ لُحُومُهَا وَلَا دِمَاؤُهَا وَلَكِن يَنَالُهُ الثَّقْوَى مِنْكُمّْ
 
 This could only be achieved through observing the precious value, no matte;
 few or great in number it might be.
@@ -27214,7 +27202,7 @@ brothers (in the religion of Allah) for those idle and wicked, and the gathering
 celebration and attentiveness for those of amusement and heedlessness.
 
 
-# The Exposition Of The Internal Works, And The Point Of Making Sincere The Intention, And The Way Of Considering The Honoured Shrines, And The Way Of Reflecting Them, And Celebrating Their Mysteries And Significances, From The Beginning To The End Of Hajj
+## The Exposition Of The Internal Works, And The Point Of Making Sincere The Intention, And The Way Of Considering The Honoured Shrines, And The Way Of Reflecting Them, And Celebrating Their Mysteries And Significances, From The Beginning To The End Of Hajj
 
 It should be known to you that the first thing to be learnt of Hajj is to
 understand, i.e. to understand the position of Hajj in the religion, then, to have
@@ -27866,7 +27854,7 @@ but trouble and weariness: we seek refuge with Allah Almighty from that.
 <!-- PageBreak -->
 
 
-## Book eight: The proprieties of reciting the qur'an
+# Book eight: The proprieties of reciting the qur'an
 
 In the Name of Allah, Most Gracious, Most Merciful
 
@@ -27937,10 +27925,10 @@ The fourth chapter investigates the (different ways of) understanding and
 interpretation of the Holy Qur'an depending upon intellect and the like of it.
 
 
-## CHAPTER ONE: ON THE EXCELLENCE OF THE HOLY QUR'AN AND ITS PEOPLE AND CRITICIZING THE NEGLECTFUL OF RECITING IT
+# CHAPTER ONE: ON THE EXCELLENCE OF THE HOLY QUR'AN AND ITS PEOPLE AND CRITICIZING THE NEGLECTFUL OF RECITING IT
 
 
-### The Excellence Of The Holy Qur'an
+## The Excellence Of The Holy Qur'an
 
 From amongst the Prophetic traditions in this connection, a mention might be
 made here of the following:
@@ -28077,7 +28065,7 @@ retaining, and remove the phlegm (sluggishness and apathy): to use toothpick, to
 observe fast, and to recite the Qur'an."
 
 
-### On Criticizing The Recitation Of The Heedless
+## On Criticizing The Recitation Of The Heedless
 
 According to Anas Ibn Malik: "How many a reciter of the Qur'an, even
 though the Holy Qur'an curses him!" "Such is the case of the Qur'an when it is in
@@ -28171,7 +28159,7 @@ are turning your back to Me: do you make Me more insignificant in your sight
 than anyone of your brothers?"
 
 
-### CHAPTER TWO: ON THE OUTWARD PROPRIETIES OF RECITATION
+# CHAPTER TWO: ON THE OUTWARD PROPRIETIES OF RECITATION
 
 Those are ten, and they go as follows:
 
@@ -28360,7 +28348,6 @@ It should be known to you that the recitation in a slow measured rhythmic
 
 <!-- PageBreak -->
 
-530
 
 tones and pleasant voice is desirable, not only for the purpose of reflecting and
 considering its meanings, since it is desirable for the non-Arab who could not
@@ -28669,7 +28656,7 @@ partner in that reward, unless his intention is just to be seen of men and show
 ostentation.
 
 
-### CHAPTER THREE: ON THE INWARD WORKS OF RECITATION
+# CHAPTER THREE: ON THE INWARD WORKS OF RECITATION
 
 They are ten: the first is the understanding of the original meaning of words
 (of the Qur'an); then the exaltation (of the Qur'an); then the heart's presence (and
@@ -28941,7 +28928,7 @@ Holy Verse which eh kept reciting: "And O you in sin! get you apart this Day!"
 (Ya Sin 59)
 
 
-#### ﴿وَأَمْتَزُواْ الْيَوْمَ أَيُّا الْمُجْرِمُونَ (2)﴾
+ ﴿وَأَمْتَزُواْ الْيَوْمَ أَيُّا الْمُجْرِمُونَ (2)﴾
 
 One of those (learned men) said: "It happens that I inaugurate (the recitation
 of) a Surah, thereupon some (of its meanings) that I observe in it stops me from
@@ -29026,7 +29013,7 @@ perceive that everything, barring Allah Almighty, is nothing, and that
 Qasas 88)
 
 
-#### ﴿كُلُّ شَىْءٍ هَالِكُ إِلَّا وَجْهَهُ, (َ)﴾
+ ﴿كُلُّ شَىْءٍ هَالِكُ إِلَّا وَجْهَهُ, (َ)﴾
 
 It is not that everything (that exists) will become nothing in the next state (of
 life), but it is nothing at that time, in case one considers His Own Self as He is ,
@@ -29779,10 +29766,7 @@ the Revenger, that of the Compeller Exalted in Might and Power Who has no
 care, and that of a Compassionate Merciful, Who neglects naught.
 
 
-# CHAPTER FOUR:
-
-
-## ON THE UNDERSTANDING AND INTERPRETATION OF THE QUR'AN DEPENDING UPON ONE'S MIND AND NOT BY WAY OF TRANSMISSION
+# CHAPTER FOUR: ON THE UNDERSTANDING AND INTERPRETATION OF THE QUR'AN DEPENDING UPON ONE'S MIND AND NOT BY WAY OF TRANSMISSION
 
 Perhaps, you might say: "In the previous (chapter) you've made seriously
 critical the matter of understanding the mysteries of the Holy Qur'an, and such of
@@ -30807,7 +30791,7 @@ Almighty." And Allah Almighty knows best.
 <!-- PageHeader="Book nine: Celebrations and invocations" -->
 
 
-# The Excellence Of The Gatherings Of Celebration (Of Allah Almighty)
+## The Excellence Of The Gatherings Of Celebration (Of Allah Almighty)
 
 In this respect, the Messenger of Allah "Allah's blessing and peace be upon
 him" said: "There is no people who sit in a gathering to celebrate (the Praises of)
@@ -31494,7 +31478,7 @@ FORGIVENESS, AND INVOKING FOR ALLAH'S PRAYER AND BLESSING
 UPON THE MESSENGER OF ALLAH
 
 
-### The Excellence Of Supplication
+## The Excellence Of Supplication
 
 Allah Almighty says: "When My servants ask you concerning Me, I am indeed
 close (to them): I listen to the prayer of every suppliant when he calls on Me: let
@@ -31788,10 +31772,6 @@ Allah loves not those who trespass beyond bounds." (Al-A'raf 55)
 
 <!-- PageNumber="593" -->
 <!-- PageHeader="Book nine: Celebrations and invocations" -->
-
-
-<figure>
-</figure>
 
 
 ﴿أَدْعُواْ رَبَّكُمْ تَضَرُّعًا وَخُفْيَةٌ إِنَّهُ لَا يُحِبُّ الْمُعْتَدِينَ
@@ -32230,7 +32210,7 @@ him"?" The Messenger of Allah "Allah's blessing and peace be upon him" said:
 reckoning."
 
 
-# The Excellence Of Asking For Allah's Forgiveness
+## The Excellence Of Asking For Allah's Forgiveness
 
 Allah Almighty says: "And those who, having done something to be ashamed
 of, or wronged their own souls, earnestly bring Allah to mind, and ask for
@@ -32490,7 +32470,7 @@ A mention might be made here of the following supplications:
 
 
 
-# The Supplication Of The Messenger Of Allah "Allah's Blessing And Peace Be Upon Him" Following The Two-Rak'ah Prayer Prior To Fajr:
+## The Supplication Of The Messenger Of Allah "Allah's Blessing And Peace Be Upon Him" Following The Two-Rak'ah Prayer Prior To Fajr:
 
 In this connection, it is narrated on the authority of Ibn Abbas "Allah be
 pleased with both" that he said: Once, Al-Abbas sent me to the Messenger of
@@ -32657,7 +32637,7 @@ leave them (in the world), four gates of the Garden will be opened to him, to
 enter from whichever of them he likes."
 
 
-### The Supplication Of Abu Ad-Darda' "Allah Be Pleased With Him"
+## The Supplication Of Abu Ad-Darda' "Allah Be Pleased With Him"
 
 There was flaming fire in the residence where Abu Ad-Darda' was living
 thereupon it was said to him: "Your house has been in flames." He said: "Allah is
@@ -32680,7 +32660,7 @@ You from the evil of myself, and from the evil of every moving creature over
 whose forelock You have grasp: verily, it is my Lord that is on a straight path."
 
 
-### The Supplication Of Abraham, The Bosom Friend "Allah's Blessing And Peace Be Upon Him"
+## The Supplication Of Abraham, The Bosom Friend "Allah's Blessing And Peace Be Upon Him"
 
 He used to say whenever morning entered upon him: "O Allah! this is a new
 creature: open it to me with my obedience to You, and conclude it for me with
@@ -32693,7 +32673,7 @@ supplicates with this supplication whenever morning comes upon him, has,
 indeed, fulfilled such of thanks as due upon him during his day (to Allah)."
 
 
-### The Supplication Of Jesus "Peace Be Upon Him"
+## The Supplication Of Jesus "Peace Be Upon Him"
 
 He used to say: "O Allah! I've become in a state in which I could hardly avert
 what I dislike from me, or even get benefit from what I like and hope, seeing that
@@ -32870,7 +32850,7 @@ that, whose beginning never ceases, and whose end is never exhaustible."
 <!-- PageHeader="Book nine: Celebrations and invocations" -->
 
 
-# The Supplication Of Ibrahim Ibn Adham "Allah Be Pleased With Him"
+## The Supplication Of Ibrahim Ibn Adham "Allah Be Pleased With Him"
 
 It is narrated on the authority of his servant, Ibrahim Ibn Bashshar that he
 said: This supplication is to be said in the morning and evening of every Friday,
@@ -32944,7 +32924,7 @@ Living, Who never die; in Your Hand is good, and You have power over all
 things."
 
 
-## CHAPTER FOUR: ON SOME INVOCATIONS HANDED DOWN FROM THE PROPHET AND HIS COMPANIONS
+# CHAPTER FOUR: ON SOME INVOCATIONS HANDED DOWN FROM THE PROPHET AND HIS COMPANIONS
 
 Whose narrators are unknown, and they are selected from the anthologies
 compiled by Abu Talib Al-Makki, Ibn Khuzaimah, and Ibn Mundhir
@@ -33149,7 +33129,7 @@ Prophet, and upon his family and companions as much, numerous and abundant
 as it could be.
 
 
-### The Kinds Of Seeking Refuge (With Allah) Handed Down From The Prophet "Peace Be Upon Him"
+## The Kinds Of Seeking Refuge (With Allah) Handed Down From The Prophet "Peace Be Upon Him"
 
 O Allah! I seek refuge with You from being given to niggardliness, and I seek
 refuge with You from falling a victim of cowardice, and I seek refuge with You
@@ -33228,7 +33208,7 @@ each chosen servant from all of the worlds.
 
 
 
-## CHAPTER FIVE: ON SUPPLICATIONS HANDED DOWN ON DIFFERENT OCCASIONS
+# CHAPTER FIVE: ON SUPPLICATIONS HANDED DOWN ON DIFFERENT OCCASIONS
 
 When the morning comes upon you, and you hear the Call to Prayer, it is
 desirable that you should repeat the words of Adhan; and we have mentioned
@@ -33625,7 +33605,7 @@ are befallen by a certain need or fall victims of a certain distress. To be sure
 When evil seizes man, (he comes) full of prolonged prayer!" (Fussilat 51)
 
 
-### ﴿وَإِذَا مَسَّهُ الشَّرُّ فَذُ ودُعَآءٍ عَرِيضٍ ()
+ ﴿وَإِذَا مَسَّهُ الشَّرُّ فَذُ ودُعَآءٍ عَرِيضٍ ()
 
 The need then requires man to take refuge to invocation, and the invocation,
 in turn, brings the heart back to Allah Almighty, by way of supplication and
@@ -33655,10 +33635,7 @@ locations; and in Allah Almighty do we put our trust.
 
 <!-- PageBreak -->
 
-<!-- PageHeader="Book Tene the constitution of Regular Divisions" -->
-
-
-### and the details of giving life to the night (by standing for supererogatory prayer)
+# Book Ten: the constitution of Regular Divisions and the details of giving life to the night (by standing for supererogatory prayer)
 
 In the Name of Allah, Most Gracious, Most Merciful.
 
@@ -33721,10 +33698,10 @@ Chapter two: the way of giving life to the night; its excellence; and its
 appurtenances.
 
 
-#### CHAPTER ONE: ON THE EXCELLENCE, CONSTITUTION AND RULES OF REGULAR DIVISIONS
+# CHAPTER ONE: ON THE EXCELLENCE, CONSTITUTION AND RULES OF REGULAR DIVISIONS
 
 
-##### The Excellence Of regular divisions, And The Exposition Of The Fact That To Do Them Regularly Leads To The Right Way Of Allah Almighty
+## The Excellence Of regular divisions, And The Exposition Of The Fact That To Do Them Regularly Leads To The Right Way Of Allah Almighty
 
 It should be known that those who have deep insights come to know that
 there is no salvation (from perdition and destruction) but through the meeting
@@ -33955,7 +33932,7 @@ However, the sought bounty here refers to the good reward and forgiveness
 (of Allah Almighty); and we ask Allah to help us do what pleases Him.
 
 
-#### The Exposition Of The Number And Constitution Of Regular Divisions
+## The Exposition Of The Number And Constitution Of Regular Divisions
 
 It should be known to you that the regular divisions of the daylight are seven:
 there is one in the period between the daybreak and the emergence of the sun
@@ -34109,7 +34086,7 @@ and saying while he was turning away: " but man is, in most things, contentious.
 (Al-Kahf 54)
 
 
-##### ﴿ وَكَانَ آلْإِنسَانُ أُكْثَشَىْءٍ جَدَلاً
+ ﴿ وَكَانَ آلْإِنسَانُ أُكْثَشَىْءٍ جَدَلاً
 
 Furthermore, after offering the two-rak'ah prayer prior to Fajr and saying the
 related supplication, one should engage himself in the prayer for forgiveness and
@@ -34224,7 +34201,7 @@ refuge with You O my Lord lest they would come near me." (Al-Mu'minun
 97:98)
 
 
-##### ﴿ وَقُل رَّتِ أَعُوذُ بِكَ مِنْ هَمَزَّتِ الشَّيْطِينِ (٢ْ وَأَعُوذُ بِكَ رَبِّ أَن تَحْضُرُونِ ()
+ ﴿ وَقُل رَّتِ أَعُوذُ بِكَ مِنْ هَمَزَّتِ الشَّيْطِينِ (٢ْ وَأَعُوذُ بِكَ رَبِّ أَن تَحْضُرُونِ ()
 
 If one recites each of those ten statements ten times, making a total of one
 hundred times, it will be better for him than to recite only one of them one
@@ -34570,8 +34547,6 @@ the celebrations (of the Praises and Glories of Allah), the recitation (of the H
 
 <!-- PageBreak -->
 
-646
-
 Qur'an) and the meditation (on Allah's Signs and Dominion), or to perform the
 voluntary prayers if he so likes, which are undesirable just after the Morning
 prayer, and not in that period (of forenoon), in which it comes to occupy the
@@ -34664,7 +34639,7 @@ who have the will to celebrate His praises or to show their gratitude" (Al-Furqa
 62)
 
 
-##### ﴿ وَهُوَ الَّذِى جَعَلَ أَلَّيْلَ وَالنَّهَارَ خِلْفَةُ لِّمَنْ أَرَادَ أَنْ يَذَّكَّرَ أَوْ أَرَادَ شُكُورًا
+ ﴿ وَهُوَ الَّذِى جَعَلَ أَلَّيْلَ وَالنَّهَارَ خِلْفَةُ لِّمَنْ أَرَادَ أَنْ يَذَّكَّرَ أَوْ أَرَادَ شُكُورًا
 
 Is that one succeeds the other in excellence and superiority, and the other is
 that both come in succession, one after the other, in order that one might catch
@@ -34885,7 +34860,7 @@ number of counted days, which should all be inevitably spent when they pass one
 by one.
 
 
-# The Exposition Of The Night Regular Divisions
+## The Exposition Of The Night Regular Divisions
 
 Those are five, and they go as follows:
 
@@ -34902,7 +34877,7 @@ to witness the ruddy glow of Sunset." (Al-Inshiqaq 16)
 
 
 
-## ﴿فَلَّ أُقْسِمُ بِالشَّفَقِ ()﴾
+ ﴿فَلَّ أُقْسِمُ بِالشَّفَقِ ()﴾
 
 The prayer therein is a prayer in the rising by night, for it lies in its first
 portion. It is one of the parts (of the night) referred to by Allah in His statement:
@@ -34916,7 +34891,7 @@ limbs do forsake their beds of sleep, the while they call on their Lord, in Fear
 Hope." (As-Sajdah 16)
 
 
-### ﴿ تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ تَّمْ خَوْفًا وَطَمَعًا
+ ﴿ تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ تَّمْ خَوْفًا وَطَمَعًا
 
 This is narrated on the authority of Al-Hassan, and attributed by Ibn Abu
 Ziyad to The Messenger of Allah "Allah's blessing and peace be upon him" that
@@ -34930,7 +34905,7 @@ hour intended by Allah's saying: " Their limbs do forsake their beds of sleep, t
 while they call on their Lord, in Fear and Hope." (As-Sajdah 16)
 
 
-### ﴿ تَتَجَافَىْ جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ تَُّمْ خَوْفًا وَطَمَعًا.
+ ﴿ تَتَجَافَىْ جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ تَُّمْ خَوْفًا وَطَمَعًا.
 
 However, the excellence of giving life to the period between both Evening
 prayers will be discussed later in the second chapter (of this book).
@@ -34963,7 +34938,7 @@ I.e. with its full darkness. Allah Almighty further says: "Establish regular
 prayers at the sun's decline till the darkness of the night." (Al-Isra' 78)
 
 
-## ﴿ أَقِمِ الصَّلَوةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اَلَيْلِ (®)﴾
+ ﴿ أَقِمِ الصَّلَوةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اَلَيْلِ (®)﴾
 
 At that time, it becomes very dark, to the extent that its darkness wholly
 covers up the universe.
@@ -35204,7 +35179,7 @@ described as being "in the habit of sleeping but little by night." (Adh-Dhariyat
 17)
 
 
-## ﴿كَانُواْ قَلِيلاً مِنَ الَّيْلِ مَا يَهْجَعُونَ (2)﴾
+ ﴿كَانُواْ قَلِيلاً مِنَ الَّيْلِ مَا يَهْجَعُونَ (2)﴾
 
 Moreover, if he is overpowered by slumber from prayer and celebration (of
 Allah's Praises), and comes to know not what he is saying, let him sleep until he
@@ -35294,7 +35269,7 @@ call on Him with fear and longing (in your hearts): for the Mercy of Allah is
 وَخُفْيَّةً إِنَّهُ، لَا يُحِبُّ الْمُعْتَدِينَ (3) وَلَا تُفْسِدُواْ فِى الأَرْضِ بَعْدَ إِصْلَحِهَا وَادْعُوهُ خَوْفًا وَطَمَعَاْ إِنَّ رَحْمَتَ اللَّهِ
 
 
-## قَرِيبٌ مِنَ الْمُحْسِيِينَ (ِ)
+ قَرِيبٌ مِنَ الْمُحْسِيِينَ (ِ)
 
 Let him recite also the concluding two Verses of the Surah of Al-Isra': " Say:
 "Call upon Allah, or call upon Rahman: by whatever name you call upon Him, (it
@@ -35551,7 +35526,6 @@ Then, let him recite Allah's saying: "There is no god but He: that is the witnes
 
 <!-- PageBreak -->
 
-664
 
 of Allah, His angels, and those endued with knowledge, standing firm on justice.
 There is no god but He the Exalted in Power, the Wise." (Al Imran 18)
@@ -35610,7 +35584,7 @@ after which he said: "And the two-rak'ah prayer of Forenoon joins or combines
 all of that to you."
 
 
-# The Exposition Of The Difference Of regular divisions According To The Difference Of States
+## The Exposition Of The Difference Of regular divisions According To The Difference Of States
 
 It should be known to you that the seeker after the tilth of the hereafter, who
 follows the way that leads to it, is not independent of sixth states: he might be
@@ -35998,10 +35972,7 @@ upon him". But anyone else could not be compared to him in that respect, as is
 attested by his offering those (rak'ahs) in the home, lest they would imitate him.
 
 
-# CHAPTER TWO:
-
-
-# ON THE FACILITATING WAYS OF STANDING AT NIGHT FOR PRAYER; THE NIGHTS TO WHICH GIVING LIFE BY STANDING IS DESIRABLE; THE EXCELLENCE OF GIVING LIFE TO THE NIGHT AND THE PERIOD BETWEEN BOTH EVENING PRAYERS; AND THE WAY OF DIVIDING NIGHT INTO REGULAR DIVISIONS
+# CHAPTER TWO: ON THE FACILITATING WAYS OF STANDING AT NIGHT FOR PRAYER; THE NIGHTS TO WHICH GIVING LIFE BY STANDING IS DESIRABLE; THE EXCELLENCE OF GIVING LIFE TO THE NIGHT AND THE PERIOD BETWEEN BOTH EVENING PRAYERS; AND THE WAY OF DIVIDING NIGHT INTO REGULAR DIVISIONS
 
 
 ## The Excellence Of Giving Life To The Period Between Both Evening Prayers
@@ -36159,7 +36130,7 @@ said: "But if it is not available to me (what should I choose?)" on that he said
 (Maghrib and Isha')."
 
 
-### The Excellence Of Standing At Night (For Prayer)
+## The Excellence Of Standing At Night (For Prayer)
 
 From amongst the Holy Verses which tell about the excellence of standing at
 night (for offering supererogatory prayers), a mention might be made of the
@@ -36525,7 +36496,7 @@ to be really so is he, who never waits, while standing at night (for supererogat
 prayers) the time of the rooster's crow."
 
 
-### The Exposition Of The Facilitating Causes Of Standing At Night (For Supererogatory Prayers)
+## The Exposition Of The Facilitating Causes Of Standing At Night (For Supererogatory Prayers)
 
 It should be known that standing at night (for supererogatory prayers) is
 difficult upon the people, except for him who is helped by Allah Almighty meet
@@ -37021,7 +36992,7 @@ above, since in no way could the seventh be lesser in degree than the sixth, nor
 could the fifth be lesser in degree than the fourth.
 
 
-### The Exposition Of The Meritorious Nights And Days
+## The Exposition Of The Meritorious Nights And Days
 
 It should be known that from amongst the all nights of the year, there are
 fifteen nights which have a greater excellence, giving life to which is powerfully
@@ -37115,11 +37086,7 @@ servant chosen (by Allah) from all of the worlds.
 <!-- PageBreak -->
 
 
-<figure>
-
-<!-- PageHeader="CONTENTS" -->
-
-</figure>
+# Contents
 
 
 <table>
