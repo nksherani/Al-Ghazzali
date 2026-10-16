@@ -133,14 +133,14 @@ def prompt_for_inputs():
     return selected_path, process_all, start_page, end_page, batch_size
 
 
-def analyze_slice(client, file_path: str, start_page: int, end_page: int, max_retries: int = 3) -> str:
+def analyze_slice(client, file_path: str, start_page: int, end_page: int, model_id: str = "prebuilt-read", max_retries: int = 3) -> str:
     """Slice pages using PyMuPDF and analyze with Azure Document Intelligence."""
     pages_param = f"{start_page}-{end_page}" if start_page != end_page else f"{start_page}"
     is_remote = file_path.startswith("http://") or file_path.startswith("https://")
 
     if is_remote:
         poller = client.begin_analyze_document(
-            model_id="prebuilt-layout",
+            model_id=model_id,
             body=AnalyzeDocumentRequest(url_source=file_path),
             pages=pages_param,
             output_content_format=DocumentContentFormat.MARKDOWN
@@ -165,7 +165,7 @@ def analyze_slice(client, file_path: str, start_page: int, end_page: int, max_re
     for attempt in range(1, max_retries + 1):
         try:
             poller = client.begin_analyze_document(
-                model_id="prebuilt-layout",
+                model_id=model_id,
                 body=pdf_bytes,
                 output_content_format=DocumentContentFormat.MARKDOWN
             )
@@ -217,7 +217,7 @@ def save_checkpoint(checkpoint_dir: Path, b_start: int, b_end: int, content: str
         f.write(content)
 
 
-def assemble_merged_file(out_file: Path, base_name: str, file_path: str, start_page: int, end_page: int, batches: list, checkpoints: dict):
+def assemble_merged_file(out_file: Path, base_name: str, file_path: str, start_page: int, end_page: int, batches: list, checkpoints: dict, model_id: str = "prebuilt-read"):
     """Assemble all completed checkpoint batches into the final markdown file."""
     all_completed = all((b_start, b_end) in checkpoints for b_start, b_end in batches)
     completed_count = sum(1 for b in batches if b in checkpoints)
@@ -227,7 +227,7 @@ def assemble_merged_file(out_file: Path, base_name: str, file_path: str, start_p
         f"- **Source File:** `{Path(file_path).name}`",
         f"- **Target Range:** Pages {start_page} to {end_page}",
         f"- **Status:** {'Complete' if all_completed else f'In progress ({completed_count}/{len(batches)} batches)'}",
-        f"- **Model:** `prebuilt-layout` (Markdown)",
+        f"- **Model:** `{model_id}` (Markdown)",
         "",
         "---",
         ""
@@ -251,6 +251,7 @@ def process_document(
     start_page: int,
     end_page: int,
     batch_size: int = 50,
+    model_id: str = "prebuilt-read",
     fresh: bool = False,
     output_dir: Path = Path("output_markdown")
 ):
@@ -297,6 +298,7 @@ def process_document(
     print(f"\n=======================================================")
     print(f"Azure Document Intelligence Extraction with Resumption")
     print(f"  Source: {file_path}")
+    print(f"  Model: {model_id}")
     print(f"  Pages: {start_page} to {end_page} ({total_to_process} pages)")
     print(f"  Batch size: {batch_size} pages per chunk")
     print(f"  Checkpoint cache: {checkpoint_dir}")
@@ -321,15 +323,15 @@ def process_document(
             print(f"[{idx}/{len(batches)}] Pages {b_start}–{b_end} already processed (skipping from checkpoint)")
             continue
 
-        print(f"[{idx}/{len(batches)}] Processing pages {b_start}–{b_end} via Azure...")
-        batch_md = analyze_slice(client, file_path, b_start, b_end)
+        print(f"[{idx}/{len(batches)}] Processing pages {b_start}–{b_end} via Azure ({model_id})...")
+        batch_md = analyze_slice(client, file_path, b_start, b_end, model_id=model_id)
 
         # 1. Save checkpoint for this batch
         save_checkpoint(checkpoint_dir, b_start, b_end, batch_md)
         checkpoints[(b_start, b_end)] = batch_md
 
         # 2. Update merged output file immediately
-        assemble_merged_file(out_file, base_name, file_path, start_page, end_page, batches, checkpoints)
+        assemble_merged_file(out_file, base_name, file_path, start_page, end_page, batches, checkpoints, model_id=model_id)
 
         print(f"  [✓] Batch {idx} completed, checkpointed, and appended to {out_file.name}")
 
@@ -338,7 +340,7 @@ def process_document(
             time.sleep(1)
 
     # Final assembly to make sure status is set to Complete
-    assemble_merged_file(out_file, base_name, file_path, start_page, end_page, batches, checkpoints)
+    assemble_merged_file(out_file, base_name, file_path, start_page, end_page, batches, checkpoints, model_id=model_id)
 
     elapsed = time.time() - start_time
     print(f"\n=======================================================")
@@ -381,6 +383,11 @@ def main():
         help="Number of pages to slice and send per batch [default: 50, use 2 for Free F0 tier]."
     )
     parser.add_argument(
+        "-m", "--model",
+        default="prebuilt-read",
+        help="Azure Document Intelligence model ID to use [default: prebuilt-read]."
+    )
+    parser.add_argument(
         "--fresh",
         action="store_true",
         help="Ignore existing checkpoints and re-extract all batches from scratch."
@@ -396,6 +403,7 @@ def main():
     if not args.file:
         file_path, process_all, start_page, end_page, batch_size = prompt_for_inputs()
         fresh = False
+        model_id = args.model
     else:
         file_path = args.file
         process_all = args.all or (args.start_page is None and args.end_page is None)
@@ -403,6 +411,7 @@ def main():
         end_page = args.end_page or 1
         batch_size = args.batch_size
         fresh = args.fresh
+        model_id = args.model
 
     output_dir = Path(args.output_dir)
     process_document(
@@ -411,6 +420,7 @@ def main():
         start_page=start_page,
         end_page=end_page,
         batch_size=batch_size,
+        model_id=model_id,
         fresh=fresh,
         output_dir=output_dir
     )

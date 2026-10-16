@@ -14,3 +14,7 @@ wheels/
 .DS_Store
 
 Ihya-ul-uloom
+
+# Document Intelligence checkpoints
+.checkpoints*/
+**/.checkpoints*/
