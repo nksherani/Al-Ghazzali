@@ -2,9 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Digital Khatt IndoPak Unicode font; source marks it free for Islamic use. */
+@font-face {
+  font-family: "IndoPak Naskh";
+  src: url("https://fonts.quran.ws/assets/fonts/digital-khatt-indopak.otf") format("opentype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
 :root {
   --font-serif: "Amiri", "Georgia", "Cambria", serif;
-  --font-arabic: "Amiri", "Scheherazade New", "Traditional Arabic", serif;
+  --font-arabic: "IndoPak Naskh", "Amiri", "Scheherazade New", "Traditional Arabic", serif;
 }
 
 /* Light Theme (Default) */

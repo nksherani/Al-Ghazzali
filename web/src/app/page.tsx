@@ -1,109 +1,80 @@
-import { getAllBooks, volume, getBookDivisions } from "@/lib/book-data";
+import { getAllVolumes, getBookDivisions, getNavigationBooks, getNavigationVolumes } from "@/lib/book-data";
 import { ReaderLayout } from "@/components/ReaderLayout";
 import Link from "next/link";
 
 export default function HomePage() {
-  const books = getAllBooks();
-  const meta = volume.metadata;
+  const volumes = getAllVolumes();
+  const firstVolume = volumes[0];
 
   return (
-    <ReaderLayout books={books} title="Volume 1 Index" subtitle="Ihya' Ulum Ad-Din">
-      <div className="space-y-12">
-        {/* Hero Section */}
+    <ReaderLayout
+      volumes={getNavigationVolumes()}
+      books={getNavigationBooks(1)}
+      volumeNum={1}
+      volumeTitle={firstVolume.metadata.volume_title}
+      title="The complete work"
+      subtitle="Four-volume edition"
+    >
+      <div className="space-y-10">
         <div className="text-center space-y-4 py-8 border-b border-[var(--border-color)]">
           <div className="text-sm uppercase tracking-widest text-[var(--accent-gold)] font-bold font-mono">
-            {meta.author}
+            {firstVolume.metadata.author}
           </div>
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-serif font-bold text-[var(--text-primary)] tracking-tight">
-            {meta.work}
+            {firstVolume.metadata.work}
           </h1>
           <div className="text-2xl sm:text-3xl font-serif text-[var(--accent-gold)] arabic-text py-1" dir="rtl">
-            {meta.work_ar}
+            {firstVolume.metadata.work_ar}
           </div>
           <p className="text-base sm:text-lg text-[var(--text-secondary)] font-serif max-w-2xl mx-auto">
-            Volume 1: {meta.volume_title}
+            Browse the complete four-volume edition.
           </p>
-          <div className="pt-2 flex flex-wrap justify-center gap-3">
-            <Link
-              href="/prelude"
-              className="px-5 py-2.5 rounded-xl bg-[var(--accent-gold)] text-white text-sm font-semibold shadow-sm hover:opacity-95 transition"
-            >
-              Begin Reading: Prelude →
-            </Link>
-            <Link
-              href="/book/book_1/chapter/1"
-              className="px-5 py-2.5 rounded-xl bg-[var(--bg-secondary)] border border-[var(--border-color)] text-[var(--text-primary)] text-sm font-semibold hover:border-[var(--accent-gold)] transition"
-            >
-              Jump to Book One (Knowledge)
-            </Link>
-          </div>
         </div>
 
-        {/* The 10 Books Grid */}
-        <div className="space-y-6">
-          <div className="flex items-center justify-between">
+        <section className="space-y-5">
+          <div className="flex items-center justify-between gap-4">
             <h2 className="text-xl sm:text-2xl font-serif font-bold text-[var(--text-primary)]">
-              Table of Contents (10 Books)
+              Select a volume
             </h2>
-            <span className="text-xs font-mono uppercase text-[var(--text-muted)]">
-              42 Chapters &bull; 130+ Sections
-            </span>
+            <span className="text-xs font-mono uppercase text-[var(--text-muted)]">4 volumes</span>
           </div>
-
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            {books
-              .filter((b) => b.type === "book")
-              .map((b) => {
-                const { type: divType, items } = getBookDivisions(b);
-                const firstHref = items.length > 0 ? `/book/${b.id}/${divType}/${items[0].number}` : "#";
-
-                return (
-                  <div
-                    key={b.id}
-                    className="p-5 rounded-2xl border border-[var(--border-color)] bg-[var(--bg-card)] shadow-xs flex flex-col justify-between hover:border-[var(--accent-gold)] transition"
-                  >
-                    <div>
-                      <div className="flex items-center justify-between text-xs font-mono text-[var(--text-muted)] mb-2">
-                        <span>BOOK {b.book_number}</span>
-                        <span>{items.length} {divType === "part" ? "Parts" : "Chapters"}</span>
-                      </div>
-                      <h3 className="text-lg font-serif font-bold text-[var(--text-primary)] mb-3">
-                        {b.heading}
-                      </h3>
-                      <ul className="text-xs text-[var(--text-secondary)] space-y-1.5 mb-4 max-h-36 overflow-y-auto">
-                        {items.slice(0, 4).map((div) => (
-                          <li key={div.id} className="truncate">
-                            &bull; {div.heading}
-                          </li>
-                        ))}
-                        {items.length > 4 && (
-                          <li className="text-[var(--accent-gold)] font-medium">
-                            + {items.length - 4} more {divType}s...
-                          </li>
-                        )}
-                      </ul>
-                    </div>
-
-                    <Link
-                      href={firstHref}
-                      className="mt-2 text-xs font-semibold text-[var(--accent-gold)] hover:underline inline-flex items-center gap-1"
-                    >
-                      Open Book &rarr;
-                    </Link>
+            {volumes.map((volume) => {
+              const books = volume.books.filter((book) => book.type === "book");
+              const divisions = books.reduce(
+                (count, book) => count + getBookDivisions(book).items.length,
+                0
+              );
+              return (
+                <Link
+                  key={volume.metadata.volume}
+                  href={`/volume/${volume.metadata.volume}`}
+                  className="p-6 rounded-2xl border border-[var(--border-color)] bg-[var(--bg-card)] shadow-xs hover:border-[var(--accent-gold)] transition"
+                >
+                  <div className="text-xs font-mono uppercase tracking-wider text-[var(--accent-gold)] mb-2">
+                    Volume {volume.metadata.volume}
                   </div>
-                );
-              })}
+                  <h3 className="text-xl font-serif font-bold text-[var(--text-primary)]">
+                    {volume.metadata.volume_title}
+                  </h3>
+                  <p className="mt-3 text-sm text-[var(--text-secondary)]">
+                    {books.length} books · {divisions} chapters and parts
+                  </p>
+                  <span className="mt-5 inline-flex text-sm font-semibold text-[var(--accent-gold)]">
+                    Browse volume →
+                  </span>
+                </Link>
+              );
+            })}
           </div>
-        </div>
+        </section>
 
-        {/* Publication info */}
         <div className="p-6 rounded-2xl bg-[var(--bg-secondary)] border border-[var(--border-color)] text-xs text-[var(--text-secondary)] space-y-2">
           <div className="font-bold text-[var(--text-primary)] uppercase tracking-wider text-[11px] font-mono">
             Publication Details
           </div>
-          <p><strong>Translator:</strong> {meta.translator}</p>
-          <p><strong>Publisher:</strong> {meta.publisher}</p>
-          <p><strong>Authentic Quran Text:</strong> Cross-referenced and verified against Uthmani scripture.</p>
+          <p><strong>Translator:</strong> {firstVolume.metadata.translator}</p>
+          <p><strong>Publisher:</strong> {firstVolume.metadata.publisher}</p>
         </div>
       </div>
     </ReaderLayout>

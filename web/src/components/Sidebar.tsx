@@ -3,21 +3,24 @@
 import React, { useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Book, getBookDivisions } from "@/lib/book-data";
+import type { NavigationBook, NavigationVolume } from "@/lib/reader-navigation";
 
 interface SidebarProps {
-  books: Book[];
+  books: NavigationBook[];
+  volumes: NavigationVolume[];
+  volumeNum: number;
+  volumeTitle: string;
   isOpen: boolean;
   onClose: () => void;
 }
 
-export function Sidebar({ books, isOpen, onClose }: SidebarProps) {
+export function Sidebar({ books, volumes, volumeNum, volumeTitle, isOpen, onClose }: SidebarProps) {
   const pathname = usePathname();
   const [expandedBooks, setExpandedBooks] = useState<Record<string, boolean>>(() => {
     // Auto-expand the currently viewed book
     const initial: Record<string, boolean> = {};
     for (const b of books) {
-      if (pathname.includes(`/book/${b.id}`)) {
+      if (pathname.includes(`/volume/${volumeNum}/book/${b.id}`)) {
         initial[b.id] = true;
       }
     }
@@ -80,29 +83,50 @@ export function Sidebar({ books, isOpen, onClose }: SidebarProps) {
             🏛️ <span>Overview & Index</span>
           </Link>
 
+          <div className="pt-3 pb-1 px-3 text-xs font-semibold uppercase tracking-wider text-[var(--text-muted)]">
+            Volumes
+          </div>
+          <div className="grid grid-cols-2 gap-1 px-2 pb-2">
+            {volumes.map((volume) => (
+              <Link
+                key={volume.volumeNum}
+                href={`/volume/${volume.volumeNum}`}
+                onClick={onClose}
+                className={`rounded-md px-2 py-1.5 text-center text-xs transition ${
+                  volume.volumeNum === volumeNum
+                    ? "bg-[var(--accent-gold-bg)] text-[var(--accent-gold)] font-semibold"
+                    : "text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)]"
+                }`}
+              >
+                Volume {volume.volumeNum}
+              </Link>
+            ))}
+          </div>
+
           {/* Prelude Link */}
-          <Link
-            href="/prelude"
-            onClick={onClose}
-            className={`flex items-center gap-2 px-3 py-2 rounded-lg transition ${
-              pathname === "/prelude"
-                ? "bg-[var(--accent-gold-bg)] text-[var(--accent-gold)] font-semibold"
-                : "text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)]"
-            }`}
-          >
-            📜 <span>Prelude (Author&apos;s Intro)</span>
-          </Link>
+          {books.some((book) => book.type === "prelude") && (
+            <Link
+              href={`/volume/${volumeNum}/prelude`}
+              onClick={onClose}
+              className={`flex items-center gap-2 px-3 py-2 rounded-lg transition ${
+                pathname === `/volume/${volumeNum}/prelude`
+                  ? "bg-[var(--accent-gold-bg)] text-[var(--accent-gold)] font-semibold"
+                  : "text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)]"
+              }`}
+            >
+              📜 <span>Prelude (Author&apos;s Intro)</span>
+            </Link>
+          )}
 
           <div className="pt-3 pb-1 px-3 text-xs font-semibold uppercase tracking-wider text-[var(--text-muted)]">
-            Volume 1: The 10 Books
+            Volume {volumeNum}: {volumeTitle}
           </div>
 
           {books
             .filter((b) => b.type === "book")
             .map((b) => {
-              const { type: divType, items } = getBookDivisions(b);
               const isExpanded = expandedBooks[b.id] ?? false;
-              const isCurrentBook = pathname.includes(`/book/${b.id}`);
+              const isCurrentBook = pathname.includes(`/volume/${volumeNum}/book/${b.id}`);
 
               return (
                 <div key={b.id} className="rounded-lg overflow-hidden">
@@ -123,10 +147,10 @@ export function Sidebar({ books, isOpen, onClose }: SidebarProps) {
                   </button>
 
                   {/* Sub-divisions (Chapters / Parts) */}
-                  {isExpanded && items.length > 0 && (
+                  {isExpanded && b.divisions.length > 0 && (
                     <div className="pl-4 pr-1 py-1 space-y-0.5 border-l-2 border-[var(--border-color)] ml-3 my-1">
-                      {items.map((div) => {
-                        const href = `/book/${b.id}/${divType}/${div.number}`;
+                      {b.divisions.map((div) => {
+                        const href = `/volume/${volumeNum}/book/${b.id}/${div.type}/${div.number}`;
                         const isActive = pathname === href;
 
                         return (

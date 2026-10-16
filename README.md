@@ -234,3 +234,7 @@ npm install
 npm run dev        # Development server on http://localhost:3000
 npm run build      # Pre-renders all 47 pages and outputs static HTML to web/out/
 ```
+
+## React Native Mobile Reader (`mobile/`)
+
+A bare React Native app for iOS and Android is under development. See [mobile/README.md](mobile/README.md) for setup instructions, current features, and the content distribution rights gate.

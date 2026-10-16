@@ -1,19 +1,22 @@
 "use client";
 
 import React, { useState } from "react";
-import { Book } from "@/lib/book-data";
+import type { NavigationBook, NavigationVolume } from "@/lib/reader-navigation";
 import { Sidebar } from "./Sidebar";
 import { ReaderControls } from "./ReaderControls";
 import Link from "next/link";
 
 interface ReaderLayoutProps {
-  books: Book[];
+  books: NavigationBook[];
+  volumes: NavigationVolume[];
+  volumeNum: number;
+  volumeTitle: string;
   children: React.ReactNode;
   title?: string;
   subtitle?: string;
 }
 
-export function ReaderLayout({ books, children, title, subtitle }: ReaderLayoutProps) {
+export function ReaderLayout({ books, volumes, volumeNum, volumeTitle, children, title, subtitle }: ReaderLayoutProps) {
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [fontSize, setFontSize] = useState(18);
 
@@ -31,10 +34,10 @@ export function ReaderLayout({ books, children, title, subtitle }: ReaderLayoutP
           </button>
           <Link href="/" className="flex flex-col">
             <span className="text-xs uppercase tracking-wider text-[var(--accent-gold)] font-bold font-mono">
-              Volume 1
+              Volume {volumeNum}
             </span>
             <span className="text-sm font-semibold text-[var(--text-primary)] hidden sm:inline">
-              Acts of Worship
+              {volumeTitle}
             </span>
           </Link>
         </div>
@@ -53,7 +56,7 @@ export function ReaderLayout({ books, children, title, subtitle }: ReaderLayoutP
 
       {/* Main Container with Sidebar */}
       <div className="flex-1 flex">
-        <Sidebar books={books} isOpen={sidebarOpen} onClose={() => setSidebarOpen(false)} />
+        <Sidebar books={books} volumes={volumes} volumeNum={volumeNum} volumeTitle={volumeTitle} isOpen={sidebarOpen} onClose={() => setSidebarOpen(false)} />
 
         {/* Main Content Area */}
         <main className="flex-1 lg:pl-80 flex flex-col items-center">

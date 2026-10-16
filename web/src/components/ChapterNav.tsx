@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { NavLink } from "@/lib/book-data";
+import type { NavLink } from "@/lib/reader-navigation";
 
 interface ChapterNavProps {
   prev: NavLink | null;

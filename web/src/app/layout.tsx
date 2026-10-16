@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Ihya' Ulum Ad-Din | Imam Al-Ghazali (Volume 1)",
+  title: "Ihya' Ulum Ad-Din | Imam Al-Ghazali",
   description:
-    "Interactive reader for Revival of the Religious Sciences (Ihya' Ulum Ad-Din) by Imam Abu Hamid al-Ghazali. Volume 1: The Quarter of the Acts of Worship.",
+    "Interactive reader for the four-volume Revival of the Religious Sciences (Ihya' Ulum Ad-Din) by Imam Abu Hamid al-Ghazali.",
 };
 
 export default function RootLayout({
